@@ -1,0 +1,817 @@
+1. Pediatr Dermatol. 2025 Mar-Apr;42(2):259-266. doi: 10.1111/pde.15807. Epub
+2024  Nov 11.
+
+Food Allergy Test-Guided Dietary Advice for Children With Atopic Dermatitis: A 
+Consensus Study.
+
+Garside L(1), Boyle R(2), Meyer R(3)(4), Skypala I(5), Allen H(6), Beattie P(7), 
+Dempsey J(8), Doyle M(9), Evans-Howells H(10), Feeney M(1)(11), Ludman S(12), 
+Marrs T(5), Ravenscroft J(13), Stiefel G(14), Umasunthar T(15), Vyas D(16), 
+Yerlett N(17), Walsh J(18), Brown SJ(19), Ridd MJ(1).
+
+Author information:
+(1)Centre for Applied Excellence in Skin & Allergy Research, University of 
+Bristol, Bristol, UK.
+(2)National Heart and Lung Institute, Imperial College London, London, UK.
+(3)Winchester University, Winchester, UK.
+(4)KU Leuven, Leuven, Belgium.
+(5)Guy's and St Thomas' NHS Foundation Trust, London, UK.
+(6)Imperial College London, London, UK.
+(7)Royal Hospital for Children, Glasgow, UK.
+(8)Imperial College Healthcare NHS Trust, London, UK.
+(9)Jersey Allergy Clinic, St Lawrence, Jersey, UK.
+(10)Dr Helen Allergy, Bournemouth, UK.
+(11)King's College London, London, UK.
+(12)Royal Devon University Healthcare NHS Foundation Trust, Exeter, UK.
+(13)Nottingham University Hospitals NHS Trust, Nottingham, UK.
+(14)University Hospitals of Leicester NHS Trust, Leicester, UK.
+(15)Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+(16)West Hertfordshire Hospitals NHS Trust, Watford, UK.
+(17)Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK.
+(18)Castle Partnership, Norwich, UK.
+(19)University of Edinburgh, Edinburgh, UK.
+
+BACKGROUND: The use of blood specific IgE or skin prick tests (SPT) to guide 
+dietary exclusions for disease control in children with atopic dermatitis (AD) 
+is controversial. We undertook a consensus exercise on how to interpret SPT 
+results and dietary history for cow's milk, hen's egg, wheat, and soy in 
+children < 2 years old with AD.
+METHODS: Fourteen clinicians from general practice, pediatrics, pediatric 
+dermatology, pediatric allergy, and pediatric dietetics from UK and Ireland took 
+part in an online modified Delphi study. Over three rounds, participants gave 
+their anonymous opinions and received individualized and group feedback, based 
+on the premise that all children had SPTs. The findings were discussed in an 
+online workshop.
+RESULTS: Of 18 symptoms, 12 were identified as relevant to immediate and 7 to 
+delayed allergy. Regarding SPTs, there was consensus over which allergens to use 
+for wheat and soy but not cow's milk or hen's egg; for all study foods, wheal 
+size was determined as 0-1 mm negative, ≥ 5 mm sensitized, but between 2 and 
+4 mm, categorization varied by food. During the final workshop, consensus was 
+reached on dietary advice for nine combinations of SPT results and dietary 
+history.
+CONCLUSION: We attained consensus on how SPTs and dietary history for four 
+common food allergens should be interpreted in young children under 2 years of 
+age with AD. These pragmatic recommendations may support clinician education, 
+consistency of decision-making, and future research.
+
+© 2024 The Author(s). Pediatric Dermatology published by Wiley Periodicals LLC.
+
+DOI: 10.1111/pde.15807
+PMCID: PMC11950804
+PMID: 39528241 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.W. has sat on clinical advisory panels to 
+Allergy UK and Anaphylaxis UK. G.S. acts as Trustee to Allergy UK, contributed 
+to an educational video on atopic dermatitis with Sanofi and is Principal 
+Investigator for NARF study. R.M. is on the advisory panel of CoMISS supported 
+by Nestle Health Science, has provided consultancy to Else Nutrition, and 
+received honoraria for lectures from Nutricia/Danone, Abbott, and Reckitt 
+Benckiser. I.S. has received honoraria for lectures from ThermoFisher, Royal 
+College of GPs, TouchiME. M.J.R. is chief investigator on the TIGER (Trial of 
+IgE food allergy tests for Eczema Relief) study (NIHR133464). S.J.B. has 
+received research funding (but no personal financial benefits) from the Wellcome 
+Trust (220875/Z/20/Z), UKRI, Medical Research Council, Rosetrees Trust, 
+Stoneygates Trust, British Skin Foundation, Charles Wolfson Charitable Trust, 
+anonymous donations from people with eczema, Unilever, Pfizer, Abbvie, 
+Sosei‐Heptares, Janssen, European Lead Factory (multiple industry partners) and 
+the BIOMAP consortium (EC‐IMI project ref. No 821511).
+
+
+2. Allergy. 2024 Feb;79(2):324-352. doi: 10.1111/all.15939. Epub 2023 Nov 27.
+
+Systematic review and meta-analyses on the accuracy of diagnostic tests for 
+IgE-mediated food allergy.
+
+Riggioni C(1)(2), Ricci C(3), Moya B(4)(5), Wong D(6), van Goor E(6)(7), Bartha 
+I(6)(8), Buyuktiryaki B(9), Giovannini M(10)(11), Jayasinghe S(6), Jaumdally 
+H(6)(12), Marques-Mejias A(6)(8), Piletta-Zanin A(13), Berbenyuk A(14), Andreeva 
+M(14), Levina D(14), Iakovleva E(14), Roberts G(15)(16)(17), Chu D(18), Peters 
+R(19)(20), du Toit G(6)(8), Skypala I(21)(22), Santos AF(6)(8)(12).
+
+Author information:
+(1)Department of Paediatrics, Yong Loo Lin School of Medicine, National 
+University of Singapore, Singapore City, Singapore.
+(2)Khoo Teck Puat-National University Children's Medical Institute, National 
+University Hospital, National University Health System, Singapore City, 
+Singapore.
+(3)Africa Unit for Transdisciplinary Health Research (AUTHeR), North-WEst 
+University, Potchefstroom, South Africa.
+(4)Department of Allergy, Hospital Universitario 12 de Octubre, Madrid, Spain.
+(5)Instituto de Investigación Sanitaria, Hospital 12 de Octubre (imas12), 
+Madrid, Spain.
+(6)Department of Women and Children's Health, School of Life Course Sciences, 
+Faculty of Life Sciences and Medicine, King's College London, London, UK.
+(7)Elkerliek Hospital, Helmond, The Netherlands.
+(8)Children's Allergy Service, Evelina London Children's Hospital, Guy's and St 
+Thomas' Hospital, London, UK.
+(9)Division of Pediatric Allergy, Department of Pediatrics, Koc University 
+School of Medicine, Istanbul, Turkey.
+(10)Allergy Unit, Meyer Children's Hospital IRCCS, Florence, Italy.
+(11)Department of Health Sciences, University of Florence, Florence, Italy.
+(12)Peter Gorer Department of Immunobiology, School of Immunology and Microbial 
+Sciences, King's College London, London, UK.
+(13)Division of Pediatric Specialties, Department of Women, Children and 
+Adolescents, Geneva University Hospitals, Geneva, Switzerland.
+(14)Department of Paediatrics and Paediatric Infectious Diseases, Institute of 
+Child's Health, Sechenov First Moscow State Medical University (Sechenov 
+University), Moscow, Russia.
+(15)Clinical and Experimental Sciences and Human Development in Health, Faculty 
+of Medicine, University of Southampton, Southampton, UK.
+(16)NIHR Southampton Biomedical Research Centre, University Hospital Southampton 
+NHS Foundation Trust, Southampton, UK.
+(17)The David Hide Asthma and Allergy Research Centre, St Mary's Hospital, 
+Newport, UK.
+(18)Department of Medicine, McMaster University, Hamilton, Ontario, Canada.
+(19)Murdoch Children's Research Institute Melbourne, Melbourne, Victoria, 
+Australia.
+(20)Department of Paediatrics, University of Melbourne, Melbourne, Victoria, 
+Australia.
+(21)National Heart & Lung Institute, Imperial College London, London, UK.
+(22)Department of Allergy & Clinical Immunology, Royal Brompton & Harefield NHS 
+Foundation Trust, London, UK.
+
+The European Academy of Allergy and Clinical Immunology (EAACI) is updating the 
+Guidelines on Food Allergy Diagnosis. We aimed to undertake a systematic review 
+of the literature with meta-analyses to assess the accuracy of diagnostic tests 
+for IgE-mediated food allergy. We searched three databases (Cochrane CENTRAL 
+(Trials), MEDLINE (OVID) and Embase (OVID)) for diagnostic test accuracy studies 
+published between 1 October 2012 and 30 June 2021 according to a previously 
+published protocol (CRD42021259186). We independently screened abstracts, 
+extracted data from full texts and assessed risk of bias with QUADRAS 2 tool in 
+duplicate. Meta-analyses were undertaken for food-test combinations for which 
+three or more studies were available. A total of 149 studies comprising 24,489 
+patients met the inclusion criteria and they were generally heterogeneous. 60.4% 
+of studies were in children ≤12 years of age, 54.3% were undertaken in Europe, 
+≥95% were conducted in a specialized paediatric or allergy clinical setting and 
+all included oral food challenge in at least a percentage of enrolled patients, 
+in 21.5% double-blind placebo-controlled food challenges. Skin prick test (SPT) 
+with fresh cow's milk and raw egg had high sensitivity (90% and 94%) for milk 
+and cooked egg allergies. Specific IgE (sIgE) to individual components had high 
+specificity: Ara h 2-sIgE had 92%, Cor a 14-sIgE 95%, Ana o 3-sIgE 94%, 
+casein-sIgE 93%, ovomucoid-sIgE 92/91% for the diagnosis of peanut, hazelnut, 
+cashew, cow's milk and raw/cooked egg allergies, respectively. The basophil 
+activation test (BAT) was highly specific for the diagnosis of peanut (90%) and 
+sesame (93%) allergies. In conclusion, SPT and specific IgE to extracts had high 
+sensitivity whereas specific IgE to components and BAT had high specificity to 
+support the diagnosis of individual food allergies.
+
+© 2023 The Authors. Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.15939
+PMID: 38009299 [Indexed for MEDLINE]
+
+
+3. Clin Exp Pediatr. 2024 Mar;67(3):140-148. doi: 10.3345/cep.2023.00234. Epub
+2023  Jun 19.
+
+Practical issues of oral immunotherapy for egg or milk allergy.
+
+Kim S(1), Ahn K(2)(3), Kim J(2)(3).
+
+Author information:
+(1)Department of Pediatrics, Hallym University Dongtan Sacred Heart Hospital, 
+Hallym University School of Medicine, Hwaseong, Korea.
+(2)Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University 
+School of Medicine, Seoul, Korea.
+(3)Department of Health Sciences and Technology, Samsung Advanced Institute for 
+Health Sciences & Technology, Seoul, Korea.
+
+Comment in
+    Clin Exp Pediatr. 2024 Apr;67(4):201-202. doi: 10.3345/cep.2023.01123.
+
+Oral immunotherapy (OIT) has been recommended to reduce parental burden related 
+to strict allergen avoidance and induce desensitization and immune tolerance for 
+patients with long-lasting allergies to hen's eggs (HE) or cow's milk (CM). OIT 
+should be monitored by pediatric allergists specializing in OIT and oral food 
+challenge tests to manage allergic reactions. Although a previous history of 
+anaphylaxis or multiple food allergies is not a contraindication to OIT, it is 
+contraindicated if the patient has uncontrolled asthma, a malignancy, active 
+systemic autoimmune disorders, or diseases requiring treatment with 
+beta-blockers. A variety of OIT protocols have been de veloped to ensure better 
+outcomes and safe up-dosing, including adjunctive therapies with biologics. This 
+review provides insight into the practical issues of various immunotherapy 
+options for children with HE or CM allergies.
+
+DOI: 10.3345/cep.2023.00234
+PMCID: PMC10915454
+PMID: 37350169
+
+Conflict of interest statement: Conflicts of interest The authors have no 
+conflicts of interest to declare.
+
+
+4. Clin Sci (Lond). 2023 Apr 26;137(8):617-631. doi: 10.1042/CS20220642.
+
+Repetitive schistosoma exposure causes perivascular lung fibrosis and persistent 
+pulmonary hypertension.
+
+Kumar R(1)(2), Lee MH(1)(2), Kassa B(1)(2), Fonseca Balladares DC(1)(2), Mickael 
+C(3), Sanders L(3), Andruska A(4), Kumar M(5), Spiekerkoetter E(4), Bandeira 
+A(6), Stenmark KR(7), Tuder RM(3), Graham BB(1)(2).
+
+Author information:
+(1)Department of Medicine, Division of Pulmonary and Critical Care Medicine, 
+University of California San Francisco, San Francisco, California, U.S.A.
+(2)Lung Biology Center, Zuckerberg San Francisco General Hospital, San 
+Francisco, California, U.S.A.
+(3)Department of Medicine, Division of Pulmonary Sciences and Critical Care 
+Medicine, University of Colorado Anschutz Medical Campus, Aurora, CO, U.S.A.
+(4)Department of Medicine, Division of Pulmonary, Allergy and Critical Care 
+Medicine, Stanford University, Palo Alto, CA, U.S.A.
+(5)Department of Pediatrics, Division of Pulmonary Medicine, Stanford 
+University, Palo Alto, CA, U.S.A.
+(6)PROCAPE, Universidade de Pernambuco, Recife, Pernambuco, Brazil.
+(7)Department of Pediatrics, University of Colorado Anschutz Medical Campus, 
+Aurora, CO, U.S.A.
+
+BACKGROUND: Pulmonary hypertension (PH) can occur as a complication of 
+schistosomiasis. In humans, schistosomiasis-PH persists despite antihelminthic 
+therapy and parasite eradication. We hypothesized that persistent disease arises 
+as a consequence of exposure repetition.
+METHODS: Following intraperitoneal sensitization, mice were experimentally 
+exposed to Schistosoma eggs by intravenous injection, either once or three times 
+repeatedly. The phenotype was characterized by right heart catheterization and 
+tissue analysis.
+RESULTS: Following intraperitoneal sensitization, a single intravenous 
+Schistosoma egg exposure resulted in a PH phenotype that peaked at 7-14 days, 
+followed by spontaneous resolution. Three sequential exposures resulted in a 
+persistent PH phenotype. Inflammatory cytokines were not significantly different 
+between mice exposed to one or three egg doses, but there was an increase in 
+perivascular fibrosis in those who received three egg doses. Significant 
+perivascular fibrosis was also observed in autopsy specimens from patients who 
+died of this condition.
+CONCLUSIONS: Repeatedly exposing mice to schistosomiasis causes a persistent PH 
+phenotype, accompanied by perivascular fibrosis. Perivascular fibrosis may 
+contribute to the persistent schistosomiasis-PH observed in humans with this 
+disease.
+
+© 2023 The Author(s).
+
+DOI: 10.1042/CS20220642
+PMCID: PMC10133871
+PMID: 37014925 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no competing 
+interests associated with the manuscript.
+
+
+5. Acta Paediatr. 2023 Jul;112(7):1485-1492. doi: 10.1111/apa.16763. Epub 2023
+Mar  28.
+
+Infants were introduced to complementary feeding earlier in 2018 compared with 
+2003.
+
+Strömberg Celind F(1)(2), Goksör E(1), Carlén E(1), Schilling B(1), Alm B(1), 
+Wennergren G(1).
+
+Author information:
+(1)Department of Paediatrics, University of Gothenburg, Queen Silvia Children's 
+Hospital, Gothenburg, Sweden.
+(2)Region Västra Götaland, Research and Development Primary Health Care and 
+Mölndal Pediatric Clinic, Gothenburg, Sweden.
+
+AIM: Until 2001, the Swedish advice was to postpone the introduction of eggs, 
+fish and peanuts until the age of 1 year. One reason was to reduce the risk of 
+food allergy. The earlier introduction of complementary feeding is now advised. 
+Our aim was to study adherence to current recommendations and whether the time 
+of introduction changed between 2003 and 2018.
+METHODS: Data were obtained from two prospective, longitudinal, population-based 
+cohort studies of children born in 2003 (n = 4987) and in 2018 (n = 3936). 
+Parents answered comparable questionnaires when the children were 6 and 
+12 months old.
+RESULTS: At 6 months, in the 2018 cohort, eggs were introduced to 67.2% of the 
+infants, fish to 78.9%, gluten to 89.1%, cow's milk to 76.6% and peanuts to 
+46.2%. In adjusted Cox regression analyses, introduction of complementary 
+feeding with gluten, fish and eggs was made significantly earlier in the 2018 
+cohort compared with the 2003 cohort, adjusted for heredity, own allergic 
+disease and parental educational level (p < 0.01).
+CONCLUSION: Complementary feeding with eggs, fish and gluten was introduced 
+earlier in infants born in 2018 compared with 2003, possibly reducing the risk 
+of developing allergic disease. Current recommendations from child welfare 
+centres are being followed.
+
+© 2023 The Authors. Acta Paediatrica published by John Wiley & Sons Ltd on 
+behalf of Foundation Acta Paediatrica.
+
+DOI: 10.1111/apa.16763
+PMID: 36938913 [Indexed for MEDLINE]
+
+
+6. Nutrients. 2022 Feb 9;14(4):737. doi: 10.3390/nu14040737.
+
+Early Introduction of Multi-Allergen Mixture for Prevention of Food Allergy: 
+Pilot Study.
+
+Quake AZ(1), Liu TA(1), D'Souza R(1), Jackson KG(1), Woch M(1), Tetteh A(1), 
+Sampath V(1), Nadeau KC(1), Sindher S(1), Chinthrajah RS(1), Cao S(1).
+
+Author information:
+(1)Department of Medicine, Division of Pulmonary, Allergy and Critical Care 
+Medicine, Sean N. Parker Center for Allergy and Asthma Research at Stanford 
+University, Stanford, CA 94304, USA.
+
+Erratum in
+    Nutrients. 2022 Dec 28;15(1):135. doi: 10.3390/nu15010135.
+
+The incidence and prevalence of food allergy (FA) is increasing. While several 
+studies have established the safety and efficacy of early introduction of single 
+allergens in infants for the prevention of FA, the exact dose, frequency, and 
+number of allergens that can be safely introduced to infants, particularly in 
+those at high or low risk of atopy, are still unclear. This 1-year pilot study 
+evaluated the safety of the early introduction of single foods (milk, egg, or 
+peanut) vs. two foods (milk/egg, egg/peanut, milk/peanut) vs. multiple foods 
+(milk/egg/peanut/cashew/almond/shrimp/walnut/wheat/salmon/hazelnut at low, 
+medium, or high doses) vs. no early introduction in 180 infants between 4-6 
+months of age. At the end of the study, they were evaluated for plasma 
+biomarkers associated with food reactivity via standardized blood tests. Two to 
+four years after the start of the study, participants were evaluated by 
+standardized food challenges. The serving sizes for the single, double, and low 
+dose mixtures were 300 mg total protein per day. The serving sizes for the 
+medium and high dose mixtures were 900 mg and 3000 mg total protein, 
+respectively. Equal parts of each protein were used for double or mixture foods. 
+All infants were breastfed until at least six months of age. The results 
+demonstrate that infants at either high or low risk for atopy were able to 
+tolerate the early introduction of multiple allergenic foods with no increases 
+in any safety issues, including eczema, FA, or food protein induced 
+enterocolitis. The mixtures of foods at either low, medium, or high doses 
+demonstrated trends for improvement in food challenge reactivity and plasma 
+biomarkers compared to single and double food introductions. The results of this 
+study suggest that the early introduction of foods, particularly simultaneous 
+mixtures of many allergenic foods, may be safe and efficacious for preventing FA 
+and can occur safely. These results need to be confirmed by larger randomized 
+controlled studies.
+
+DOI: 10.3390/nu14040737
+PMCID: PMC8879339
+PMID: 35215387 [Indexed for MEDLINE]
+
+Conflict of interest statement: Sindher reports grants from NIH, Regeneron, DBV, 
+AIMMUNE, Novartis, CoFAR, and FARE. She receives personal fees from Astra 
+Zeneca, DBV, and honoraria from FARE. Chinthrajah reports grants from NIAID, 
+CoFAR, Aimmune, DBV Technologies, Astellas, Regeneron, Stanford Maternal and 
+Child Health Research Institute (MCHRI), and FARE. She is an Advisory Board 
+Member at Alladapt Therapeutics, Novartis, Genentech, Sanofi, Allergenis, and 
+Nutricia. Nadeau reports grants from National Institute of Allergy and 
+Infectious Diseases (NIAID), National Heart, Lung, and Blood Institute (NHLBI), 
+National Institute of Environmental Health Sciences (NIEHS), and Food Allergy 
+Research & Education (FARE); stock options from IgGenix, Seed Health, 
+ClostraBio, and ImmuneID; is Director of World Allergy Organization (WAO), 
+Advisor at Cour Pharma, Consultant for Excellergy, Red tree ventures, Eli Lilly, 
+and Phylaxis, Co-founder of Before Brands, Alladapt, Latitude, and IgGenix; and 
+National Scientific Committee member at Immune Tolerance Network (ITN), and 
+National Institutes of Health (NIH) clinical research centers, outside the 
+submitted work; patents include, “Mixed allergen composition and methods for 
+using the same”, “Granulocyte-based methods for detecting and monitoring immune 
+system disorders”, “Methods and Assays for Detecting and Quantifying Pure 
+Subpopulations of White Blood Cells in Immune System Disorders,” and “Methods of 
+isolating allergen-specific antibodies from humans and uses thereof.” All other 
+authors indicated no Conflict of Interest.
+
+
+7. J Allergy Clin Immunol Pract. 2022 May;10(5):1312-1324.e8. doi: 
+10.1016/j.jaip.2022.01.028. Epub 2022 Feb 2.
+
+Food Proteins in Human Breast Milk and Probability of IgE-Mediated Allergic 
+Reaction in Children During Breastfeeding: A Systematic Review.
+
+Gamirova A(1), Berbenyuk A(1), Levina D(1), Peshko D(1), Simpson MR(2), Azad 
+MB(3), Järvinen KM(4), Brough HA(5), Genuneit J(6), Greenhawt M(7), Verhasselt 
+V(8), Peroni DG(9), Perkin MR(10), Warner JO(11), Palmer DJ(12), Boyle RJ(13), 
+Munblit D(14).
+
+Author information:
+(1)Department of Paediatrics and Paediatric Infectious Diseases, Institute of 
+Child's Health, Sechenov First Moscow State Medical University (Sechenov 
+University), Moscow, Russia.
+(2)Department of Public Health and Nursing, Norwegian University of Science and 
+Technology, Trondheim, Norway; Clinic of Laboratory Medicine, St Olavs Hospital, 
+Trondheim, Norway.
+(3)Manitoba Interdisciplinary Lactation Centre (MILC), Children's Hospital 
+Research Institute of Manitoba, Department of Pediatrics and Child Health, 
+University of Manitoba, Winnipeg, MB, Canada.
+(4)Division of Pediatric Allergy and Immunology & Center for Food Allergy, 
+University of Rochester School of Medicine and Dentistry, Rochester, NY.
+(5)Children's Allergy Service, Evelina Children's Hospital, Guy's and St. 
+Thomas' Hospital, London, United Kingdom; Paediatric Allergy Group, Department 
+of Women and Children's Health, School of Life Course Sciences, King's College 
+London, London, United Kingdom.
+(6)Pediatric Epidemiology, Department of Pediatrics, Medical Faculty, Leipzig 
+University, Leipzig, Germany.
+(7)Department of Pediatrics, Section of Allergy/Immunology, Food Challenge and 
+Research Unit, Children's Hospital Colorado, University of Colorado School of 
+Medicine, Aurora, Colo.
+(8)School of Molecular Sciences, University of Western Australia, Perth, WA, 
+Australia.
+(9)Department of Clinical and Experimental Medicine, Section of Paediatrics, 
+University of Pisa, Pisa, Italy.
+(10)The Population Health Research Institute, St George's, University of London, 
+London, United Kingdom.
+(11)National Institute for Health Research, Collaboration for Leadership in 
+Applied Health Research and Care for NW London, London, United Kingdom; 
+Department of Paediatrics, Imperial College London, London, United Kingdom.
+(12)School of Medicine, University of Western Australia, Crawley, WA, Australia; 
+Telethon Kids Institute, University of Western Australia, Nedlands, WA, 
+Australia.
+(13)Inflammation, Repair and Development Section, National Heart and Lung 
+Institute, Faculty of Medicine, Imperial College London, London, United Kingdom.
+(14)Department of Paediatrics and Paediatric Infectious Diseases, Institute of 
+Child's Health, Sechenov First Moscow State Medical University (Sechenov 
+University), Moscow, Russia. Electronic address: 
+daniel.munblit08@imperial.ac.uk.
+
+BACKGROUND: Previous reports suggested that food proteins present in human milk 
+(HM) may trigger symptoms in allergic children during breastfeeding, but 
+existing evidence has never been reviewed systematically.
+OBJECTIVE: To assess the probability of food proteins in HM to trigger allergic 
+reactions in infants with IgE-mediated food allergy.
+METHODS: Electronic bibliographic databases (MEDLINE, EMBASE) were 
+systematically searched from inception to November 3, 2021. The data regarding 
+the levels of food proteins detected in HM were extracted and compared with data 
+from the Voluntary Incidental Trace Allergen Labelling (VITAL 3.0) guide to 
+assess the probability of food-allergic individuals to experience immediate type 
+allergic reactions on ingesting HM.
+RESULTS: A total of 32 studies were identified. Fourteen studies assessed 
+excretion of cow's milk proteins into HM, 9 egg, 4 peanut, and 2 wheat; 3 
+measured levels of cow's milk and egg proteins simultaneously. We found that 
+levels of all food proteins across the studies were much lower than the 
+eliciting dose for 1% of allergic individuals (ED01) in most of the samples. The 
+probability of an IgE-mediated allergic reaction in a food-allergic infant 
+breastfed by a woman consuming the relevant food can be estimated as ≤1:1000 for 
+cow's milk, egg, peanut, and wheat.
+CONCLUSIONS: To our knowledge, this is the first systematic review that assesses 
+and summarizes evidence on food proteins in HM and potential for IgE-mediated 
+allergic reactions. Our data suggest that the probability of IgE-mediated 
+allergic reactions to food proteins in HM is low.
+
+Copyright © 2022 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2022.01.028
+PMID: 35123103 [Indexed for MEDLINE]
+
+
+8. Clin Exp Allergy. 2022 May;52(5):646-657. doi: 10.1111/cea.14103. Epub 2022
+Feb  10.
+
+Early-life predictors and risk factors of peanut allergy, and its association 
+with asthma in later-life: Population-based birth cohort study.
+
+Kotsapas C(1), Nicolaou N(2)(3), Haider S(1), Kerry G(3), Turner PJ(1), Murray 
+CS(3), Simpson A(3), Custovic A(1).
+
+Author information:
+(1)National Heart and Lung Institute, Imperial College London, London, UK.
+(2)University of Nicosia Medical School, Nicosia, Cyprus.
+(3)Division of Infection, Immunity and Respiratory Medicine, School of 
+Biological Sciences, Faculty of Biology, Medicine and Health, University of 
+Manchester, and Manchester Academic Health Science Centre and NIHR Biomedical 
+Research Centre, Manchester University Hospitals NHS Foundation Trust, 
+Manchester, UK.
+
+BACKGROUND: Understanding risk factors for peanut allergy (PA) is essential to 
+develop effective preventive measures.
+OBJECTIVE: The objective was to ascertain associates and predictors of PA, and 
+the relationship between PA and asthma severity.
+METHODS: In a population-based birth cohort, we investigated the association 
+between objectively confirmed PA with early-life environmental exposures, 
+filaggrin (FLG)-loss-of-function mutations and other atopic disease. We then 
+examined the association of PA with longitudinal trajectories of sensitization, 
+wheeze and allergic comorbidities, which were previously derived using machine 
+learning. Finally, we ascertained the relationship between PA and asthma 
+severity.
+RESULTS: PA was confirmed in 30/959 participants with evaluable data. In the 
+multivariate analysis, eczema in infancy (OR = 4.4, 95% CI 1.5-13.2, p = 0.007), 
+egg sensitization at age 3 years (OR = 9.7, 95% CI 3.3-29.9, p < 0.001) and 
+early-life cat ownership (OR = 3.0, 95% CI 1.1-8.4, p = 0.04) were independent 
+associates of PA. In the stratified analysis among 700 participants with genetic 
+information, in children with early-life eczema there was no difference in FLG 
+mutations between children with and without PA (3/18 [16.7%] vs. 42/220 [19.1%], 
+p = 1.00). In contrast, among children without eczema, those with PA were almost 
+eight times more likely to have FLG mutations (2/6 [33.3%] vs. 27/456 [5.9%], 
+p = 0.049). We observed associations between PA and multiple allergic 
+sensitization profiles derived using machine learning, with ~60-fold increase in 
+risk among individuals assigned to multiple early sensitization. PA was 
+significantly associated with persistent wheeze (but not other wheeze 
+phenotypes), and with trajectories of atopic disease characterized by co-morbid 
+persistent eczema and wheeze (but not with transient phenotypes). Children with 
+PA were more likely to have asthma, but among asthmatics we found no evidence of 
+an association between PA and asthma severity.
+CONCLUSIONS: Peanut allergy is associated with multiple IgE sensitization and 
+early-onset persistent eczema and wheeze. FLG loss-of-function mutations were 
+associated with peanut allergy in children without eczema.
+
+© 2022 The Authors. Clinical & Experimental Allergy published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/cea.14103
+PMCID: PMC9303430
+PMID: 35108754 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Custovic reports personal fees from 
+Novartis, personal fees from Regeneron / Sanofi, personal fees from Thermo 
+Fisher Scientific, personal fees from Boehringer Ingelheim, personal fees from 
+Novartis and personal fees from Philips, outside the submitted work. AS reports 
+lecture fees from Thermo Fisher Scientific. Other authors have no competing 
+interests to declare.
+
+
+9. Allergy. 2022 Jun;77(6):1736-1750. doi: 10.1111/all.15167. Epub 2021 Nov 24.
+
+Proposal of 0.5 mg of protein/100 g of processed food as threshold for voluntary 
+declaration of food allergen traces in processed food-A first step in an 
+initiative to better inform patients and avoid fatal allergic reactions: A 
+GA²LEN position paper.
+
+Zuberbier T(1), Dörr T(1), Aberer W(2), Alvaro M(3), Angier E(4), Arasi S(5), 
+Arshad H(6)(7)(8), Ballmer-Weber B(9)(10), Bartra J(11)(12), Beck L(13), Bégin 
+P(14), Bindslev-Jensen C(15), Bislimovska J(16), Bousquet J(1)(17)(18), Brockow 
+K(19), Bush A(20), Cianferoni A(21), Cork MJ(22), Custovic A(23), Darsow U(19), 
+de Jong N(24), Deleanu D(25), Del Giacco S(26), Deschildre A(27)(28), Dunn 
+Galvin A(29)(30)(31), Ebisawa M(32), Fernández-Rivas M(33), Ferrer M(34), 
+Fiocchi A(5), Gerth van Wijk R(24), Gotua M(35), Grimshaw K(36), Grünhagen J(1), 
+Heffler E(37)(38), Hide M(39), Hoffmann-Sommergruber K(40), Incorvaia C(41), 
+Janson C(42), Malte John S(43)(44), Jones C(45), Jutel M(46)(47), Katoh N(48), 
+Kendziora B(49), Kinaciyan T(50), Knol E(51)(52), Kurbacheva O(53), Lau S(54), 
+Loh R(55), Lombardi C(56), Mäkelä M(57), Marchisotto MJ(58)(59), Makris M(60), 
+Maurer M(1), Meyer R(61), Mijakoski D(16), Minov J(16), Mullol J(62), Nilsson 
+C(63)(64), Nowak-Wegrzyn A(65), Nwaru BI(66), Odemyr M(67), Pajno GB(68), Paudel 
+S(69), Papadopoulos NG(70), Renz H(71)(72), Ricci G(73), Ring J(19)(74), Rogala 
+B(75), Sampson H(76)(77)(78), Senna G(79), Sitkauskiene B(80), Smith PK(81), 
+Stevanovic K(1), Stoleski S(16), Szajewska H(82), Tanaka A(83), Todo-Bom A(84), 
+Topal FA(1), Valovirta E(85), Van Ree R(86), Venter C(87), Wöhrl S(88), Wong 
+GWK(89), Zhao Z(90), Worm M(1).
+
+Author information:
+(1)Department of Dermatology and Allergy, Charité-Universitätsmedizin Berlin, 
+Humboldt-Uniersität zu Berlin and Berlin Institute of Health, Comprehensive 
+Allergy-Centre, Berlin, Germany.
+(2)Department of Dermatology, Medical University of Graz, Graz, Austria.
+(3)Servei Al-lergologia Immunologia Clinica, Hospital Sant Joan de Deu, 
+Barcelona, Spain.
+(4)Primary Care, Population Science and Medical Education, Faculty of Medicine, 
+University of Southampton, Southampton, UK.
+(5)Pediatric Allergology Unit, Bambino Gesù Hospital (IRCCS), Rome, Italy.
+(6)NIHR Southampton Biomedical Research Centre, University Hospital Southampton 
+NHS Foundation Trust, Southampton, UK.
+(7)Clinical and Experimental Sciences, Faculty of Medicine, University of 
+Southampton, Southampton, UK.
+(8)The David Hide Asthma and Allergy Research Centre, St Mary's Hospital, Isle 
+of Wight, UK.
+(9)Department of Dermatology, University Hospital Zürich, Zürich, Switzerland.
+(10)Clinic for Dermatology and Allergology, Kantonsspital St. Gallen, St. 
+Gallen, Switzerland.
+(11)Unitat d'Al.lergia, Servei de Neumologia i Al.lergia Respiratoria, Hospital 
+Clinic, Barcelona, Spain.
+(12)Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), 
+Barcelona, Spain.
+(13)Department of Dermatology, University of Rochester Medical Center, 
+Rochester, New York, USA.
+(14)CHU Sainte-Justine, Montréal, Canada.
+(15)Department of Dermatology and Allergy Center, Odense Research Centre for 
+Anaphylaxis (ORCA), Odense University Hospital Denmark, Odense, Denmark.
+(16)Faculty of Medicine, Ss. Cyril and Methodius, University in Skopje, 
+Institute of Occupational Health of RNM, WHO Collaborating Center, Skopje, 
+Macedonia.
+(17)University Hospital Montpellier, Montpellier, France.
+(18)MACVIA-France, Montpellier, France.
+(19)Department of Dermatology and Allergy Biederstein, School of Medicine, 
+Technical University of Munich, Munich, Germany.
+(20)Imperial College and Royal Brompton Hospital, London, UK.
+(21)Department of Pediatrics, University of Pennsylvania, The Children's 
+Hospital of Philadelphia, Philadelphia, Pennsylvania, USA.
+(22)University of Sheffield, Sheffield, UK.
+(23)National Heart and Lung Institute, Imperial College London, London, UK.
+(24)Section of Allergology and Clinical Immunology, Department of Internal 
+Medicine, Erasmus MC, Rotterdam, The Netherlands.
+(25)University Medicine and Pharmacy Iuliu Hatieganu, IRGH, Allergy, 
+Cluj-Napoca, Romania.
+(26)Department of Medical Sciences and Public Health, University of Cagliari, 
+Cagliari, Italy.
+(27)CHU Lille, Univ Lille, Lille, France.
+(28)Pediatric Pulmonology and Allergy Unit, Hôpital Jeanne de Flandre, Lille, 
+France.
+(29)University College Cork, Cork, Ireland.
+(30)Sechenov University Moscow, Moscow, Russia.
+(31)Anaphylaxis Ireland, Cork, Ireland.
+(32)Clinical Research Center for Allergy and Rheumatology, National Hospital 
+Organization Sagamihara National Hospital, Sagamihara, Japan.
+(33)Allergy Department, Facultad de Medicina, Hospital Clínico San Carlos, 
+Universidad Complutense (UCM), IdISSC, Madrid, Spain.
+(34)Department of Allergy, Clinica Universidad de Navarra, Pamplona, Spain.
+(35)Center of Allergy and Immunology, Tbilisi, Georgia.
+(36)Dietetic Department, Salford Care Organisation, Salford Royal Foundation 
+Trust, Salford, UK.
+(37)Personalized Medicine, Asthma and Allergy, IRCCS Humanitas Research 
+Hospital, Rozzano (MI), Italy.
+(38)Department of Biomedical Sciences, Humanitas University, Pieve Emanuele 
+(MI), Italy.
+(39)Department of Dermatology, Hiroshima Citizens Hospital, Hiroshima, Japan.
+(40)Department of Pathophysiology and Allergy Research, Medical University of 
+Vienna, Austria.
+(41)Cardiac/Pulmonary Rehabilitation, ASST Pini/CTO, Milan, Italy.
+(42)Department of Medical Sciences: Respiratory, Allergy and Sleep Research, 
+Uppsala University, Uppsala, Sweden.
+(43)Department of Dermatology, Environmental Medicine, Health Theory, University 
+of Osnabrueck, Osnabrueck, Germany.
+(44)Institute for Interdisciplinary Dermatological Prevention and Rehabilitation 
+(iDerm) at the University of Osnabrueck, Osnabrueck, Germany.
+(45)Allergy, Kent, UK.
+(46)Department of Clinical Immunology, Wrocław Medical University, Poland.
+(47)All-MED Medical Research Institute, Wrocław, Poland.
+(48)Department of Dermatology, Kyoto Prefectural University of Medicine, Kyoto, 
+Japan.
+(49)Department of Dermatology and Allergy, University Hospital, LMU Munich, 
+Munich, Germany.
+(50)Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+(51)Department of Dermatology and Allergology, University Medical Center 
+Utrecht, Utrecht, The Netherlands.
+(52)Laboratory of Translational Immunology, University Medical Center Utrecht, 
+Utrecht, The Netherlands.
+(53)NRC Institute of Immunology FMBA, Moscow, Russia.
+(54)Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, 
+Charité Universitätsmedizin Berlin, Berlin, Germany.
+(55)Department of Immunology, Perth Children's Hospital, University of Western 
+Australia, Perth, Western Australia, Australia.
+(56)Unità Dipartimentale di Allergologia-Immunologia Clinica & Malattie Apparato 
+Respiratorio, Ente Ospedaliero Fondazione Poliambulanza, Brescia, Italy.
+(57)Skin and Allergy Hospital, Helsinki University Hospital and University of 
+Helsinki, Helsinki, Finland.
+(58)MJM Advisory, New York, New York, USA.
+(59)Mary H. Weiser Food Allergy Center, University of Michigan Medicine, Ann 
+Arbor, Michigan, USA.
+(60)Allergy Unit, 2nd Dpt of Dermatology and Venereology, National and 
+Kapodistrian University of Athens, Attikon University Hospital, Athens, Greece.
+(61)Department of Paediatrics, Imperial College, London, UK.
+(62)Rhinology Unit & Smell Clinic, ENT Department, Hospital Clinic, IDIBAPS, 
+Universitat de Barcelona, CIBERES, Barcelona, Catalonia, Spain.
+(63)Sachs' Children and Youth Hospital, Södersjukhuset, Stockholm, Sweden.
+(64)Department of Clinical Science and Education Södersjukhuset, Karolinska 
+Institutet, Stockholm, Sweden.
+(65)Division of Allergy and Immunology, Department of Pediatrics, Jaffe Food 
+Allergy Institute, Icahn School of Medicine at Mount Sinai, Kravis Children's 
+Hospital, New York, New York, USA.
+(66)Krefting Research Centre, Institute of Medicine, University of Gothenburg, 
+Gothenburg, Sweden.
+(67)Asthma and Allergy Association, Stockholm, Sweden.
+(68)Pediatric unit, Policlinico Hospitsl, University of Messina, Messina, Italy.
+(69)Civil Service Hospital, Kathmandu, Nepal.
+(70)Allergy Dpt, 2nd Pediatric Clinic, University of Athens, Athens, Greece.
+(71)Institute of Laboratory Medicine and Pathobiochemistry, Molecular 
+Diagnostics, Philipps University Marburg University Hospital Giessen and 
+Marburg, Marburg, Germany.
+(72)Department of Clinical Immunology and Allergology, Laboratory of 
+Immunopathology, Sechenov University, Moscow, Russia.
+(73)Pediatric Unit, Department of Medical and Surgical Sciences, University of 
+Bologna, Bologna, Italy.
+(74)Christine Kühne Center for Allergy Research and Education (CK-Care), Davos, 
+Switzerland.
+(75)Department of Internal Diseases, Allergology & Clinical Immunology Medical, 
+University of Silesia, Katowice, Poland.
+(76)Elliot and Roslyn Jaffe Food Allergy Institute, New York, New York, USA.
+(77)Division of Allergy and Immunology, Kravis Children's Hospital, New York, 
+New York, USA.
+(78)Department of Pediatrics, Icahn School of Medicine at Mount Sinai, New York, 
+New York, USA.
+(79)Asthma Center and Allergy Unit, Verona University and General Hospital, 
+Verona, Italy.
+(80)Department of Immunology and Allergology, Lithuanian University of Health 
+Sciences, Kaunas, Lithuania.
+(81)Griffith University, Southport, Qld, Australia.
+(82)Department of Paediatrics, The Medical University of Warsaw, Warsaw, Poland.
+(83)Department of Dermatology, Graduate School of Biomedical and Health 
+Sciences, Hiroshima University, Hiroshima, Japan.
+(84)Allergy and Clinical Immunology Unit, Centro Hospitalar e Universitário de 
+Coimbra, Coimbra, Portugal.
+(85)Department of Lung Diseases and Clinical Allergology, University of Turku, 
+and Terveystalo Turku, Allergy Clinic, Turku, Finland.
+(86)Departments of Experimental Immunology and Otorhinolaryngology, Academic 
+Medical Center, University of Amsterdam, Amsterdam, The Netherlands.
+(87)University of Colorado Denver School of Medicine and Children's Hospital 
+Colorado, Aurora, Colorado, USA.
+(88)Floridsdorf Allergy Center (FAZ), Vienna, Austria.
+(89)Department of Paediatrics, The Chinese University of Hong Kong, Hong Kong, 
+Hong Kong.
+(90)Department of Dermatology, First Hospital, Peking University, Beijing, 
+China.
+
+BACKGROUND: Food anaphylaxis is commonly elicited by unintentional ingestion of 
+foods containing the allergen above the tolerance threshold level of the 
+individual. While labeling the 14 main allergens used as ingredients in food 
+products is mandatory in the EU, there is no legal definition of declaring 
+potential contaminants. Precautionary allergen labeling such as "may contain 
+traces of" is often used. However, this is unsatisfactory for consumers as they 
+get no information if the contamination is below their personal threshold. In 
+discussions with the food industry and technologists, it was suggested to use a 
+voluntary declaration indicating that all declared contaminants are below a 
+threshold of 0.5 mg protein per 100 g of food. This concentration is known to be 
+below the threshold of most patients, and it can be technically guaranteed in 
+most food production. However, it was also important to assess that in case of 
+accidental ingestion of contaminants below this threshold by highly allergic 
+patients, no fatal anaphylactic reaction could occur. Therefore, we performed a 
+systematic review to assess whether a fatal reaction to 5mg of protein or less 
+has been reported, assuming that a maximum portion size of 1kg of a processed 
+food exceeds any meal and thus gives a sufficient safety margin.
+METHODS: MEDLINE and EMBASE were searched until 24 January 2021 for provocation 
+studies and case reports in which one of the 14 major food allergens was 
+reported to elicit fatal or life-threatening anaphylactic reactions and assessed 
+if these occurred below the ingestion of 5mg of protein. A Delphi process was 
+performed to obtain an expert consensus on the results.
+RESULTS: In the 210 studies included, in our search, no reports of fatal 
+anaphylactic reactions reported below 5 mg protein ingested were identified. 
+However, in provocation studies and case reports, severe reactions below 5 mg 
+were reported for the following allergens: eggs, fish, lupin, milk, nuts, 
+peanuts, soy, and sesame seeds.
+CONCLUSION: Based on the literature studied for this review, it can be stated 
+that cross-contamination of the 14 major food allergens below 0.5 mg/100 g is 
+likely not to endanger most food allergic patients when a standard portion of 
+food is consumed. We propose to use the statement "this product contains the 
+named allergens in the list of ingredients, it may contain traces of other 
+contaminations (to be named, e.g. nut) at concentrations less than 0.5 mg per 
+100 g of this product" for a voluntary declaration on processed food packages. 
+This level of avoidance of cross-contaminations can be achieved technically for 
+most processed foods, and the statement would be a clear and helpful message to 
+the consumers. However, it is clearly acknowledged that a voluntary declaration 
+is only a first step to a legally binding solution. For this, further research 
+on threshold levels is encouraged.
+
+© 2021 The Authors. Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.15167
+PMID: 34741557 [Indexed for MEDLINE]
+
+
+10. Front Immunol. 2021 Sep 28;12:636612. doi: 10.3389/fimmu.2021.636612. 
+eCollection 2021.
+
+Oral Immunotherapy for Food-Allergic Children: A Pro-Con Debate.
+
+Mori F(1), Giovannini M(1), Barni S(1), Jiménez-Saiz R(2)(3)(4)(5), Munblit 
+D(6)(7)(8), Biagioni B(9), Liccioli G(1), Sarti L(1), Liotti L(10), Ricci S(11), 
+Novembre E(1), Sahiner U(12), Baldo E(13), Caimmi D(14)(15).
+
+Author information:
+(1)Allergy Unit, Department of Pediatrics, Meyer Children's University Hospital, 
+Florence, Italy.
+(2)Department of Immunology, Instituto de Investigación Sanitaria Hospital 
+Universitario de La Princesa (IIS-IP), Madrid, Spain.
+(3)Department of Immunology & Oncology, Centro Nacional de Biotecnología 
+(CNB)-CSIC, Madrid, Spain.
+(4)Faculty of Experimental Sciences, Universidad Francisco de Vitoria (UFV), 
+Madrid, Spain.
+(5)Department of Medicine, McMaster University, Hamilton, ON, Canada.
+(6)Department of Paediatrics and Paediatric Infectious Diseases, Institute of 
+Child's Health, Sechenov First Moscow State Medical University (Sechenov 
+University), Moscow, Russia.
+(7)Inflammation, Repair and Development Section, National Heart and Lung 
+Institute, Faculty of Medicine, Imperial College London, London, United Kingdom.
+(8)Research and Clinical Center for Neuropsychiatry, Moscow, Russia.
+(9)Allergy Outpatient Clinic, Division of Internal Medicine, IRCCS Azienda 
+Ospedaliera Universitaria, Bologna, Italy.
+(10)Department of Pediatrics, Salesi Children's Hospital, Azienda Ospedaliera 
+Universitaria (AOU) Ospedali Riuniti Ancona, Ancona, Italy.
+(11)Division of Immunology, Section of Pediatrics, Department of Health 
+Sciences, University of Florence and Meyer Children's Hospital, Florence, Italy.
+(12)Department of Pediatric Allergy, Hacettepe University, Ankara, Turkey.
+(13)"Giovan Battista Mattei" Research Institute, Stenico, Italy.
+(14)Allergy Unit, CHU de Montpellier, Univ Montpellier, Montpellier, France.
+(15)IDESP, UA11, INSERM-Univ Montpellier, Montpellier, France.
+
+The prevalence of food allergy has increased in recent years, especially in 
+children. Allergen avoidance, and drugs in case of an allergic reaction, remains 
+the standard of care in food allergy. Nevertheless, increasing attention has 
+been given to the possibility to treat food allergy, through immunotherapy, 
+particularly oral immunotherapy (OIT). Several OIT protocols and clinical trials 
+have been published. Most of them focus on children allergic to milk, egg, or 
+peanut, although recent studies developed protocols for other foods, such as 
+wheat and different nuts. OIT efficacy in randomized controlled trials is 
+usually evaluated as the possibility for patients to achieve desensitization 
+through the consumption of an increasing amount of a food allergen, while the 
+issue of a possible long-term sustained unresponsiveness has not been completely 
+addressed. Here, we evaluated current pediatric OIT knowledge, focusing on the 
+results of clinical trials and current guidelines. Specifically, we wanted to 
+highlight what is known in terms of OIT efficacy and effectiveness, safety, and 
+impact on quality of life. For each aspect, we reported the pros and the cons, 
+inferable from published literature. In conclusion, even though many protocols, 
+reviews and meta-analysis have been published on this topic, pediatric OIT 
+remains a controversial therapy and no definitive generalized conclusion may be 
+drawn so far. It should be an option provided by specialized teams, when both 
+patients and their families are prone to adhere to the proposed protocol. 
+Efficacy, long-term effectiveness, possible role of adjuvant therapies, risk of 
+severe reactions including anaphylaxis or eosinophilic esophagitis, and impact 
+on the quality of life of both children and caregivers are all aspects that 
+should be discussed before starting OIT. Future studies are needed to provide 
+firm clinical and scientific evidence, which should also consider patient 
+reported outcomes.
+
+Copyright © 2021 Mori, Giovannini, Barni, Jiménez-Saiz, Munblit, Biagioni, 
+Liccioli, Sarti, Liotti, Ricci, Novembre, Sahiner, Baldo and Caimmi.
+
+DOI: 10.3389/fimmu.2021.636612
+PMCID: PMC8507468
+PMID: 34650547 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

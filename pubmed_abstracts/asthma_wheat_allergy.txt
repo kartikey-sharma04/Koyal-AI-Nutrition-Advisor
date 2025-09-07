@@ -1,0 +1,786 @@
+1. J Asthma. 2025 May 16:1-9. doi: 10.1080/02770903.2025.2499833. Online ahead of
+ print.
+
+Enhancing the nutraceutical and nutritional features of wheat germ to reduce 
+atopic asthma symptoms in children.
+
+Bayiroglu F(1), Erdonmez N(2), Aydin L(1), Kaya MS(1).
+
+Author information:
+(1)Faculty of Medicine, Department of Physiology, Ankara Yıldırım Beyazıt 
+University, Ankara, Turkey.
+(2)Department of Pediatric Immunology and Allergy, University of Health 
+Sciences, Dr. Sami Ulus Maternity and Child Health Training and Research 
+Hospital, Ankara, Turkey.
+
+BACKGROUND: The rise in childhood asthma has increased interest in nutraceutical 
+treatment options such as specific nutritional supplements, as medical 
+treatments may not always produce the desired results. Despite treatment, 
+between 30 and 50% of children with asthma do not attain adequate control.
+OBJECTIVES: For the first time, the effects of adding fermented wheat germ to 
+the daily diet of children with atopic asthma on respiratory function-related 
+disease symptoms, serum IgE, and eosinophil levels were studied.
+METHODS: The study comprised 52 patients (control group n = 26, experimental 
+group n = 26) aged 12-18 years with a clear diagnosis of atopic asthma. The 
+experimental group consumed 100 g of fermented wheat bread with 5% wheat germ 
+every day for three months, while the control group consumed standard bread. The 
+groups were assessed at baseline and at the end of each month with spirometry 
+(FVC, FEV1, PEF), serum eosinophil and IgE measurements, and the application of 
+the Asthma Control Test (ACT) scale.
+RESULTS: There was no significant difference between the control and 
+experimental groups in terms of any measurement. The experimental group had 
+significant increases in PEF (p < 0.05), FVC, and IgE levels (p < 0.001) 
+compared to monthly measurements. Both groups showed statistically significant 
+improvements in ACT and FEV1 (p < 0.001). Nonetheless, the control and 
+experimental groups showed no significant difference in time-dependent 
+eosinophil levels (p > 0.05).
+CONCLUSIONS: Although the inclusion of fermented wheat germ to asthmatic 
+children's diets has been shown to improve PEF and IgE levels, these findings 
+require further investigation.
+
+DOI: 10.1080/02770903.2025.2499833
+PMID: 40372023
+
+
+2. Curr Allergy Asthma Rep. 2025 Apr 28;25(1):22. doi:
+10.1007/s11882-025-01204-x.
+
+Occupational Respiratory Allergy to Flour in the Modern Era.
+
+Vandenplas O(1), Doyen V(2), Raulf M(3).
+
+Author information:
+(1)Centre Hospitalier Universitaire UCL Namur, Department of Chest Medicine, 
+Université Catholique de Louvain, Yvoir, Namur, Belgium. 
+olivier.vandenplas@chuuclnamur.uclouvain.be.
+(2)Centre Hospitalier Universitaire UCL Namur, Department of Chest Medicine, 
+Université Catholique de Louvain, Yvoir, Namur, Belgium.
+(3)Institute of Prevention and Occupational Medicine of the German Social 
+Accident Insurance, Institute of the Ruhr-University Bochum (IPA), Bochum, 
+Germany.
+
+PURPOSE OF THE REVIEW: A comprehensive literature review was conducted in order 
+to identify and summarize recent research on IgE-mediated occupational 
+respiratory allergy to flour, focusing on the impact of modern developments in 
+the baking industry characterized by industrialization of production processes 
+and a growing use of baking "improvers".
+RECENT FINDINGS: Although respiratory allergy to flour is a potentially 
+preventable condition through effective workplace control measures, available 
+data indicate that exposure to flour dust has not decreased in the last decade 
+and flour remains the most prevalent cause of occupational respiratory allergy. 
+The development of the baking industry has led to the introduction of new 
+allergen sources, although their contribution to the development of clinical 
+respiratory allergy remains largely uncertain. In recent years, the diagnostic 
+performance of serum-specific IgE antibody determination against wheat/rye flour 
+and α-amylase compared with specific inhalation challenge with flour as the 
+reference standard has been clarified, making these tests a first-line component 
+of diagnostic algorithms. Available information on the prevalence and incidence 
+of respiratory allergy to flour in recent decades indicates that this condition 
+still imposes a substantial health and socioeconomic burden worldwide. Available 
+data highlight the need to reinforce workplace health-related policies and 
+regulations.
+
+© 2025. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11882-025-01204-x
+PMID: 40289031 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Human and Animal Rights and 
+Informed Consent: All reported studies with human subjects performed by the 
+authors have been previously published and complied with all applicable ethical 
+standards (including the Declaration of Helsinki and its amendments, 
+institutional/national research committee standards, and 
+international/national/institutional guidelines). Competing Interests: The 
+authors declare no competing interests.
+
+
+3. Clin Exp Allergy. 2025 Apr 14. doi: 10.1111/cea.70055. Online ahead of print.
+
+Circulating Food Allergen-Specific Antibodies, Beyond IgG4, Are Elevated in 
+Eosinophilic Esophagitis.
+
+Bel Imam M(1), Iwasaki S(1), Lems S(1), Cevhertas L(1), Westermann P(1), Larsen 
+LB(2), Poulsen NA(2), Akdis M(1), Schreiner P(3), Kreienbühl A(4), Straumann 
+A(4), Schoepfer AM(5), Biedermann L(4), van de Veen W(1); Swiss EoE Cohort Study 
+Group.
+
+Collaborators: Aepli P, Biral R, Blanchard C, Botteselle L, Buetikofer S, Burri 
+E, Diebold J, Eckhold A, Franke A, Frei M, Greuter T, Hasler C, Jochum W, 
+Kilchmann T, Koller S, Murray F, Netzer P, Reichhart G, Ristorcelli E, Rogler G, 
+Rossel JB, Safroneeva E, Saner C, Schlag C, Senn JD, Sempoux C, Simon D, Simon 
+HU, Trelle S, Weber A, Willi N, Zwahlen M.
+
+Author information:
+(1)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+Davos, Switzerland.
+(2)Department of Food Science, Aarhus University, Aarhus, Denmark.
+(3)Division of Gastroenterology and Hepatology, Department of Internal Medicine 
+III, Medical University of Vienna, Vienna, Austria.
+(4)Department of Gastroenterology and Hepatology, University Hospital Zurich, 
+Zurich, Switzerland.
+(5)Division of Gastroenterology and Hepatology, Centre Hospitalier Universitaire 
+Vaudois, University of Lausanne, Lausanne, Switzerland.
+
+INTRODUCTION: Eosinophilic esophagitis (EoE) is a chronic inflammatory condition 
+with an incompletely understood immuno-pathogenesis involving a T2 response. EoE 
+is triggered by food allergens although, unlike IgE-mediated allergies, it 
+exhibits high IgG4 levels in oesophageal biopsies and in circulation. We 
+investigated whether other antibody isotypes specific for food allergens are 
+elevated in EoE and vary with disease activity.
+METHODS: Plasma samples from patients with active EoE (n = 51), inactive EoE 
+(n = 82) and non-EoE controls (n = 14) were analysed for food-specific IgG and 
+IgA subclasses against casein, whey, wheat, egg and individual cow's milk 
+allergens by ELISA. α-lactalbumin (Bos d 4)- and β-lactoglobulin (Bos d 
+5)-specific B cells were measured by flow cytometry in a subset of patients.
+RESULTS: Food allergen-specific antibodies in the plasma varied across EoE 
+subgroups and non-EoE controls. Elevated IgG4 in EoE patients confirmed a strong 
+antibody response to food allergens, including casein, wheat and egg. αS1-casein 
+(Bos d 9)-specific IgG, IgG2, IgG4, IgA1 and IgA2 differed between EoE and 
+non-EoE controls and between active and inactive EoE. β-casein (Bos d 11, A1 
+variant) measurements showed higher levels of specific IgG2 and IgG4 in both EoE 
+groups, whereas whey-derived allergens showed opposing responses: Bos d 4 
+responses favoured IgG4, and Bos d 5 responses were elevated across multiple IgG 
+and IgA subclasses in EoE. Allergen-specific B cells could not be isolated from 
+the circulation.
+CONCLUSION: Our findings reveal distinct antibody profiles in EoE plasma, with 
+elevated IgG and IgA subclasses beyond IgG4, highlighting a complex immune 
+response to food allergens. Differential antibody responses support their 
+clinical relevance in dietary management strategies, while the absence of 
+allergen-specific B cells in circulation likely restricts antibody production to 
+the inflamed oesophagus. Future research should explore whether these antibody 
+profiles can guide personalised treatment and novel therapeutic targets in EoE.
+
+© 2025 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cea.70055
+PMID: 40230181
+
+
+4. Environ Res. 2025 Apr 10;277:121583. doi: 10.1016/j.envres.2025.121583. Online
+ ahead of print.
+
+Associations between agricultural use of pyrethroid insecticides and asthma: 
+AGRICAN cohort results.
+
+Baldi I(1), de Graaf L(2), Bureau M(2), Tual S(3), Douwes J(4), Lebailly P(5).
+
+Author information:
+(1)Univ. Bordeaux, Inserm, Bordeaux Population Health Research Centre, EPICENE 
+Team, UMR 1219, F-33000, Bordeaux, France; Service Santé Travail Environnement, 
+Pôle de Santé Publique, CHU de Bordeaux, 33000, Bordeaux, France. Electronic 
+address: Isabelle.Baldi@u-bordeaux.fr.
+(2)Univ. Bordeaux, Inserm, Bordeaux Population Health Research Centre, EPICENE 
+Team, UMR 1219, F-33000, Bordeaux, France.
+(3)INSERM, UMR1086 ANTICIPE, Cancers et Préventions, Centre François Baclesse, 
+Caen, France.
+(4)Research Centre for Hauora and Health, Massey University, Wellington, New 
+Zealand.
+(5)INSERM, UMR1086 ANTICIPE, Cancers et Préventions, Centre François Baclesse, 
+Caen, France; Université Caen Normandie, Caen, France.
+
+RATIONALE: Following the withdrawal of organochlorines and organophosphates, 
+pyrethroids have become the most used insecticides in both agricultural and 
+domestic settings.
+OBJECTIVES: We analyzed data from the French AGRICAN agricultural cohort to 
+assess associations of occupational pyrethroid exposures and 
+allergic/non-allergic asthma.
+METHODS: At enrollment, asthma diagnosed by a doctor was reported by 11 815 
+participants (7028 classified as non-allergic and 4458 as allergic based on the 
+presence of eczema and/or hay fever). Individual exposures to 17 pyrethroids 
+were defined in 124 992 participants, based on a combination of the history of 
+pesticide treatment of 11 crops (grassland, vineyard, wheat/barley, corn, field 
+peas, potatoes, tobacco, beets, sunflower, rape, fruits) and a crop-exposure 
+matrix.
+MEASUREMENTS AND MAIN RESULTS: In men, no association was observed for any of 
+the pyrethroids regardless of asthma phenotype. In contrast, in ever-exposed 
+women, asthma risk was increased with use of any pyrethroid, both for allergic 
+(+80 %) and non-allergic asthma (+40 %). Highest increases were observed for 
+allergic asthma with fenpropathrin (OR = 2.00; 95 %CI:1.38-2.90), tralomethrin 
+(OR = 1.81; 95 %CI:1.28-2.56), fenvalerate (OR = 1.81; 95 %CI:1.38-2.38), 
+permethrin (OR = 1.78; 95 %CI:1.26-2.50) and deltamethrin (OR = 1.76; 
+95 %CI:1.35-2.29). Stratified analyses on women who reported living on a farm in 
+early life showed stronger associations for non-allergic asthma. For women who 
+reported early life living on vineyards associations with pyrethroids were 
+stronger for both allergic and non-allergic asthma. Associations for women who 
+lived on cattle farms were reduced for some pyrethroids.
+CONCLUSION: Occupational pyrethroid exposure was positively associated with both 
+allergic and non-allergic asthma in women but not in men.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2025.121583
+PMID: 40220893
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Front Allergy. 2025 Feb 4;5:1488857. doi: 10.3389/falgy.2024.1488857. 
+eCollection 2024.
+
+Isotype diversity of antibodies specific for component allergens in the context 
+of allergic diseases: eosinophilic esophagitis (EoE), asthma, and the alpha-gal 
+syndrome (AGS).
+
+Platts-Mills TAE(1), MacCallum MH(1), Wilson JM(1), Workman LJ(1), Erwin EA(2).
+
+Author information:
+(1)Division of Allergy & Clinical Immunology, Department of Medicine, University 
+of Virginia, Charlottesville, VA, United States.
+(2)Department of Allergy at Nationwide Children's Hospital, Ohio State 
+University College of Medicine, Columbus, OH, United States.
+
+From the earliest days of studying the reagins in allergic sera that give rise 
+to the Prausnitz-Kuestner reaction, there was evidence that there were other 
+types of antibodies (Ab) specific for allergens, particularly those induced by 
+immunotherapy. By 1980, not only was IgE recognized and could be measured, but 
+the presence of other isotypes including IgG and IgA in patients with IgE was 
+well established. From that time onwards the development of monoclonal 
+antibodies made it possible to distinguish and measure antibodies of other 
+isotypes such as IgG4, IgG2, and IgG3. Over the past 40 years two things have 
+dominated the field- firstly, the techniques for measuring isotype specific 
+antibodies to allergens have improved steadily. Secondly, several different 
+allergic diseases or phenomena have been identified in which isotype diversity 
+of the antibodies has become a major issue. Prior to 1990 only occasional cases 
+of eosinophilic esophagitis (EoE) had been identified, but since then they have 
+become common. Most of the cases have positive skin tests and/or IgE Ab to cow's 
+milk or wheat, but it became obvious that most cases of EoE are not primarily 
+related to IgE. Today it is clear that IgG4 Ab to these allergens play a 
+significant role in cases of EoE. In 2000 the first reports of children 
+developing tolerance to cat allergen appeared. Today it is clear that this 
+tolerance depends on high levels of IgG4 antibodies and there is increasing 
+evidence that the IgG4 response is primarily against Fel d 1. The most recent 
+novel allergic disease is the alpha-gal syndrome (AGS). This condition is based 
+on IgE antibodies specific for the oligosaccharide galactose 
+alpha,1-3-galactose, which are primarily induced by tick bites. However, in this 
+case it was already well known that all immunocompetent primates have made IgG 
+and IgM antibodies to this oligosaccharide. Furthermore, it is not clear whether 
+the IgG isotypes, particularly IgG1 and IgG3, play a role in the inflammatory 
+response to the oligosaccharide. Overall, it is clear that current and future 
+investigation of allergic diseases requires careful assessment of allergen 
+specific antibodies of diverse isotypes in addition to IgE.
+
+© 2025 Platts-Mills, MacCallum, Wilson, Workman and Erwin.
+
+DOI: 10.3389/falgy.2024.1488857
+PMCID: PMC11832665
+PMID: 39968192
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+6. Zhonghua Yu Fang Yi Xue Za Zhi. 2024 Dec 6;58(12):1894-1901. doi: 
+10.3760/cma.j.cn112150-20240701-00524.
+
+[Analysis of the sensitization characteristics and changes trend of common 
+allergens in a hospital of pediatric in Beijing City from 2019 to 2023].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Zhang XD(1), Li QL(2), Xiang L(1), Jiang NN(1), Li Z(1), Huang HJ(1).
+
+Author information:
+(1)Department of Allergy, National Clinical Research Center for Respiratory 
+Diseases, Key Laboratory of Major Diseases in Children, Ministry of Education, 
+Beijing Children's Hospital, Capital Medical University, National Center for 
+Children's Health, Beijing100045, China.
+(2)Department of Clinical Laboratory Center, Beijing Children's Hospital, 
+Capital Medical University, National Center for Children's Health, 
+Beijing100045, China.
+
+Objective: This study aimed to analyze the test results and changing trend of 
+specific IgE (sIgE) for common allergens in children in the hospital from 2019 
+to 2023, so as to provide a basis for the diagnosis and treatment of allergic 
+diseases in children. Methods: The test results of children who were admitted to 
+Beijing Children's Hospital, Capital Medical University and underwent serum 
+allergen sIgE quantitative detection (Immuno CAP system) from January 1, 2019 to 
+December 31, 2023 were retrospectively included. According to the allergen type, 
+the allergens were divided into food allergens and inhaled allergens (dust mite 
+group, mold group, animal dander group and pollen group). The trends in sIgE 
+positive rates across different years, age-related differences, and monthly 
+distribution characteristics were analyzed. Results: A total of 44 633 allergen 
+sIgE quantitative test results were included in the study. Among them, 23 024 
+samples were tested for food allergen sIgE and 21 609 samples were tested for 
+inhaled allergen sIgE. The positive rates of food allergens (egg white, milk, 
+wheat, peanut, soybean, shrimp) sIgE increased year by year, and the differences 
+were statistically significant (χ2=97.3, 78.9, 95.6, 122.4, 84.7, 24.5, 
+P<0.001). The positive rate of inhaled allergen sIgE also increased year by 
+year, and the difference was statistically significant (χ2=36.2, 326.2, 432.2, 
+973.2, P<0.001). There were significant differences in the sensitization 
+patterns of food and inhaled allergens among different age groups. The most 
+common food allergen was egg white in infant group (<1 year old) (23.0%), milk 
+in young children group (1-2 years old) (40.7%), and egg white in preschool 
+group (3-6 years old) (28.8%). Peanut was the most common allergen in school-age 
+group (7-12 years old) and adolescent group (13-18 years old) (16.9% and 14.1%, 
+respectively). Among the inhaled allergens, animal dander (3.6%) was the most 
+common allergen in the infant group (<1 year old), and mold (15.3%) was the most 
+common allergen in the young child group (1-2 years old). The most common 
+allergens in preschool group (3-6 years old), school-age group (7-12 years old) 
+and adolescent group (13-18 years old) were pollen (39.7%, 53.0%, 53.5%). There 
+were significant differences in the positive rates of inhaled allergens (dust 
+mite, mold, animal dander, pollen) sIgE in the 12 months of 2023 (χ2=26.9, 26.7, 
+56.7, 55.5, P=0.005, 0.005,<0.001,<0.001). The positive rate of pollen sIgE was 
+the highest, with peaks in April (54.8%) and September (60.5%). The positive 
+rate of sIgE for molds peaks in June (46.4%). Conclusion: The trends in sIgE 
+levels among children visiting Beijing Children's Hospital, Capital Medical 
+University, from 2019 to 2023, suggests to a certain extent that the prevalence 
+of allergic diseases among children in Beijing City is increasing annually. 
+There were significant age differences in sIgE sensitization patterns among 
+children of different ages, and the distribution of sIgE positive rates for 
+inhaled allergens was also different in different months. In clinical practice, 
+the allergen test report is interpreted comprehensively according to the 
+patient's medical history, age, visit month and other factors.
+
+Publisher: 目的： 分析2019—2023年医院就诊儿童常见过敏原特异性IgE（specific 
+IgE，sIgE）检测结果及变化趋势，旨在为儿童过敏性疾病诊疗提供依据和参考。 方法： 
+回顾性纳入2019年1月1日至2023年12月31日在首都医科大学附属北京儿童医院就诊并进行血清过敏原sIgE定量检测（Immuno 
+CAP系统）的患儿的检测结果，按照过敏原类型将过敏原分为食物过敏原和吸入过敏原（尘螨组、霉菌组、动物皮屑组和花粉组）。分析过敏原sIgE阳性率在不同年份的变化趋势，年龄差异性及月份分布特征。统计学方法组间比较采用χ2检验或Fisher确切概率法。 
+结果： 研究共纳入44 633例次过敏原sIgE定量检测结果。其中食物过敏原sIgE定量检测23 024例次，吸入过敏原sIgE定量检测21 
+609例次。食物过敏原（鸡蛋白、牛奶、小麦、花生、大豆、虾）过敏原sIgE阳性率均呈逐年上升趋势，差异有统计学意义（χ2=97.3、78.9、95.6、122.4、84.7、24.5，P<0.001）。吸入过敏原sIgE阳性率亦呈逐年上升趋势，差异有统计学意义（χ2=36.2、326.2、432.2、973.2，P<0.001）。不同年龄组间食物和吸入过敏原致敏模式存在明显差异。食物过敏原中，婴儿组（<1岁）首位致敏过敏原为鸡蛋白（23.0%），幼儿组（1~2岁）首位致敏过敏原为牛奶（40.7%），学龄前组（3~6岁）首位致敏过敏原为鸡蛋白（28.8%），学龄组（7~12岁）和青春期组（13~18岁）首位致敏过敏原为花生（16.9%、14.1%）。吸入过敏原中，婴儿组（<1岁）最常见致敏过敏原为动物皮屑（3.6%），幼儿组（1~2岁）最常见致敏过敏原为霉菌（15.3%），学龄前组（3~6岁）、学龄组（7~12岁）、青春期组（13~18岁）最常见致敏过敏原为花粉（39.7%、53.0%、53.5%）。2023年12个月份吸入过敏原（尘螨、霉菌、动物皮屑、花粉）sIgE阳性率差异均有统计学意义（χ2=26.9、26.7、56.7、55.5，P=0.005、0.005、<0.001、<0.001）。花粉sIgE阳性率最高，在4月份（54.8%）和9月份（60.5%）存在高峰。霉菌sIgE阳性率在6月份（46.4%）存在高峰。 
+结论： 
+2019—2023年首都医科大学附属北京儿童医院就诊儿童的过敏原sIgE变化趋势在一定程度上提示北京地区儿童过敏性疾病患病率呈逐年升高趋势。不同年龄儿童的过敏原sIgE致敏模式存在显著年龄差异，不同月份的吸入过敏原sIgE阳性率分布亦有不同。临床实践中应根据病史结合患者年龄、就诊月份等因素，综合解读过敏原检测报告。.
+
+DOI: 10.3760/cma.j.cn112150-20240701-00524
+PMID: 39710467 [Indexed for MEDLINE]
+
+
+7. Allergol Select. 2024 Nov 28;8:407-424. doi: 10.5414/ALX02543E. eCollection 
+2024.
+
+Occupational anaphylaxis: A Position Paper of the German Society of Allergology 
+and Clinical Immunology (DGAKI).
+
+Treudler R(1), Worm M(2), Bauer A(3), Dickel H(4), Heine G(5), Jappe U(6), 
+Klimek L(7), Raulf M(8), Wedi B(9), Wieczorek D(9), Francuzik W(2), Jakob T(10), 
+Pfaar O(11), Ring J(12), Rueff F(13), Schnadt S(14), Werfel T(9), Wurpts G(15), 
+Zarnowski J(16), Zuberbier T(1)(17), Brockow K(12).
+
+Author information:
+(1)Institute of Allergology, Charité - Universitätsmedizin Berlin, Corporate 
+Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin.
+(2)Department of Dermatology, Venereology and Allergology, Charité - 
+Universitätsmedizin Berlin, Corporate member of Freie Universität Berlin and 
+Humboldt-Universität zu Berlin, Berlin.
+(3)Department of Dermatology, University AllergyCenter, University Hospital Carl 
+Gustav Carus, Technical University Dresden, Dresden.
+(4)Department of Dermatology, Venereology and Allergology, St. Josef Hospital, 
+University Medical Center, Ruhr University Bochum, Bochum.
+(5)Department of Dermatology, Venereology and Allergy, University Hospital 
+Schleswig-Holstein, Campus Kiel, Kiel.
+(6)Division of Clinical and Molecular Allergology, Research Center Borstel, 
+Airway Research, Center North (ARCN), Member of the German Center for Lung 
+Research, Borstel, Interdisciplinary Allergy Outpatient Clinic, Department of 
+Pneumology, University of Luebeck.
+(7)Department of Otolaryngology, Head and Neck Surgery, Universitätsmedizin 
+Mainz, Mainz and Center for Rhinology and Allergology, Wiesbaden.
+(8)Department of Allergology/Immunology; Institute for Prevention and 
+Occupational Medicine of the German Social Accident Insurance, Institute of the 
+Ruhr-University Bochum (IPA), Bochum, Germany.
+(9)Department of Dermatology and Allergy, Comprehensive Allergy Center, Hannover 
+Medical School, Hannover.
+(10)Department of Dermatology and Allergology, University Medical Center Giessen 
+(UKGM), Justus-Liebig-University Giessen, Giessen.
+(11)Department of Otorhinolaryngology, Head and Neck Surgery, Section of 
+Rhinology and Allergy, University Hospital Marburg, Philipps-Universität 
+Marburg, Marburg.
+(12)Department of Dermatology and Allergy Biederstein, School of Medicine and 
+Health, Technical University of Munich TUM).
+(13)Department of Dermatology and Allergy, University Hospital, LMU Munich, 
+Munich.
+(14)German Allergy and Asthma Association (DAAB), Mönchengladbach.
+(15)Clinic for Dermatology and Allergology, Aachen Comprehensive Allergy Center 
+(ACAC), University Hospital of RWTH Aachen University, Aachen.
+(16)Department of Dermatology, Venerology and Allergology, University of Leipzig 
+Medical Center, Leipzig, and.
+(17)Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, 
+Immunology and Allergology, Berlin, Germany.
+
+BACKGROUND: Anaphylaxis is a systemic allergic reaction that is potentially 
+life-threatening. Occupational anaphylaxis is an anaphylaxis that occurs in an 
+occupational context. In this position paper, we propose diagnostic criteria for 
+occupational anaphylaxis and provide an overview of the current state of 
+knowledge in terms of prevalence, triggers, prevention, and management.
+RESULTS: The most common triggers of occupational anaphylaxis include 
+Hymenoptera venoms, followed by food and drugs. Chemicals, bites or contact with 
+animals (mammals/snakes/insects) and natural rubber latex are far less common. 
+Occupations at risk for occupational anaphylaxis are therefore beekeepers, 
+outdoor workers, or those who handle food as well as healthcare workers. The 
+route of contact, intensity, and frequency of exposure, type of allergen, and 
+the simultaneous occurrence of co-factors determine the clinical manifestation. 
+A detailed medical history is required to confirm the diagnosis of anaphylaxis 
+and to identify the trigger. Both skin tests and the determination of specific 
+IgE are recommended, but only very few commercially available and quality-tested 
+allergens are available that can be examined using both test methods. Preventive 
+measures are based on avoiding further exposure or, if necessary, replacing a 
+working substance. A written emergency plan and the prescription of an 
+adrenaline autoinjector as well as instructions for its use are mandatory. 
+Allergen immunotherapy is recommended for systemic Hymenoptera venom allergy. 
+Depending on the national healthcare systems, patients with occupational 
+anaphylaxis must be reported to the accident insurance.
+CONCLUSION: Occupational anaphylaxis is very rare. We recommend educational 
+measures and generally standardized recording of occupational anaphylaxis for 
+occupations with an increased risk of anaphylaxis.
+
+© Dustri-Verlag Dr. K. Feistle.
+
+DOI: 10.5414/ALX02543E
+PMCID: PMC11629776
+PMID: 39659712
+
+Conflict of interest statement: RT received research support from Sanofi-Genzyme 
+and the Hautnetz Leipzig/Westsachsen e.V. as well as fees for lectures and 
+consultations from AbbVie, Allmirall, ALK-Abello, LeoPharma, Novartis, Pfizer, 
+Sanofi-Genzyme, Viatris and support for congress visit from CSL-Behring; all 
+outside this paper. She is head of working group “Anaphylaxis” of the German 
+Society for Allergy and Clinical Immunology (DGAKI). MW reports support for 
+consultancies, lectures, and other scientific activities from ALK-Abelló 
+Arzneimittel GmbH, Abbvie, Eli Lilly, Mylan Germany GmbH, Bencard Allergie GmbH, 
+Novartis AG, Biotest AG, Sanofi-Aventis Deutschland GmbH, HAL Allergie GmbH, DBV 
+Technologies S.A, Aimmune Therapeutics UK Limited, Regeneron Pharmaceuticals, 
+Inc, Stallergenes GmbH. AB reports support for lectures, consultancies, and 
+project funding by Abbvie, Almirall, Amgen, AstraZeneca, Biofrontera, Blueberry 
+Therapeutics, Celldex, Centogene, Escient, Galderma, Genentec, Incyte, Jasper, 
+Leo, Lilly, Phavaris, L’Oreal, Novartis, Regeneron, Sanofi, Shire, Takeda. HD 
+reports support for consultancies, lectures, and other scientific activities 
+from LEO Pharma GmbH, Novartis Pharma GmbH, and Stallergenes GmbH, not 
+concerning the contents of the manuscript. GH reports personal fees for 
+consultancies or lectures from Abbvie, Allergopharma, ALK-Abelló, Biotest, Eli 
+Lilly, Leti, Novartis, Sanofi, all outside of this work. UJ has received hotel 
+accommodation and meals for a lecture and for leading a workshop organized by 
+ALK Abello. The fee went to the organization, the RCB. In addition, another 
+hotel night and dinner were recently provided by ALK Abello. Her research on 
+molecular allergology is funded by the Federal Ministry of Education and 
+Science, the Federal Ministry of Food and Agriculture (BMEL), the German 
+Research Foundation, and the Kanert Foundation, all outside the topic of this 
+article. The Federal Ministry of Technology, Economics and Technology has funded 
+their research on assays for the detection of anti-drug antibodies via the 
+AiF-ZIM program. LK reports grants and/or personal fees from Allergopharma, MEDA 
+/ Mylan, HAL Allergie, ALK Abelló, LETI Pharma, Stallergenes, Quintiles, Sanofi, 
+ASIT Biotech, Lofarma, Allergy Therapeut., AstraZeneca, GSK, Inmunotk, and 
+Cassela med outside the submitted work; and memberships: AeDA, DGHNO, German 
+Academy of Allergology and Clinical Immunology, HNO-BV, GPA, EAACI. MR received 
+fees for lectures from Alk-Abelló Arzneimittel GmbH, Berufsverband Deutscher 
+Baubiologen VDB e.V, Haus der Technik, LetiPharma, ThermoFisher Scientific 
+(Phadia). With regard to the content of this article, there are no conflicts of 
+interest that could arise from an employment relationship, benefits for 
+lectures, or other activities. BW reports support for one-day advisory boards 
+and/or lectures and/or other scientific acitivities by ALK-Scherax, Bencard, 
+Biocryst, CSL Behring, Kalvista, Novartis, Sanofi, Takeda, all outside the 
+submitted work. OP reports grants and/or personal fees from ALK-Abelló, Almirall 
+S.A., Allergopharma, Stallergenes Greer, HAL Allergy Holding B.V./HAL Allergie 
+GmbH, Bencard Allergie GmbH/Allergy Therapeutics, Lofarma, ASIT Biotech Tools 
+S.A., Laboratorios LETI/LETI Pharma, GlaxoSmithKline, ROXALL Medizin, Novartis, 
+Sanofi-Aventis and Sanofi-Genzyme, Med Update Europe GmbH, streamedup! GmbH, 
+Pohl-Boskamp, Inmunotek S.L., John Wiley and Sons, AS, Paul-Martini-Stiftung 
+(PMS), Regeneron Pharmaceuticals Inc., RG Aerztefortbildung, Institut für 
+Disease Management, Springer GmbH, AstraZeneca, IQVIA Commercial, Ingress 
+Health, Wort&Bild Verlag, Verlag ME, Procter&Gamble, ALTAMIRA, Meinhardt 
+Congress GmbH, Deutsche Forschungsgemeinschaft, Thieme, Deutsche AllergieLiga 
+e.V., AeDA, Alfried-Krupp Krankenhaus, Red Maple Trials Inc., Königlich 
+Dänisches Generalkonsulat, Medizinische Hochschule Hannover, ECM 
+Expro&Conference Management, Technische Universität Dresden, Lilly, Paul Ehrlich 
+Institut (PEI), Japanese Society of Allergy, Forum für Medizinische Fortbildung, 
+Dustri Verlag, all outside the submitted work and within the last 36 months; and 
+he is Vice President of EAACI and member of EAACI Excom, member of external 
+board of directors DGAKI; coordinator, main or co-author of different position 
+papers and guidelines in rhinology, allergology, and allergen-immunotherapy and 
+Associate Editor of the journal(s) Allergy and Clinical Translational Allergy 
+(CTA). JR has received honoraria for consulting and lectures from Sanofi, 
+Viatris, Allergika, AbbVie, Pfizer. SS reports support for consultancy and 
+lectures from Mylan Germany, DBV Technologies S.A., Aimmune Therapeutics, all 
+outside this paper. TW reports support for consultancy, lectures, and other 
+scientific activities from AbbVie, ALK Abello, Almirall, Astellas, Bencard, 
+Galderma, Janssen/JNJ, Leo Pharma, Leti, Lilly, Novartis, Pfizer, 
+Regeneron/Sanofi, Stallergenes. TZ reports support for consultations, lectures 
+and other scientific activities by AstraZeneca, AbbVie, ALK, Almirall, Astellas, 
+Bayer Health Care, Bencard, Berlin Chemie, FAES, HAL, Henkel, Kryolan, Leti, 
+Lofarma, L’Oreal, Meda, Menarini, Merck, MSD, Novartis, Pfizer, Sanofi, 
+Sanoflore, Stallergenes, Takeda, Teva, UCB as well as responsible participation 
+in the following organizations: Committee member, WHO initiative ‘Allergic 
+Rhinitis and its Impact on Asthma’ (ARIA), Member of the Board, German Society 
+for Allergy and Clinical Immunology (DGAKI), Head, European Centre for Allergy 
+Research Foundation (ECARF), Secretary General, Global Allergy and Asthma 
+European Network (GA2LEN), Member, Committee on Allergy Diagnosis and Molecular 
+Allergology, World Allergy Organization (WAO). KB reports support for 
+consultancies, lectures, and other scientific activities from ALK-Abelló 
+Arzneimittel GmbH, Bencard Allergie GmbH, Novartis AG, HAL Allergie GmbH, DBV 
+Technologies S.A, ThermoFisher, all outside of this paper. DW, WF, TJ, FR, GW, 
+JZ have no conflict of interest. Table 1.Criteria for the diagnosis of 
+anaphylaxis according to Sampson et al. [4]. Anaphylaxis is highly likely when 
+any one of three criteria are fulfilled:1.Acute onset of an illness (minutes to 
+several hours) with involvement of the skin, mucosal tissue, or both (e.g., 
+generalized hives, pruritus, or flushing, swollen lips-tongue-uvula)and at least 
+one of the following   a.Respiratory compromise (e.g., dyspnea, 
+wheeze-bronchospasm, stridor, reduced peak expiratory flow (PEF), 
+hypoxemia)   b.Reduced blood pressure (BP) or associated symptoms of end-organ 
+dysfunction (e.g., hypotension (collapse), syncope, incontinence)2.Two or more 
+of the following that occur rapidly after exposure to a likely allergen for that 
+patient (minutes to several hours):   a.Involvement of the skin-mucosal tissue 
+(e.g., generalized hives, itch-flush, swollen lips-tongue-uvula)   b.Respiratory 
+compromise (e.g., dyspnea, wheeze-bronchospasm, stridor, reduced PEF, 
+hypoxemia)   c.Reduced BP or associated symptoms (e.g., hypotension (collapse), 
+syncope, incontinence)   d.Persistent gastrointestinal symptoms (e.g., crampy 
+abdominal pain, vomiting)3.Reduced BP after exposure to known allergen for that 
+patient (minutes to several hours):   a.Infants and children: low systolic BP 
+(age specific) or greater than 30% decrease in systolic BP*   b.Adults: systolic 
+BP of less than 90 mmHg or greater than 30% decrease from that person’s 
+baseline*Low systolic blood pressure for children is defined as less than 70 
+mmHg from 1 month to 1 year, less than (70 mmHg + [2 × age]) from 1 to 10 years, 
+and less than 90 mmHg from 11 to 17 years. Table 2.Diagnostic criteria for 
+classification of occupational anaphylaxis. Sensitization at workplace 
+probableAnaphylaxis at workplaceClassification as occupational 
+anaphylaxisExampleYesYesYesInsect allergy in beekeepers Food allergy in cooks or 
+in workers in food service sector and in food industryYesNoYesDrug allergy in 
+healthcare workers (e.g., reaction when receiving antibiotic)No/unknownYesYes, 
+if allergen source belongs to typical work materialFood allergy in cooks or in 
+workers in food service sector and in food industryNo/unknownYesYes, if 
+sensitization at workplace is probable even if allergen source does not belong 
+to typical work materialInsect allergy in forest workersNo/unknownYesNo, if 
+allergen contact is attributable to private activitiesFood consumption at work 
+during break time Table 3.Selected workplaces with possible elicitors of 
+occupational anaphylaxis. Workplace/OccupationPossible elicitorsHealthcare 
+workerDrugs, natural rubber latex, chemicalsBeekeeper, gardener, green house 
+worker, sales assistant in bakeries and confectioneriesInsect venomFood 
+production and processingAnimal and vegetable food (inhalation, ingestion/skin 
+contact)Hunter, rangerAlpha-GAL in meat, insect venomLaboratory workerChemicals, 
+animal bites/contact Table 4.Important aspects for history taking in 
+occupational allergy [10, 11]. Allergen exposureExposure at the workplace or 
+outsideRoute of exposureFrequency of exposureType of allergenPotential 
+cofactorsPhysical activity, exerciseAlcoholStressAcute infectionsConcurrent 
+medications (i.e., beta-blocker, angiotensin-converting enzyme 
+inhibitors)Predisposing individual risk factorsOlder ageIncreased levels of 
+basal tryptase, mastocytosisUncontrolled AsthmaCardiovascular diseaseSex Table 
+5.Animal- and plant-derived elicitors of occupational anaphylaxis. 
+AllergenOccupation/WorkplaceReferenceAnimal-derived food allergens   SushiCook 
+Truck driver[24, 25]   SeafoodCook[22]   AnisakisFish monger, 
+supermarket#[26]   Cow’s milkDairy industry[27]   Donkey’s milkFood 
+laboratory[28]   Quail eggPoultry worker[29]   OysterOyster mushroom 
+farmer[30]   Red meat/alpha-GALForest service employee, hunter§, cattle worker, 
+cook[18, 20, 31]Plant-derived food allergens   Avocado, banana, chestnut, 
+manioc, and othersHealthcare worker with sensitization to natural rubber latex 
+as cross reaction[21, 
+32]   BuckwheatCook[33]   BroccoliCook[24]   ChicoryCook[34]   CorianderSpice 
+grinder[35, 36]   PaprikaSpice and condiment seller[37]   SunflowerSunflower 
+processing worker[38]   TamarilloCarpenter with sensitization to obeche wood as 
+cross reaction[39]Wheat flourCook #[24] #Generalized urticaria; §no clinical 
+reactions given in detail) [20]. Table 6.Drugs as elicitors in occupational 
+anaphylaxis. Group of 
+allergen/elicitorAllergenOccupation/workplaceReferenceAntibioticsPencillin 
+Cefotiam Piperacillin-tazobactam Isoniazid RifapentinHealthcare workers[40, 41, 
+42, 43, 44, 45, 46, 47, 48, 49]DisinfectantsChlorhexidine Povidone Iodine 
+Polyhexanide Chloramine Chlorocresol/chloroxylenolHealthcare workers Butchery 
+Carer[52, 53, 54, 55, 56, 57, 58, 72]LaxativePsylliumHealthcare 
+workers[59]Allergen immunotherapeuticTimothy grassHealthcare 
+worker[60]Coronavirus vaccinesIn question; direct complement 
+activation?Healthcare workers[63, 64, 66]Narcotic agentsSuccinylcholine 
+Neuromuscular blocking agents (several)Healthcare worker Hair dresser 
+Cleaner[61, 62] Table 7.Chemicals as elicitors of occupational anaphylaxis. 
+Elicitor/AllergenApplicationWorkplace/occupationReferenceChlorothalonilFungicideGreenhouse[74]Iridium 
+chlorideChemicalElectrochemistry[75]Cobalt chloridePaintCeramic 
+decorator[76]Polyethylene glycolsExcipients, solventsPainter[79]Chromium 
+vaporChemicalWelder[80]BenzonitrileIntermediate for chemicalsChemical 
+industry[81]HexafluorophosphatesCoupling reagentsLaboratory worker[82]Methyl 
+methacrylateAdhesiveHealthcare worker[84]PerfumesCosmeticsHealthcare worker[85, 
+86]PersulfatesBleachingsHair dresser[87, 88, 89]Hair/textile dyes 
+(2,4-toluylenediamine/Lanasol Yellow 4G)ColoringsHair dresser, textile 
+industry[90, 91] Table 8.Animals (bites/contact) as elicitors of occupational 
+anaphylaxis. 
+Elicitor/allergenContactWorkplace/occupationReferenceRodents   RatBiteLaboratory[106]   MouseBiteLaboratory[107]   Rat, 
+mouseBites (N = 2)Laboratory[108]   RabbitNeedle injury after contact to rabbit 
+tissueResearch physician[109]Snakes   Different snake venomsBites (n = 3)Outdoor 
+worker[110]   ViperBiteResearch laboratory[111]     Atractaspis corpulentaDeath 
+after bite, anaphylaxis suspected (reaction to antivenom was not ruled 
+out)Mechanical foreman[112]     Bothrops spp.BiteHerpetologist1[113]     
+Bothrops moojeniBiteViper farm[114]Insects     Rhiphicephalus spp.Tick 
+biteGoatherd[115]     Bruchus pisorumInhalation of dust of peas infested by B. 
+pisorumFarmer[116]     Thaumetopoea pityocampa2Skin contactPine/oak or resin 
+collectors/ woodcutters Farmers/Stockbreeders Farmers/stockbreeders[117]     
+Thaumetopoea pityocampa2Skin contactPine-resin worker[118]     Thaumetopoea 
+pityocampa2Skin contactForest[119]     Glossina morsitans3BiteLaboratory[120] 
+1Experts working with amphibians and reptiles; 2processionary caterpillar; 
+3tsetse fly. Table 9.Summarized recommendations for management of occupational 
+anaphylaxis 1.Improved diagnostic criteria for classification of occupational 
+anaphylaxis have to consider that   a.sensitization may take place at the 
+workplace or outside the workplace (e.g., Hymenoptera allergy)   b.clinical 
+reaction may not only manifest at the workplace but also outside the workplace 
+(e.g., drug allergy in healthcare workers).2.The acute management of an 
+anaphylactic reaction at the workplace should follow general guidelines on 
+anaphylaxis.3.In Germany, urgent medical suspicion of occupational anaphylaxis 
+must be reported to the Social accident insurance in Germany 
+(Unfallversicherungsträger).4.Prevention measures in patients with a history of 
+occupational anaphylaxis should include training in allergen avoidance and 
+eliminating the allergen as completely as possible.5.Every measure to prevent 
+further exposure should be carried out, this includes (according to STOP 
+principle): Substitution of elicitors, Technical measures, Organizational 
+measures for elicitor avoidance, and Personal safety precautions.6.Patients with 
+history of occupational anaphylaxis should be equipped with emergency 
+medications including adrenaline autoinjectors and a written emergency 
+management plan. They should receive safety education and training.7.In any 
+occupational setting where there is an employee with a history of previous 
+anaphylaxis, the availability of adrenaline and a person trained in its 
+administration are mandatory.8.In patients with venom anaphylaxis, an 
+occupational factor should always be considered.9.In occupational Hymenoptera 
+allergy, venom immunotherapy should be started.10.Workers with compromised skin 
+and especially atopic individuals should not wear gloves containing natural 
+rubber latex (NRL) – to primarily prevent sensitization. In secondary prevention 
+a “NRL-free” strategy should be followed.11.In occupations at greater risk for 
+occupational anaphylaxis, surveillance and awareness campaigns are 
+recommended.12.We call for awareness, documentation, and registration of 
+occupational anaphylaxis in registries.
+
+
+8. J Allergy Clin Immunol. 2025 Feb;155(2):421-422. doi: 
+10.1016/j.jaci.2024.11.017. Epub 2024 Nov 19.
+
+Food elimination in EoE: Milk before wheat, egg, and soy.
+
+Crawford RJ(1), Wright BL(2).
+
+Author information:
+(1)Division of Allergy, Asthma, and Clinical Immunology, Department of Medicine, 
+Mayo Clinic Arizona, Scottsdale, Ariz; Division of Allergy and Immunology, 
+Phoenix Children's Hospital, Phoenix, Ariz.
+(2)Division of Allergy, Asthma, and Clinical Immunology, Department of Medicine, 
+Mayo Clinic Arizona, Scottsdale, Ariz; Division of Allergy and Immunology, 
+Phoenix Children's Hospital, Phoenix, Ariz. Electronic address: 
+wright.benjamin@mayo.edu.
+
+DOI: 10.1016/j.jaci.2024.11.017
+PMCID: PMC12040323
+PMID: 39571913
+
+Conflict of interest statement: Disclosure statement Supported by the National 
+Institutes of Health/National Insitute of Allergy and Infectious Diseases (grant 
+K23AI158813 [to B.L.W.]). Disclosure of potential conflict of interest: The 
+authors declare that they have no relevant conflicts of interest.
+
+
+9. Pediatr Allergy Immunol. 2024 Nov;35(11):e14276. doi: 10.1111/pai.14276.
+
+AAAAI-EAACI PRACTALL: Standardizing oral food challenges-2024 Update.
+
+Sampson HA(1), Arasi S(2), Bahnson HT(3), Ballmer-Weber B(4)(5), Beyer K(6), 
+Bindslev-Jensen C(7), Bird JA(8), Blumchen K(9), Davis C(10), Ebisawa M(11), 
+Nowak-Wegrzyn A(12)(13), Patel N(14), Peters RL(15)(16), Sicherer S(1), Spergel 
+J(17), Turner PJ(14), Yanagida N(11), Eigenmann PA(18).
+
+Author information:
+(1)Division of Pediatric Allergy and Immunology, Department of Pediatrics, Jaffe 
+Food Allergy Institute, Icahn School of Medicine at Mount Sinai, New York, New 
+York, USA.
+(2)Translational Research in Pediatric Specialties Area, Division of Allergy, 
+Bambino Gesù Children's Hospital, IRCCS, Rome, Italy.
+(3)The Immune Tolerance Network, Seattle & Benaroya Research Institute at 
+Virginia Mason, Seattle, Washington, USA.
+(4)Allergy Unit, Department of Dermatology, University Hospital Zurich, Zurich, 
+Switzerland.
+(5)Clinic for Dermatology and Allergology, Kantonsspital St Gallen, St Gallen, 
+Switzerland.
+(6)Department of Pediatric Respiratory Medicine, Immunology and Critical Care 
+Medicine, Charité - Universitätsmedizin Berlin, Corporate Member of Freie 
+Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.
+(7)Department of Dermatology and Allergy Centre, Odense Research Centre for 
+Anaphylaxis (ORCA), Odense University Hospital, University of Southern Denmark, 
+Odense, Denmark.
+(8)Department of Pediatrics, University of Texas Southwestern Medical Center, 
+Dallas, Texas, USA.
+(9)Division of Pneumology, Allergology and Cystic Fibrosis, Department of 
+Paediatric and Adolescent Medicine, University Hospital Frankfurt, Goethe 
+University, Frankfurt, Germany.
+(10)Department of Pediatrics, Baylor College of Medicine, Houston, Texas, USA.
+(11)Department of Allergy, Clinical Research Center for Allergy and 
+Rheumatology, NHO Sagamihara National Hospital, Kanagawa, Japan.
+(12)Department of Pediatrics, Hassenfeld Children's Hospital, NYU Grossman 
+School of Medicine, New York, New York, USA.
+(13)Department of Pediatrics, Gastroenterology and Nutrition, Collegium Medicum, 
+University of Warmia and Mazury, Olsztyn, Poland.
+(14)National Heart & Lung Institute, Imperial College London, London, UK.
+(15)Murdoch Children's Research Institute, Parkville, Victoria, Australia.
+(16)Department of Paediatrics, University of Melbourne, Melbourne, Victoria, 
+Australia.
+(17)Division of Allergy and Immunology, Children's Hospital of Philadelphia, 
+Philadelphia, Pennsylvania, USA.
+(18)Pediatric Allergy Unit, University Hospitals of Geneva, Geneva, Switzerland.
+
+This common statement of the American Academy of Allergy, Asthma and Immunology 
+(AAAAI) and The European Academy of Allergy and Clinical Immunology (EAACI) 
+provides an update of the 2012 published guidelines on food challenges. The 
+guidelines equally address food challenges in the research and the clinical 
+settings. They first address the diagnostic tests which can guide the decision 
+to conduct a challenge. Safety of food challenges is prime, and the various 
+procedures and safety issues as well as medications potentially involved in 
+challenges are extensively discussed. Challenges are suggested to be conducted 
+with semi-logarithmic incremental doses based on the protein content, typically 
+for IgE-mediated food allergy with intervals of 20-30 min between doses. 
+Specific protocols for other types of reactions such atopic dermatitis or 
+gastrointestinal food allergy are detailed separately. Proper stopping criteria 
+are essential in order to reduce the risk of false-positive diagnoses, but also 
+severe reactions. The guidelines recommend criteria based on "go on," "stop," or 
+"observation." These revised guidelines will clearly provide much needed 
+guidance for food challenges in the research and clinical settings. They will 
+continue to evolve with new diagnostic tests or new needs in the field of food 
+allergy.
+
+© 2024 European Academy of Allergy and Clinical Immunology and John Wiley & Sons 
+Ltd.
+
+DOI: 10.1111/pai.14276
+PMID: 39560049 [Indexed for MEDLINE]
+
+
+10. Zhonghua Yu Fang Yi Xue Za Zhi. 2024 Nov 6;58(11):1797-1806. doi: 
+10.3760/cma.j.cn112150-20240830-00693.
+
+[Clinical diagnosis and management of wheat and buckwheat allergy: application 
+and prospects of allergen component diagnostics].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Liu L(1), Zhang JL(1), Luo WT(1), Li AL(1), Sun BQ(1).
+
+Author information:
+(1)Department of Clinical Laboratory of the First Affiliated Hospital of 
+Guangzhou Medical University, State Key Laboratory of Respiratory Disease, 
+National Center for Respiratory Medicine, National Clinical Research Center for 
+Respiratory Disease, Guangzhou Institute of Respiratory Health, Guangzhou510120, 
+China.
+
+Wheat and buckwheat allergies are common food allergies that significantly 
+impact patients' quality of life and health. Wheat allergy encompasses various 
+forms, including wheat food allergy, exercise-induced allergic reactions 
+(WDEIA), baker's occupational asthma/allergy, and contact urticaria. 
+IgE-mediated allergic reactions involve sensitization to stable wheat allergens 
+such as ω-5 gliadin and gluten. Although buckwheat allergy is less common, it is 
+gaining attention in certain regions. Allergen component diagnostic 
+technologies, by detecting specific allergen components [e.g., ω-5 gliadin, 
+gliadins (α, β, γ), and Tri a 14], offer precise allergen source identification, 
+aiding in the optimization of diagnosis and management processes. Oral challenge 
+tests are considered the gold standard for diagnosing wheat allergy, and 
+combining skin prick tests with specific IgE measurements can enhance diagnostic 
+accuracy. While avoidance of allergens remains the primary management strategy, 
+research into immunotherapy is ongoing. Future research should focus on a deeper 
+understanding of the structural and immunological characteristics of wheat and 
+buckwheat allergens to develop more accurate diagnostic tools and treatment 
+methods, thereby improving allergy management and patient quality of life. This 
+article provides a detailed interpretation of the Molecular Allergology User's 
+Guide 2.0 (MAUG 2.0) published by the European Academy of Allergy and Clinical 
+Immunology (EAACI) and recent research advances on wheat and buckwheat 
+allergies, highlighting the crucial role of allergen component diagnostics in 
+optimizing food allergy diagnosis and treatment processes, supporting clinicians 
+in accurately identifying common allergens and their cross-reactivity, and 
+formulating more personalized treatment plans for patients.
+
+Publisher: 
+小麦和荞麦过敏是常见的食物过敏类型，对患者生活质量和健康构成了显著威胁。小麦过敏主要分为小麦食物过敏症、小麦依赖运动诱发的过敏反应（WDEIA）、面包师职业性过敏/哮喘和接触性荨麻疹等多种类型，其中IgE介导的过敏反应包括对稳定的小麦过敏原如ω-5醇溶蛋白和谷蛋白的过敏。荞麦过敏则较为少见，但在某些地区正逐渐受到关注。过敏原分子组分诊断技术通过检测特定过敏原成分，如小麦的ω-5醇溶蛋白、醇溶蛋白（α、β、γ）、Tri 
+a 
+14等，提供了精确的过敏原识别，帮助优化诊断和管理流程。对于小麦和荞麦过敏，口服激发试验被认为是金标准，结合皮肤点刺试验和特异性IgE检测和病史可以提高诊断准确性。虽然避免过敏原是目前主要的管理策略，但免疫疗法的研发仍在进行中。未来的研究应集中于深入了解小麦和荞麦过敏原的结构与免疫特性，以开发更为精准的诊断工具和治疗方法，从而提升过敏管理的效果和患者的生活质量。本文通过详尽解读欧洲过敏和临床免疫学会（EAACI）发布的《过敏原组分诊断指导建议2.0》（Molecular 
+Allergology User′s Guide 2.0，MAUG 
+2.0）以及国内外关于小麦和荞麦过敏的研究进展，突显了过敏原组分诊断技术在优化食物过敏诊断与治疗流程中的重要作用，有效辅助临床医生准确识别常见的过敏原及交叉反应，为患者制订更个性化诊疗方案。.
+
+DOI: 10.3760/cma.j.cn112150-20240830-00693
+PMID: 39537423 [Indexed for MEDLINE]

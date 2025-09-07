@@ -1,0 +1,490 @@
+1. Food Res Int. 2025 Feb;203:115791. doi: 10.1016/j.foodres.2025.115791. Epub
+2025  Jan 20.
+
+Recent advances in 3D food printing: Therapeutic implications, opportunities, 
+potential applications, and challenges in the food industry.
+
+Arshad R(1), Saqib A(2), Sharif HR(3), Liaqat A(2), Xu B(4).
+
+Author information:
+(1)Department of Allied Health Sciences, The University of Chenab, Gujrat, 
+Pakistan.
+(2)University Institute of Diet and Nutritional Sciences, The University of 
+Lahore, Lahore, Pakistan.
+(3)Institute of Food Science and Nutrition, University of Sargodha, Sargodha, 
+Pakistan.
+(4)Food Science and Technology Program, Department of Life Sciences, BNU-HKBU 
+United International College, Zhuhai, Guangdong 519087, China. Electronic 
+address: baojunxu@uic.edu.cn.
+
+3D food printing (3DFP) offers a transformative approach in the food industry, 
+diverging from traditional manufacturing techniques. The integration of food 
+science and nutrition with 3DFP is pioneering personalized, eco-friendly, and 
+nutrient-rich food options, overcoming limitations of traditional manufacturing 
+methods. For the past 10 years, we have been strongly focused on creating 
+innovative, efficient, and functional food products while allowing customization 
+of food based on preferences for nutrition, flavor, texture, mouthfeel, and 
+appearance. Beyond customization, 3DFP demonstrates promise in addressing 
+pressing global challenges including food security, famine, and malnutrition by 
+facilitating the production of fortified, shelf-stable food products suitable 
+for resource- constrained environments. This comprehensive review explores the 
+intersection of 3DFP with food constituents, emphasizing its potential in 
+enhancing customization, sustainability, food safety, and shelf-life extension. 
+Additionally, it discusses the therapeutic potential of 3D printed foods for 
+various diseases, including gastrointestinal disorders, cancer, diabetes, 
+neurodegenerative disorders, and food allergies. Moreover, the review examines 
+potential food applications of 3DFP, such as in space food, food packaging, 
+dairy industry, fruit and vegetable processing, and cereal-based foods. The 
+review also addresses key challenges associated with 3DFP and underscores the 
+importance of four-dimensional food printing (4DFP).
+
+Copyright © 2025 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodres.2025.115791
+PMID: 40022323 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Nutrients. 2025 Feb 11;17(4):646. doi: 10.3390/nu17040646.
+
+The Role of Dairy in Human Nutrition: Myths and Realities.
+
+Sanjulián L(1), Fernández-Rico S(1), González-Rodríguez N(1), Cepeda A(1), 
+Miranda JM(1), Fente C(1), Lamas A(1), Regal P(1).
+
+Author information:
+(1)Food Hygiene, Inspection and Control Laboratory (Lhica), Department of 
+Analytical Chemistry, Nutrition and Bromatology, School of Veterinary Science, 
+Campus Terra, University of Santiago de Compostela, 27002 Lugo, Spain.
+
+Milk is a highly complex food that contains all the nutrients necessary for the 
+development of mammalian offspring. For millennia, humans have included milk and 
+milk products as major components of their diet. However, the effect of the 
+consumption of dairy products on health has been a concern in recent years in 
+terms of myths and realities. This review briefly describes the composition of 
+bovine milk, the positive and negative effects that have been related to dairy 
+products, and those aspects where the scientific evidence is still inconclusive. 
+In addition to being nutritional, dairy products are a source of bioactive 
+peptides, prebiotics and probiotics, fatty acids such as CLA, and fat globule 
+membranes or have a protective effect against certain diseases. Negative effects 
+include milk protein allergy or lactose intolerance. The effects of dairy 
+products on certain cancers, such as prostate cancer, and their role in type II 
+diabetes mellitus or weight gain are still inconclusive. Although the role of 
+dairy products in cardiovascular risk is still inconclusive, recent 
+meta-analyses have shown that dairy products may have a protective effect.
+
+DOI: 10.3390/nu17040646
+PMCID: PMC11858442
+PMID: 40004974 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+3. AACE Clin Case Rep. 2024 Aug 14;10(6):236-239. doi:
+10.1016/j.aace.2024.08.003.  eCollection 2024 Nov-Dec.
+
+Iodine Deficiency Hypothyroidism Among Children in the United States - 21st 
+Century Resurgence?
+
+Seetharaman S(1), Sasidharan Pillai S(2)(3), Ganta A(4), Millington K(5)(6), 
+Quintos JB(5)(6), Topor LS(5)(6), Serrano-Gonzalez M(5)(6).
+
+Author information:
+(1)Division of Pediatric Endocrinology and Diabetes, University of California 
+San Francisco, San Francisco, California.
+(2)Center for Endocrinology, Diabetes and Metabolism, Children's Hospital Los 
+Angeles, Los Angeles, California.
+(3)Keck School of Medicine, University of Southern California, Los Angeles, 
+California.
+(4)Division of Pediatric Endocrinology, Southern Illinois University School of 
+Medicine, Springfield, Illinois.
+(5)Warren Alpert Medical School of Brown University, Providence, Rhode Island.
+(6)Division of Pediatric Endocrinology, Hasbro Children's Hospital, Providence, 
+Rhode Island.
+
+BACKGROUND/OBJECTIVE: Iodine deficiency hypothyroidism is an important cause of 
+neurocognitive and motor impairment in children globally. In the United States, 
+universal salt iodization, which began in the 1920s, led to a dramatic decline 
+in iodine deficiency hypothyroidism. However, iodine deficiency may be 
+reemerging due to increased consumption of noniodized salts, decreased dairy 
+iodine concentrations, and decreased intake of iodine containing foods due to 
+food allergies, dietary preferences such as vegan diets, or restrictive food 
+intake disorders.
+CASE REPORT: We present a case series that challenges the existing clinical 
+paradigm for hypothyroidism and describe 3 patients without underlying thyroid 
+dysfunction who were diagnosed with iodine deficiency hypothyroidism over an 
+18-month period beginning in February 2021 in Northeastern United States. Prior 
+studies reported 2 additional cases diagnosed in that same time frame at our 
+clinical center.
+DISCUSSION: We report significant heterogeneity in clinical presentation: 3 
+patients had large goiters, 1 had a mild goiter, and 1 patient had no goiter. 
+Biochemical tests were also variable and included a wide range of thyroid 
+stimulating hormone elevations.
+CONCLUSION: We suggest that a spot urine iodine concentration, combined with an 
+elevated serum thyroglobulin level, can be an alternative to a 24-hour urinary 
+iodine excretion for the diagnosis of iodine deficiency hypothyroidism given the 
+clinical challenges of obtaining the latter. Thyroid function normalized in all 
+patients with iodine supplementation.
+
+© 2024 AACE. Published by Elsevier Inc.
+
+DOI: 10.1016/j.aace.2024.08.003
+PMCID: PMC11680746
+PMID: 39734508
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+4. Compr Rev Food Sci Food Saf. 2024 Nov;23(6):e70072. doi: 
+10.1111/1541-4337.70072.
+
+The health benefits of fermented fruits and vegetables and their underlying 
+mechanisms.
+
+Liu L(1), Li G(1), Cui L(1), Cai R(2), Yuan Y(2), Gao Z(1), Yue T(2), Wang Z(1).
+
+Author information:
+(1)College of Food Science and Engineering, Northwest A&F University, Xianyang, 
+Shaanxi, China.
+(2)College of Food Science and Technology, Northwest University, Xi'an, Shaanxi, 
+China.
+
+Fermented fruits and vegetables are rich in phenolic compounds, minerals, and 
+vitamins, which have potential health benefits for the prevention of many 
+diseases such as cardiovascular disease and Type 2 diabetes. There is a growing 
+demand for the development of nondairy probiotic products based on fruits and 
+vegetables in view of changing lifestyles (e.g., vegetarianism, veganism, and 
+allergy to dairy products) and the rise of nutritional diet therapy. In this 
+review, the processes and health potential of fermented fruits and vegetables 
+are described. The study focuses on the role of bacteria and fungi in fermented 
+fruits and vegetables, outlines the process of transformation of bioactive 
+components, and systematically summarizes the possible mechanisms of 
+antioxidant, anti-inflammatory, and blood pressure-lowering effects. The health 
+effects of fermented fruits and vegetables depend mainly on the microorganisms 
+present in the fermentation process and the bioactive components they produce, 
+such as phenols, vitamins, and organic acids. These active compounds exert many 
+health effects such as antioxidant, anti-inflammatory, anti-obesity, 
+hypotensive, hypoglycemic, and other health benefits. Therefore, the development 
+of fermented foods based on fruits and vegetables can be a promising way to 
+adapt to the market demand and to reduce the wastage of agriculturally produced 
+fruits and vegetables.
+
+© 2024 Institute of Food Technologists®.
+
+DOI: 10.1111/1541-4337.70072
+PMID: 39611544 [Indexed for MEDLINE]
+
+
+5. Microorganisms. 2024 May 27;12(6):1080. doi: 10.3390/microorganisms12061080.
+
+Probiotics and Cat Health: A Review of Progress and Prospects.
+
+Zha M(1), Zhu S(1), Chen Y(1).
+
+Author information:
+(1)Key Laboratory of Dairy Biotechnology and Engineering, Ministry of Education, 
+Inner Mongolia Agricultural University, Hohhot 010018, China.
+
+Cats are increasingly favored as companion animals; their health has drawn 
+widespread attention. Given the continuous improvements in the required living 
+standards of both humans and animals, inflammatory bowel disease, allergies, 
+diarrhea, constipation, periodontal disease, obesity, diabetes, and other health 
+issues have become recognized as valid pet problems. Antibiotics are commonly 
+used to treat pet diseases, greatly improving animal health. However, antibiotic 
+abuse is common, especially when seeking to treat bacterial infections. 
+Probiotics are beneficial microorganisms that may be directly ingested in food 
+or as feed additives; they improve the intestinal microflora balance, enhance 
+immunity, and ensure healthy growth. However, cat data are usually inferred from 
+reports on dogs or humans; cat research remains preliminary in nature. 
+Therefore, we here describe the current understanding of how probiotics improve 
+cat health, facilitating the further development and application of probiotics 
+for cats.
+
+DOI: 10.3390/microorganisms12061080
+PMCID: PMC11205573
+PMID: 38930462
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+6. Eur J Appl Physiol. 2024 Oct;124(10):3085-3093. doi:
+10.1007/s00421-024-05516-0.  Epub 2024 May 29.
+
+Fluid and electrolyte balance following consumption of skimmed milk and a 
+plant-based soya beverage at rest in euhydrated males.
+
+Peden DL(#)(1), Derbyshire S(#)(1), Funnell MP(1)(2), McLeod CJ(1), Rumbold 
+P(3), Hansell E(1), Clifford T(1), Mears SA(1), James LJ(4).
+
+Author information:
+(1)National Centre for Sport and Exercise Medicine, School of Sport, Exercise 
+and Health Sciences, Loughborough University, Loughborough, UK.
+(2)NIHR Applied Research Collaboration East Midlands, Diabetes Research Centre, 
+University of Leicester, Leicester, UK.
+(3)Department of Sport, Exercise and Rehabilitation, Faculty of Health and Life 
+Sciences, Northumbria University, Newcastle upon Tyne, UK.
+(4)National Centre for Sport and Exercise Medicine, School of Sport, Exercise 
+and Health Sciences, Loughborough University, Loughborough, UK. 
+L.James@lboro.ac.uk.
+(#)Contributed equally
+
+PURPOSE: Cow's milk is one of the most hydrating beverages, but many individuals 
+choose not to consume dairy in their diet due to intolerance, allergy, or 
+dietary preference. Milk is commonly replaced with plant-based beverages, 
+including soya which has the most comparable protein content, but little is 
+known about their hydration potential. This study compared fluid and electrolyte 
+balance responses between a soya beverage and skimmed cow's milk.
+METHODS: Ten healthy males [age 27 (6) y; body mass index 24.6 (2.3) kg/m2] 
+completed two randomised counterbalanced trials, involving consuming 1000 mL 
+water from approximately isocaloric amounts of skimmed cow's milk (MILK) or a 
+sweetened soya beverage (SOYA), in four aliquots over 30 min in a euhydrated 
+fasted state. Volume, specific gravity, and electrolyte (sodium, potassium, 
+chloride) concentrations were determined in total-void urine samples collected 
+pre-/post-beverage ingestion, and hourly for 180 min thereafter. Hunger, thirst, 
+nausea and stomach fullness were rated proximal to urine samples.
+RESULTS: Total urine mass (MILK, 986 ± 254 g; SOYA, 950 ± 248 g; P = 0.435) and 
+urine specific gravity (P = 0.156) did not differ between trials. Potassium 
+balance was greater in SOYA 0-180 min post-beverage (P ≤ 0.013), whilst chloride 
+balance was greater in MILK 0-120 min post-beverage (P ≤ 0.036). Sodium balance 
+(P = 0.258), total electrolyte balance (P = 0.258), and subjective measures 
+(P ≥ 0.139) were not different between trials.
+CONCLUSION: Replacing cow's milk with a soya beverage did not negatively impact 
+fluid balance in healthy young males, making it a viable option for those who 
+choose not to consume dairy in their diet.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00421-024-05516-0
+PMCID: PMC11467101
+PMID: 38809478 [Indexed for MEDLINE]
+
+Conflict of interest statement: No other authors have any conflicts of interest 
+to declare.
+
+
+7. Bioresour Bioprocess. 2023 Nov 28;10(1):85. doi: 10.1186/s40643-023-00702-y.
+
+An overview of fermentation in the food industry - looking back from a new 
+perspective.
+
+Siddiqui SA(1)(2), Erol Z(3), Rugji J(3), Taşçı F(3), Kahraman HA(3), Toppi 
+V(4), Musa L(5), Di Giacinto G(4), Bahmid NA(6), Mehdizadeh M(7)(8), 
+Castro-Muñoz R(9)(10).
+
+Author information:
+(1)Technical University of Munich, Campus Straubing for Biotechnology and 
+Sustainability, Essigberg 3, 94315, Straubing, Germany. s.siddiqui@dil-ev.de.
+(2)German Institute of Food Technologies (DIL E.V.), Prof.-Von-Klitzing Str. 7, 
+49610, Quakenbrück, Germany. s.siddiqui@dil-ev.de.
+(3)Department of Food Hygiene and Technology, Faculty of Veterinary Medicine, 
+Burdur Mehmet Akif Ersoy University, İstiklal Campus, 15030, Burdur, Turkey.
+(4)Department of Veterinary Medicine, University of Perugia, 06126, Perugia, 
+Italy.
+(5)Department of Veterinary Medicine and Animal Sciences, University of Milan, 
+26900, Lodi, Italy.
+(6)Research Center for Food Technology and Processing, National Research and 
+Innovation Agency (BRIN), Gading, Playen, Gunungkidul, 55861, Yogyakarta, 
+Indonesia.
+(7)Faculty of Agriculture and Natural Resources, University of Mohaghegh 
+Ardabili, Ardabil, Iran.
+(8)Ilam Science and Technology Park, Ilam, Iran.
+(9)Tecnologico de Monterrey, Campus Toluca, Av. Eduardo Monroy Cárdenas 2000, 
+San Antonio Buenavista, 50110, Toluca de Lerdo, Mexico. 
+food.biotechnology88@gmail.com.
+(10)Department of Sanitary Engineering, Faculty of Civil and Environmental 
+Engineering, Gdansk University of Technology, G. Narutowicza St. 11/12, 80-233, 
+Gdansk, Poland. food.biotechnology88@gmail.com.
+
+Fermentation is thought to be born in the Fertile Crescent, and since then, 
+almost every culture has integrated fermented foods into their dietary habits. 
+Originally used to preserve foods, fermentation is now applied to improve their 
+physicochemical, sensory, nutritional, and safety attributes. Fermented dairy, 
+alcoholic beverages like wine and beer, fermented vegetables, fruits, and meats 
+are all highly valuable due to their increased storage stability, reduced risk 
+of food poisoning, and enhanced flavor. Over the years, scientific research has 
+associated the consumption of fermented products with improved health status. 
+The fermentation process helps to break down compounds into more easily 
+digestible forms. It also helps to reduce the amount of toxins and pathogens in 
+food. Additionally, fermented foods contain probiotics, which are beneficial 
+bacteria that help the body to digest food and absorb nutrients. In today's 
+world, non-communicable diseases such as cardiovascular disease, type 2 
+diabetes, cancer, and allergies have increased. In this regard, scientific 
+investigations have demonstrated that shifting to a diet that contains fermented 
+foods can reduce the risk of non-communicable diseases. Moreover, in the last 
+decade, there has been a growing interest in fermentation technology to valorize 
+food waste into valuable by-products. Fermentation of various food wastes has 
+resulted in the successful production of valuable by-products, including 
+enzymes, pigments, and biofuels.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s40643-023-00702-y
+PMCID: PMC10991178
+PMID: 38647968
+
+Conflict of interest statement: The authors report there are no competing 
+interests to declare.
+
+
+8. Nutrition. 2023 Nov;115:112154. doi: 10.1016/j.nut.2023.112154. Epub 2023 Jul
+7.
+
+Probiotic-fortified fruit juices: Health benefits, challenges, and future 
+perspective.
+
+Naseem Z(1), Mir SA(2), Wani SM(3), Rouf MA(1), Bashir I(1), Zehra A(1).
+
+Author information:
+(1)Division of Food Science and Technology, SKUAST-K, Shalimar, Srinagar, India.
+(2)Department of Food Science and Technology, University of Kashmir, Hazratbal 
+Srinagar, India.
+(3)Division of Food Science and Technology, SKUAST-K, Shalimar, Srinagar, India. 
+Electronic address: wanisajad82@gmail.com.
+
+Consumers' growing interest in using foods that improve health has motivated 
+researchers and the food industry to develop new functional products, such as 
+foods containing probiotics or live microbes. Probiotics have functional 
+attributes that could satisfy most basic nutritional and therapeutic 
+supplementation requirements. These microbes positively respond to clinical 
+therapies against diseases and illnesses such as rotavirus-associated diarrhea, 
+irritable bowel syndrome, and food allergies. Moreover, the role of probiotics 
+in the prevention and treatment of obesity, diabetes, cancer, and diseases 
+related to pathogenic microbes is an exciting and rapidly advancing research 
+arena. Probiotic supplementation usually involves dairy products. However, 
+because of the growing number of individuals affected by lactose intolerance 
+and/or vegans, other food matrices like fruits, vegetables, cereals, and so on, 
+have been studied as potential carriers for these microorganisms, presenting an 
+alternative and better source in the process of assessing novel probiotic 
+strains. The present review discusses the various factors affecting the survival 
+of probiotics during storage in fruit juices, the possible effect of probiotics 
+on sensory attributes and the overall acceptance of the products, and future 
+technologies to improve the viability of probiotics.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nut.2023.112154
+PMID: 37536023
+
+Conflict of interest statement: Declaration of competing interest Corresponding 
+author, on behalf of all the authors of a submission, disclose that they have no 
+any financial and personal relationships with other people or organizations that 
+could inappropriately influence (bias) their work.
+
+
+9. Curr Top Med Chem. 2023;23(21):2075-2096. doi: 
+10.2174/1568026623666230710162217.
+
+Therapeutic Potential and Molecular Mechanisms of the Multitargeted Flavonoid 
+Fisetin.
+
+Rauf A(1), Abu-Izneid T(2), Imran M(3), Hemeg HA(4), Bashir K(5), Aljohani 
+ASM(6), Aljohani MSM(7), Alhumaydhi FA(8), Khan IN(9), Bin Emran T(10)(11), 
+Gondal TA(12), Nath N(13), Ahmad I(14), Thiruvengadam M(15).
+
+Author information:
+(1)Department of Chemistry, University of Swabi, Anbar, KPK, Pakistan.
+(2)Department of Pharmaceutical Sciences, College of Pharmacy, Al Ain University 
+of Science and Technology, Al Ain Campus, Abu Dhabi, United Arab Emirates.
+(3)Department of Food Science and Technology, University of Narowal, Punjab, 
+Pakistan.
+(4)Department of Medical Laboratory Technology, College of Applied Medical 
+Sciences, Taibah University, P.O. Box 344, Al-Madinah Al-Monawra, 41411, Saudi 
+Arabia.
+(5)Department of Health and Biological Sciences, Abasyn University, Peshawar, 
+Pakistan.
+(6)Department of Veterinary Medicine, College of Agriculture and Veterinary 
+Medicine, Qassim University, Buraydah, Saudi Arabia.
+(7)Pharmaceutical Care Department, King Saud Hospital, Ministry of Health, 
+Unaizah, Saudi Arabia.
+(8)Department of Medical Laboratories, College of Applied Medical Sciences, 
+Qassim University, Buraydah, Saudi Arabia.
+(9)Institute of Basic Medical Sciences, Khyber Medical University, Peshawar, 
+25100, Pakistan.
+(10)Department of Pharmacy, BGC Trust University Bangladesh, Chittagong, 4381, 
+Bangladesh.
+(11)Department of Pharmacy, Faculty of Allied Health Sciences, Daffodil 
+International University, Dhaka, 1207, Bangladesh.
+(12)School of Exercise and Nutrition, Faculty of Health, Deakin University, 
+Victoria, 3125, Australia.
+(13)Department of Pharmacy, International Islamic University Chittagong, 
+Chittagong, 4318, Bangladesh.
+(14)Department of Dairy Technology, University of Veterinary and Animal 
+Sciences, Lahore, Pakistan.
+(15)Department of Crop Science, College of Sanghuh Life Science, Konkuk 
+University, Seoul, 05029, South Korea.
+
+Flavonoids effectively treat cancer, inflammatory disorders (cardiovascular and 
+nervous systems), and oxidative stress. Fisetin, derived from fruits and 
+vegetables, suppresses cancer growth by altering cell cycle parameters that lead 
+to cell death and angiogenesis without affecting healthy cells. Clinical trials 
+are needed in humans to prove the effectiveness of this treatment for a wide 
+range of cancers. According to the results of this study, fisetin can be used to 
+prevent and treat a variety of cancers. Despite early detection and treatment 
+advances, cancer is the leading cause of death worldwide. We must take proactive 
+steps to reduce the risk of cancer. The natural flavonoid fisetin has 
+pharmacological properties that suppress cancer growth. This review focuses on 
+the potential drug use of fisetin, which has been extensively explored for its 
+cancer-fighting ability and other pharmacological activities such as diabetes, 
+COVID-19, obesity, allergy, neurological, and bone disorders. Researchers have 
+focused on the molecular function of fisetin. In this review, we have 
+highlighted the biological activities against chronic disorders, including 
+cancer, metabolic illnesses, and degenerative illnesses, of the dietary 
+components of fisetin.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1568026623666230710162217
+PMID: 37431899 [Indexed for MEDLINE]
+
+
+10. Genes (Basel). 2023 Jan 18;14(2):256. doi: 10.3390/genes14020256.
+
+Molecular Characterization and Phylogenetic Analysis of Casein Gene Family in 
+Camelus ferus.
+
+Parveen S(1)(2)(3), Zhu P(2), Shafique L(2), Lan H(4), Xu D(4), Ashraf S(3), 
+Ashraf S(3), Sherazi M(5), Liu Q(1).
+
+Author information:
+(1)Guangdong Provincial Key Laboratory of Animal Molecular Design and Precise 
+Breeding, School of Life Science and Engineering, Foshan University, Foshan 
+528225, China.
+(2)Guangxi Key Laboratory of Beibu Gulf Marine Biodiversity Conservation, Beibu 
+Gulf University, Guangxi 535011, China.
+(3)Department of Zoology, Government Sadiq College Women University, Bahawalpur 
+63100, Pakistan.
+(4)State Key Laboratory for Conservation and Utilization of Subtropical 
+Agro-Bioresources, Guangxi University, Nanning 530005, China.
+(5)Department of Dairy Technology, University of Veterinary and Animal Sciences, 
+Lahore 54000, Pakistan.
+
+Camel milk is known for its exceptional medical uses. It has been used since 
+ancient times to treat infant diarrhea, hepatitis, insulin-dependent diabetes 
+(IDDM), lactose intolerance, alcohol-induced liver damage, allergies, and 
+autism. It has the power to treat several diseases, with cancer being the most 
+significant. This study investigated the evolutionary relationship, 
+physiochemical characteristics, and comparative genomic analysis of the casein 
+gene family (CSN1S1, CSN2, CSN1S2, and CSN3) in Camelus ferus. Molecular 
+phylogenetics showing the camelid species clustered casein nucleotide sequences 
+into four groups: CSN1S1, CSN2, CSN1S2, and CSN3. The casein proteins from 
+camels were evaluated and found to be unstable, thermostable, and hydrophilic. 
+CSN1S2, CSN2, and CSN3 were acidic, but CSN1S1 was basic. CSN1S1 showed positive 
+selection for one amino acid (Q), CSN1S2 and CSN2 for three (T, K, Q), and CSN3 
+showed no positive selection. We also compared high-milk-output species such as 
+cattle (Bos Tarus) and low-milk-yield species such as sheep (Ovies Aries) with 
+camels (Camel ferus) and discovered that YY1 sites are more frequent in sheep 
+than in camels and very low in cattle. We concluded that the ratio of YY1 sites 
+in these species may affect milk production.
+
+DOI: 10.3390/genes14020256
+PMCID: PMC9957437
+PMID: 36833182 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declares that they have no conflict 
+of Interest.

@@ -1,0 +1,524 @@
+1. Cureus. 2025 Feb 22;17(2):e79442. doi: 10.7759/cureus.79442. eCollection 2025 
+Feb.
+
+Possible Resolution of Food Allergies Following Tocilizumab-Induced Remission of 
+Juvenile Idiopathic Arthritis.
+
+Magen I(1), Biton R(2), Khateeb M(2), Magen E(1).
+
+Author information:
+(1)Medicine, Assuta Ashdod University Medical Center, Ashdod, ISR.
+(2)Internal Medicine, Assuta Ashdod University Medical Center, Ashdod, ISR.
+
+This case report describes a unique instance of a four-year-old Ashkenazi Jewish 
+male with systemic juvenile idiopathic arthritis (JIA) and severe IgE-mediated 
+food allergies who achieved complete remission of both conditions following 
+treatment with tocilizumab, an IL-6 receptor antagonist. The patient initially 
+presented with anaphylactic reactions to peanuts, eggs, and cow's milk, 
+confirmed by positive skin prick tests and elevated specific IgE (sIgE) levels. 
+Systemic JIA symptoms, including daily fever spikes, evanescent rash, and 
+polyarticular arthritis, developed shortly thereafter. After inadequate response 
+to standard therapies, tocilizumab was initiated, resulting in complete 
+remission of JIA symptoms and unexpected resolution of food allergies. Repeat 
+allergological evaluations, including skin prick tests, sIgE levels, and 
+controlled oral food challenges, confirmed sustained tolerance to previously 
+allergenic foods. The dual remission observed in this case suggests that 
+interleukin-6 (IL-6) inhibition may modulate shared immunological pathways 
+underlying autoimmune and allergic diseases. IL-6 is a key cytokine in both 
+conditions, promoting Th17-mediated inflammation in JIA and Th2-mediated 
+allergic responses, including IgE production and mast cell activation. While the 
+spontaneous resolution of food allergies, particularly to milk and eggs, is 
+well-documented in pediatric populations, the resolution of peanut allergy, in 
+this case, is highly unusual and temporally associated with tocilizumab 
+treatment. This case raises the possibility that IL-6 inhibition may play a role 
+in modulating autoimmune and allergic responses, warranting further 
+investigation into the interplay between these pathways.
+
+Copyright © 2025, Magen et al.
+
+DOI: 10.7759/cureus.79442
+PMCID: PMC11931585
+PMID: 40130131
+
+Conflict of interest statement: Human subjects: Consent for treatment and open 
+access publication was obtained or waived by all participants in this study. 
+Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all 
+authors declare the following: Payment/services info: All authors have declared 
+that no financial support was received from any organization for the submitted 
+work. Financial relationships: All authors have declared that they have no 
+financial relationships at present or within the previous three years with any 
+organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+2. JAMA. 2024 Feb 13;331(6):510-521. doi: 10.1001/jama.2023.26857.
+
+Management of Food Allergies and Food-Related Anaphylaxis.
+
+Iglesia EGA(1), Kwan M(2), Virkud YV(3), Iweala OI(2)(3).
+
+Author information:
+(1)Division of Allergy, Pulmonary and Critical Care Medicine, Department of 
+Medicine, Vanderbilt University Medical Center, Nashville, Tennessee.
+(2)Thurston Arthritis Research Center, Division of Rheumatology, Allergy, and 
+Immunology, Department of Medicine, University of North Carolina School of 
+Medicine, Chapel Hill.
+(3)University of North Carolina Food Allergy Initiative, Division of Allergy and 
+Immunology, Department of Pediatrics, University of North Carolina School of 
+Medicine, Chapel Hill.
+
+IMPORTANCE: An estimated 7.6% of children and 10.8% of adults have IgE-mediated 
+food-protein allergies in the US. IgE-mediated food allergies may cause 
+anaphylaxis and death. A delayed, IgE-mediated allergic response to the 
+food-carbohydrate galactose-α-1,3-galactose (alpha-gal) in mammalian meat 
+affects an estimated 96 000 to 450 000 individuals in the US and is currently a 
+leading cause of food-related anaphylaxis in adults.
+OBSERVATIONS: In the US, 9 foods account for more than 90% of IgE-mediated food 
+allergies-crustacean shellfish, dairy, peanut, tree nuts, fin fish, egg, wheat, 
+soy, and sesame. Peanut is the leading food-related cause of fatal and 
+near-fatal anaphylaxis in the US, followed by tree nuts and shellfish. The 
+fatality rate from anaphylaxis due to food in the US is estimated to be 0.04 per 
+million per year. Alpha-gal syndrome, which is associated with tick bites, is a 
+rising cause of IgE-mediated food anaphylaxis. The seroprevalence of 
+sensitization to alpha-gal ranges from 20% to 31% in the southeastern US. 
+Self-injectable epinephrine is the first-line treatment for food-related 
+anaphylaxis. The cornerstone of IgE-food allergy management is avoidance of the 
+culprit food allergen. There are emerging immunotherapies to desensitize to one 
+or more foods, with one current US Food and Drug Administration-approved oral 
+immunotherapy product for treatment of peanut allergy.
+CONCLUSIONS AND RELEVANCE: IgE-mediated food allergies, including delayed 
+IgE-mediated allergic responses to red meat in alpha-gal syndrome, are common in 
+the US, and may cause anaphylaxis and rarely, death. IgE-mediated anaphylaxis to 
+food requires prompt treatment with epinephrine injection. Both food-protein 
+allergy and alpha-gal syndrome management require avoiding allergenic foods, 
+whereas alpha-gal syndrome also requires avoiding tick bites.
+
+DOI: 10.1001/jama.2023.26857
+PMCID: PMC11060332
+PMID: 38349368 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Iglesia 
+reported receiving grants from the Robert Wood Johnson Foundation during the 
+conduct of the study. Dr Kwan reported receiving grants from Pfizer QI outside 
+the submitted work. Dr Iweala reported serving as on the advisory boards of 
+Blueprint Medicines and Novartis and receiving consulting fees from Allakos Inc 
+outside the submitted work; and was a coauthor of an article sponsored by 
+Genentech. No other disclosures were reported.
+
+
+3. Immediate Hypersensitivity Reactions (Archived).
+
+Justiz Vaillant AA(1), Vashisht R, Zito PM(2).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 
+Jan–.
+2023 May 29.
+
+Author information:
+(1)University of the West Indies
+(2)University of Miami; Miller School of Medicine
+
+Hypersensitivity reactions (HR) are immune responses that are exaggerated or 
+inappropriate against an antigen or allergen. Coombs and Gell classified 
+hypersensitivity reactions into four forms. Type I, type II, and type III 
+hypersensitivity reactions are known as immediate hypersensitivity reactions 
+(IHR) because they occur within 24 hours. Antibodies including IgE, IgM, and IgG 
+mediate them. Type I or Anaphylactic Response The anaphylactic response is 
+mediated by IgE antibodies that are produced by the immune system in response to 
+environmental proteins (allergens) such as pollens, animal danders, or dust 
+mites. These antibodies (IgE) bind to mast cells and basophils, which contain 
+histamine granules that are released in the reaction and cause inflammation. 
+Type I hypersensitivity reactions can be seen in bronchial asthma, allergic 
+rhinitis, allergic dermatitis, food allergy, allergic conjunctivitis, and 
+anaphylactic shock. Anaphylaxis Anaphylaxis is a medical emergency as it can 
+lead to acute, life-threatening respiratory failure. It is an IgE-mediated 
+process. It is the most severe form of an allergic reaction, where mast cells 
+suddenly release a large amount of histamine and later on leukotrienes. In 
+severe cases intense bronchospasm, laryngeal edema, cyanosis, hypotension, and 
+shock are present.  Allergic Bronchial Asthma Allergic bronchial asthma is an 
+atopic disease, characterized by bronchospasm. It may also be a chronic 
+inflammatory disease. In its etiology, environmental factors along with a 
+genetic background play an important role. The diagnosis is dependent on history 
+and examination. In allergic bronchial asthma, IgE is elevated, and sputum 
+eosinophilia is common. Epidemiologically, a positive skin prick test or 
+specific IgE are risk factors for asthma. Allergic Rhinitis Allergic rhinitis is 
+another atopic disease where histamine and leukotrienes are responsible for 
+rhinorrhea, sneezing, and nasal obstruction. Allergens are similar to those 
+found in bronchial asthma. Nasal polyps may be seen in chronic rhinitis. 
+Allergic Conjunctivitis Allergic conjunctivitis presents with rhinitis and is 
+IgE-mediated. Itching and eye problems including watering, redness, and swelling 
+always occur. Food Allergy Clinicians must differentiate food allergy 
+(IgE-mediated) from food intolerance that can be a cause for a variety of 
+etiologies including malabsorption and celiac disease. It is more frequent in 
+children as seen in cow's milk allergy. Food allergy symptoms mostly affect the 
+respiratory tract, the skin, and the gut. Skin prick tests are helpful to test 
+for food allergens that can trigger severe reactions, e.g., peanuts, eggs, fish, 
+and milk. Atopic Eczema Atopic eczema is an IgE-mediated disease that affects 
+the skin and has an immunopathogenesis very similar to that of allergic asthma 
+and allergic rhinitis, which are present in more than half of these patients. 
+Radioallergosorbent (RAST) may reveal the specificity of the IgE antibody 
+involved but has little help in management. Drug Allergy Drugs may cause 
+allergic reactions by any mechanism of hypersensitivity. For example, penicillin 
+may cause anaphylaxis, which is IgE-mediated but most responses are trivial. 
+Penicillin cross-reacts with other semisynthetic penicillins including 
+monobactams and carbapenems and may also cross-react with other antibiotics such 
+as cephalosporins.   Type II or Cytotoxic-Mediated Response IgG and IgM mediate 
+cytotoxic-mediated responses against cell surface and extracellular matrix 
+proteins. The immunoglobulins involved in this type of reaction damage cells by 
+activating the complement system or by phagocytosis. Type 
+II hypersensitivity reactions can be seen in immune thrombocytopenia, autoimmune 
+hemolytic anemia, and autoimmune neutropenia. Immune Thrombocytopenia (ITP) ITP 
+is an autoimmune disorder that occurs at any age. Phagocytes destroy sensitized 
+platelets in the peripheral blood. Clinically, it manifests as thrombocytopenia 
+with shortened platelet survival and increased marrow megakaryocytes. Sudden 
+onset of petechiae and bleeding from the gums, nose, bowel, and urinary tract 
+occurs. Bleeding can accompany infections, drug reactions, malignancy, and other 
+autoimmune disorders such as thyroid disease and SLE. Autoimmune Hemolytic 
+anemia (AIHA) There are two types of immune hemolytic anemia: IgG-mediated (warm 
+AIHA) and IgM-mediated (cold AIHA). The warm type may be idiopathic autoimmune 
+or secondary to other diseases such as malignancy affecting the lymphoid 
+tissues. The cold type may be idiopathic or secondary to infections such as 
+Epstein-Barr virus. The primary clinical sign of the two is jaundice. The 
+laboratory diagnosis is made by a positive Coombs test, which identifies 
+immunoglobulins and C3 on red blood cells. Autoimmune Neutropenia Autoimmune 
+neutropenia may be present with bacterial and fungal infections, or it may occur 
+alone or with autoimmune diseases (systemic lupus erythematosus, rheumatoid 
+arthritis, autoimmune hepatitis), infections and lymphoma. Bone marrow 
+examination is needed if neutropenia is severe. For associated autoimmune 
+disorders, an autoimmune antibody panel is necessary (ANA, ENA, and dsDNA). 
+Hemolytic Disease of the Fetus and the Newborn (erythroblastosis fetalis) The 
+maternal immune system suffers an initial sensitization to the fetal Rh+ red 
+blood cells during birth when the placenta tears away. The first child escapes 
+the disease but the mother, now sensitized, will be capable of causing a 
+hemolytic reaction against a second Rh+ fetus, which develops anemia and 
+jaundice once the maternal IgG crosses the placenta. Myasthenia Gravis 
+Myasthenia gravis is an autoimmune disorder caused by antibodies to 
+post-synaptic acetylcholine receptors that interfere with neuromuscular 
+transmission. It is characterized by extreme muscular fatigue, double vision, 
+bilateral ptosis, deconjugate eye movements, difficulty swallowing, and weakness 
+in the upper arms. Babies born to mothers with myasthenia gravis can have 
+transient muscle weakness due to pathogenic IgG antibodies that cross the 
+placenta. Goodpasture Syndrome  Goodpasture syndrome is a type II 
+hypersensitivity reaction characterized by the presence of nephritis in 
+association with lung hemorrhage. In most patients, it is caused by 
+cross-reactive autoantigens that are present in the basement membranes of the 
+lung and kidney. A number of patients with this problem exhibit antibodies to 
+collagen type IV, which is an important component of basement membranes. 
+Pemphigus Pemphigus causes a severe blistering disease that affects the skin and 
+mucous membranes. The sera of patients with pemphigus have antibodies against 
+desmoglein-1 and desmoglein-3, which are components of desmosomes, which form 
+junctions between epidermal cells. Pemphigus is strongly linked to HLA-DR4 
+(DRB1*0402), which is a molecule that presents one of the autoantigens involved 
+in the immunopathogenesis of this disease (desmoglein-3). Type III or 
+Immunocomplex Reactions These are also mediated by IgM and IgG antibodies that 
+react with soluble antigens forming antigen-antibody complexes. The complement 
+system becomes activated and releases chemotactic agents that attract 
+neutrophils and cause inflammation and tissue damage as seen in vasculitis and 
+glomerulonephritis. Type III hypersensitivity reactions can classically be seen 
+in serum sickness and Arthus reaction. Serum Sickness Serum sickness can be 
+induced with massive injections of a foreign antigen. Circulating immune 
+complexes infiltrate the blood vessel walls and tissues, causing an increased 
+vascular permeability and leading to inflammatory processes such as vasculitis 
+and arthritis. It was a complication of anti-serum prepared in animals to which 
+some individuals produced antibodies to the foreign protein. It was also 
+experienced in the treatment with antibiotics such as penicillin. Arthus 
+Reaction Arthus reaction is a local reaction seen when a small quantity of 
+antigens is injected into the skin repeatedly until detectable levels of 
+antibodies (IgG) are present. If the same antigen is inoculated, immune 
+complexes develop at the mentioned local site and in the endothelium of small 
+vessels. This reaction is characterized by the presence of marked edema and 
+hemorrhage, depending on the administered dose of the foreign antigen.
+
+Copyright © 2025, StatPearls Publishing LLC.
+
+PMID: 30020687
+
+Conflict of interest statement: Disclosure: Angel Justiz Vaillant declares no 
+relevant financial relationships with ineligible companies. Disclosure: Rishik 
+Vashisht declares no relevant financial relationships with ineligible companies. 
+Disclosure: Patrick Zito declares no relevant financial relationships with 
+ineligible companies.
+
+
+4. Cell Mol Biol (Noisy-le-grand). 2022 Feb 4;67(5):27-37. doi: 
+10.14715/cmb/2021.67.5.4.
+
+Contemporary uses of old folks: the immunomodulatory and toxic potential of 
+fenbufen.
+
+Akhtar MF(1), Nisa MU(1), Saleem A(2), Hamid I(3), Alsharif KF(4), Abdel-Daim 
+MM(5), Rahman MH(6), Shah M(7), Sohail K(8), Javaid Z(9).
+
+Author information:
+(1)Riphah Institute of Pharmaceutical Sciences, Riphah International University, 
+Lahore Campus, Lahore, Pakistan. furqan.pharmacist@gmail.com.
+(2)Department of Pharmacology, Faculty of Pharmaceutical Sciences, Government 
+College University Faisalabad, Faisalabad, Pakistan. 
+furqan.pharmacist@gmail.com.
+(3)Cadson College of Pharmacy, University of the Punjab, Kharian, Pakistan. 
+furqan.pharmacist@gmail.com.
+(4)Department of Clinical Laboratory Sciences, College of Applied Medical 
+Sciences, Taif University, P.O. Box 11099, Taif 21944, Saudi Arabia. 
+furqan.pharmacist@gmail.com.
+(5)Department of Pharmaceutical Sciences, Pharmacy Program, Batterjee Medical 
+College, P.O. Box 6231 Jeddah 21442, Saudi Arabia. furqan.pharmacist@gmail.com.
+(6)Department of Pharmacy, Southeast University, Banani, Dhaka-1213, Bangladesh. 
+furqan.pharmacist@gmail.com.
+(7)Department of Botany, Abdul Wali Khan University Mardan, Mardan 23200, 
+Pakistan. furqan.pharmacist@gmail.com.
+(8)Akson College of Health Sciences, Mirpur University of Science and 
+Technology, Mirpur, AJK, Pakistan. furqan.pharmacist@gmail.com.
+(9)Department of Pharmacy, Mirpur University of Science and Technology, Mirpur, 
+AJK, Pakistan. furqan.pharmacist@gmail.com.
+
+Fenbfen is used for pain, pyrexia and in the management of osteoarthritis, 
+rheumatoid arthritis and other musculoskeletal disorders. The present research 
+was planned to examine the immunomodulatory activity of fenbufen in different 
+models of cell-mediated immunity (CMI) and humoral immunity (HI). The CMI was 
+evaluated by delayed-type hypersensitivity (DTH) and cyclophosphamide-induced 
+neutropenia assays while HI was appraised by hemagglutination (HA) assay by 
+administering fenbufen at 2, 6 and 10 mg.kg-1 and azathioprine 40 mg.kg-1 (as 
+standard therapy) to albino mice by intraperitoneal route. The ex vivo 
+immunomodulatory action was determined by red blood cell (RBC) membrane 
+stabilization and protein denaturation assays. The results showed that fenbufen 
+treatment had significantly (p<0.05-p<0.001) reduced white blood cells, 
+hemoglobin content, and red blood cells in the healthy and neutropenic mice. A 
+significant (p<0.001) reduction in activities of superoxide dismutase and 
+catalase and glutathione contents, and enhancement of malondialdehyde level were 
+observed in neutropenic mice that were restored by fenbufen treatment. It 
+suppressed DTH reaction after 24, 48 and 72 h post topical application of 2, 
+4-dinitrofluorobenzene (DNFB). Fenbufen or azathioprine treated groups also 
+showed a significant reduction in the antibody titer against human RBCs induced 
+immune activation in mice as compared to the disease control mice. Fenbufen 
+showed IC50 of 14.0, 50.5 and 66.2 μg.ml-1 whereas, diclofenac sodium showed 
+IC50 of 61.0, 126 and 50.5 μg/ml in RBCs membrane stabilization, egg albumin and 
+bovine serum albumin denaturation assays respectively. The current study shows 
+that fenbufen might have potential immunomodulatory activity against CMI and HI. 
+It can be utilized to treat immune system disorders.
+
+DOI: 10.14715/cmb/2021.67.5.4
+PMID: 35818275 [Indexed for MEDLINE]
+
+
+5. Medicine (Baltimore). 2019 Feb;98(6):e14421. doi: 10.1097/MD.0000000000014421.
+
+Association between food allergy and ankylosing spondylitis: An observational 
+study.
+
+Niu Q(1), Wei W(2), Huang Z(1), Zhang J(1), Yang B(1), Wang L(1).
+
+Author information:
+(1)Department of Laboratory Medicine, West China Hospital.
+(2)West China Medical School, Sichuan University, Chengdu, China.
+
+Food allergies can alter the gut microbiome composition, increasing the risk of 
+conditions such as ankylosing spondylitis (AS).To identify the association 
+between specific allergens and AS, we investigated the differences in the serum 
+levels of 14 food antigen-specific immunoglobulin (Ig) G between AS patients and 
+healthy participants. The association between the levels of these antibodies and 
+disease activity was assessed by measuring the inflammatory marker C-reactive 
+protein (CRP).We enrolled 75 AS patients and 78 healthy controls who had 
+undergone antigen-specific IgG tests in West China Hospital between January 2015 
+and October 2017, and performed enzyme-linked immunosorbent assays for specific 
+IgG against 14 food allergens: rice, egg, mushroom, milk, pork, chicken, beef, 
+crab, codfish, corn, soybean, tomato, shrimp, and wheat. The following tests 
+were used to analyze differences between AS patients and healthy controls: χ 
+test for sex, and a 2-tailed Student t-test or Mann-Whitney U test based on the 
+results of Levene test for age and IgG levels. Correlations between IgG and CRP 
+levels were calculated using a Spearman's correlation.AS patients had 
+significantly higher serum levels of beef-, crab-, and pork-specific IgG than 
+did healthy participants. In addition, the serum levels of pork-specific IgG 
+were significantly and positively correlated with CRP.These results suggest that 
+α-Gal, the predominant natural antigen in mammalian red meat, might play a 
+potential role in the pathogenesis of AS, and therefore, AS patients should 
+exclude such allergenic foods, including beef, crab and pork, from their daily 
+diet.
+
+DOI: 10.1097/MD.0000000000014421
+PMCID: PMC6380781
+PMID: 30732197 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+6. Rev Bras Reumatol Engl Ed. 2016 Mar-Apr;56(2):185-7. doi: 
+10.1016/j.rbre.2014.07.005. Epub 2015 Feb 20.
+
+Chronic polyarthritis as isolated manifestation of toxocariasis.
+
+[Article in English, Portuguese]
+
+Viola GR(1), Giacomin MF(1), França CM(1), Sallum AM(1), Jacob CM(2), Silva 
+CA(3).
+
+Author information:
+(1)Pediatric Rheumatology Unit, Pediatric Department, School of Medicine, 
+Universidade São Paulo, São Paulo, SP, Brazil.
+(2)Pediatric Allergy and Immunology Unit, Pediatric Department, School of 
+Medicine, Universidade São Paulo, São Paulo, SP, Brazil.
+(3)Pediatric Rheumatology Unit, Pediatric Department, School of Medicine, 
+Universidade São Paulo, São Paulo, SP, Brazil; Division of Rheumatology, School 
+of Medicine, Universidade São Paulo, São Paulo, SP, Brazil. Electronic address: 
+clovisaasilva@gmail.com.
+
+Human toxocariasis is a parasitic zoonosis mainly caused by Toxocara canis or 
+Toxocara cati and is acquired by ingestion of the parasite's embryonated eggs. 
+Arthralgia and/or arthritis were reported in up to 17% of the cases, generally 
+with acute duration (less than 6 weeks). However, to our knowledge, chronic 
+polyarthritis, as the isolated presentation of Toxocara infection, was not 
+reported. One of the 5809 patients that was followed up at our service (0.017%) 
+had chronic polyarthritis as the single manifestation of toxocariasis and was 
+described herein. A 3-year-old girl was referred to our service with severe 
+painful chronic polyarthritis for a period longer than 10 weeks and morning 
+stiffness of 30min. Dog contact exposure history in the recreational areas of 
+neighborhood was reported. Her exams showed high levels of eosinophils in 
+peripheral blood (29%), bone marrow aspirate revealed marked eosinophilia (32%) 
+and Toxocara enzyme-linked immunosorbent assay (Elisa) was positive (1:1280). 
+She was treated with paracetamol (40mg/kg/day) and thiabendazole (25mg/kg/day) 
+for 10 days, and all manifestations reduced. After eight months of follow-up, 
+she was on clinical and laboratorial remission. In conclusion, we described a 
+case of chronic polyarthritis, as isolated manifestation of toxocariasis, 
+mimicking juvenile idiopathic arthritis and leukemia. Importantly, this zoonosis 
+should be considered in patients with arthritis and eosinophilia.
+
+Copyright © 2014 Elsevier Editora Ltda. All rights reserved.
+
+DOI: 10.1016/j.rbre.2014.07.005
+PMID: 27267534 [Indexed for MEDLINE]
+
+
+7. Curr Allergy Asthma Rep. 2016 May;16(5):35. doi: 10.1007/s11882-016-0613-x.
+
+Peanut Allergy: New Developments and Clinical Implications.
+
+Commins SP(1)(2)(3)(4), Kim EH(5)(6)(7), Orgel K(7), Kulis M(7).
+
+Author information:
+(1)Department of Medicine, University of North Carolina School of Medicine, 
+Chapel Hill, NC, USA. scommins@email.unc.edu.
+(2)Thurston Arthritis Research Center, Chapel Hill, NC, USA. 
+scommins@email.unc.edu.
+(3)Department of Pediatrics, University of North Carolina School of Medicine, 
+Chapel Hill, NC, USA. scommins@email.unc.edu.
+(4)Department of Medicine, Division of Rheumatology, Allergy and Immunology, 
+University of North Carolina, 3300 Thurston Building, CB 7280, Chapel Hill, NC, 
+27599-7280, USA. scommins@email.unc.edu.
+(5)Department of Medicine, University of North Carolina School of Medicine, 
+Chapel Hill, NC, USA.
+(6)Thurston Arthritis Research Center, Chapel Hill, NC, USA.
+(7)Department of Pediatrics, University of North Carolina School of Medicine, 
+Chapel Hill, NC, USA.
+
+Food allergies have increased in prevalence over the past 20 years, now becoming 
+an important public health concern. Although there are no therapies currently 
+available for routine clinical care, recent reports have indicated that 
+immunotherapies targeting the mucosal immune system may be effective. Oral 
+immunotherapy is conducted by administering small, increasing amounts of food 
+allergen; it has shown promise for desensitizing individuals with peanut, egg, 
+or milk allergies. Sublingual immunotherapy also desensitizes allergic patients 
+to foods-two major studies have examined the effects of sublingual immunotherapy 
+in subjects with peanut allergies. We review the complex nature of IgE-mediated 
+food allergies and the therapies being evaluated in clinical trials. We focus on 
+the diagnosis and management of food allergies and investigational therapies.
+
+DOI: 10.1007/s11882-016-0613-x
+PMID: 27039393 [Indexed for MEDLINE]
+
+
+8. Bratisl Lek Listy. 2009;110(8):480-5.
+
+HLA-b27 subtypes in patients with spondylarthropathies, IgE levels against some 
+allergens and their relationship to the disease parameters.
+
+Kamanli A(1), Ardicoglu O, Godekmerdan A.
+
+Author information:
+(1)Division of Rheumatology, Department of Physical Medicine and Rehabilitation, 
+Firat University, School of Medicine, Elazig, Turkey. akamanli@hotmail.com
+
+In suitable genetic backgrounds, some exogenous and/or endogenous antigens may 
+cause SpA. In this study, we investigated HLA B27 subtypes and its relationship 
+to some allergens and clinical findings in a group of SpA patients. Forty-eight 
+patients (19F, 29M) with SpA (27 with ankylosing spondylitis, 5 with reactive 
+arthritis, 15 undifferentiated and 1 with psoriatic arthritis) were included to 
+the study. HLA-B alleles have been assessed using the LiPA (Line Probe Assay) 
+reverse hybridization principle method. The allergens studied were following: 
+egg white, yolk, wheat flour, hot pepper, tomatoes, olive, onion, chicken, black 
+tea, sheep cheese, penicillin panel (m1, m25, m28, m30), fungus panel (m1, m2, 
+m3, m6), and housemix panel (e1, e2, d1, d2, m2, m3). 59.3% of the patients were 
+positive for HLA-B27. Of these patients, 53.6% had B*2702 allele which was the 
+most common, followed by B*2708 (21.1%) and B*2701 (10.5%). HLA-B27 was positive 
+in 70% of the ankylosing spondylitis patients and 52% had B*2702 subgroup and 
+B35 was the most common subgroup among the patients who were HLA-B27 negative. 
+Allergic reactions against these 13 allergens were more severe in patients 
+HLA-B27 positive. The most frequent allergic reactions were against the onion 
+and housemix panel, followed by red pepper, tomatoes, sheep cheese and olive. 
+HLA-B*2702 and HLA-B*2701 subgroups had more severe allergic reactions that 
+correlated with a disease severity (p < 0.001). These results indicate that 
+B*2702 and B*2708 is more frequent in our region in contrast to B*2705 which is 
+more commonly found all around the world and that our region represents a 
+heterogeneous distribution. IgE levels against some allergen were found higher 
+in patients with SpA (Fig. 2, Tab. 5, Ref. 37).
+
+PMID: 19750986 [Indexed for MEDLINE]
+
+
+9. Gut. 2006 Sep;55(9):1240-7. doi: 10.1136/gut.2005.076901. Epub 2006 Feb 16.
+
+The gut-joint axis: cross reactive food antibodies in rheumatoid arthritis.
+
+Hvatum M(1), Kanerud L, Hällgren R, Brandtzaeg P.
+
+Author information:
+(1)Laboratory for Immunohistochemistry and Immunopathology (LIIPAT), Institute 
+of Pathology, Rikshospitalet, N-0027 Oslo, Norway.
+
+BACKGROUND AND AIMS: Patients with rheumatoid arthritis (RA) often feel there is 
+an association between food intake and rheumatoid disease severity. To 
+investigate a putative immunological link between gut immunity and RA, food 
+antibodies were measured in serum and perfusion fluid from the jejunum of RA 
+patients and healthy controls to determine the systemic and mucosal immune 
+response.
+METHODS: IgG, IgA, and IgM antibodies to dietary antigens were measured in serum 
+and jejunal perfusion fluid from 14 RA patients and 20 healthy subjects. The 
+antigens originated from cow's milk (alpha-lactalbumin, beta-lactoglobulin, 
+casein), cereals, hen's egg (ovalbumin), cod fish, and pork meat.
+RESULTS: In intestinal fluid of many RA patients, all three immunoglobulin 
+classes showed increased food specific activities. Except for IgM activity 
+against beta-lactoglobulin, all other IgM activities were significantly 
+increased irrespective of the total IgM level. The RA associated serum IgM 
+antibody responses were relatively much less pronounced. Compared with IgM, the 
+intestinal IgA activities were less consistently raised, with no significant 
+increase against gliadin and casein. Considerable cross reactivity of IgM and 
+IgA antibodies was documented by absorption tests. Although intestinal IgG 
+activity to food was quite low, it was nevertheless significantly increased 
+against many antigens in RA patients. Three of the five RA patients treated with 
+sulfasalazine for 16 weeks had initially raised levels of intestinal food 
+antibodies; these became normalised after treatment, but clinical improvement 
+was better reflected in a reduced erythrocyte sedimentation rate.
+CONCLUSIONS: The production of cross reactive antibodies is strikingly increased 
+in the gut of many RA patients. Their food related problems might reflect an 
+adverse additive effect of multiple modest hypersensitivity reactions mediated, 
+for instance, by immune complexes promoting autoimmune reactions in the joints.
+
+DOI: 10.1136/gut.2005.076901
+PMCID: PMC1860040
+PMID: 16484508 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared.
+
+
+10. Br J Gen Pract. 2003 Oct;53(495):801-2.
+
+Egg allergy and MMR vaccination.
+
+Fox A(1), Lack G.
+
+Author information:
+(1)Department of Paediatric Allergy and Immunology, St Mary's Hospital, London. 
+adam.fox2@virgin.net
+
+PMCID: PMC1314715
+PMID: 14601358 [Indexed for MEDLINE]

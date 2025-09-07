@@ -1,0 +1,663 @@
+1. Jpn J Nurs Sci. 2025 Jan;22(1):e12631. doi: 10.1111/jjns.12631.
+
+Relationship between maternal egg consumption during lactation and the risk of 
+developing egg allergies in 12-month-old infants: A multicenter cohort study.
+
+Kishino S(1), Yonezawa K(1)(2), Haruna M(1)(2), Usui Y(1)(2), Sasaki S(3), 
+Fujita M(4), Matsuzaki M(5)(6), Sato Y(7), Suetsugu Y(7), Ohori R(1)(2), Tanaka 
+M(1)(2), Aoyama S(1).
+
+Author information:
+(1)Division of Health Sciences and Nursing, Department of Midwifery and Women's 
+Health, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan.
+(2)Global Nursing Research Center, Graduate School of Medicine, The University 
+of Tokyo, Tokyo, Japan.
+(3)Department of Social and Preventive Epidemiology, School of Public Health, 
+The University of Tokyo, Tokyo, Japan.
+(4)Department of Clinical Nursing, Yamagata University Graduate School of 
+Medical Science, Yamagata, Japan.
+(5)Department of Reproductive Health Nursing, Graduate School of Health Care 
+Sciences, Institute of Science Tokyo, Tokyo, Japan.
+(6)Division of Health Sciences, Department of Children and Women's Health, 
+Graduate School of Medicine, Osaka University, Osaka, Japan.
+(7)Department of Health Sciences, Graduate School of Medical Sciences, Kyushu 
+University, Fukuoka, Japan.
+
+AIM: To determine the effect of maternal egg consumption during lactation on the 
+development of egg allergies in 12-month-old infants. We hypothesized that 
+infants whose mothers consume larger amounts of eggs during the early lactation 
+period acquire oral immune tolerance and are less likely to develop egg 
+allergies at 12 months.
+METHODS: This study was a part of the Japan Pregnancy Eating and Activity Cohort 
+Study. Mothers answered questionnaires on egg consumption, breastfeeding rates 
+at 1 month, infants' eczema at 6 months, and the development of egg allergies 
+among infants at 12 months. In order to assess the actual impact of maternal egg 
+consumption on infants' egg allergy development, breastfeeding-dependent egg 
+consumption was calculated at 1 month by multiplying maternal egg consumption at 
+1 month with the breastfeeding rates at the same time. Logistic regression 
+analysis was performed to examine the potential risk and protective factors.
+RESULTS: Data from 420 infants were analyzed, of whom 27 had egg allergies at 
+12 months. No significant impact of breastfeeding-dependent egg consumption was 
+observed on infants' egg allergy development at 12 months. However, infants with 
+eczema at 6 months showed a greater risk of developing an egg allergy at 
+12 months (adjusted odds ratio, 3.59; 95% confidence interval, 1.59-8.13).
+CONCLUSION: The results suggest that breastfeeding-dependent egg consumption at 
+1 month did not contribute to sufficient oral immune tolerance in 12-month-old 
+infants. Eczema at 6 months significantly impacted the development of an egg 
+allergy, emphasizing the importance of preventing cutaneous exposure to egg 
+allergens.
+
+© 2024 The Author(s). Japan Journal of Nursing Science published by John Wiley & 
+Sons Australia, Ltd on behalf of Japan Academy of Nursing Science.
+
+DOI: 10.1111/jjns.12631
+PMCID: PMC11586252
+PMID: 39581860 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest.
+
+
+2. Pediatr Dermatol. 2025 Mar-Apr;42(2):259-266. doi: 10.1111/pde.15807. Epub
+2024  Nov 11.
+
+Food Allergy Test-Guided Dietary Advice for Children With Atopic Dermatitis: A 
+Consensus Study.
+
+Garside L(1), Boyle R(2), Meyer R(3)(4), Skypala I(5), Allen H(6), Beattie P(7), 
+Dempsey J(8), Doyle M(9), Evans-Howells H(10), Feeney M(1)(11), Ludman S(12), 
+Marrs T(5), Ravenscroft J(13), Stiefel G(14), Umasunthar T(15), Vyas D(16), 
+Yerlett N(17), Walsh J(18), Brown SJ(19), Ridd MJ(1).
+
+Author information:
+(1)Centre for Applied Excellence in Skin & Allergy Research, University of 
+Bristol, Bristol, UK.
+(2)National Heart and Lung Institute, Imperial College London, London, UK.
+(3)Winchester University, Winchester, UK.
+(4)KU Leuven, Leuven, Belgium.
+(5)Guy's and St Thomas' NHS Foundation Trust, London, UK.
+(6)Imperial College London, London, UK.
+(7)Royal Hospital for Children, Glasgow, UK.
+(8)Imperial College Healthcare NHS Trust, London, UK.
+(9)Jersey Allergy Clinic, St Lawrence, Jersey, UK.
+(10)Dr Helen Allergy, Bournemouth, UK.
+(11)King's College London, London, UK.
+(12)Royal Devon University Healthcare NHS Foundation Trust, Exeter, UK.
+(13)Nottingham University Hospitals NHS Trust, Nottingham, UK.
+(14)University Hospitals of Leicester NHS Trust, Leicester, UK.
+(15)Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+(16)West Hertfordshire Hospitals NHS Trust, Watford, UK.
+(17)Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK.
+(18)Castle Partnership, Norwich, UK.
+(19)University of Edinburgh, Edinburgh, UK.
+
+BACKGROUND: The use of blood specific IgE or skin prick tests (SPT) to guide 
+dietary exclusions for disease control in children with atopic dermatitis (AD) 
+is controversial. We undertook a consensus exercise on how to interpret SPT 
+results and dietary history for cow's milk, hen's egg, wheat, and soy in 
+children < 2 years old with AD.
+METHODS: Fourteen clinicians from general practice, pediatrics, pediatric 
+dermatology, pediatric allergy, and pediatric dietetics from UK and Ireland took 
+part in an online modified Delphi study. Over three rounds, participants gave 
+their anonymous opinions and received individualized and group feedback, based 
+on the premise that all children had SPTs. The findings were discussed in an 
+online workshop.
+RESULTS: Of 18 symptoms, 12 were identified as relevant to immediate and 7 to 
+delayed allergy. Regarding SPTs, there was consensus over which allergens to use 
+for wheat and soy but not cow's milk or hen's egg; for all study foods, wheal 
+size was determined as 0-1 mm negative, ≥ 5 mm sensitized, but between 2 and 
+4 mm, categorization varied by food. During the final workshop, consensus was 
+reached on dietary advice for nine combinations of SPT results and dietary 
+history.
+CONCLUSION: We attained consensus on how SPTs and dietary history for four 
+common food allergens should be interpreted in young children under 2 years of 
+age with AD. These pragmatic recommendations may support clinician education, 
+consistency of decision-making, and future research.
+
+© 2024 The Author(s). Pediatric Dermatology published by Wiley Periodicals LLC.
+
+DOI: 10.1111/pde.15807
+PMCID: PMC11950804
+PMID: 39528241 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.W. has sat on clinical advisory panels to 
+Allergy UK and Anaphylaxis UK. G.S. acts as Trustee to Allergy UK, contributed 
+to an educational video on atopic dermatitis with Sanofi and is Principal 
+Investigator for NARF study. R.M. is on the advisory panel of CoMISS supported 
+by Nestle Health Science, has provided consultancy to Else Nutrition, and 
+received honoraria for lectures from Nutricia/Danone, Abbott, and Reckitt 
+Benckiser. I.S. has received honoraria for lectures from ThermoFisher, Royal 
+College of GPs, TouchiME. M.J.R. is chief investigator on the TIGER (Trial of 
+IgE food allergy tests for Eczema Relief) study (NIHR133464). S.J.B. has 
+received research funding (but no personal financial benefits) from the Wellcome 
+Trust (220875/Z/20/Z), UKRI, Medical Research Council, Rosetrees Trust, 
+Stoneygates Trust, British Skin Foundation, Charles Wolfson Charitable Trust, 
+anonymous donations from people with eczema, Unilever, Pfizer, Abbvie, 
+Sosei‐Heptares, Janssen, European Lead Factory (multiple industry partners) and 
+the BIOMAP consortium (EC‐IMI project ref. No 821511).
+
+
+3. J Allergy Clin Immunol. 2024 Dec;154(6):1489-1499.e9. doi: 
+10.1016/j.jaci.2024.08.018. Epub 2024 Oct 23.
+
+Air pollution is associated with persistent peanut allergy in the first 10 
+years.
+
+Lopez DJ(1), Lodge CJ(2), Bui DS(1), Waidyatillake NT(1), Su JC(3), Knibbs 
+LD(4), Wijesuriya R(5), Perrett KP(6), Koplin JJ(7), Soriano VX(5), Lycett K(8), 
+Wang Y(9), Allen K(10), Mavoa S(11), Dharmage SC(2), Lowe AJ(2), Peters RL(12); 
+HealthNuts investigators group.
+
+Collaborators: Cranswick N, Smart J, Douglass J, Ponsonby AL, Tang MLK, Gurrin 
+L, Wake M, Oakley J, Isaraj G, Dure N.
+
+Author information:
+(1)Allergy and Lung Health Unit, University of Melbourne, Melbourne, Australia.
+(2)Allergy and Lung Health Unit, University of Melbourne, Melbourne, Australia; 
+Murdoch Children's Research Institute, Melbourne, Australia.
+(3)Murdoch Children's Research Institute, Melbourne, Australia; Department of 
+Dermatology, Monash University, Eastern Health, Melbourne, Australia.
+(4)School of Public Health, University of Sydney, Sydney, Australia; Public 
+Health Research Analytics and Methods for Evidence, Public Health Unit, Sydney 
+Local Health District, Camperdown, Australia.
+(5)Murdoch Children's Research Institute, Melbourne, Australia; Department of 
+Paediatrics, University of Melbourne, Parkville, Australia.
+(6)Murdoch Children's Research Institute, Melbourne, Australia; Department of 
+Paediatrics, University of Melbourne, Parkville, Australia; Department Allergy & 
+Immunology, Royal Children's Hospital, Melbourne, Australia.
+(7)Murdoch Children's Research Institute, Melbourne, Australia; Child Health 
+Research Centre, University of Queensland, Brisbane, Australia.
+(8)Murdoch Children's Research Institute, Melbourne, Australia; Centre for 
+Social and Early Emotional Development (SEED), Deakin University, Geelong, 
+Australia.
+(9)Murdoch Children's Research Institute, Melbourne, Australia; Department of 
+Paediatrics, University of Melbourne, Parkville, Australia; Centre for Social 
+and Early Emotional Development (SEED), Deakin University, Geelong, Australia.
+(10)Murdoch Children's Research Institute, Melbourne, Australia; Department 
+Allergy & Immunology, Royal Children's Hospital, Melbourne, Australia.
+(11)Murdoch Children's Research Institute, Melbourne, Australia; Environment 
+Protection Authority Victoria, Melbourne, Australia.
+(12)Murdoch Children's Research Institute, Melbourne, Australia; Department of 
+Paediatrics, University of Melbourne, Parkville, Australia. Electronic address: 
+Rachel.peters@mcri.edu.au.
+
+BACKGROUND: The role of air pollution in eczema and food allergy development 
+remains understudied.
+OBJECTIVE: We aimed to assess whether exposure to air pollution is associated 
+with eczema and food allergies in the first 10 years of life.
+METHODS: HealthNuts recruited a population-based sample of 1-year-old infants 
+who were followed up at ages 4, 6, and 10 years. Annual average fine particulate 
+matter (particulate matter with diameter of 2.5 μm or less, or PM2.5) and 
+nitrogen dioxide (NO2) exposures were assigned to geocoded residential 
+addresses. Eczema was defined by parent report. Oral food challenges to peanut, 
+egg, and sesame were used to measure food allergy. Multilevel logistic 
+regression models were fitted, and estimates were reported as adjusted odds 
+ratios.
+RESULTS: Those exposed to high concentration of NO2 (<10 ppb) at age 1 year had 
+higher peanut allergy prevalence at ages 1 (adjusted odds ratio [95% confidence 
+interval], 2.21 [1.40-3.48]) and 4 (2.29 [1.28-4.11]) years. High exposure to 
+NO2 at 6 years old were associated with higher peanut allergy prevalence at age 
+6 (1.34 [1.00-1.82] per 2.7 ppb NO2 increase) years. Similarly, increased PM2.5 
+at age 1 year was associated with peanut allergy at ages 4, 6, and 10 years 
+(respectively, 1.27 [1.01-1.60], 1.27 [1.01-1.56], and 1.46 [1.05-2.04] per 1.2 
+μg/m PM2.5 increase) years. We found that increased concentrations of NO2 or 
+PM2.5 at age 1 year were associated with persistent peanut allergy at later 
+ages. Little evidence of associations was observed with eczema or with egg 
+allergy.
+CONCLUSIONS: Early-life exposure to PM2.5 and NO2 was associated with peanut 
+allergy prevalence and persistence. Policies aiming at reducing air pollution 
+could potentially reduce presence and persistence of peanut allergy.
+
+Copyright © 2024 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaci.2024.08.018
+PMID: 39453339 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure statement Supported by funding from 
+the National Health and Medical Research Council (NHMRC) of Australia, the Ilhan 
+Food Allergy Foundation, AnaphylaxiStop, the Charles and Sylvia Viertel Medical 
+Research Foundation, and the Victorian government’s Operational Infrastructure 
+Support Program. R.P., C.L., K.P.P., and A.L. are supported by NHMRC awards. 
+K.P.P. is also funded by a Melbourne Children’s Clinician-Scientist Fellowship. 
+D.L. was supported by the University of Melbourne and Becas Carlos Antonio Lopez 
+scholarship. The funding agencies had no direct role in the conduct of the 
+study; the collection, management, statistical analysis, and interpretation of 
+the data; decision to submit the report for publication; or the preparation and 
+approval of the report. Disclosure of potential conflict of interest: C. J. 
+Lodge, S. C. Dharmage, and A. J. Lowe have received research funds from GSK’s 
+competitively awarded Investigator sponsored studies program for unrelated 
+research. A. J. Lowe has received grant funding from SanofiRegeneron for 
+unrelated research; and has received donations of interventional product 
+(EpiCeram) from Primus Pharmaceuticals for unrelated research. J. C. Su has been 
+consultant/speaker/investigator for AbbVie, Amgen, Bioderma, Bristol Myers 
+Squibb, Ego Pharmaceuticals, Eli Lilly, Janssen, LEO Pharma, L’Oreal, Mayne, 
+Novartis, Pfizer, Pierre-Fabre, and Sanofi. K. P. Perrett has received research 
+grants from Aravax, DBV Technologies, Novartis, and Siolta; and consultant fees 
+from Aravax, paid to Perrett’s institution, outside the submitted work. The rest 
+of the authors declare that they have no relevant conflicts of interest.
+
+
+4. Medicine (Baltimore). 2024 Sep 6;103(36):e39605. doi: 
+10.1097/MD.0000000000039605.
+
+A case report of diet elimination guided by food specific IgG4 achieved clinical 
+cure for eczematous external otitis with finger paronychia.
+
+Du Y(1)(2), Yang B(1), Yao W(1), Zhu Y(3), Tang X(4), Wang H(1).
+
+Author information:
+(1)Department of Allergy and Clinical Immunology, The Second Affiliated Hospital 
+Zhejiang University School of Medicine, Hangzhou, China.
+(2)Department of Emergency Medicine, Hangzhou Third People's Hospital, Hangzhou, 
+China.
+(3)Department of Otolaryngology, The Second Affiliated Hospital Zhejiang 
+University School of Medicine, Hangzhou, China.
+(4)Department of Otolaryngology, Zhejiang Provincial Hospital of Traditional 
+Chinese Medicine, Hangzhou, China.
+
+RATIONALE: Eczematous external otitis (EEO) is the most difficult-to-treat 
+otitis externa, and characterized by the symptoms of inflammation with 
+hypersensitivity of the external ear canal skin. It is acknowledged as a chronic 
+skin inflammation primarily caused by dermatological and allergic reactions. 
+Food allergens are also considered a cause to induce the inflammation. However, 
+the role of food specific IgG4 in this disease is unclear yet.
+PATIENT CONCERNS: A 54-year-old woman complained of recurrent itching of the 
+external auditory meatus for 3 years and nails chapping of hands for 2 years.
+DIAGNOSES AND INTERVENTIONS: She was diagnosed with EEO and underwent the 
+therapeutic strategy as food elimination of egg, milk and wheat, guided by the 
+result of food specific IgG4 together with probiotics on the basis of previous 
+symptom controlling therapy.
+OUTCOMES: After 17 months' treatment, she was finally free of all the symptoms 
+and the serum IgG4 specific to all foods are under normal limit.
+LESSONS: To the best of our knowledge, it is the first report revealing the 
+clinical significance of food specific IgG4 in EEO, and the successful treatment 
+with diet elimination guided by food specific IgG4 threw a new light on the 
+clinical management of refractory EEO.
+
+Copyright © 2024 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000039605
+PMCID: PMC11383262
+PMID: 39252262 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+5. J Food Allergy. 2021 Sep 1;3(2):56-58. doi: 10.2500/jfa.2021.3.210007. 
+eCollection 2021 Sep.
+
+The impact of food matrices on egg allergenicity.
+
+Kaman K(1), Leeds S(1).
+
+Author information:
+(1)From the Section of Allergy and Clinical Immunology, Department of 
+Pediatrics, Yale University School of Medicine, New Haven, Connecticut.
+
+BACKGROUND: Although many studies show the impact of high and prolonged heating 
+on allergenicity, scarce research exists that examined the impact of the food 
+matrix effect. We presented a case that demonstrates the need for further 
+investigation into this field.
+CASE: An 8-month-old breast-fed girl with a history of moderate eczema presented 
+with concern for food allergy. At 7 months old, she seemed to have difficulty 
+with nursing after consumption of peanut butter, and her pediatrician 
+recommended further avoidance. On presentation to allergy, she had not yet 
+consumed eggs; therefore, skin testing was obtained for both peanut and egg. Her 
+skin testing result to peanut was negative, whereas to egg was elevated at 5/20 
+mm. To further support clinical decision-making, blood work was obtained, and 
+the egg white specific immunoglobulin E (IgE) value was elevated to 1.33 kU/L. 
+It was recommended to the family to pursue home introduction of peanut and 
+return for oral challenge to baked egg. At 14 months old, the patient returned 
+for oral challenge and successfully tolerated one-half of a muffin. She was 
+discharged with instructions to continue consumption of one-half of a muffin 
+ideally three or more times a week, which the parents reported she continued to 
+tolerate.
+CONCLUSION: When the patient was 24 months old, the mother decided, without 
+consultation, to introduce banana-chocolate chip muffins. With the first two 
+ingestions, she developed immediate urticaria. On the third consumption, she 
+developed anaphylaxis, which required epinephrine, with rapid improvement. The 
+patient subsequently returned to regular consumption of standard egg muffins (as 
+well as bananas and chocolate individually), which she continued to tolerate. 
+Based on our patient's ability to tolerate baked egg muffins without banana but 
+significant reaction to baked egg muffins with banana, a potential explanation 
+is that the addition of banana disrupted the egg-wheat matrix. This report 
+points toward a continued need to investigate the role food matrices play on the 
+allergenicity of foods. Furthermore, this case demonstrated the importance of 
+adhering to allergist-prescribed recipes to prevent allergic reactions.
+
+Copyright © 2021, The Author(s). Published by OceanSide Publications, Inc., 
+U.S.A.
+
+DOI: 10.2500/jfa.2021.3.210007
+PMCID: PMC11250551
+PMID: 39022399
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare pertaining to this article
+
+
+6. J Allergy Clin Immunol Pract. 2024 Nov;12(11):3068-3078.e3. doi: 
+10.1016/j.jaip.2024.07.001. Epub 2024 Jul 9.
+
+Prevalence and Determinants of Food Allergy in the Era of Early Allergen 
+Introduction: The EarlyNuts Population-Based Study.
+
+Soriano VX(1), Allen KJ(2), Dharmage SC(3), Shifti DM(4), Perrett KP(5), 
+Wijesuriya R(1), Koplin JJ(6), Peters RL(7).
+
+Author information:
+(1)Murdoch Children's Research Institute, Parkville, Victoria, Australia; 
+Department of Paediatrics, University of Melbourne, Parkville, Victoria, 
+Australia.
+(2)Murdoch Children's Research Institute, Parkville, Victoria, Australia.
+(3)Allergy and Lung Health Unit, School of Population and Global Health, 
+University of Melbourne, Parkville, Victoria, Australia; Centre for Food and 
+Allergy Research, Murdoch Children's Research Institute, Parkville, Victoria, 
+Australia.
+(4)Child Health Research Centre, University of Queensland, South Brisbane, 
+Queensland, Australia.
+(5)Murdoch Children's Research Institute, Parkville, Victoria, Australia; 
+Department of Paediatrics, University of Melbourne, Parkville, Victoria, 
+Australia; Centre for Food and Allergy Research, Murdoch Children's Research 
+Institute, Parkville, Victoria, Australia; Department of Allergy and Immunology, 
+Royal Children's Hospital, Parkville, Victoria, Australia.
+(6)Murdoch Children's Research Institute, Parkville, Victoria, Australia; Centre 
+for Food and Allergy Research, Murdoch Children's Research Institute, Parkville, 
+Victoria, Australia; Child Health Research Centre, University of Queensland, 
+South Brisbane, Queensland, Australia.
+(7)Murdoch Children's Research Institute, Parkville, Victoria, Australia; 
+Department of Paediatrics, University of Melbourne, Parkville, Victoria, 
+Australia. Electronic address: Rachel.peters@mcri.edu.au.
+
+BACKGROUND: Infant feeding guidelines in Australia changed in 2016 to recommend 
+introducing common allergy-causing foods by age 1 year to prevent food allergy. 
+Although most Australian infants now eat peanut and egg by age 6 months, some 
+still develop food allergy despite the early introduction of allergens.
+OBJECTIVES: To describe the prevalence of food allergy in a cohort recruited 
+after introducing the nationwide allergy prevention recommendations; identify 
+characteristics of infants who developed allergy despite early introduction of 
+allergens; and estimate the causal effect of modifiable exposures on food 
+allergy prevalence and whether this differed between infants who were introduced 
+to allergens before or after age 6 months.
+METHODS: We recruited a population-based sample of 12-month-old infants in 
+Melbourne, Australia. Infants had skin prick tests to four foods and parents 
+completed questionnaires. Infants with evidence of sensitization were offered 
+oral food challenges. Prevalence estimates were adjusted using inverse 
+probability weighting.
+RESULTS: In a cohort of infants (n = 1,420) in which nearly all infants had been 
+introduced to common allergens such as egg, milk, and peanut by age 1 year, the 
+prevalence of food allergy remained high at 11.3% (95% CI, 9.6-13.4). Infants 
+who developed food allergy despite introduction of the allergen by age 6 months 
+were more likely to have Asian-born parents. Early-onset moderate or severe 
+eczema was associated with an increased odds of food allergy irrespective of 
+whether allergens were introduced before or after age 6 months. Among infants 
+who were introduced to peanut at age 6 months or earlier, antibiotic use by age 
+6 months was associated with an increased odds of peanut allergy (adjusted odds 
+ratio = 6.03; 95% CI, 1.15-31.60).
+CONCLUSIONS: In a cohort in which early allergen introduction was common, the 
+prevalence of food allergy remained high. Infants who developed food allergy 
+despite introduction of the respective allergen by age 6 months were more likely 
+to have had Asian parents and early-onset eczema. New interventions are needed 
+for infants with a phenotype of food allergy that is not amenable to early 
+allergen introduction.
+
+Copyright © 2024 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2024.07.001
+PMID: 38992429 [Indexed for MEDLINE]
+
+
+7. Nutrients. 2024 May 23;16(11):1578. doi: 10.3390/nu16111578.
+
+Feasibility and Safety of the Early Introduction of Allergenic Foods in Asian 
+Infants with Eczema.
+
+Harama D(1), Saito-Abe M(1)(2), Hamaguchi S(1)(3), Fukuie T(1), Ohya Y(1)(2), 
+Yamamoto-Hanada K(1)(2).
+
+Author information:
+(1)Allergy Center, National Center for Child Health and Development, 2-10-1 
+Okura, Setagaya-ku, Tokyo 157-8535, Japan.
+(2)Medical Support Center for the Japan Environment and Children's Study, 
+National Research Institute for Child Health and Development, 2-10-1 Okura, 
+Setagaya-ku, Tokyo 157-8535, Japan.
+(3)Department of Pediatrics, Tokyo Metropolitan Hiroo Hospital, 2-34-10 Ebisu, 
+Shibuya-ku, Tokyo 150-0013, Japan.
+
+BACKGROUND: There is a lack of data regarding the early introduction of the 
+consumption of allergenic food among Asian infants.
+METHODS: We examined infants who had early-onset eczema before 6 months of age 
+and received instructions from certified allergists for the early introduction 
+of hen's eggs, milk, wheat, peanuts, and tree nuts.
+RESULTS: The consumption rates of hen's eggs were 100% at 24 months. For peanuts 
+and walnuts, the consumption rate was moderate at 12 months (48.5% and 30.3%, 
+respectively), but by 24 months, it had progressed to 78.8% and 81.3%, 
+respectively. In contrast, cashews remained at lower levels than other allergens 
+at 20.7% at 12 months and 41.4% at 24 months. No adverse events related to early 
+introductions occurred.
+CONCLUSIONS: In infants with eczema, allergenic foods could be introduced early 
+and well tolerated in Asian infants. However, having eczema may indicate a 
+predisposition to food allergies, so caution is necessary when introducing 
+allergenic foods. The early introduction of peanuts and tree nuts was still more 
+challenging in real-world practice in Asia as well as in Western countries.
+
+DOI: 10.3390/nu16111578
+PMCID: PMC11174384
+PMID: 38892510 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+8. J Hazard Mater. 2024 Jul 5;472:134506. doi: 10.1016/j.jhazmat.2024.134506.
+Epub  2024 May 6.
+
+Children's food allergy: Effects of environmental influences and antibiotic use 
+across critical developmental windows.
+
+Lu C(1), Jiang Y(2), Lan M(2), Wang L(2), Zhang W(3), Wang F(4).
+
+Author information:
+(1)XiangYa School of Public Health, Central South University, Changsha, China; 
+Hunan Provincial Key Laboratory of Low Carbon Healthy Building, Central South 
+University, Changsha, China. Electronic address: chanlu@csu.edu.cn.
+(2)XiangYa School of Public Health, Central South University, Changsha, China.
+(3)Department of GICU, Henan Provincial Chest Hospital, Weiwu Road No. 1, 
+Zhengzhou, China.
+(4)Division of Animal and Human Health Engineering, Department of Biosystems, KU 
+Leuven, Leuven, Belgium.
+
+BACKGROUND: Increasing studies linked outdoor air pollution (OAP), indoor 
+environmental factors (IEFs), and antibiotics use (AU) with the first wave of 
+allergies (i.e., asthma, allergic rhinitis, and eczema), yet the role of their 
+exposures on children's second wave of allergy (i.e., food allergy) are unknown.
+OBJECTIVES: To investigate the association between exposure to OAP and IEFs and 
+childhood doctor-diagnosed food allergy (DFA) during the pre-pregnancy, 
+prenatal, early postnatal, and current periods, and to further explore the 
+effect of OAP and IEFs on DFA in children co-exposed to antibiotics.
+METHODS: A retrospective cohort study involving 8689 preschoolers was carried 
+out in Changsha, China. Data on the health outcomes, antibiotic use, and home 
+environment of each child were collected through a questionnaire. Temperature 
+and air pollutants data were obtained from 8 and 10 monitoring stations in 
+Changsha, respectively. Exposure levels to temperature and air pollutants at 
+individual home addresses were calculated by the inverse distance weighted (IDW) 
+method. Multiple logistic regression models were employed to assess the 
+associations of childhood DFA with exposure to OAP, IEF, and AU.
+RESULTS: Childhood ever doctor-diagnosed food allergy (DFA) was linked to 
+postnatal PM10 exposure with OR (95% CI) of 1.18 (1.03-1.36), especially for CO 
+and O3 exposure during the first year with ORs (95% CI) = 1.08 (1.00-1.16) and 
+1.07 (1.00-1.14), as well as SO2 exposure during the previous year with OR (95% 
+CI) of 1.13 (1.02-1.25). The role of postnatal air pollution is more important 
+for the risk of egg, milk and other food allergies. Renovation-related IAP (new 
+furniture) and dampness-related indoor allergens exposures throughout all time 
+windows significantly increased the risk of childhood DFA, with ORs ranging from 
+1.23 (1.03-1.46) to 1.54 (1.29-1.83). Furthermore, smoke-related IAP 
+(environmental tobacco smoke [ETS], parental and grandparental smoking) exposure 
+during pregnancy, first year, and previous year was related to DFA. 
+Additionally, exposure to pet-related indoor allergens (cats) during first year 
+and total plant-related allergens (particularly nonflowering plants) during 
+previous year were associated with DFA. Moreover, exposure to plant-related 
+allergy during first and previous year was specifically associated with milk 
+allergy, while keeping cats during first year increased the risk of 
+fruits/vegetables allergy. Life-time and early-life AU was associated with the 
+increased risk of childhood DFA with ORs (95% CI) = 1.57 (1.32-1.87) and 1.46 
+(1.27-1.67), including different types food allergies except fruit/vegetable 
+allergy.
+CONCLUSIONS: Postnatal OAP, life-time and early-life IEFs and AU exposure played 
+a vital role in the development of DFA, supporting the "fetal origin of 
+childhood FA" hypothesis.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2024.134506
+PMID: 38714059 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+9. Trials. 2024 Apr 19;25(1):272. doi: 10.1186/s13063-024-08114-9.
+
+Tolerance induction through early feeding to prevent food allergy in infants and 
+children with sensitization against food allergens (TIFFANI): rationale, study 
+design, and methods of a randomized controlled trial.
+
+Kalb B(1), Meixner L(2), Heller S(2), Dölle-Bierke S(3), Roll S(4), 
+Tissen-Diabaté T(4), Lau S(2), Forslund S(5)(6)(7), Marenholz I(5), Lee YA(5), 
+Thiel A(8)(9), Babina M(10)(11), Scheffel J(10)(11), Worm M(3), Beyer K(2).
+
+Author information:
+(1)Department of Pediatric Respiratory Medicine, Immunology and Critical Care 
+Medicine, Charité - Universitätsmedizin Berlin, corporate member of Freie 
+Universität Berlin and Humboldt-Universität Zu Berlin, Berlin, Germany. 
+birgit.kalb@charite.de.
+(2)Department of Pediatric Respiratory Medicine, Immunology and Critical Care 
+Medicine, Charité - Universitätsmedizin Berlin, corporate member of Freie 
+Universität Berlin and Humboldt-Universität Zu Berlin, Berlin, Germany.
+(3)Division of Allergy and Immunology, Department of Dermatology, Venerology and 
+Allergy, Charité - Universitätsmedizin Berlin, corporate member of Freie 
+Universität Berlin and Humboldt-Universität Zu Berlin, Berlin, Germany.
+(4)Institute of Social Medicine, Epidemiology and Health Economics, , Charité - 
+Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and 
+Humboldt-Universität Zu Berlin, Berlin, Germany.
+(5)Experimental and Clinical Research Center, a cooperation between the 
+Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association and the 
+Charité -, Universitätsmedizin Berlin, Berlin, Germany.
+(6)DZHK (German Centre for Cardiovascular Research), Berlin, Germany.
+(7)Structural and Computational Biology Unit, EMBL, Heidelberg, Germany.
+(8)Si-M/"Der Simulierte Mensch" a science framework of Technische Universität 
+Berlin and Charité - , Universitätsmedizin Berlin, Berlin, Germany.
+(9)BIH Center for Immunomics, Charité - Universitätsmedizin Berlin, corporate 
+member of Freie Universität Berlin and Humboldt-Universität Zu Berlin, Berlin, 
+Germany.
+(10)Institute of Allergology, Charité - Universitätsmedizin Berlin, a corporate 
+member of Freie Universität Berlin, Humboldt-Universität Zu Berlin and Berlin 
+Institute of Health, Berlin, Germany.
+(11)Fraunhofer Institute for Translational Medicine and Pharmacology, 
+Allergology and Immunology, Berlin, Germany.
+
+BACKGROUND: Children with sensitization against foods have to be orally 
+food-challenged before eating these foods for the first time. However, the 
+waiting time for an oral food challenge (OFC) in Germany is about 3-6 months. In 
+contrast, there are hints that an early introduction of allergenic foods might 
+be protective regarding the development of food allergy. The aim of this 
+clinical trial is therefore to investigate, whether an introduction and regular 
+consumption of small amounts of food allergens is safe and will result in an 
+increase of tolerance in children with sensitization against food allergens with 
+unknown clinical relevance.
+METHODS: In this randomized, placebo-controlled, double-blind, single-center 
+trial, 138 children (8 months to 4 years of age) sensitized to the target 
+allergen(s) hen's egg, cow's milk, peanuts, and/or hazelnuts with unknown 
+clinical relevance will be randomized in a 1:1 ratio to either an active or a 
+placebo group, daily receiving a rusk-like biscuit powder with or without the 
+target allergen(s) for 3-6 months until an OFC will be performed in routine 
+diagnostics. The primary endpoint is an IgE-mediated food allergy to the primary 
+target allergen, after the interventional period.
+DISCUSSION: Children with sensitization against food allergens with unknown 
+clinical relevance often have to avoid the corresponding foods for several 
+months until an OFC is performed. Therefore, the "window of opportunity" for an 
+early preventive introduction of allergenic foods might be missed. This trial 
+will assess whether an introduction of small allergen amounts will favor 
+tolerance development in these children.
+TRIAL REGISTRATION: German Clinical Trials Register DRKS00032769. Registered on 
+02 October 2023.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s13063-024-08114-9
+PMCID: PMC11031852
+PMID: 38641837 [Indexed for MEDLINE]
+
+Conflict of interest statement: BK received consultation fees from Viatris. KB 
+reports grants/research supports from Aimmune, Danone/Nutricia/Milupa, DBV, 
+Hipp, Hycor, and Infectopharm and honoraria or consultation fees from Aimmune, 
+Bencard, Danone/Nutricia/Milupa, DBV, Hipp, Hycor, Infectopharm, Jenapharma, 
+Mylan/Meda, Nestle, Novartis, and Thermo Fisher outside of the submitted work. 
+MW declares the receipt of honoraria or consultation fees from the following 
+companies: ALK-Abelló Arzneimittel GmbH, Mylan Germany GmbH, Leo Pharma GmbH, 
+Sanofi-Aventis Deutschland GmbH, Regeneron Pharmaceuticals, DBV Technologies 
+S.A, Stallergenes GmbH, HAL Allergie GmbH, Allergopharma GmbH & Co.KG, Bencard 
+Allergie GmbH, Aimmune Therapeutics UK Limited, Actelion Pharmaceuticals 
+Deutschland GmbH, Novartis AG, Biotest AG., AbbVie Deutschland GmbH & Co. KG, 
+and Lilly Deutschland GmbH. All other authors declare that they have no 
+competing interests.
+
+
+10. Pediatr Allergy Immunol. 2024 Apr;35(4):e14115. doi: 10.1111/pai.14115.
+
+Design of the Intervention to Reduce Early Peanut Allergy in Children (iREACH): 
+A practice-based clinical trial.
+
+Bilaver LA(1)(2), Ariza AJ(1)(2), Binns HJ(1)(2), Jiang J(1), Cohn R(3), 
+Sansweet S(1), Hultquist H(1), Panza JL(4), Togias A(4), Gupta RS(1)(2).
+
+Author information:
+(1)Northwestern University Feinberg School of Medicine, Chicago, Illinois, USA.
+(2)Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, Illinois, USA.
+(3)Independent Consultant, Chapel Hill, North Carolina, USA.
+(4)National Institute of Allergy and Infectious Diseases, Bethesda, Maryland, 
+USA.
+
+BACKGROUND: Introducing peanut products early can prevent peanut allergy (PA). 
+The "Addendum guidelines for the prevention of PA in the United States" (PPA 
+guidelines) recommend early introduction of peanut products to low and moderate 
+risk infants and evaluation prior to starting peanut products for infants at 
+high risk for PA (those with severe eczema and/or egg allergy). Rapid adoption 
+of guidelines could aid in lowering the prevalence of PA. The Intervention to 
+Reduce Early (Peanut) Allergy in Children (iREACH) trial was designed to promote 
+PPA guideline adherence by pediatric clinicians.
+METHODS: A two-arm, cluster-randomized, controlled clinical trial was designed 
+to measure the effectiveness of an intervention that included clinician 
+education and accompanying clinical decision support tools integrated in 
+electronic health records (EHR) versus standard care. Randomization was at the 
+practice level (n = 30). Primary aims evaluated over an 18-month trial period 
+assess adherence to the PPA guidelines using EHR documentation at 4- and 6-month 
+well-child care visits aided by natural language processing. A secondary aim 
+will evaluate the effectiveness in decreasing the incidence of PA by age 
+2.5 years using EHR documentation and caregiver surveys. The unit of observation 
+for evaluations are individual children with clustering at the practice level.
+CONCLUSION: Application of this intervention has the potential to inform the 
+development of strategies to speed implementation of PPA guidelines.
+
+© 2024 The Authors. Pediatric Allergy and Immunology published by European 
+Academy of Allergy and Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/pai.14115
+PMCID: PMC11268822
+PMID: 38566365 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest Dr. Lucy Bilaver reported 
+receiving research support from the National Institutes of Health (NIH), 
+National Institute on Independent Living, Disability, and Rehabilitation 
+Research, FARE, Thermo Fisher Scientific, National Chocolate Association, Yobee 
+Care, Before Brands, Novartis, and Genentech outside the submitted work. Dr. 
+Ruchi Gupta received research support from the NIH, Food Allergy Research & 
+Education (FARE), Melchiorre Family Foundation, Sunshine Charitable Foundation, 
+The Walder Foundation, UnitedHealth Group, Thermo Fisher Scientific, and 
+Genentech; she also serves as a medical consultant/advisor for Genentech, 
+Novartis, Aimmune LLC, Allergenis LLC, and FARE; and Dr. Gupta has ownership 
+interest in Yobee Care Inc. No other disclosures to report from other authors.

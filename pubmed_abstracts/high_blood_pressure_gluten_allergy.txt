@@ -1,0 +1,392 @@
+1. Nutrients. 2024 Jul 31;16(15):2485. doi: 10.3390/nu16152485.
+
+Evaluation of Sourdough Bread and Its Potential Use in Support of the Treatment 
+of Chronic Non-Communicable Diseases.
+
+Bartos A(1), Malik A(2), Diowksz A(3), Podolska G(4), Leszczyńska J(2).
+
+Author information:
+(1)Department of Bioinorganic Chemistry, Faculty of Pharmacy, Medical University 
+of Lodz, Jana Muszyńskiego 1, 90-151 Łódź, Poland.
+(2)Institute of Natural Products and Cosmetics, Faculty of Biotechnology and 
+Food Sciences, Łódź University of Technology, Stefanowskiego 2/22, 90-537 Łódź, 
+Poland.
+(3)Institute of Fermentation Technology and Microbiology, Faculty of 
+Biotechnology and Food Sciences, Łódź University of Technology, Wólczańska 
+171/173, 90-530 Łódź, Poland.
+(4)Institute of Soil Science and Plant Cultivation, Czartoryskich 8, 24-100 
+Puławy, Poland.
+
+Gastrointestinal disorders dysregulate the biochemical environment of the 
+gastrointestinal tract by altering pH conditions during the gastric phase of 
+digestion or by reducing the secretion of pancreatin during the intestinal part 
+of the process. Ingested functional food could therefore lose some of its 
+health-promoting potential apart from its nutritional value. In this work, we 
+aimed to manufacture bread marked by decreased gluten content, using a 
+commercial or laboratory sourdough, that could be appropriate for patients 
+afflicted with wheat allergy, hypertension and pancreatic malfunctions. A 
+reference sample (no sourdough) was prepared alongside wheat and wheat-rye bread 
+samples-produced with either commercial or laboratory sourdough (L. plantarum 
+BS, L. brevis 1269, L. sanfranciscensis 20663). We measured the QQQPP allergen 
+content (ELISA) in bread extracts digested in vitro and determined how these 
+extracted components affect the level of active angiotensin and alpha amylase 
+(spectrophotometry). We then elucidated how these properties changed when 
+physiological digestion conditions (pH and pancreatin activity) were disturbed 
+to mimic gastric hyperacidity, hypochlorhydria or exocrine pancreatic 
+insufficiency. The key finding was that every tested type of bread produced with 
+laboratory sourdough exhibited pronounced angiotensin-converting enzyme 
+inhibition. The effect was preserved even in dysregulated digestive conditions. 
+The use of laboratory sourdough prevented an increase in allergenicity when 
+pancreatin was restricted as opposed to the commercial sourdough, which 
+surpassed the reference sample reading at 50% pancreatin. No statistically 
+consistent link was reported when the inhibition of alpha amylase was assayed. 
+In conclusion, functional bread manufactured with sourdough composed of L. 
+plantarum BS, L. brevis 1269, and L. sanfranciscensis 20663 was shown to be 
+potentially capable of contributing to the treatment against hypertension as 
+evidenced by in vitro research. It was also moderately safer with regard to its 
+allergenicity.
+
+DOI: 10.3390/nu16152485
+PMCID: PMC11314531
+PMID: 39125365 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Clin Gastroenterol Hepatol. 2024 Aug;22(8):1575-1583. doi: 
+10.1016/j.cgh.2024.03.046. Epub 2024 Jun 12.
+
+AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert 
+Review.
+
+DeLoughery TG(1), Jackson CS(2), Ko CW(3), Rockey DC(4).
+
+Author information:
+(1)Division of Hematology, Knight Cancer Institute, Oregon Health and Science 
+University, Portland, Oregon.
+(2)Department of Gastroenterology, VA Loma Linda Veterans Health Care System, 
+Loma Linda, California; Department of Medicine, Loma Linda University, Loma 
+Linda, California.
+(3)Department of Medicine, University of Washington School of Medicine, Seattle, 
+Washington. Electronic address: cwko@uw.edu.
+(4)Digestive Disease Research Center, Medical University of South Carolina, 
+Charleston, South Carolina.
+
+DESCRIPTION: In this Clinical Practice Update (CPU), we will Best Practice 
+Advice (BPA) guidance on the appropriate management of iron deficiency anemia.
+METHODS: This expert review was commissioned and approved by the AGA Institute 
+Clinical Practice Updates Committee (CPUC) and the AGA Governing Board to 
+provide timely guidance on a topic of high clinical importance to the AGA 
+membership, and underwent internal peer review by the CPUC and external peer 
+review through standard procedures of Clinical Gastroenterology and Hepatology. 
+These Best Practice Advice (BPA) statements were drawn from a review of the 
+published literature and from expert opinion. Since systematic reviews were not 
+performed, these BPA statements do not carry formal ratings regarding the 
+quality of evidence or strength of the presented considerations. BEST PRACTICE 
+ADVICE 1: No single formulation of oral iron has any advantages over any other. 
+Ferrous sulfate is preferred as the least expensive iron formulation. BEST 
+PRACTICE ADVICE 2: Give oral iron once a day at most. Every-other-day iron 
+dosing may be better tolerated for some patients with similar or equal rates of 
+iron absorption as daily dosing. BEST PRACTICE ADVICE 3: Add vitamin C to oral 
+iron supplementation to improve absorption. BEST PRACTICE ADVICE 4: Intravenous 
+iron should be used if the patient does not tolerate oral iron, ferritin levels 
+do not improve with a trial of oral iron, or the patient has a condition in 
+which oral iron is not likely to be absorbed. BEST PRACTICE ADVICE 5: 
+Intravenous iron formulations that can replace iron deficits with 1 or 2 
+infusions are preferred over those that require more than 2 infusions. BEST 
+PRACTICE ADVICE 6: All intravenous iron formulations have similar risks; true 
+anaphylaxis is very rare. The vast majority of reactions to intravenous iron are 
+complement activation-related pseudo-allergy (infusion reactions) and should be 
+treated as such. BEST PRACTICE ADVICE 7: Intravenous iron therapy should be used 
+in individuals who have undergone bariatric procedures, particularly those that 
+are likely to disrupt normal duodenal iron absorption, and have iron-deficiency 
+anemia with no identifiable source of chronic gastrointestinal blood loss. BEST 
+PRACTICE ADVICE 8: In individuals with inflammatory bowel disease and 
+iron-deficiency anemia, clinicians first should determine whether 
+iron-deficiency anemia is owing to inadequate intake or absorption, or loss of 
+iron, typically from gastrointestinal bleeding. Active inflammation should be 
+treated effectively to enhance iron absorption or reduce iron depletion. BEST 
+PRACTICE ADVICE 9: Intravenous iron therapy should be given in individuals with 
+inflammatory bowel disease, iron-deficiency anemia, and active inflammation with 
+compromised absorption. BEST PRACTICE ADVICE 10: In individuals with portal 
+hypertensive gastropathy and iron-deficiency anemia, oral iron supplements 
+initially should be used to replenish iron stores. Intravenous iron therapy 
+should be used in patients with ongoing bleeding who do not respond to oral iron 
+therapy. BEST PRACTICE ADVICE 11: In individuals with portal hypertensive 
+gastropathy and iron-deficiency anemia without another identified source of 
+chronic blood loss, treatment of portal hypertension with nonselective 
+β-blockers can be considered. BEST PRACTICE ADVICE 12: In individuals with 
+iron-deficiency anemia secondary to gastric antral vascular ectasia who have an 
+inadequate response to iron replacement, consider endoscopic therapy with 
+endoscopic band ligation or thermal methods such as argon plasma coagulation. 
+BEST PRACTICE ADVICE 13: In patients with iron-deficiency anemia and celiac 
+disease, ensure adherence to a gluten-free diet to improve iron absorption. 
+Consider oral iron supplementation based on the severity of iron deficiency and 
+patient tolerance, followed by intravenous iron therapy if iron stores do not 
+improve. BEST PRACTICE ADVICE 14: Deep enteroscopy performed in patients with 
+iron-deficiency anemia suspected to have small-bowel bleeding angioectasias 
+should be performed with a distal attachment to improve detection and facilitate 
+treatment. Small-bowel angioectasias may be treated with ablative thermal 
+therapies such as argon plasma coagulation or with mechanical methods such as 
+hemostatic clips. BEST PRACTICE ADVICE 15: Endoscopic treatment of angioectasias 
+should be accompanied with iron replacement. Medical therapy for small-bowel 
+angioectasias should be reserved for compassionate treatment in refractory cases 
+when iron replacement and endoscopic therapy are ineffective.
+
+Copyright © 2024 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cgh.2024.03.046
+PMID: 38864796 [Indexed for MEDLINE]
+
+
+3. Chest. 2021 Nov;160(5):e513-e518. doi: 10.1016/j.chest.2021.06.045.
+
+A 56-Year-Old Man With Emphysema, Rash, and Arthralgia.
+
+Goel K(1), Maleki-Fischbach M(2), George MP(3), Kim D(4), Richards J(5), Wise 
+RA(6), Serban KA(7).
+
+Author information:
+(1)Department of Medicine, Division of Pulmonary Sciences and Critical Care 
+Medicine, University of Colorado, Aurora, CO; Department of Medicine, Division 
+of Pulmonary and Critical Care, National Jewish Health, Denver, CO. Electronic 
+address: khushboo.goel@cuanschutz.edu.
+(2)Department of Medicine, Division of Rheumatology, National Jewish Health, 
+Denver, CO.
+(3)Department of Medicine, Division of Pulmonary and Critical Care, National 
+Jewish Health, Denver, CO.
+(4)Department of Medicine, Division of Cardiology, National Jewish Health, 
+Denver, CO.
+(5)Department of Radiology, National Jewish Health, Denver, CO.
+(6)Department of Medicine, Division of Pulmonary and Critical Care, Johns 
+Hopkins, Baltimore, MD.
+(7)Department of Medicine, Division of Pulmonary Sciences and Critical Care 
+Medicine, University of Colorado, Aurora, CO; Department of Medicine, Division 
+of Pulmonary and Critical Care, National Jewish Health, Denver, CO.
+
+A 56-year-old man presented to the pulmonary clinic with dyspnea and hypoxemia 
+on exertion. He was an avid biker and skier who had noticed a significant 
+decrease in high-level physical activity over the past 3 years. He reported 
+dyspnea, desaturations at altitudes higher than 9,000 feet, dry cough, 
+tachycardia, and palpitations with exercise. Review of systems was also notable 
+for gluten-intolerance, Raynaud's phenomenon, recurrent skin lesions and joint 
+swelling, pain, and stiffness in the areas overlying the jaw, wrists, knees, and 
+ankles (after capsaicin exposure). He denied fever, chills, anorexia, weight 
+loss, hair loss, ocular symptoms, jaw claudication, chest pain, or lower 
+extremity swelling. He had a five pack-year smoking history, no history of 
+prematurity, childhood asthma, recurrent infections, or environmental and 
+occupational exposure. Based on pulmonary function tests from an outside 
+provider, he had received a diagnosis of exercise-induced asthma and had been 
+prescribed an albuterol inhaler to use on an as-needed basis, which failed to 
+improve his symptoms. He was later prescribed a mometasone-formoterol inhaler, 
+still with no symptomatic improvement.
+
+Copyright © 2021 American College of Chest Physicians. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.chest.2021.06.045
+PMCID: PMC8727885
+PMID: 34743855 [Indexed for MEDLINE]
+
+
+4. Asia Ocean J Nucl Med Biol. 2021 Winter;9(1):51-55. doi: 
+10.22038/AOJNMB.2020.49000.1333.
+
+Incidentally Detected Celiac Disease with Splenomegaly on (18)F FDG PET/CT: A 
+Potential Lymphoma Mimic.
+
+Panda A(1), McCarthy MR(2), Murray JA(3), Sharain RF(2), Shi M(2), Kendi AT(1).
+
+Author information:
+(1)Departments of Radiology, Mayo Clinic, Rochester, Minnesota, USA.
+(2)Departments of Pathology, Mayo Clinic, Rochester, Minnesota, USA.
+(3)Departments of Gastroenterology, Mayo Clinic, Rochester, Minnesota, USA.
+
+Celiac disease is an immune-mediated disorder triggered by hypersensitivity to 
+gluten occurring in genetically susceptible individuals. A high-index of 
+suspicion is needed for diagnosis as patients can be asymptomatic or present 
+with atypical symptoms or extra-intestinal manifestations. Typical 
+18F-Fluorodeoxyglucose (FDG) Positron Emission Tomography (PET)/Computed 
+Tomography (CT) gastrointestinal manifestations of celiac disease include 
+increased multifocal or diffuse jejunal and ileal uptake; focal duodenal uptake 
+is less common. Splenomegaly with increased splenic FDG uptake is also uncommon 
+in celiac disease in the absence of portal hypertension; small-sized spleen and 
+functional hyposplenism are more typical. We report a case of celiac disease 
+diagnosed after PET/CT showed FDG uptake in the duodenum and enlarged spleen. 
+Follow-up after gluten-free diet showed complete metabolic resolution and 
+regression of splenomegaly. The combination of focal bowel and splenic uptake is 
+unusual in celiac disease and may be mistaken for a lymphoproliferative 
+disorder. Awareness of this entity may avoid misdiagnosis and guide appropriate 
+management.
+
+© 2021 mums.ac.ir All rights reserved.
+
+DOI: 10.22038/AOJNMB.2020.49000.1333
+PMCID: PMC7701229
+PMID: 33392350
+
+
+5. Rev Gastroenterol Mex (Engl Ed). 2020 Apr-Jun;85(2):109-117. doi: 
+10.1016/j.rgmx.2019.02.002. Epub 2019 Apr 15.
+
+Metabolic effects in patients with celiac disease, patients with nonceliac 
+gluten sensitivity, and asymptomatic controls, after six months of a gluten-free 
+diet.
+
+[Article in English, Spanish]
+
+Remes-Troche JM(1), Cobos-Quevedo OJ(2), Rivera-Gutiérrez X(2), Hernández G(2), 
+de la Cruz-Patiño E(2), Uscanga-Domínquez LF(3).
+
+Author information:
+(1)Laboratorio de Fisiología Digestiva y Motilidad Gastrointestinal, Instituto 
+de Investigaciones Medico-Biológicas, Universidad Veracruzana, Veracruz, México. 
+Electronic address: jose.remes.troche@gmail.com.
+(2)Laboratorio de Fisiología Digestiva y Motilidad Gastrointestinal, Instituto 
+de Investigaciones Medico-Biológicas, Universidad Veracruzana, Veracruz, México.
+(3)Departamento de Gastroenterología, Instituto Nacional de Ciencias Médicas y 
+Nutrición Salvador Zubirán, Ciudad de México, México.
+
+Comment in
+    Rev Gastroenterol Mex (Engl Ed). 2020 Apr - Jun;85(2):107-108. doi: 
+10.1016/j.rgmx.2020.01.001.
+    Rev Gastroenterol Mex (Engl Ed). 2020 Jul - Sep;85(3):373-374. doi: 
+10.1016/j.rgmx.2020.04.005.
+
+INTRODUCTION AND OBJECTIVES: It is essential for patients with celiac disease 
+(CD) to be on a gluten-free diet (GFD) but said diet has also been reported to 
+increase the risk for metabolic syndrome. There is no evidence on the metabolic 
+effects of a GFD in patients with nonceliac gluten sensitivity (NCGS) or in 
+asymptomatic subjects. Therefore, the aim of the present study was to evaluate 
+the metabolic effects of a GFD over a 6-month period in patients with CD, 
+patients with NCGS, and in asymptomatic controls (ACs).
+MATERIALS AND METHODS: A prospective study was conducted that evaluated 
+metabolic syndrome and its components of obesity, high blood pressure, hepatic 
+steatosis, and hyperglycemia at the baseline and at 6 months.
+RESULTS: A total of 66 subjects (22 CD, 22 NCGS, and 22 AC) were included in the 
+study. At the baseline, 10% of the patients with CD presented with obesity, high 
+blood pressure, hepatic steatosis, and metabolic syndrome. After 6 months, 
+obesity and metabolic syndrome increased by 20% (p=0.125). In the patients with 
+NCGS, obesity increased by 5% after the GFD and 20% of those patients presented 
+with de novo hepatic steatosis. The prevalence of obesity decreased by 10% in 
+the controls after the GFD (30 vs 20%, p=0.5) and none of the other components 
+of metabolic syndrome were affected.
+CONCLUSIONS: The metabolic benefits and risks of a GFD should be considered when 
+prescribing said diet in the different populations that opt for that type of 
+intervention.
+
+Copyright © 2019 Asociación Mexicana de Gastroenterología. Publicado por Masson 
+Doyma México S.A. All rights reserved.
+
+DOI: 10.1016/j.rgmx.2019.02.002
+PMID: 31000461 [Indexed for MEDLINE]
+
+
+6. Dig Dis Sci. 2014 Jun;59(6):1255-61. doi: 10.1007/s10620-013-2981-6. Epub 2013
+ Dec 28.
+
+Characteristics of patients who avoid wheat and/or gluten in the absence of 
+Celiac disease.
+
+Tavakkoli A(1), Lewis SK, Tennyson CA, Lebwohl B, Green PH.
+
+Author information:
+(1)Department of Medicine, Celiac Disease Center, Columbia University, 180 Fort 
+Washington Avenue, Suite 936, New York, NY, 10032, USA.
+
+Comment in
+    Dig Dis Sci. 2014 Jun;59(6):1080-2. doi: 10.1007/s10620-014-3083-9.
+
+BACKGROUND: Gastrointestinal symptoms that respond to the removal of wheat 
+and/or gluten are becoming more common. Patients who avoid wheat and/or gluten 
+(PWAWG) are a heterogeneous group and predominantly self-diagnosed prior to 
+presenting for clinical evaluation.
+SPECIFIC AIM: We characterized PWAWGs seen at a tertiary care referral center 
+and compared them to patients with celiac disease (CD) and subjects in the 
+National Health and Nutrition examination survey (NHANES).
+METHODS: This was a cross-sectional study evaluating patients seen by four 
+gastroenterologists at a CD referral center. Baseline characteristics, 
+laboratory values, and medical comorbidities were compared to CD patients who 
+presented at the same center and subjects enrolled in NHANES.
+RESULTS: Eighty-four PWAWGs were identified and compared to 585 CD patients and 
+2,686 NHANES patients. Thirty-two alternative diagnoses were made in 25 (30%) 
+PWAWGs, including small intestinal bacterial overgrowth and fructose/lactose 
+intolerance. When compared to patients with CD, PWAWGs had similar body mass 
+index (BMI, 23.1 vs. 23.5, p = 0.54) and mean hemoglobin value (13.4 vs. 13.3, p 
+= 0.6). When compared to male and female patients in NHANES, BMI, folate, and 
+mean hemoglobin values were lower in PWAWGs. Both male and female PWAWGs had a 
+lower prevalence of hypertension.
+CONCLUSION: While there are similarities between CD and PWAWGs that could 
+possibly be due to shared HLA haplotypes or an effect of the gluten-free diet, 
+alternative diagnoses are common in these patients. PWAWGs have a similar 
+cardiovascular profile as CD patients in terms of lower BMI and lower prevalence 
+of hypertension.
+
+DOI: 10.1007/s10620-013-2981-6
+PMID: 24374645 [Indexed for MEDLINE]
+
+
+7. J AOAC Int. 2012 Jan-Feb;95(1):206-15. doi: 10.5740/jaoacint.11-042.
+
+Validation of a new enzyme-linked immunosorbent assay to detect the triggering 
+proteins and peptides for celiac disease: interlaboratory study.
+
+Mujico JR(1), Dekking L, Kooy-Winkelaar Y, Verheijen R, van Wichen P, Streppel 
+L, Sajic N, Drijfhout JW, Koning F.
+
+Author information:
+(1)Leiden University Medical Center, Department of Immunology and Blood 
+Transfusion, Leiden, The Netherlands. jrmujico@gmail.com
+
+The performance of Gluten-Tec (EuroProxima, Arnhem, The Netherlands) was tested 
+through an interlaboratory study in accordance with AOAC guidelines. Gluten-Tec 
+is a competitive ELISA that detects an immunostimulatory epitope of a-gliadin in 
+dietary food for celiacs. Fifteen laboratories, representing 14 different 
+countries, announced their interest in taking part in this study. Of the 12 
+laboratories that sent the results within the established timeframe, two 
+submitted inappropriate standard curves and were excluded from the statistical 
+analysis. Four different food matrixes (rice-based baby food, maize bread, 
+chocolate cake mix, and beer) were selected for preparing the test samples. Two 
+gliadin extraction procedures were used: the conventional 60% ethanol, and a new 
+method based on the reducing reagent dithiothreitol. The 38 samples (19 blind 
+duplicates) tested in this study were prepared by diluting the different 
+extracts in order to cover a wide range of gliadin levels. Both sample 
+extraction and dilution were performed by EuroProxima; the present 
+interlaboratory study was focused only on testing the ELISA part of the 
+Gluten-Tec kit protocol. Repeatability values (within-laboratory variance), 
+expressed as RSD(r) ranged from 6.2 to 25.7%, while reproducibility values 
+(interlaboratory variance), expressed as RSD(R), ranged from 10.6 to 45.9%. Both 
+statistical parameters were in the acceptable range of ELISAs under these 
+conditions, and the method will be presented to the Codex Alimentarius as a 
+preferred method for gluten analysis.
+
+DOI: 10.5740/jaoacint.11-042
+PMID: 22468361 [Indexed for MEDLINE]
+
+
+8. Eur Ann Allergy Clin Immunol. 2007 Feb;39(2):45-50.
+
+GliSODin, a vegetal sod with gliadin, as preventative agent vs. atherosclerosis, 
+as confirmed with carotid ultrasound-B imaging.
+
+Cloarec M(1), Caillard P, Provost JC, Dever JM, Elbeze Y, Zamaria N.
+
+Author information:
+(1)Association Nationale de Prevention Médicale, 14, rue de l'Abbé Grégoire, 
+F-75005 Paris.
+
+Prevention of cardiovascular disease should target high-risk subjects based on 
+genetic/familial factors, blood chemistry, blood pressure, body mass index 
+(BMI), and a history of/or current cigarette smoking. We selected active adults 
+(n=76) aged 30-60 and investigated these risk factors, in order to recommend 
+preventive measures. Another interesting variable is the preclinical status or 
+atheroma of the arterial (carotid) wall or lumen. We also investigated the 
+presence of oxidative stress in, and the anti-oxidant status of these subjects. 
+We studied the anti-oxidative efficacy of superoxide dismutase (SOD) and 
+variations of malondialdehyde (MDA). Supplementation with GliSODin, a vegetal 
+SOD associated with gliadin, was effective in controlling the thickness of the 
+carotid artery intima and media layers as measured by ultrasonography-B. We 
+could demonstrate the preventive efficacy of GliSODin at a preclinical stage in 
+subjects with risk factors of cardiovascular disease.
+
+PMID: 17441415 [Indexed for MEDLINE]

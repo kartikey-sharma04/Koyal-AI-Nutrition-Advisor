@@ -1,0 +1,275 @@
+1. JAMA. 2024 Feb 13;331(6):510-521. doi: 10.1001/jama.2023.26857.
+
+Management of Food Allergies and Food-Related Anaphylaxis.
+
+Iglesia EGA(1), Kwan M(2), Virkud YV(3), Iweala OI(2)(3).
+
+Author information:
+(1)Division of Allergy, Pulmonary and Critical Care Medicine, Department of 
+Medicine, Vanderbilt University Medical Center, Nashville, Tennessee.
+(2)Thurston Arthritis Research Center, Division of Rheumatology, Allergy, and 
+Immunology, Department of Medicine, University of North Carolina School of 
+Medicine, Chapel Hill.
+(3)University of North Carolina Food Allergy Initiative, Division of Allergy and 
+Immunology, Department of Pediatrics, University of North Carolina School of 
+Medicine, Chapel Hill.
+
+IMPORTANCE: An estimated 7.6% of children and 10.8% of adults have IgE-mediated 
+food-protein allergies in the US. IgE-mediated food allergies may cause 
+anaphylaxis and death. A delayed, IgE-mediated allergic response to the 
+food-carbohydrate galactose-α-1,3-galactose (alpha-gal) in mammalian meat 
+affects an estimated 96 000 to 450 000 individuals in the US and is currently a 
+leading cause of food-related anaphylaxis in adults.
+OBSERVATIONS: In the US, 9 foods account for more than 90% of IgE-mediated food 
+allergies-crustacean shellfish, dairy, peanut, tree nuts, fin fish, egg, wheat, 
+soy, and sesame. Peanut is the leading food-related cause of fatal and 
+near-fatal anaphylaxis in the US, followed by tree nuts and shellfish. The 
+fatality rate from anaphylaxis due to food in the US is estimated to be 0.04 per 
+million per year. Alpha-gal syndrome, which is associated with tick bites, is a 
+rising cause of IgE-mediated food anaphylaxis. The seroprevalence of 
+sensitization to alpha-gal ranges from 20% to 31% in the southeastern US. 
+Self-injectable epinephrine is the first-line treatment for food-related 
+anaphylaxis. The cornerstone of IgE-food allergy management is avoidance of the 
+culprit food allergen. There are emerging immunotherapies to desensitize to one 
+or more foods, with one current US Food and Drug Administration-approved oral 
+immunotherapy product for treatment of peanut allergy.
+CONCLUSIONS AND RELEVANCE: IgE-mediated food allergies, including delayed 
+IgE-mediated allergic responses to red meat in alpha-gal syndrome, are common in 
+the US, and may cause anaphylaxis and rarely, death. IgE-mediated anaphylaxis to 
+food requires prompt treatment with epinephrine injection. Both food-protein 
+allergy and alpha-gal syndrome management require avoiding allergenic foods, 
+whereas alpha-gal syndrome also requires avoiding tick bites.
+
+DOI: 10.1001/jama.2023.26857
+PMCID: PMC11060332
+PMID: 38349368 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Iglesia 
+reported receiving grants from the Robert Wood Johnson Foundation during the 
+conduct of the study. Dr Kwan reported receiving grants from Pfizer QI outside 
+the submitted work. Dr Iweala reported serving as on the advisory boards of 
+Blueprint Medicines and Novartis and receiving consulting fees from Allakos Inc 
+outside the submitted work; and was a coauthor of an article sponsored by 
+Genentech. No other disclosures were reported.
+
+
+2. Dig Dis Sci. 2019 Jul;64(7):1740-1747. doi: 10.1007/s10620-019-05663-x.
+
+Going Against the Grains: Gluten-Free Diets in Patients Without Celiac 
+Disease-Worthwhile or Not?
+
+Lerner BA(1), Green PHR(1), Lebwohl B(2)(3).
+
+Author information:
+(1)Department of Medicine, Celiac Disease Center, Columbia University Medical 
+Center, New York, NY, 10032, USA.
+(2)Department of Medicine, Celiac Disease Center, Columbia University Medical 
+Center, New York, NY, 10032, USA. BL114@columbia.edu.
+(3)Department of Epidemiology, Mailman School of Public Health, Columbia 
+University Medical Center, New York, NY, 10032, USA. BL114@columbia.edu.
+
+While the gluten-free diet (GFD) is the only known effective therapy for celiac 
+disease, in recent years it has become increasingly popular in the USA and 
+worldwide, with many believing it to be more "healthful" and others claiming 
+that it has beneficial effects for health conditions, many extraintestinal, 
+other than celiac disease. This review examines the evidence for use of the GFD 
+in patients without celiac disease who self-report intestinal and/or 
+extraintestinal symptoms (non-celiac gluten sensitivity), as well as for 
+enhancement of athletic performance and treatment of autism, rheumatoid 
+arthritis, and psychiatric disorders. Overall, the evidence for use of GFDs in 
+conditions other than celiac disease is poor. Though non-celiac gluten 
+sensitivity may ultimately emerge as a biomarker-defined condition, a large 
+proportion of patients with apparent non-celiac gluten sensitivity have, after 
+careful investigation, an alternative diagnosis. In light of this, and coupled 
+with the potential physical and psychological harms associated with the 
+avoidance of gluten, initiating a GFD should not be encouraged for people who 
+have these other conditions or are seeking physical/athletic enhancement.
+
+DOI: 10.1007/s10620-019-05663-x
+PMID: 31102129 [Indexed for MEDLINE]
+
+
+3. Medicine (Baltimore). 2019 Feb;98(6):e14421. doi: 10.1097/MD.0000000000014421.
+
+Association between food allergy and ankylosing spondylitis: An observational 
+study.
+
+Niu Q(1), Wei W(2), Huang Z(1), Zhang J(1), Yang B(1), Wang L(1).
+
+Author information:
+(1)Department of Laboratory Medicine, West China Hospital.
+(2)West China Medical School, Sichuan University, Chengdu, China.
+
+Food allergies can alter the gut microbiome composition, increasing the risk of 
+conditions such as ankylosing spondylitis (AS).To identify the association 
+between specific allergens and AS, we investigated the differences in the serum 
+levels of 14 food antigen-specific immunoglobulin (Ig) G between AS patients and 
+healthy participants. The association between the levels of these antibodies and 
+disease activity was assessed by measuring the inflammatory marker C-reactive 
+protein (CRP).We enrolled 75 AS patients and 78 healthy controls who had 
+undergone antigen-specific IgG tests in West China Hospital between January 2015 
+and October 2017, and performed enzyme-linked immunosorbent assays for specific 
+IgG against 14 food allergens: rice, egg, mushroom, milk, pork, chicken, beef, 
+crab, codfish, corn, soybean, tomato, shrimp, and wheat. The following tests 
+were used to analyze differences between AS patients and healthy controls: χ 
+test for sex, and a 2-tailed Student t-test or Mann-Whitney U test based on the 
+results of Levene test for age and IgG levels. Correlations between IgG and CRP 
+levels were calculated using a Spearman's correlation.AS patients had 
+significantly higher serum levels of beef-, crab-, and pork-specific IgG than 
+did healthy participants. In addition, the serum levels of pork-specific IgG 
+were significantly and positively correlated with CRP.These results suggest that 
+α-Gal, the predominant natural antigen in mammalian red meat, might play a 
+potential role in the pathogenesis of AS, and therefore, AS patients should 
+exclude such allergenic foods, including beef, crab and pork, from their daily 
+diet.
+
+DOI: 10.1097/MD.0000000000014421
+PMCID: PMC6380781
+PMID: 30732197 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+4. Am J Cardiol. 2014 Nov 15;114(10):1621-2. doi: 10.1016/j.amjcard.2014.08.024. 
+Epub 2014 Aug 27.
+
+Gluten sensitivity: new epidemic or new myth? Every major change in our diet 
+carries with it the possibility of unforeseen risks.
+
+Nash DT(1), Slutzky AR(1).
+
+Author information:
+(1)Department of Medicine, SUNY Upstate Medical University, Syracuse, New York; 
+Health Sciences Library, SUNY Upstate Medical University, Syracuse, New York.
+
+Fueled in part by recent best-selling books that warn of the evils of gluten in 
+our diets, a significant proportion of our population is now either avoiding 
+foods that contain gluten or eliminating gluten entirely from their diets, and 
+these numbers continue to grow. The gluten-free trend-and the accompanying 
+multibillion dollar industry it has created-stems from the spreading belief that 
+eating foods containing wheat or other gluten-laden grains may not only result 
+in weight gain and obesity but can also lead to a laundry list of ailments 
+ranging from depression and anxiety to arthritis and autism. One popular book 
+contends that current recommendations for a high-grain, low-fat diet underlie 
+much of today's chronic health problems and that a low-carbohydrate, 
+high-fat/cholesterol diet is ideal. Every major change in our diet carries with 
+it the possibility of unforeseen risks. Concern about the impact of such 
+popularized dietary recommendations on overall well-being-and on cardiovascular 
+health in particular-warrants discussion in the medical community.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjcard.2014.08.024
+PMID: 25261874 [Indexed for MEDLINE]
+
+
+5. Scand J Rheumatol. 2010 Aug;39(4):292-8. doi: 10.3109/03009740903379630.
+
+Self-reported food intolerance and mucosal reactivity after rectal food protein 
+challenge in patients with rheumatoid arthritis.
+
+Lidén M(1), Kristjánsson G, Valtysdottir S, Venge P, Hällgren R.
+
+Author information:
+(1)Department of Rheumatology, University Hospital, Uppsala, Sweden. 
+maria.liden@medsci.uu.se
+
+OBJECTIVES: A dietary link to rheumatoid arthritis (RA) has been suspected and 
+an influence on arthritic symptoms by different diets has been reported. Our 
+primary aim was to record the self-experienced adverse food reactions in 
+patients with RA. A secondary aim was to relate self-experienced adverse 
+reactions to dairy produce and wheat to the local mucosal reactivity observed 
+after rectal challenge with cow's milk protein (CM) and wheat gluten.
+METHODS: A questionnaire about self-experienced adverse reaction to food was 
+sent to 347 RA patients. Rectal challenge with CM and gluten was performed in 27 
+of these patients and in healthy controls (n = 18). After a 15-h challenge the 
+mucosal production of nitric oxide (NO) and the mucosal release of 
+myeloperoxidase (MPO) and eosinophil cationic protein (ECP) were measured by 
+using the mucosal patch technique.
+RESULTS: Twenty-seven per cent of the RA patients reported food intolerance (FI) 
+to various foods, and in particular to CM, meat, and wheat gluten. Strong 
+mucosal reactivity to CM was observed in 11% of the patients. Moderately 
+increased mucosal reactivity to CM and gluten was found in 22% and 33%, 
+respectively, of the patients. No relationship was found between 
+self-experienced adverse reactions to CM or gluten and mucosal reactivity to 
+these proteins.
+CONCLUSIONS: Perceived FI is reported frequently by RA patients, with a 
+prevalence similar to that reported previously in the general population. 
+Mucosal reactivity to CM and gluten is seen in a minor fraction of RA patients 
+and is not related to the frequently perceived intolerance to these proteins.
+
+DOI: 10.3109/03009740903379630
+PMID: 20141485 [Indexed for MEDLINE]
+
+
+6. Bratisl Lek Listy. 2009;110(8):480-5.
+
+HLA-b27 subtypes in patients with spondylarthropathies, IgE levels against some 
+allergens and their relationship to the disease parameters.
+
+Kamanli A(1), Ardicoglu O, Godekmerdan A.
+
+Author information:
+(1)Division of Rheumatology, Department of Physical Medicine and Rehabilitation, 
+Firat University, School of Medicine, Elazig, Turkey. akamanli@hotmail.com
+
+In suitable genetic backgrounds, some exogenous and/or endogenous antigens may 
+cause SpA. In this study, we investigated HLA B27 subtypes and its relationship 
+to some allergens and clinical findings in a group of SpA patients. Forty-eight 
+patients (19F, 29M) with SpA (27 with ankylosing spondylitis, 5 with reactive 
+arthritis, 15 undifferentiated and 1 with psoriatic arthritis) were included to 
+the study. HLA-B alleles have been assessed using the LiPA (Line Probe Assay) 
+reverse hybridization principle method. The allergens studied were following: 
+egg white, yolk, wheat flour, hot pepper, tomatoes, olive, onion, chicken, black 
+tea, sheep cheese, penicillin panel (m1, m25, m28, m30), fungus panel (m1, m2, 
+m3, m6), and housemix panel (e1, e2, d1, d2, m2, m3). 59.3% of the patients were 
+positive for HLA-B27. Of these patients, 53.6% had B*2702 allele which was the 
+most common, followed by B*2708 (21.1%) and B*2701 (10.5%). HLA-B27 was positive 
+in 70% of the ankylosing spondylitis patients and 52% had B*2702 subgroup and 
+B35 was the most common subgroup among the patients who were HLA-B27 negative. 
+Allergic reactions against these 13 allergens were more severe in patients 
+HLA-B27 positive. The most frequent allergic reactions were against the onion 
+and housemix panel, followed by red pepper, tomatoes, sheep cheese and olive. 
+HLA-B*2702 and HLA-B*2701 subgroups had more severe allergic reactions that 
+correlated with a disease severity (p < 0.001). These results indicate that 
+B*2702 and B*2708 is more frequent in our region in contrast to B*2705 which is 
+more commonly found all around the world and that our region represents a 
+heterogeneous distribution. IgE levels against some allergen were found higher 
+in patients with SpA (Fig. 2, Tab. 5, Ref. 37).
+
+PMID: 19750986 [Indexed for MEDLINE]
+
+
+7. Clin Exp Rheumatol. 1994 May-Jun;12(3):275-9.
+
+A pilot study of the effect of an elemental diet in the management of rheumatoid 
+arthritis.
+
+Haugen MA(1), Kjeldsen-Kragh J, Førre O.
+
+Author information:
+(1)Oslo Sanitetsforening Rheumatism Hospital, Norway.
+
+Comment in
+    Clin Exp Rheumatol. 1994 May-Jun;12(3):235-9.
+
+To evaluate the extent of food allergy/intolerance in rheumatoid arthritis, an 
+elemental (hypoallergenic) diet was studied in a controlled, double-blind pilot 
+study. Ten patients were allocated to an experimental group and 7 to a control 
+group. The patients in the experimental group received an elemental diet for 3 
+weeks, whereas the patients in the control group received a control soup 
+consisting of milk, meat, fish, shellfish, orange, pineapples, tomatoes, peas 
+and flour of wheat and corn. During the 4th week of the study the patients in 
+both groups resumed their regular diet. A significant improvement was found in 
+the number of tender joints (p = 0.04) in the experimental group, whereas 
+improvement was found in the erythrocyte sedimentation rate (ESR) (p = 0.03) and 
+in the thrombocyte count (p = 0.02) in the control group. Three patients in the 
+elemental diet group and 2 patients in the control group improved in all of the 
+measured disease variables during the dietary treatment period. There was no 
+significant difference in disease activity variables between the two groups. 
+These results suggest that some RA patients may respond to the elimination of 
+offending food items. However, the results do not encourage treatment with an 
+elemental diet in unselected RA patients.
+
+PMID: 8070160 [Indexed for MEDLINE]

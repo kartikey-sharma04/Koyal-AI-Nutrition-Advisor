@@ -1,0 +1,519 @@
+1. J Allergy Clin Immunol Glob. 2024 Jul 22;3(4):100309. doi: 
+10.1016/j.jacig.2024.100309. eCollection 2024 Nov.
+
+Fish and shellfish allergy: Presentation and management differences in the UK 
+and US-analysis of 945 patients.
+
+Nakonechna A(1)(2)(3), van Bergen A(4), Anantharachagan A(5), Arnold D(3), 
+Johnston N(6), Nadeau K(7), Rutkowski K(8), Sindher SB(9), Sriaroon P(10), 
+Thomas I(8), Vijayadurai P(5), Wagner A(11), Davis CM(12).
+
+Author information:
+(1)University of Liverpool, Liverpool, United Kingdom.
+(2)Department of Immunology and Allergy, Hull University Teaching Hospitals NHS 
+Foundation Trust, Hull, United Kingdom.
+(3)Clinical Immunology and Allergy Unit, Sheffield Teaching Hospitals Foundation 
+NHS Trust, Sheffield, United Kingdom.
+(4)Independent Scientific Advisor, Chester, United Kingdom.
+(5)Department of Allergy & Clinical Immunology, Royal Preston Hospital 
+Lancashire Teaching Hospitals NHS Foundation Trust, Preston, United Kingdom.
+(6)The University of Texas Health Science Center, McGovern Medical School, 
+Houston, Tex.
+(7)Department of Environmental Health, Harvard T.H. Chan School of Public 
+Health, Boston, Mass.
+(8)Department of Adult Allergy, Guy's and St Thomas' NHS Foundation Trust, 
+London, United Kingdom.
+(9)Sean N. Parker Center for Allergy and Asthma Research, Stanford University, 
+Palo Alto, Calif.
+(10)University of South Florida Morsani College of Medicine, Johns Hopkins All 
+Children's Hospital, St Petersburg, Fla.
+(11)Department of Allergy, Cambridge University Hospitals NHS Foundation Trust, 
+Cambridge, United Kingdom.
+(12)Division of Immunology, Allergy, and Retrovirology, Baylor College of 
+Medicine/Texas Children's Hospital, Houston, Tex.
+
+BACKGROUND: Seafood allergy (SA), including allergy to shellfish (crustacean and 
+mollusks) and fish, is among the 4 most common food allergies causing 
+anaphylaxis, but there are limited data showing SA clinical management in 
+different countries.
+OBJECTIVE: We sought to characterize a large cohort of patients with fish and 
+shellfish allergy and to facilitate standardization of future care for this 
+increasingly common allergic disease.
+METHODS: We performed a retrospective, observational, noninterventional study 
+from 945 patients from 2015 to 2019 in 7 hospitals in the United States and the 
+United Kingdom to evaluate SA. A chi-square test was used to detect differences 
+in family history, medical history, and current symptoms between patients in 2 
+countries.
+RESULTS: Underdiagnosed anaphylaxis in patients with SA was associated with 
+underuse of epinephrine (adrenaline) autoinjectors in both countries. Oral food 
+challenge was used only when skin or serologic test results were negative. 
+Asthma and allergic rhinitis were more common in the US patients with SA, but 
+eczema was more common in UK patients with SA (P < .001). Respiratory, 
+gastrointestinal, and neurological symptoms were higher in UK patients with SA 
+than in US patients with SA (P < .001).
+CONCLUSIONS: In international multicenter cohorts of patients with fish and 
+shellfish allergy, there are opportunities for improvement in management. 
+Physician identification of anaphylaxis, use of diagnostic oral food challenges, 
+and anaphylaxis treatment with epinephrine are areas with significant knowledge 
+gaps in need of improvement in the United Kingdom and the United States. There 
+is an opportunity for the development of unified, standardized diagnostic 
+protocols for SA with distribution for allergists and trainees.
+
+© 2024 The Author(s).
+
+DOI: 10.1016/j.jacig.2024.100309
+PMCID: PMC11381858
+PMID: 39253105
+
+Conflict of interest statement: Disclosure of potential conflict of interest: K. 
+Nadeau reported receiving grants from the 10.13039/100000060National Institute 
+of Allergy and Infectious Diseases, the National Heart, Lung, and Blood 
+Institute, the 10.13039/100000066National Institute of Environmental Health 
+Sciences, and Food Allergy Research and Education; serving as director of the 
+World Allergy Organization; serving as advisor for Cour Pharma; serving on the 
+National Scientific Committee of the 10.13039/100014247Immune Tolerance Network 
+and the National Institutes of Health clinical research centers; being cofounder 
+of Before Brands, Latitude, Alladapt, and IgGenix outside the submitted work; 
+and having patents for an oral formula for decreasing food allergy risk and 
+treatment for food allergy, for granulocyte-based methods for detecting and 
+monitoring immune system disorders issued, for methods and assays for detecting 
+and quantifying pure subpopulations of white blood cells in immune system 
+disorders, and for microfluidic device and diagnostic methods for allergy 
+testing based on detection of basophil activation pending. S. B. Sindher is 
+funded by the National Institute of Allergy and Infectious Disease, Consortium 
+for Food Allergy Research (CoFAR), Regeneron, DBV Technologies, Aimmune 
+Therapeutics, Novartis, and Sanofi, and is an advisory member for AstraZeneca. 
+P. Sriaroon is funded by Food Allergy Research and Education. C. M. Davis 
+receives research contract funding from DBV Technologies, Regeneron, and Aimmune 
+Therapeutics, grant funding from the National Institute of Allergy and 
+Infectious Disease (grant no. R34AI157948) (CoFAR and Consortium of Eosinophilic 
+Gastrointestinal Disease Researchers), and the Food Allergy Research and 
+Education. The rest of the authors declare that they have no relevant conflicts 
+of interest.
+
+
+2. Am Fam Physician. 2023 Aug;108(2):159-165.
+
+Food Allergies: Diagnosis, Treatment, and Prevention.
+
+Bright DM(1), Stegall HL(1), Slawson DC(1).
+
+Author information:
+(1)Atrium Health Carolinas Medical Center Family Medicine and Wake Forest School 
+of Medicine, Charlotte, North Carolina.
+
+In the United States, approximately 2% to 3% of adults and 8% of children have a 
+food allergy. Allergic reactions range from minor pruritus to life-threatening 
+anaphylaxis. These allergies often lead to significant anxiety and costs for 
+patients and caregivers. Common food allergies include peanuts, cow's milk, 
+shellfish, tree nuts, egg, fish, soy, and wheat. Peanut allergy, the most 
+common, is the leading cause of life-threatening anaphylaxis. Children with 
+asthma, allergic rhinitis, atopic dermatitis, or an allergy to insect venom, 
+medications, or latex are at an increased risk of developing food allergies. 
+Diagnosis of food allergy starts with a detailed, allergy-focused history. Serum 
+immunoglobulin E and skin prick testing provide reliable information regarding 
+food allergy diagnoses. Primary treatment involves elimination of the offending 
+food from the diet. Prevention strategies proven to decrease the risk of 
+developing a food allergy include restricting exposure to cow's milk in the 
+first three days of life and early sequential exposure to allergenic foods 
+starting between four and six months of age. Exclusive breastfeeding for three 
+to four months reduces the likelihood of developing eczema and asthma but does 
+not reduce development of food allergies. Most children eventually outgrow 
+allergies to cow's milk, egg, soy, and wheat. However, allergies to tree nuts, 
+peanuts, and shellfish are more likely to be lifelong.
+
+PMID: 37590855 [Indexed for MEDLINE]
+
+
+3. Environ Health Prev Med. 2023;28:6. doi: 10.1265/ehpm.22-00213.
+
+Intake of allergenic foods at 1.5 years and 3 years of age in a general child 
+population in Japan: a cross-sectional study.
+
+Takase T(1), Nagao M(1), Kanai R(1), Nishida T(1), Arima T(1), Iwai F(1), Yamada 
+S(1), Nakamoto M(1), Hirayama M(2), Fujisawa T(1).
+
+Author information:
+(1)Allergy Center and Department of Clinical Research, National Hospital 
+Organization Mie National Hospital.
+(2)Department of Pediatrics, Mie University Graduate School of Medicine.
+
+BACKGROUND: Recent studies indicate that the timing of introduction of 
+potentially allergenic food is crucial for the development of food allergy in 
+children. This cross-sectional study aimed to clarify the reality of allergen 
+food intake in a general population of young children in Japan.
+METHODS: A questionnaire survey of caregivers was conducted at health checkups 
+for 1.5-year (18-month)-old and 3-year-old children in the fall of 2020. The 
+caregivers were asked about (1) the presence/absence of allergic disease 
+symptoms based on the ISAAC questionnaire, and (2) foods that caregivers avoided 
+giving their children. Ordinal logistic regression analyses were periformed to 
+determine factors associated with food avoidance.
+RESULTS: Questionnaires were distributed to 1720 caregivers, and 1603 (93%) 
+responded. The responders consisted of 771 and 832 caregivers who participated 
+in 1.5-year-old and 3-year-old checkups, respectively. The prevalence of 
+allergic diseases was comparable to recent epidemiological studies in Japan, 
+indicating that the population may be representative. At 1.5 years old, more 
+than 50% of the children were not exposed to peanuts, tree nuts, fish eggs, 
+shellfish, and buckwheat. At 3 years old, the avoidance rates of the foods had 
+decreased but were still between 18.8% and 32.0%. On the other hand, the 
+avoidance rates of chicken egg and cow's milk, the top 2 common allergenic foods 
+in Japan, were much lower at 2.8% and 1.5% at 1.5 years, and they decreased to 
+1.4% and 0.7% at 3 years old, respectively. Ordinal logistic analysis showed 
+that avoidance of chicken egg, cow's milk, and wheat was associated with food 
+allergy diagnosis and chicken egg avoidance with eczema, but avoidance of other 
+foods showed no associations with any risk factors for food allergy.
+CONCLUSION: Caregivers avoided giving various foods, independent of allergy risk 
+factors, to their young children. Since delayed introduction of an allergenic 
+food has been reported to increase the risk of developing an allergy to the 
+food, the results warrant future investigation of the development of food 
+allergies in relation to current eating habits and recommendations.
+
+DOI: 10.1265/ehpm.22-00213
+PMCID: PMC9884563
+PMID: 36682814 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare that they have no relevant 
+conflicts of interest.
+
+
+4. Asia Pac Allergy. 2022 Jul 12;12(3):e24. doi: 10.5415/apallergy.2022.12.e24. 
+eCollection 2022 Jul.
+
+Patterns of allergenic food introduction in Los Angeles inner-city children.
+
+Kwong KY(1), Chen E(1), Tran P(2), Leibel S(3), Masood M(1), Boyle S(1), Scott 
+L(1).
+
+Author information:
+(1)Division of Allergy-Immunology, Department of Pediatrics, Los Angeles County 
++ University of Southern California Medical Center, Los Angeles, CA, USA.
+(2)Division of Allergy-Immunology, Childrens Hospital of Philadelphia, 
+Philadelphia, PA, USA.
+(3)Division of Allergy-immunology, Rady Childrens Hospital, San Diego, CA, USA.
+
+BACKGROUND: Early introduction of allergenic foods is recommended to reduce the 
+risk of developing food allergies, but it is unclear whether recommendations are 
+being followed.
+OBJECTIVE: We examine patterns of allergenic food introduction in inner-city 
+children enrolled in an academic pediatric practice in the greater Los Angeles 
+area.
+METHODS: This was a prospective study with patients ages 12 to 24 months 
+recruited from the pediatrics continuity clinic at an inner-city tertiary 
+medical center in the greater Los Angeles area. Caregivers were asked via 
+anonymous surveys about their child's history of atopic diseases and at what age 
+they first introduced egg, soy, wheat, peanut, tree nuts, fish, shrimp, and 
+shellfish into their child's diet.
+RESULTS: Two hundred caregivers responded to the survey. The average age of 
+introduction of egg was 9.2 months, soy 10 months, wheat 9.3 months, peanut 10.5 
+months, tree nuts 10.9 months, fish 10.9 months, shrimp 11.3 months, and 
+shellfish 11.5 months. Between ages 4-11 months, 65.3% of children were 
+introduced egg, 19.1% soy, 55.8% wheat, 28.6% peanut, 17.1% tree nuts, 28.1% 
+fish, 13.6% shrimp, and 7.0% shellfish. By age 24 months, 92% of children were 
+introduced egg, 37.7% soy, 85.4% wheat, 67.3% peanut, 47.7% tree nuts, 67.8% 
+fish, 48.2% shrimp, and 30.2% shellfish. Of the 14 children with eczema or egg 
+allergy, 26.1% were introduced peanut by age 4-6 months and 50% by age 4-11 
+months.
+CONCLUSION: Despite recommendations, inner-city caregivers may not be 
+introducing allergenic foods in a timely manner to their children.
+
+Copyright © 2022. Asia Pacific Association of Allergy, Asthma and Clinical 
+Immunology.
+
+DOI: 10.5415/apallergy.2022.12.e24
+PMCID: PMC9353202
+PMID: 35966161
+
+Conflict of interest statement: Conflict of Interest: The authors have no 
+financial conflicts of interest.
+
+
+5. Pediatr Allergy Immunol. 2021 Jul;32(5):1096-1099. doi: 10.1111/pai.13493.
+Epub  2021 Mar 20.
+
+House dust mite sensitization, eczema, and wheeze increase risk of shellfish 
+sensitization.
+
+Loo EXL(1)(2), Lau HX(1), Suaini NHA(1), Wong LSY(2)(3), Goh AEN(4), Teoh OH(5), 
+Van Bever HP(2)(3), Shek LP(1)(2)(3), Lee BW(2), Tan KH(6), Godfrey KM(7)(8), 
+Eriksson JG(1)(9)(10)(11), Chong YS(1)(10), Tham EH(1)(2)(3).
+
+Author information:
+(1)Agency for Science, Technology and Research (A*STAR), Singapore Institute for 
+Clinical Sciences (SICS), Singapore, Singapore.
+(2)Department of Paediatrics, Yong Loo Lin School of Medicine, National 
+University of Singapore (NUS), Singapore, Singapore.
+(3)National University Health System (NUHS), Khoo Teck Puat-National University 
+Children's Medical Institute, Singapore, Singapore.
+(4)Allergy service, Department of Paediatrics, KK Women's and Children's 
+Hospital (KKH), Singapore, Singapore.
+(5)Respiratory Service, Department of Paediatrics, KK Women's and Children's 
+Hospital (KKH), Singapore, Singapore.
+(6)Department of Maternal Fetal Medicine, KK Women's and Children's Hospital 
+(KKH), Singapore, Singapore.
+(7)NIHR Southampton Biomedical Research Centre, University of Southampton and 
+University Hospital Southampton NHS Foundation Trust, Southampton, UK.
+(8)Medical Research Council Lifecourse Epidemiology Unit, Southampton, UK.
+(9)Folkhälsan Research Center, Helsinki, Finland and Department of General 
+Practise and Primary Health Care, University of Helsinki, Helsinki, Finland.
+(10)Department of Obstetrics and Gynaecology, Yong Loo Lin School of Medicine, 
+National University of Singapore (NUS), National University Health System 
+(NUHS), Singapore, Singapore.
+(11)Department of General Practice and Primary Health Care, University of 
+Helsinki, Helsinki, Finland.
+
+DOI: 10.1111/pai.13493
+PMCID: PMC7611115
+PMID: 33687761 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Statement Godfrey KM has 
+received reimbursement for speaking at conferences sponsored by Nestle and Shek 
+LP has received reimbursement for speaking at conferences sponsored by Danone 
+and Nestle and consulting for Mead Johnson and Nestle. Godfrey KM, Chong YS are 
+part of an academic consortium that has received research funding from Abbot 
+Nutrition, Nestle and Danone. Shek LP has received research funding from Danone.
+
+
+6. Crit Rev Food Sci Nutr. 2022;62(17):4656-4668. doi: 
+10.1080/10408398.2021.1878098. Epub 2021 Feb 2.
+
+Shellfish consumption and health: A comprehensive review of human studies and 
+recommendations for enhanced public policy.
+
+Xu L(1), Cai J(1), Gao T(1), Ma A(1).
+
+Author information:
+(1)Institute of Nutrition and Health, School of Public Health, Qingdao 
+University, Qngdao, China.
+
+Shellfish, including various species of mollusks (e.g., clams, oysters, and 
+mussels) and crustaceans (e.g., shrimp and crab), have been a cornerstone of 
+healthy dietary recommendations. However, beyond providing basic nutrition 
+needs, their health-promoting effects have been suggested to include 
+inflammation reduction and prevention of various chronic 
+non-communicable diseases. Currently, studies on the association between 
+shellfish consumption and health outcomes have reported conflicting results. The 
+present comprehensive review summarized the latest studies on shellfish 
+consumption and synthesized the available evidence on the potential health 
+benefits or risks of shellfish consumption. The findings demonstrated that 
+shellfish consumption may increase the risk of hyperuricemia and gout but may 
+not increase the risk of type 2 diabetes, cardiovascular diseases, and thyroid 
+cancer. Adequate evidence is lacking on the association between shellfish 
+consumption and the risk of colorectal cancer, pancreatic cancer, oral cancer, 
+endometriosis, hip fracture, cognitive function, wheeze, eczema and food 
+allergy. Raw shellfish consumption may cause gastroenteritis and other diseases 
+infected by bacteria or viruses. This review thus provides consumers and other 
+relevant stakeholders with the latest evidence-based information on the 
+potential benefits and risks of shellfish consumption.
+
+DOI: 10.1080/10408398.2021.1878098
+PMID: 33527847 [Indexed for MEDLINE]
+
+
+7. PLoS One. 2020 Jun 2;15(6):e0233707. doi: 10.1371/journal.pone.0233707. 
+eCollection 2020.
+
+Studies of royal jelly and associated cross-reactive allergens in atopic 
+dermatitis patients.
+
+Hata T(1)(2), Furusawa-Horie T(1), Arai Y(1), Takahashi T(2), Seishima M(2), 
+Ichihara K(1).
+
+Author information:
+(1)Nagaragawa Research Center, API Co., Ltd., Gifu, Japan.
+(2)Department of Dermatology, Gifu University Graduate School of Medicine, Gifu, 
+Japan.
+
+Royal jelly (RJ), a creamy substance secreted by honeybees, is the exclusive 
+diet for queen bee differentiation and life maintenance. RJ has been used in 
+cosmetics, beverages, medicines, and supplements worldwide. However, allergy is 
+a concerning issue for RJ, especially in atopic dermatitis (AD) and asthma 
+patients. In some cases, allergic reactions are seen after the first intake of 
+RJ, suggesting the existence of allergens cross-reactive with RJ. Information 
+about the cross-reactive allergens is very important for the safe application of 
+RJ; however, study of this cross-reactivity is quite limited. In this study, we 
+attempted to identify allergens cross-reactive with RJ by using serum samples 
+from 30 AD patients who had never been exposed to RJ. In an enzyme-linked 
+immunosorbent assay (ELISA) experiment, RJ-binding IgE antibodies were detected 
+in the serum of 10 out of 30 patients, and their antibody titers ranged from 4- 
+to 2,048-fold dilution ratios. Additionally, 3 AD patients were determined to be 
+positive in a skin-prick test (SPT) with an RJ solution. Significant 
+correlations were observed between the anti-RJ antibody titer and nonspecific 
+IgE and between the anti-RJ antibody titer and the Eczema Area and Severity 
+Index score. We further examined the cross-reactivity between RJ and 14 typical 
+allergens by using an ELISA-inhibition assay and demonstrated that the following 
+6 allergens showed cross-reactivity with RJ: the European house dust mite (HDM) 
+(Dermatophagoides pteronyssinus), American HDM (Dermatophagoides farinae), snow 
+crab (Chionocetes spp.), edible crab (Cancer pagurus), German cockroach 
+(Blatella germanica), and honeybee venom (Apis mellifera). In conclusion, people 
+with a history of allergic diseases, including AD, asthma, and allergic 
+rhinitis, should be cautioned against consuming RJ products because of the 
+potential for cross-reactive responses to ensure the safe and successful use of 
+RJ supplements.
+
+DOI: 10.1371/journal.pone.0233707
+PMCID: PMC7266330
+PMID: 32484810 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal's policy and the authors 
+of this manuscript have the following competing interests: One or more of the 
+authors are/were employed by commercial company. Taketoshi Hata, Furusawa-Horie 
+Takako, Yasuko Arai, and Kenji Ichihara are employed by API Co., Ltd. This does 
+not alter the authors' adherence to all PLOS ONE policies on sharing data and 
+materials.
+
+
+8. Curr Allergy Asthma Rep. 2019 Nov 28;19(12):60. doi:
+10.1007/s11882-019-0891-1.
+
+Prevention of Non-peanut Food Allergies.
+
+Abrams EM(1)(2), Chan ES(3)(4).
+
+Author information:
+(1)Division of Allergy and Immunology, Department of Pediatrics, Faculty of 
+Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+(2)Division of Pediatrics, Section of Allergy and Clinical Immunology, 
+University of Manitoba, Winnipeg, Manitoba, Canada.
+(3)Division of Allergy and Immunology, Department of Pediatrics, Faculty of 
+Medicine, University of British Columbia, Vancouver, British Columbia, Canada. 
+echan5@cw.bc.ca.
+(4)BC Children's Hospital Research Institute, Vancouver, British Columbia, 
+Canada. echan5@cw.bc.ca.
+
+PURPOSE OF REVIEW: The purpose of this review article is to discuss the recent 
+literature around methods of prevention of food allergies other than peanut 
+allergy.
+RECENT FINDINGS: While the most robust data to date exists for peanut, there are 
+emerging studies suggesting a beneficial effect to early introduction of cooked 
+egg, and cow's milk as well. While the literature is sparse for other allergens 
+such as tree nuts, finned fish, and shellfish, the mechanism of sensitization is 
+thought to be the same and no study to date has demonstrated a harm with 
+allergenic introduction in the 4-6 months of age window (nor has there been 
+level 1 evidence of benefit to delay of such allergens). This strategy is safe, 
+and pre-emptive testing is not required prior to allergenic solid introduction. 
+All allergenic solids should be introduced at around 6, but not before 4, months 
+of age in infants at high risk.
+
+DOI: 10.1007/s11882-019-0891-1
+PMID: 31781878 [Indexed for MEDLINE]
+
+
+9. Pediatr Dermatol. 2020 Jan;37(1):69-77. doi: 10.1111/pde.14004. Epub 2019 Oct 
+30.
+
+Food restriction, nutrition status, and growth in toddlers with atopic 
+dermatitis.
+
+Low DW(1), Jamil A(1), Md Nor N(1), Kader Ibrahim SB(2), Poh BK(3).
+
+Author information:
+(1)Department of Medicine, University Kebangsaan Malaysia Medical Center, Kuala 
+Lumpur, Malaysia.
+(2)Pediatric Institute, Hospital Kuala Lumpur, Kuala Lumpur, Malaysia.
+(3)Nutritional Sciences Programme & Centre for Community Health, Faculty of 
+Health Sciences, University Kebangsaan Malaysia, Kuala Lumpur, Malaysia.
+
+BACKGROUND: Multiple factors affect growth in children with atopic dermatitis 
+(AD). We investigated food restriction practice, nutrition, and growth in 
+children with AD. Food restriction is defined as restriction ≥3 types of food 
+due to AD or food allergy.
+METHODS: A cross-sectional study was performed in 150 children aged 
+12-36 months.
+EXCLUSION CRITERIA: recurrent infections, moderate to severe asthma, recent 
+systemic steroid, other diseases affecting growth/nutrition. Growth parameters, 
+SCORing Atopic Dermatitis (SCORAD), hemoglobin, hematocrit, sodium, potassium, 
+albumin, protein, calcium, phosphate, B12, iron, and folate values were 
+determined. Parents completed a 3-day food diary.
+RESULTS: The prevalence of food restriction was 60.7%. Commonly restricted foods 
+were shellfish 62.7%, nuts 53.3%, egg 50%, dairy 29.3%, and cow's milk 28.7%. 
+Food-restricted children have significantly lower calorie, protein, fat, 
+riboflavin, vitamin B12, calcium, phosphorus and iron intakes and lower serum 
+iron, protein and albumin values. Z scores of weight-for-age (-1.38 ± 1.02 vs 
+-0.59 ± 0.96, P = .00), height-for-age (-1.34 ± 1.36 vs -0.51 ± 1.22, P = .00), 
+head circumference-for-age (-1.37 ± 0.90 vs -0.90 ± 0.81, P = .00), mid-upper 
+arm circumference (MUAC)-for-age (-0.71 ± 0.90 vs -0.22 ± 0.88, P = .00), and 
+BMI-for-age (-0.79 ± 1.15 vs -0.42 ± 0.99, P = .04) were significantly lower in 
+food-restricted compared to non-food-restricted children. More food-restricted 
+children were stunted, underweight with lower head circumference and MUAC. 
+Severe disease was an independent risk factor for food restriction with OR 
+5.352; 95% CI, 2.26-12.68.
+CONCLUSION: Food restriction is common in children with AD. It is associated 
+with lower Z scores for weight, height, head circumference, MUAC, and BMI. 
+Severe disease is an independent risk factor for food restriction.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1111/pde.14004
+PMID: 31667896 [Indexed for MEDLINE]
+
+
+10. Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2019 Oct;33(10):970-974.
+doi:  10.13201/j.issn.1001-1781.2019.10.017.
+
+[Epidemiological analysis of allergic diseases in primary and middle school 
+students of Foshan].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Yu QQ(1), Tang J(1), Wang YJ(1), Xu YX(1), Liu MH(1).
+
+Author information:
+(1)Department of Otolaryngology Head and Neck Surgery，Affiliated Foshan Hospital 
+of Sun Yat-sen University，the First People's Hospital of 
+Foshan，Foshan，528000，China.
+
+Objective:To investigate the prevalence and state of allergic rhinitis, asthma, 
+eczema, allergic conjunctivitis, and food allergy of students in primary and 
+middle schools of Foshan, and to analyze the characteristics of each disease and 
+correlation of the five diseases, in order to provide epidemiology evidence for 
+management of allergic diseases. Method:Ten primary schools and 10 junior middle 
+schools were sampled from 5 districts of Foshan, then students in grade one and 
+grade seven from sampled schools were investigated by electronic questionnaire 
+method formulated by the International Study of Asthma and Allergies in 
+Childhood and the Europrevall Project Commission. Students and their parents 
+answered and uploaded electronic questionnaires with the consent of parents, and 
+then team members collected and analyzed uploaded data. Result:Four thousand one 
+hundred and sixty-six effective questionnaires were collected, and the response 
+rate was 95.77％. During the five districts, 13.97%, 2.01%, 29.29%, 5.19%, and 
+7.28% of the respondents in grade one had previously diagnosed with allergic 
+rhinitis, asthma, eczema, allergic conjunctivitis, and food allergy 
+respectively, and the correspondent rates in grade seven were 15.99%, 2.89%, 
+16.73%, 2.46%, and 6.97%. The prevalence rates of the five diseases in boys were 
+higher than that in girls in both two grades. 67.27% students with asthma kept 
+coughing and wheezing in the last 12 months, and 24.85% non-asthma students had 
+the same respiratory symptoms. The most common allergenic food were shrimp and 
+crabs, followed by milk and milk products, eggs, and shellfish. Cutaneous 
+symptoms and oral allergy symptoms were predominant clinical manifestations in 
+all students with food allergy. The prevalence of the above allergic diseases of 
+children with atopic family history was higher than that of children without 
+family history, and the prevalence of the 5 diseases of children living in city 
+was higher than that of children living in rural areas. The prevalence rate of 
+asthma of children with allergic rhinitis in both grades was higher than that of 
+children without allergic rhinitis, and the same happened to children with 
+eczema, allergic conjunctivitis, and food allergy. Conclusion:Prevalence rates 
+of allergic rhinitis and asthma in primary and middle school students of Foshan 
+increased as children grew, while the prevalence rates of eczema, allergic 
+conjunctivitis and food allergy decreased with age. The most common allergenic 
+food were shrimp and crabs, milk and milk products, and eggs. 67.27% students 
+with asthma had poor respiratory control in the last 12 months. The prevalence 
+of allergic diseases of children living in city and with atopic family history 
+was higher than that of children living in rural areas and without family 
+history. Students with allergic conjunctivitis, food allergy, allergic rhinitis 
+and eczema had high risk of asthma.
+
+Publisher: 
+目的：调查佛山市中小学生鼻部、呼吸、皮肤、眼部、食物过敏的情况，分析每种变应性疾病的流行病学特点及疾病间相互交叉情况，为学龄儿童变应性疾病的防治和管理提供流行病学依据。 
+方法：参考国际儿童哮喘和变态反应研究课题组核心调查问卷、Europrevall食物过敏调查方案，采用整群抽样调查方法，对佛山市下辖5个区的10所小学一年级和10所中学初一年级的学生进行问卷调查。采用电子调查表形式，家长知情同意后，手机微信扫描二维码，与孩子共同完成问卷，课题组成员后台收集并统计信息。 
+结果：回收有效问卷4 
+166份，有效应答率为95.77%。问卷调查结果显示，佛山市5个区一年级学生变应性鼻炎、哮喘、湿疹、过敏性结膜炎、食物过敏的患病率分别为13.97%、2.01%、29.29%、5.19%、7.28%，初一年级学生相应疾病的患病率分别为15.99%、2.89%、16.73%、2.46%、6.97%，2个年级5种疾病的患病率男生均高于女生；67.27%的哮喘患者过去12个月内仍有喘息、干咳等呼吸道症状，未诊断哮喘的学生中有24.85%近12个月出现以上呼吸道症状；食物过敏的学生主要过敏食物为虾蟹，其次为牛奶和奶制品、鸡蛋、贝壳类，皮肤瘙痒、皮疹和口腔黏膜肿痛为最常见的过敏症状；母亲有变应性疾病的学生发生变应性疾病的患病率均高于母亲无变应性疾病的学生；城市学生5种变应性疾病的患病率均高于农村学生；变应性疾病学生发生哮喘的比例高于无变应性疾病学生。 
+结论：佛山市中小学生变应性鼻炎、哮喘的患病率随年龄增长而上升，湿疹、过敏性结膜炎、食物过敏的患病率随年龄增长呈现下降趋势；最主要的过敏食物为虾蟹、牛奶及奶制品、鸡蛋；67.27%的哮喘学生近12个月内呼吸道症状控制不佳；母亲患有变应性疾病、居住城市的学生患变应性疾病的风险较母亲无变应性疾病、居住农村的学生高；患过敏性结膜炎、食物过敏、变应性鼻炎、湿疹的学生患哮喘的风险较高。.
+
+Copyright© by the Editorial Department of Journal of Clinical 
+Otorhinolaryngology Head and Neck Surgery.
+
+DOI: 10.13201/j.issn.1001-1781.2019.10.017
+PMID: 31623046 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors of this article and the planning 
+committee members and staff have no relevant financial relationships with 
+commercial interests to disclose.

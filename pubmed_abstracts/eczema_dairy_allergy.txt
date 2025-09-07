@@ -1,0 +1,651 @@
+1. J S Afr Vet Assoc. 2025 May 15. doi: 10.36303/JSAVA.662. Online ahead of
+print.
+
+First report of a Sporidesmin Toxicity (Facial Eczema) outbreak in a South 
+African dairy herd.
+
+Davis AJ(1)(2), Jordaan DS(3), Myburgh JG(2).
+
+Author information:
+(1)Humansdorp Veterinary Clinic, South Africa.
+(2)Department of Paraclinical Sciences, Faculty of Veterinary Science, 
+University of Pretoria, South Africa.
+(3)Department of Agricultural Economics, Extension and Rural Development, 
+Faculty of Natural and Agricultural Sciences, University of Pretoria, South 
+Africa.
+
+Sporidesmin, a toxin released by a saprophytic fungus, Pseudopithomyces 
+chartarum, causes hepatogenous photosensitivity in sheep and cattle, commonly 
+known as Facial Eczema. A recent outbreak in the Eastern Cape Province of South 
+Africa caused significant direct and indirect economic losses to a farmer in the 
+area and highlighted the potential negative consequences of this mycotoxicosis 
+to the dairy industry in this province. The milking herd consisted of 400 
+cross-bred Jersey/Friesian/Montbilliard cattle. The farmer identified 56 cows 
+showing teat sensitivity/irritability during milking, hypersensitive skin, 
+excessive licking and/or obvious skin lesions on non-pigmented skin areas. Three 
+were culled due to the severity of their skin lesions. Grazing consisted of 
+mixed kikuyu/perennial rye grass pasture under pivot irrigation, alternated with 
+dryland kikuyu/Italian rye and sorghum. Typical clinical signs of severe 
+secondary photosensitivity (skin inflammation and hypersensitivity to touch), 
+very high serum concentrations of Gamma-Glutamyl Transferase (GGT 2143-5177 
+IU/L) and detection of large numbers of spores on grazed planted pastures 
+supported the clinical diagnosis. Supplementation of zinc oxide (ZnO) powder at 
+12g per 500 kg cow dosed individually over the concentrates fed in the dairy, 
+effectively reduced the incidence of new cases within two to three weeks. Weight 
+loss, a decrease in milk volume and solids, and increased somatic cell counts 
+were observed during this outbreak. One of these parameters, milk volume loss, 
+was quantified by comparing the financial records of the four years preceding 
+the outbreak to the production figures during the outbreak. The farmer lost 
+approximately R1.5 million in milk volume during this outbreak (November 2020 - 
+April 2021). Long term consequences were also apparent: the culling rate within 
+the clinically affected group of 53 cows was more than 50% higher than the rest 
+of the herd over the following two years. This case study highlights the urgent 
+need to investigate the prevalence and potential economic impact of Sporidesmin 
+Toxicity on the South African pasture-based dairy industry.
+
+DOI: 10.36303/JSAVA.662
+PMID: 40392046
+
+
+2. Eur J Clin Nutr. 2024 Oct;78(10):897-904. doi: 10.1038/s41430-024-01477-x.
+Epub  2024 Jul 28.
+
+Dairy consumption and vitamin D concentration in adolescents with 
+challenge-confirmed cow's milk allergy during infancy.
+
+Piippo S(1), Hauta-Alus H(2)(3)(4)(5), Viljanen M(2), Savilahti E(2), Kuitunen 
+M(2).
+
+Author information:
+(1)Pediatric Research Center, University of Helsinki and Helsinki University 
+Hospital, Children's Hospital, Helsinki, Finland. sonja.piippo@helsinki.fi.
+(2)Pediatric Research Center, University of Helsinki and Helsinki University 
+Hospital, Children's Hospital, Helsinki, Finland.
+(3)Faculty of Medicine, Research Program for Clinical and Molecular Metabolism 
+(CAMM), University of Helsinki, Helsinki, Finland.
+(4)Population Health Unit, National Institute for Health and Welfare (THL), 
+Public Health Research team, Helsinki, Finland.
+(5)PEDEGO Research Unit, MRC Oulu, Oulu University Hospital and University of 
+Oulu, Oulu, Finland.
+
+BACKGROUND/OBJECTIVES: Milk is an important source of dietary calcium and, if 
+fortified, vitamin D. Cow's milk allergy (CMA) is treated with a milk 
+elimination diet. Although most children become tolerant by age 3 years, some 
+continue dairy avoidance. It remains unclear whether adolescents with a history 
+of CMA adopt similar milk consumption as their peers. We assessed dairy 
+consumption and concentration of serum 25-hydroxyvitamin D (25(OH)D) in 
+adolescents with either confirmed CMA or a negative CMA challenge in infancy 
+(CMA-refuted group) and age-matched controls.
+SUBJECTS/METHODS: This study is based on a previously reported randomized 
+controlled trial from 1999 to 2002 on the treatment effect of probiotics on 
+atopic eczema in participants aged <12 months (n = 230) with data on CMA status. 
+We followed up these participants, aged 15-18 years, in 2017 (n = 104). A 
+20-item food frequency questionnaire assessed dairy consumption. An automated 
+immunoassay measured 25(OH)D concentration.
+RESULTS: Median dairy product consumption did not differ between adolescents 
+with CMA (449 g/d, n = 40), the CMA-refuted group (566 g/d, n = 36), and 
+controls (235 g/d, n = 51) (P = 0.117). Median 25(OH)D concentrations were 76.0, 
+79.3, and 80.8 nmol/l, respectively (P = 0.844). Among participants, 93% were 
+vitamin D sufficient (25(OH)D ≥ 50 nmol/l), with no differences between groups 
+(P = 0.914).
+CONCLUSION: Among adolescents with a history of CMA during infancy, our study 
+found no reintroduction failure of milk and no difference in vitamin D 
+insufficiency rate compared with peers. Current management of CMA seems to 
+adequately minimize later nutritional disadvantages associated with a cow's milk 
+elimination diet.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41430-024-01477-x
+PMCID: PMC11458478
+PMID: 39069532 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+3. Adv Nutr. 2024 May;15(5):100217. doi: 10.1016/j.advnut.2024.100217. Epub 2024 
+Apr 4.
+
+Infant Formulas With Partially or Extensively Hydrolyzed Milk Proteins for the 
+Prevention of Allergic Diseases: A Systematic Review and Meta-Analysis of 
+Clinical Trials.
+
+Li X(1), He T(2), Duan S(2), Liang J(1), Feng G(3), Li F(2), Shen Z(4), Ye W(5), 
+Liu B(5), Jiang B(1), Chen Y(1), Liu N(1), Szeto IM(6), Cai L(7).
+
+Author information:
+(1)Department of Maternal and Child Health, School of Public Health, Sun Yat-sen 
+University, Guangzhou, Guangdong Province, China.
+(2)Inner Mongolia Dairy Technology Research Institute, Hohhot, China; Inner 
+Mongolia Yili Industrial Group, Yili Maternal and Infant Nutrition Institute 
+(YMINI), Beijing, China.
+(3)Inner Mongolia Yili Industrial Group, Yili Maternal and Infant Nutrition 
+Institute (YMINI), Beijing, China; National Center of Technology Innovation for 
+Dairy, Hohhot, China.
+(4)The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong 
+Province, China.
+(5)Inner Mongolia Yili Industrial Group, Hohhot, China.
+(6)Inner Mongolia Yili Industrial Group, Yili Maternal and Infant Nutrition 
+Institute (YMINI), Beijing, China; National Center of Technology Innovation for 
+Dairy, Hohhot, China. Electronic address: szeto@yili.com.
+(7)Department of Maternal and Child Health, School of Public Health, Sun Yat-sen 
+University, Guangzhou, Guangdong Province, China; Guangdong Provincial Key 
+Laboratory of Food, Nutrition and Health, School of Public Health, Sun Yat-sen 
+University, Guangzhou, China. Electronic address: caili5@mail.sysu.edu.cn.
+
+Despite the widely recommended usage of partially hydrolyzed formula (PHF) or 
+extensively hydrolyzed formula (EHF) of milk protein for preventing allergic 
+diseases (ADs), clinical studies have been inconclusive regarding their efficacy 
+compared with that of cow's milk formula (CMF) or breast milk (BM). We aimed to 
+systematically evaluate the effects of PHF or EHF compared with those of CMF or 
+BM on risk of ADs (cow's milk allergy, allergic rhinitis, eczema, asthma, 
+wheeze, food allergy, and sensitization) in children. We searched PubMed, 
+Embase, Cochrane Library, and Web of Science for clinical trials published from 
+inception to 21 October, 2022. We used the Grading of Recommendations 
+Assessment, Development, and Evaluation (GRADE) approach to grade the strength 
+of evidence. Overall, 24 trials (10,950 infants) were included, 17 of which 
+specifically included high-risk infants. GRADE was low for the evidence that, 
+compared with CMF, infants early fed with EHF had lower risk of cow's milk 
+allergy at age 0-2 y [relative risk (RR): 0.62; 95% CI: 0.39, 0.99]. Moderate 
+evidence supported that PHF and EHF reduced risk of eczema in children aged 
+younger or older than 2 y, respectively (RR: 0.71; 95% CI: 0.52, 0.96; and RR: 
+0.79; 95% CI: 0.67, 0.94, respectively). We also identified moderate systematic 
+evidence indicating that PHF reduced risk of wheeze at age 0-2 y compared with 
+CMF (RR: 0.50; 95% CI: 0.29, 0.85), but PHF and EHF increased the risk compared 
+with BM (RR: 1.61; 95% CI: 1.11, 2.31; and RR: 1.64; 95% CI: 1.26, 2.14). 
+Neither PHF nor EHF had significant effects on other ADs in children of any age. 
+In conclusion, compared with CMF, PHF, or EHF had different preventive effect on 
+cow's milk allergy, eczema, and wheeze. Compared with BM, both PHF and EHF may 
+increase risk of wheeze but not other ADs. Given that most trials included only 
+high-risk infants, more research on non-high-risk infants is warranted before 
+any generalization is attempted. This protocol was registered at PROSPERO as 
+CRD42022320787.
+
+Copyright © 2024 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.advnut.2024.100217
+PMCID: PMC11063603
+PMID: 38579971 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest TH, SD, GF, FL, and IM-YS 
+are employed by Inner Mongolia Yili Industrial Group, Yili Maternal and Infant 
+Nutrition Institute (YMINI), Beijing. WY and BL are employed by Inner Mongolia 
+Yili Industrial Group, Hohhot. All other authors report no conflicts of 
+interest.
+
+
+4. Am J Otolaryngol. 2024 Jan-Feb;45(1):104096. doi:
+10.1016/j.amjoto.2023.104096.  Epub 2023 Nov 5.
+
+Factors associated with eosinophilic esophagitis in an urban, tertiary care 
+pediatric aerodigestive population undergoing triple endoscopy.
+
+Moran S(1), Anderson C(1), Sheni R(1), Azmy M(2), Li DT(3), Loizides AM(4), Yang 
+CJ(5).
+
+Author information:
+(1)Albert Einstein College of Medicine, United States of America.
+(2)Department of Otorhinolaryngology-Head and Neck Surgery, Montefiore Medical 
+Center, Bronx, NY, United States of America.
+(3)Department of Otolaryngology, Yale School of Medicine, New Haven, CT, United 
+States of America.
+(4)Albert Einstein College of Medicine, United States of America; Department of 
+Pediatrics, Children's Hospital at Montefiore, Bronx, NY, United States of 
+America.
+(5)Albert Einstein College of Medicine, United States of America; Department of 
+Otorhinolaryngology-Head and Neck Surgery, Montefiore Medical Center, Bronx, NY, 
+United States of America; Department of Pediatrics, Children's Hospital at 
+Montefiore, Bronx, NY, United States of America. Electronic address: 
+chyan@montefiore.org.
+
+BACKGROUND: Children with aerodigestive dysfunction often undergo triple 
+endoscopy (flexible bronchoscopy, rigid direct laryngoscopy and bronchoscopy, 
+and esophagogastroduodenoscopy) for diagnostic evaluation as well as screening 
+prior to airway reconstruction. Prevalence and risk factors for eosinophilic 
+esophagitis (EoE) in this population are poorly understood.
+METHODS: A retrospective chart review was performed for pediatric patients, aged 
+0-21 years, who received a triple endoscopy with biopsy from January 1, 2015, to 
+December 31, 2019, at the Children's Hospital at Montefiore (CHAM). Bivariate 
+and multivariable analyses were used to compare the baseline characteristics 
+between patients with and without EoE to assess for potential predictors of EoE.
+RESULTS: Of the 119 cases included in the analysis, 16.0 % (19) received a 
+histopathologic diagnosis of EoE following triple endoscopy. Patients with EoE 
+were more likely to have a family history of eczema (p = 0.02) and a dairy-free 
+diet (p = 0.02). Age, sex, history of environmental allergies, and recency of 
+initiating oral diet were not significantly associated with increased odds of an 
+EoE diagnosis.
+CONCLUSIONS: A family history of eczema and a diet lacking allergenic foods, 
+such as milk, may be associated with an increased risk of a future diagnosis of 
+EoE in patients with aerodigestive dysfunction. Larger, multi-institutional 
+studies are needed to identify early predictors of EoE.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2023.104096
+PMCID: PMC10842024
+PMID: 37956499 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Dr. Loizides 
+is the Medical Director of Clinical Development at Albireo Pharma. This 
+company's work is in rare liver disease and is not associated with eosinophilic 
+esophagitis (EoE) or any of the symptoms/signs or conditions described in this 
+manuscript.
+
+
+5. BMC Pediatr. 2023 Oct 16;23(1):514. doi: 10.1186/s12887-023-04262-0.
+
+Timing of introduction to solid food, eczema and wheezing in later childhood: a 
+longitudinal cohort study.
+
+D'Hollander CJ(1)(2)(3), Keown-Stoneman CDG(3)(4), Birken CS(5)(6)(7)(8)(9), 
+O'Connor DL(1)(10), Maguire JL(11)(12)(13)(14)(15); TARGet Kids! collaboration.
+
+Collaborators: Allen C, Anderson LN, D'Annunzio D, Jaleel M, McFarlane NL, Omand 
+JA, Thadani S, Aglipay M, Bayoumi I, Borkhoff CM, Carsley S, Charach A, Cost K, 
+Fuller A, Kinlin L, Kucab M, Li P, Parkin P, Persaud N, Rae S, Socynska I, 
+Vanderhout S, Vanderloo L, Wong P, Mudiyanselage PK, Li X, Liu J, Mitchell M, 
+Yoshida-Montezuma Y, Zaffar N, Bondoc T, Buckley TA, Flores PR, Kurt K, 
+Loganathan S, Mali T, Thompson L, Batten J, Chan J, Clark J, Craig A, De 
+Castris-Garcia K, Dharman S, Kelleher S, Nasser S, Pabon T, Rhodes M, Salsa R, 
+Skelding J, Stern D, Stewart K, Tavares ES, Weir S, Cho MZ, Janus M, Duku E, 
+Reid-Westoby C, Raso P, Offord A, Abraham E, Ali S, Anderson K, Arbess G, Baker 
+J, Barozzino T, Bergeron S, Bloch G, Bonifacio J, Bowry A, Calpin C, Campbell D, 
+Cheema S, Cheng E, Chisamore B, Constantin E, Danayan K, Das P, De Guerra V, 
+Derocher MB, Do A, Doukas K, Egger A, Farber A, Freedman A, Freeman S, Gazeley 
+S, Grewal K, Guiang C, Ha D, Handford C, Hanson L, Harrington L, Jacobson S, 
+Jagiello L, Jansz G, Kadar P, Keiswetter L, Kiran T, Knowles H, Kwok B, Lahiry 
+P, Lakhoo S, Lam-Antoniades M, Lau E, Leduc D, Leung FH, Li A, Li P, Male R, 
+Meret A, Mok E, Moodie R, Nash K, Owen J, Peer M, Perlmutar M, Persaud N, Pinto 
+A, Porepa M, Qi V, Ramji N, Raza D, Rouleau K, Ruderman C, Saunderson J, 
+Schiralli V, Sgro M, Shuja H, Siam F, Shepherd S, Srikanthan C, Taylor C, 
+Treherne S, Turner S, Uddin F, van den Heuvel M, Weisdorf T, Wong P, Yaremko J, 
+Ying E, Young E, Zajdman M, Begum EA, Lakhanpal G, Lebovic G, Nnorom IS, Nunez 
+MD, Stitt A, Thorpe K, Assan R, Bondar H, Charames G, Djolovic A, Gorscak-Dunn 
+C, Hassan M, Kandel R, Rodrigues M.
+
+Author information:
+(1)Department of Nutritional Sciences, University of Toronto, Toronto, ON, 
+Canada.
+(2)Department of Pediatrics, St Michael's Hospital, Toronto, ON, Canada.
+(3)Applied Health Research Centre, Unity Health Toronto, Toronto, ON, Canada.
+(4)Dalla Lana School of Public Health, University of Toronto, Toronto, ON, 
+Canada.
+(5)Division of Pediatric Medicine, Hospital for Sick Children, Toronto, ON, 
+Canada.
+(6)Child Health Evaluative Sciences, SickKids Research Institute, Toronto, ON, 
+Canada.
+(7)Department of Pediatrics, Faculty of Medicine, University of Toronto, 
+Toronto, ON, Canada.
+(8)Institute of Health Policy Management and Evaluation, University of Toronto, 
+Toronto, ON, Canada.
+(9)Joannah & Brian Lawson Centre for Child Nutrition, Department of Nutritional 
+Sciences, University of Toronto, Toronto, ON, Canada.
+(10)Translational Medicine Program, Hospital for Sick Children, Toronto, ON, 
+Canada.
+(11)Department of Pediatrics, St Michael's Hospital, Toronto, ON, Canada. 
+jonathon.maguire@utoronto.ca.
+(12)Department of Pediatrics, Faculty of Medicine, University of Toronto, 
+Toronto, ON, Canada. jonathon.maguire@utoronto.ca.
+(13)Institute of Health Policy Management and Evaluation, University of Toronto, 
+Toronto, ON, Canada. jonathon.maguire@utoronto.ca.
+(14)Joannah & Brian Lawson Centre for Child Nutrition, Department of Nutritional 
+Sciences, University of Toronto, Toronto, ON, Canada. 
+jonathon.maguire@utoronto.ca.
+(15)Li Ka Shing Knowledge Institute, St. Michael's Hospital, Toronto, ON, 
+Canada. jonathon.maguire@utoronto.ca.
+
+BACKGROUND: The timing of introduction to solid food has been associated with 
+eczema and wheezing in childhood. Our aim was to determine whether differences 
+persist within the recommended 4 to 6 month age range.
+METHODS: A longitudinal cohort study with repeated measures was conducted among 
+children from birth to 10 years of age who were participating in the TARGet 
+Kids! practice based research network in Toronto, Canada. The primary exposure 
+was the timing of introduction to infant cereal as the first solid food. The 
+primary outcome was eczema and the secondary outcome was wheezing collected by 
+parent report using the validated International Study of Asthma and Allergies in 
+Childhood (ISAAC) questionnaire. Multinomial generalized estimating equations 
+were used and effect modification by family history of asthma and breastfeeding 
+duration were explored.
+RESULTS: Of the 7843 children included, the mean (standard deviation) age of 
+introduction to infant cereal was 5.7 (1.9) months. There was evidence for 
+family history of asthma and breastfeeding duration to be effect modifiers in 
+the eczema (P = 0.04) and wheezing (P = 0.05) models. Introduction to infant 
+cereal at 4 vs. 6 months of age was associated with higher odds of eczema (OR 
+1.62; 95% CI: 1.12, 2.35; P = 0.01) among children without a family history of 
+asthma who were not breastfeeding when solid foods were introduced. Introduction 
+to infant cereal at 4 vs. 6 months of age was associated with a higher odds of 
+wheezing (OR 1.31; 95% CI: 1.13, 1.52; P < .001) among children without a family 
+history of asthma who were breastfeeding when solid foods were introduced. There 
+was little evidence of an association among the remaining strata for either 
+outcome.
+CONCLUSION: The findings of this study support recommendations to introduce 
+solid food around 6 months of age.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12887-023-04262-0
+PMCID: PMC10577938
+PMID: 37845652 [Indexed for MEDLINE]
+
+Conflict of interest statement: JM has received research funding from the 
+Canadian Institutes of Health Research, Physician Services Inc., Ontario SPOR 
+Support Unit as well as an unrestricted research grant for a completed 
+investigator-initiated study from the Dairy Farmers of Canada (2011–2012) and 
+Ddrops provided non-financial support (vitamin D supplements) for an 
+investigator initiated study on vitamin D and respiratory tract infections 
+(2011–2015). CB has received research funding from the Canadian Institute for 
+Health Research, Heart and Stroke Foundation of Canada, Physician Services Inc, 
+The Leong Center at the University of Toronto, Centre for Addictions and Mental 
+Health, Ontario Child Health Support Unit (OCHSU) Impact Child Health Award, and 
+a Walmart Community Grant through the SickKids Foundation for a study on food 
+insecurity in the inpatient hospital setting. CD, CK, and DO have no competing 
+interests to disclose.
+
+
+6. Environ Int. 2023 Oct;180:108195. doi: 10.1016/j.envint.2023.108195. Epub 2023
+ Sep 12.
+
+Prenatal dietary exposure to chemicals and allergy or respiratory diseases in 
+children in the EDEN mother-child cohort.
+
+Ghozal M(1), Kadawathagedara M(2), Delvert R(3), Adel-Patient K(4), Tafflet 
+M(2), Annesi-Maesano I(5), Crépet A(6), Sirot V(6), Charles MA(2), Heude B(2), 
+de Lauzon-Guillain B(2).
+
+Author information:
+(1)Université Paris Cité and Université Sorbonne Paris Nord, Inserm, INRAE, 
+Centre for Research in Epidemiology and StatisticS (CRESS), Paris, France. 
+Electronic address: manel.ghozal@inserm.fr.
+(2)Université Paris Cité and Université Sorbonne Paris Nord, Inserm, INRAE, 
+Centre for Research in Epidemiology and StatisticS (CRESS), Paris, France.
+(3)Université Paris-Saclay, UVSQ, Université Paris-Sud, Inserm, Équipe 
+d'Épidémiologie Respiratoire Intégrative, CESP, 94805 Villejuif, France.
+(4)Université Paris-Saclay, CEA, INRAE, DMTS, Gif-sur-Yvette, France.
+(5)Institute Desbrest of Epidemiology and Public Health (IDESP), Montpellier 
+University and INSERM, Montpellier, France, Pneumology, Allergology and Thoracic 
+Oncology Department, Montpellier University Hospital, Montpellier, France.
+(6)ANSES, French Agency for Food, Environmental and Occupational Health and 
+Safety, Risk Assessment Department, Methodology and Studies Unit, 
+Maisons-Alfort, France.
+
+INTRODUCTION: Maternal exposure to food chemicals may increase the risk of 
+allergy and respiratory disorders in offspring. We aimed to assess the 
+association of prenatal dietary exposure to single chemicals and chemical 
+mixtures with allergy or respiratory events reported before age 8 y in children.
+METHODS: We included 1428 mother-child pairs enrolled in the EDEN mother-child 
+cohort. Maternal dietary exposure to 209 chemicals and eight associated mixtures 
+was investigated. Allergic and respiratory diseases (wheezing, asthma, allergic 
+rhinitis, eczema and food allergy) were reported by parents between birth and 
+age 8 y. Associations with the studied outcomes were evaluated with three 
+approaches based on adjusted logistic regression, estimating odds ratios (ORs) 
+and 95 % confidence intervals (CIs). First, food chemicals were considered 
+individually, with correction for multiple testing. Second, chemicals selected 
+by elastic net regression were considered simultaneously in a multiple exposure 
+model. Third, predefined mixtures were introduced in the same adjusted logistic 
+regression. Results are expressed as odds ratio (OR[95 % CI]).
+RESULTS: Prenatal single exposure to 74 food chemicals was associated with 
+higher risk of allergic rhinitis. Prenatal single exposure to 11 chemicals was 
+associated with higher risk of wheezing. In the multi-exposure approach, risk of 
+wheezing was associated with the pesticides diazinon and triadimenol, and 
+polycyclic aromatic hydrocarbon 5-methylchrysene. Phytoestrogen resveratrol was 
+negatively associated with lower risk of both wheezing and allergic rhinitis, 
+and mycotoxin monoacetoxyscirpenol was negatively associated with risk of 
+eczema. Finally, a chemical mixture composed mainly of trace elements, furans 
+and polycyclic aromatic hydrocarbons, was associated with higher risk of 
+allergic rhinitis (1.33 [1.02;1.73]).
+CONCLUSION: Prenatal dietary exposure to chemicals was associated with risk of 
+allergic rhinitis or wheezing up to age 8 y. A few chemicals were associated 
+with other allergic and respiratory diseases. Larger prospective studies are 
+needed to confirm these findings.
+
+Copyright © 2023. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.envint.2023.108195
+PMID: 37734145
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Barbara Heude and Marie Aline 
+Charles reports financial support was provided by French Dairy Interbranch 
+Center.
+
+
+7. BMJ Open. 2023 Apr 13;13(4):e070533. doi: 10.1136/bmjopen-2022-070533.
+
+Effects of infant feeding with goat milk formula or cow milk formula on atopic 
+dermatitis: protocol of the randomised controlled Goat Infant Formula Feeding 
+and Eczema (GIraFFE) trial.
+
+Ferry JM(1), Galera-Martínez R(2), Campoy C(3)(4), Sáenz de Pipaón M(5), 
+Jarocka-Cyrta E(6), Walkowiak J(7), Romańczuk B(8), Escribano J(9)(10), Gispert 
+M(9), Grattarola P(11), Gruszfeld D(12), Iglesia I(13)(14), Grote V(1), 
+Demmelmair H(1), Handel U(1), Gallier S(15), Koletzko B(16).
+
+Author information:
+(1)Division of Metabolic and Nutritional Medicine, Department of Paediatrics, Dr 
+von Hauner Children's Hospital, University Hospital, Ludwig Maximilian 
+University Munich, Munich, Germany.
+(2)Unit of Pediatric Gastroenterology and Nutrition, Torrecárdenas University 
+Hospital, Almería, Spain.
+(3)Department of Paediatrics, EURISTIKOS Excellence Centre for Paediatric 
+Research, School of Medicine, University of Granada, Granada, Spain.
+(4)Instituto Biosanitario de Granada (Ibs-Granada), Fundación Parque Tecnológico 
+de Ciencias de la Salud de Granada, Granada, Spain.
+(5)Department of Neonatology, Hospital Universitario La Paz, Madrid, Spain.
+(6)Department of Pediatrics, Gastroenterology, and Nutrition, Regional 
+Specialized Children's Hospital in Olsztyn, Medical Faculty Collegium Medicum 
+University of Warmia and Mazury, Olsztyn, Poland.
+(7)Department of Pediatric Gastroenterology and Metabolic Diseases, Poznan 
+University of Medical Sciences, Poznan, Poland.
+(8)Department of Pediatrics, Medical College, University of Rzeszów, Rzeszów, 
+Poland.
+(9)IISPV, Pediatric Nutrition and Human Development Research Unit, Universitat 
+Rovira i Virgili, Tarragona, Spain.
+(10)Department of Paediatric, Hospital Universitari Sant Joan de Reus, Reus, 
+Spain.
+(11)INCLIVA Biomedical Research Institute, Valencia, Spain.
+(12)Department of Paediatric, Children's Memorial Health Institute in Warsaw, 
+Warsaw, Poland.
+(13)Agrifood Institute of Aragon (IA2), Growth, Exercise, Nutrition and 
+Development (GENUD) Research Group, University of Zaragoza, Zaragoza, Spain.
+(14)Instituto de Investigación Sanitaria Aragón (IIS-Aragón), Zaragoza, Spain.
+(15)Dairy Goat Co-operative (NZ), Hamilton, New Zealand.
+(16)Division of Metabolic and Nutritional Medicine, Department of Paediatrics, 
+Dr von Hauner Children's Hospital, University Hospital, Ludwig Maximilian 
+University Munich, Munich, Germany office.koletzko@med.uni-muenchen.de.
+
+INTRODUCTION: Atopic dermatitis (AD) is a chronic, inflammatory skin condition 
+significantly affecting quality of life. A small randomised trial showed an 
+approximately one-third lower incidence of AD in goat milk formula-fed compared 
+with cow milk formula-fed infants. However, due to limited statistical power, AD 
+incidence difference was not found to be significant. This study aims to explore 
+a potential risk reduction of AD by feeding a formula based on whole goat milk 
+(as a source of protein and fat) compared with a formula based on cow milk 
+proteins and vegetable oils.
+METHODS AND ANALYSIS: This two-arm (1:1 allocation), parallel, randomised, 
+double-blind, controlled nutritional trial shall enrol up to 2296 healthy 
+term-born infants until 3 months of age, if parents choose to start formula 
+feeding. Ten study centres in Spain and Poland are participating. Randomised 
+infants receive investigational infant and follow-on formulas either based on 
+whole goat milk or on cow milk until the age of 12 months. The goat milk formula 
+has a whey:casein ratio of 20:80 and about 50% of the lipids are milk fat from 
+whole goat milk, whereas the cow milk formula, used as control, has a 
+whey:casein ratio of 60:40 and 100% of the lipids are from vegetable oils. The 
+energy and nutrient levels in both goat and cow milk formulas are the same. The 
+primary endpoint is the cumulative incidence of AD until the age of 12 months 
+diagnosed by study personnel based on the UK Working Party Diagnostic Criteria. 
+The secondary endpoints include reported AD diagnosis, measures of AD, blood and 
+stool markers, child growth, sleep, nutrition and quality of life. Participating 
+children are followed until the age of 5 years.
+ETHICS AND DISSEMINATION: Ethical approval was obtained from the ethical 
+committees of all participating institutions.
+TRIAL REGISTRATION NUMBER: NCT04599946.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2022-070533
+PMCID: PMC10106058
+PMID: 37055203 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: SG is an employee of DGC 
+(Dairy Goat Co-operative (NZ), Hamilton, New Zealand).
+
+
+8. J Asthma Allergy. 2023 Mar 7;16:261-267. doi: 10.2147/JAA.S400633. eCollection
+ 2023.
+
+Children with Delayed-Type Cow's Milk Protein Allergy May Be at a Significant 
+Risk of Developing Immediate Allergic Reactions Upon Re-introduction.
+
+Al Rushood M(1)(2), Al-Qabandi W(1)(3), Al-Fadhli A(1), Atyani S(4), 
+Al-Abdulghafour A(5), Hussain A(6).
+
+Author information:
+(1)Department of Pediatrics, College of Medicine, Kuwait University, Kuwait 
+City, Kuwait.
+(2)Allergy and Clinical Immunology Unit, Department of Pediatrics, Mubarak Al 
+Kabir Hospital, Kuwait City, Kuwait.
+(3)Gastroenterology Unit, Department of Pediatrics, Amiri Hospital, Kuwait City, 
+Kuwait.
+(4)Department of Pediatrics, Jaber Hospital, Kuwait City, Kuwait.
+(5)Department of Pediatrics, Amiri Hospital, Kuwait City, Kuwait.
+(6)Allergy and Clinical Immunology Unit, Department of Pediatrics, Amiri 
+Hospital, Kuwait City, Kuwait.
+
+BACKGROUND: Cow's Milk Protein Allergy (CMPA) is the most common food allergy in 
+children. The reaction is classified into IgE-mediated immediate reaction and 
+delayed-onset, according to the underlying immune mechanism, and hence, the 
+timing of the symptoms. Case reports suggest that children, with delayed CMPA 
+reactions on elimination diet, may develop severe immediate reactions on 
+reintroduction.
+AIM: The objective of this study was to evaluate the incidence and the risk 
+factors of developing immediate reactions to milk and dairy products in children 
+with CMPA whose initial presentations were of delayed type.
+METHODS: A retrospective chart review of children, aged 0-12 years, presented 
+with delayed type CMPA reactions to the allergy-clinical immunology clinics, was 
+performed. The diagnosis was made clinically, and with appropriate allergy tests 
+when indicated.
+RESULTS: Sixty children were included. Males:female ratio was 1.7:1. Family 
+history of atopy was in 72%, and 57% had personal history of atopy. Sixty 
+percent were not breast fed. The most common concomitant food allergy was egg. 
+The most common initial presentation was diarrhea without protein loss or 
+bleeding followed by exacerbation of atopic dermatitis upon exposure to dairy 
+products. Immediate reactions developed in 21.6% upon re-exposure. There were 
+significant associations with concomitant food allergy (OR 56.6 (3.15-1016.1) 
+P<0.0001), especially eggs (OR 12.85 (3.09-53.5) P<0.01).
+CONCLUSION: Children with CMPA, who present with delayed-type allergic 
+reactions, may be at a significant risk of developing immediate reactions upon 
+reintroduction. Evaluation of possible IgE-mediated allergic reactions before 
+reintroduction may be advisable.
+
+© 2023 Al Rushood et al.
+
+DOI: 10.2147/JAA.S400633
+PMCID: PMC10008003
+PMID: 36915285
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+9. Molecules. 2023 Jan 27;28(3):1242. doi: 10.3390/molecules28031242.
+
+Advances in the Study of Probiotics for Immunomodulation and Intervention in 
+Food Allergy.
+
+Huang YY(1)(2), Liang YT(1)(2), Wu JM(1)(2), Wu WT(1)(2), Liu XT(1)(2), Ye 
+TT(1)(2), Chen XR(1)(2), Zeng XA(1)(2), Manzoor MF(1)(2), Wang LH(1)(2).
+
+Author information:
+(1)College of Food Science and Engineering, Foshan University, Foshan 528225, 
+China.
+(2)Guangdong Provincial Key Laboratory of Intelligent Food Manufacturing, Foshan 
+University, Foshan 528225, China.
+
+Food allergies are a serious food safety and public health issue. Soybean, 
+dairy, aquatic, poultry, and nut products are common allergens inducing allergic 
+reactions and adverse symptoms such as atopic dermatitis, allergic eczema, 
+allergic asthma, and allergic rhinitis. Probiotics are assumed as an essential 
+ingredient in maintaining intestinal microorganisms' composition. They have 
+unique physiological roles and therapeutic effects in maintaining the mucosal 
+barrier, immune function, and gastrointestinal tract, inhibiting the invasion of 
+pathogenic bacteria, and preventing diarrhea and food allergies. Multiple pieces 
+of evidence reveal a significant disruptive effect of probiotics on food allergy 
+pathology and progression mechanisms. Thus, this review describes the allergenic 
+proteins as an entry point and briefly describes the application of probiotics 
+in allergenic foods. Then, the role of probiotics in preventing and curing 
+allergic diseases by regulating human immunity through intestinal flora and 
+intestinal barrier, modulating host immune active cells, and improving host 
+amino acid metabolism are described in detail. The anti-allergic role of 
+probiotics in the function and metabolism of the gastrointestinal tract has been 
+comprehensively explored to furnish insights for relieving food allergy symptoms 
+and preventing food allergy.
+
+DOI: 10.3390/molecules28031242
+PMCID: PMC9919562
+PMID: 36770908 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+10. Front Nutr. 2022 Sep 27;9:994607. doi: 10.3389/fnut.2022.994607. eCollection 
+2022.
+
+MYBIOTA: A birth cohort on maternal and infant microbiota and its impact on 
+infant health in Malaysia.
+
+Eow SY(1), Gan WY(1), Jiang T(2)(3), Loh SP(1), Lee LJ(1), Chin YS(1)(4), Than 
+LTL(5), How KN(6), Thong PL(7), Liu Y(2)(8), Zhao J(2)(8), Chen L(2)(8).
+
+Author information:
+(1)Department of Nutrition, Faculty of Medicine and Health Sciences, Universiti 
+Putra Malaysia, Serdang, Selangor, Malaysia.
+(2)National Engineering Research Center of Dairy Health for Maternal and Child, 
+Beijing Sanyuan Foods Co. Ltd., Yinghai, Beijing, China.
+(3)South Asia Branch of National Engineering Center of Dairy for Maternal and 
+Child Health, Guilin University of Technology, Guilin, China.
+(4)Research Center of Excellence, Nutrition and Non-communicable Diseases, 
+Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, Serdang, 
+Selangor, Malaysia.
+(5)Department of Medical Microbiology, Faculty of Medicine and Health Sciences, 
+Universiti Putra Malaysia, Serdang, Selangor, Malaysia.
+(6)Unit of Dermatology, Faculty of Medicine and Health Sciences, Universiti 
+Putra Malaysia, Serdang, Selangor, Malaysia.
+(7)Department of Pediatrics, Faculty of Medicine and Health Sciences, Universiti 
+Putra Malaysia, Serdang, Selangor, Malaysia.
+(8)Beijing Engineering Research Center of Dairy, Beijing Technical Innovation 
+Center of Human Milk Research, Beijing Sanyuan Foods Co. Ltd., Yinghai, Beijing, 
+China.
+
+BACKGROUND: The microbiota plays a key role in early immunity maturation that 
+affects infant health and is associated with the development of non-communicable 
+diseases and allergies in later life.
+OBJECTIVE: The MYBIOTA is a prospective mother-infant cohort study in Malaysia 
+aiming to determine the association between gut microbiota with infant health 
+(temperament, gastrointestinal disorders, eczema, asthma, and developmental 
+delays) in Selangor, Malaysia.
+METHODS: Pregnant mothers will be enrolled in their first trimester of 
+pregnancy, and follow-ups will be done for infants during their first year of 
+life. Maternal-infant biological samples (blood, feces, saliva, urine, and 
+breast milk), anthropometric, dietary, and clinical information will be 
+collected at different time points from early pregnancy to 12 months postpartum.
+DISCUSSION: This study could provide a better understanding of the colonization 
+and development of the gut microbiome during early life and its impact on infant 
+health.
+CLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov/, identifier 
+NCT04919265.
+
+Copyright © 2022 Eow, Gan, Jiang, Loh, Lee, Chin, Than, How, Thong, Liu, Zhao 
+and Chen.
+
+DOI: 10.3389/fnut.2022.994607
+PMCID: PMC9552002
+PMID: 36238465
+
+Conflict of interest statement: Authors TJ, YL, JZ, and LC were employed by 
+Beijing Sanyuan Foods Co. Ltd. The funder had the following involvement with the 
+study: involvement in study design, data analysis, decision to publish, or 
+preparation of the manuscript. The remaining authors declare that the research 
+was conducted in the absence of any commercial or financial relationships that 
+could be construed as a potential conflict of interest.

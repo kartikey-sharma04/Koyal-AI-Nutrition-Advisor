@@ -1,0 +1,630 @@
+1. J Allergy Clin Immunol. 2025 Apr 29:S0091-6749(25)00464-6. doi: 
+10.1016/j.jaci.2025.03.032. Online ahead of print.
+
+Fine resolution of the N-terminal IgE-binding epitope of Ara h 2: discovery of 
+variants with enhanced IgE binding.
+
+Bernstein JS(1), Canon N(2), Schein CH(3), Braun W(4), Negi SS(4), Tchekmedyian 
+R(5), Pozzoli M(6), Kim EH(7), Kulis MD(7), Vu T(8), Liu W(2), Chen X(2), 
+Dreskin SC(9).
+
+Author information:
+(1)Division of Allergy, Department of Medicine, University of Cincinnati, 
+Cincinnati, OH.
+(2)Division of Allergy and Clinical Immunology, Department of Medicine, 
+University of Colorado Denver, Aurora, CO.
+(3)Institute for Human Infections and Immunity (IHII), The University of Texas 
+Medical Branch, Galveston, TX; Sealy Center for Structural Biology and Molecular 
+Biophysics, The University of Texas Medical Branch, Galveston, TX; Department of 
+Biochemistry and Molecular Biology, The University of Texas Medical Branch, 
+Galveston, TX.
+(4)Sealy Center for Structural Biology and Molecular Biophysics, The University 
+of Texas Medical Branch, Galveston, TX; Department of Biochemistry and Molecular 
+Biology, The University of Texas Medical Branch, Galveston, TX.
+(5)Modena Allergy and Asthma, Torrance, CA.
+(6)Department of Ophthalmology, University of Colorado, Denver, CO, USA.
+(7)Division of Pediatric Allergy and Immunology, University of North Carolina 
+School of Medicine, Chapel Hill, NC.
+(8)Department of Biostatistics and Informatics, Colorado School of Public 
+Health.
+(9)Division of Allergy and Clinical Immunology, Department of Medicine, 
+University of Colorado Denver, Aurora, CO. Electronic address: 
+stephen.dreskin@cuanschutz.edu.
+
+BACKGROUND: IgE binding to linear peptides from the N-terminal region of Ara h 2 
+(epitope 1) is associated with the achievement of sustained unresponsiveness 
+(SU) in young children receiving oral immunotherapy (OIT) and may be important 
+for cross-reactivity between peanuts and tree nuts. This region is also part of 
+the binding site for neutralizing IgG monoclonal antibodies associated with SU 
+following OIT.
+OBJECTIVE: To perform alanine scanning of this epitope to determine the 
+importance of individual amino acids and then amino acid scanning to screen for 
+sequences with enhanced binding of IgE.
+METHODS: A streptavidin IgE ELISA with biotinylated peptides was used to measure 
+the binding of IgE to full length and truncated peptides in order to identify a 
+core sequence (DRRCQSQLERAN). Peptide microarrays were used to screen multiple 
+peptides and quantitate binding of IgE. Statistical analysis included one way 
+ANOVA followed by Dunnett's multiple comparison test.
+RESULTS: IgE binding was greatly reduced when alanine was substituted for 
+arginine at positions 2, 3 and 10 (R2, P<0.001, R3, P<0.01, R10, P<0.001), 
+glutamine at position 5 and 7 (Q5, P<0.01, Q7, P<0.001) and glutamate at 
+position 9 (E9, P<0.01). Substitution of aspartate with asparagine at position 1 
+in conjunction with substitution of asparagine at position 12 with either 
+leucine or lysine gave enhanced binding (p<0.0001). Molecular modeling of these 
+data suggests a conformational basis for recognition by polyclonal IgE.
+CONCLUSIONS: IgE binding assays using pooled and individual sera demonstrated 
+the importance of aa throughout the sequence of epitope 1 for immune 
+recognition. The results of alanine scanning indicated residues that could be 
+changed as part of a larger strategy to generate hypoallergenic forms of Ara h 2 
+while sequence variants with enhanced binding were identified that may be useful 
+for improving diagnostics.
+
+Copyright © 2025. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jaci.2025.03.032
+PMID: 40311815
+
+
+2. Front Allergy. 2025 Mar 19;6:1562667. doi: 10.3389/falgy.2025.1562667. 
+eCollection 2025.
+
+Food allergen introduction practices and parent/caregiver attitudes based on 
+family history of food allergy.
+
+Smith HG(1), Nimmagadda S(2), Gupta RS(2), Warren CM(2).
+
+Author information:
+(1)Department of Pediatrics, Lurie Children's Hospital of Chicago and 
+Northwestern McGaw Pediatrics Residency, Chicago, IL, United States.
+(2)Center for Food Allergy and Asthma Research Northwestern Feinberg School of 
+Medicine & Lurie Children's Hospital of Chicago, Chicago, IL, United States.
+
+BACKGROUND: The National Institute of Allergy and Infectious Disease (NIAID) 
+addendum guidelines for primary prevention of peanut allergy1 provide 
+recommendations regarding peanut introduction, and a recent consensus statement 
+highlighted the importance of timely introduction of other commonly allergenic 
+solids, and the role of family history as a risk factor.2ObjectiveTo determine 
+whether children in households with a food allergic parent/caregiver or sibling 
+have different rates of being fed commonly allergenic solids during the first 
+year of life than children lacking this family history.
+METHODS: A pretested survey was administered between January-February 2021 to a 
+U.S. sample of 3,062 parents/caregivers of children born since the NIAID 
+Addendum guidelines. Survey-weighted chi-square statistics and logistic 
+regression models tested the independence of key variables across strata of 
+interest before and after covariate adjustment.
+RESULTS: Peanut, almond, shellfish, and other tree nuts are more likely to be 
+introduced to children with one or more food-allergic caregivers. Respondents 
+with food-allergic parents (39.3%) and siblings with FA (35.8%) were more 
+familiar with the 2017 NIAID guidelines compared to parents (12.9%) and siblings 
+without FA (12.7%).
+CONCLUSION: Findings suggest that respondents with food-allergic parents and 
+siblings are more likely to have many of the most prevalent allergens introduced 
+at younger ages, which could be due to knowledge related to the NIAID-sponsored 
+guidelines and other national guidance, but that even among these higher-risk 
+families overall rates of "early" introduction during infancy still remain 
+relatively low.
+
+© 2025 Smith, Nimmagadda, Gupta and Warren.
+
+DOI: 10.3389/falgy.2025.1562667
+PMCID: PMC11961653
+PMID: 40176928
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+3. Curr Allergy Asthma Rep. 2025 Mar 20;25(1):19. doi:
+10.1007/s11882-025-01200-1.
+
+Basophil Activation Test for the Improved Diagnosis of Peanut and Tree Nut 
+Allergy.
+
+Marini-Rapoport O(1)(2), Bhowmik M(1)(2), Patil SU(3)(4)(5).
+
+Author information:
+(1)Center for Immunology and Inflammatory Diseases, Division of Rheumatology, 
+Allergy, and Immunology, Massachusetts General Hospital, Boston, MA, USA.
+(2)Food Allergy Center, Massachusetts General Hospital, Boston, MA, USA.
+(3)Center for Immunology and Inflammatory Diseases, Division of Rheumatology, 
+Allergy, and Immunology, Massachusetts General Hospital, Boston, MA, USA. 
+sarita.patil@mgh.harvard.edu.
+(4)Food Allergy Center, Massachusetts General Hospital, Boston, MA, USA. 
+sarita.patil@mgh.harvard.edu.
+(5)Departments of Medicine and Pediatrics, Division of Allergy and Immunology, 
+Massachusetts General Hospital, 55 Fruit Street, Yawkey 4B, 02114, Boston, MA, 
+USA. sarita.patil@mgh.harvard.edu.
+
+PURPOSE OF REVIEW: As an ex-vivo test of allergic effector cell activation, 
+basophil activation testing (BAT) to allergen enables quantification of the 
+in-vivo IgE-mediated allergic response. BAT thus holds promise in the diagnosis 
+and monitoring of peanut and tree nut allergies. Recent systematic analyses and 
+expert recommendations support a role for BAT in the diagnosis of peanut and 
+tree nut allergy.
+RECENT FINDINGS: Diagnostic cut-offs for BAT in peanut and tree nut allergy have 
+been identified. Consistently, BAT can discriminate with high sensitivity and 
+specificity between allergy and tolerance when measured against oral food 
+challenges. Furthermore, the utilization of BAT has can increase the sensitivity 
+and specificity of peanut allergy and tree nut allergy diagnosis, both alone and 
+in conjunction with specific IgE testing and skin prick testing. BAT is a 
+promising tool in the diagnosis of peanut and tree nut allergy.
+
+© 2025. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11882-025-01200-1
+PMID: 40111544 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing Interests: OMR and MB 
+declare they have no conflict of interest. SUP has received research grants from 
+(National Institutes of Health, Food Allergy Science Initiative, Buhlmann 
+Laboratories), clinical trial support (Regeneron, Food Allergy Research 
+Education), consulting (Seismic Therapeutics, Mabylon), and royalties 
+(Uptodate). Human and Animal Rights and Informed Consent: This article does not 
+contain any studies with human or animal subjects performed by any of the 
+authors.
+
+
+4. Curr Allergy Asthma Rep. 2025 Jan 13;25(1):9. doi: 10.1007/s11882-024-01191-5.
+
+Effects of Food Processing on Allergenicity.
+
+Gonzalez PM(1), Cassin AM(2), Durban R(3), Upton JEM(4)(5).
+
+Author information:
+(1)Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada.
+(2)Division of Nutrition Therapy, Cincinnati Children's Hospital Medical Center, 
+Cincinnati, OH, USA.
+(3)Carolina Asthma & Allergy Center, Charlotte, NC, USA.
+(4)Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada. 
+julia.upton@sickkids.ca.
+(5)Division of Immunology and Allergy, Department of Paediatrics, The Hospital 
+for Sick Children, SickKids Food Allergy and Anaphylaxis Program, University of 
+Toronto, Toronto, ON, Canada. julia.upton@sickkids.ca.
+
+PURPOSE OF REVIEW: There is an increasing awareness among clinicians that 
+industrial and household food processing methods can increase or decrease the 
+allergenicity of foods. Modification to allergen properties through processing 
+can enable dietary liberations. Reduced allergenicity may also allow for lower 
+risk immunotherapy approaches. This review will equip physicians, nurses, 
+dieticians and other health care providers with an updated overview of the most 
+clinically oriented research in this field. We summarize studies assessing the 
+allergenicity of processed foods through clinically accessible means, such as 
+oral food challenges, skin prick tests, and sIgE levels.
+RECENT FINDINGS: Baking, boiling, canning, fermenting, pasteurizing, peeling, 
+powdering, and roasting heterogenously impact the likelihood of reactivity in 
+egg-, milk-, peanut- and other legume-, tree nut-, fruit-, and seafood-allergic 
+patients. These variations may be due to the use of different temperatures, 
+duration of processing, presence of a matrix, and the specific allergens 
+involved, among other factors. Accurate prediction of tolerance to processed 
+allergens with skin prick tests and sIgE levels remains largely elusive. Food 
+allergy management strategies, especially with milk and egg, have capitalized on 
+the decreased allergenicity of baking. Many milk- and egg-allergic patients 
+tolerate baked and heated forms of these allergens, and the use of these 
+processed foods in oral immunotherapy (OIT) continues to be extensively 
+investigated. Heat is also well recognized to reduce allergic symptoms from some 
+fruits and vegetables in food-pollen syndrome. Other forms of processing such as 
+boiling, fermenting, and canning can reduce allergenicity to a diverse array of 
+foods. Roasting, on the other hand, may increase allergenicity. The application 
+of food processing to food allergy treatments remains largely unexplored by 
+large clinical studies and provides a key avenue for future research. The 
+recognition that food allergy represents a spectrum of hypersensitivity, rather 
+than an all-or-nothing phenomenon, has led to approaches to enable dietary 
+liberation with processed, less-allergenic foods and their use in food allergy 
+immunotherapies.
+
+© 2025. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11882-024-01191-5
+PMID: 39804418 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Human and Animal Rights and 
+Informed Consent: This article does not contain any studies with human or animal 
+subjects performed by any of the authors. Competing Interests: Dr. Upton reports 
+grants from DBV Therapeutics, ALK Abello, Sanofi/Regeneron, non-financial 
+clinical trial support from Novartis, and personal fees from Viatris, Pfizer, 
+Astra Zeneca, Bausch Health, all outside the submitted work; the remaining 
+authors declare that they have no conflict of interest.
+
+
+5. J Allergy Clin Immunol Pract. 2024 Dec;12(12):3372-3382. doi: 
+10.1016/j.jaip.2024.08.045.
+
+Understanding Experiences, Barriers, and Facilitators of Safe Airline Travel: A 
+Global Survey of Food Allergy Patients and Caregivers.
+
+Warren C(1), Herbert L(2), Mandelbaum L(3), Nowak-Wegrzyn A(4), Sicherer S(5), 
+Sampson H(5), Moassessi C(6), Gupta R(6).
+
+Author information:
+(1)Department of Preventive Medicine & Center for Food Allergy and Asthma 
+Research, Northwestern University Feinberg School of Medicine, Chicago, Ill. 
+Electronic address: Christopher.warren@northwestern.edu.
+(2)Department of Pediatrics, George Washington University School of Medicine, 
+Washington, DC.
+(3)No Nut Traveler, Inc, Livingston, NJ.
+(4)Department of Pediatrics, New York University Grossman School of Medicine, 
+New York, NY.
+(5)Elliot and Roslyn Jaffe Food Allergy Institute, Division of Allergy and 
+Immunology, Kravis Children's Hospital, Department of Pediatrics, Icahn School 
+of Medicine at Mount Sinai, New York, NY.
+(6)Center for Food Allergy and Asthma Research, Northwestern University Feinberg 
+School of Medicine, Chicago, Ill.
+
+BACKGROUND: The global prevalence of food allergy (FA) has increased markedly 
+across recent decades, with millions of patients engaging in airline travel each 
+year. However, air travel can pose specific challenges to FA management.
+OBJECTIVE: To collect global data about patients' and families' FA-related 
+airline travel experiences, attitudes, and behaviors.
+METHODS: An electronic survey was developed and refined by global FA 
+stakeholders, which was administered between October 2022 and January 2023 to 
+patients with FA and caregivers recruited via 45 FA patient advocacy 
+organizations and research institutions.
+RESULTS: Most of the 4704 survey respondents self-reported as female (88.4%), 
+aged between 40 and 59 years (67.7%), and non-Hispanic White race (75.8%), and 
+resided in the United States (79.6%). A history of 1 or more in-flight 
+food-allergic reaction was reported by 8.5% of participants, with peanut (3.9%), 
+tree nuts (2.4%), and milk (0.6%) the most reported triggers. Epinephrine was 
+administered in 15.1% of reactions and was most often self-carried (91.7% of 
+events). Only 57.4% of in-flight reactions were reported to either the flight 
+crew in the air or the airline on landing. Many preventive measures were 
+reportedly taken by respondents to avoid adverse FA outcomes during air travel, 
+including specific requests for accommodation, which were often not provided as 
+assured. Respondents generally reported high levels of anxiety managing FA 
+during air travel and that FA-related policies and other related factors were 
+primary drivers of travel-related decision making.
+CONCLUSIONS: Air travel presents numerous challenges to optimal FA management, 
+many of which can be at least partially mitigated though consistent 
+implementation of appropriate FA-related policies.
+
+Copyright © 2024 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2024.08.045
+PMID: 39645358 [Indexed for MEDLINE]
+
+
+6. Clin Transl Allergy. 2024 Dec;14(12):e70009. doi: 10.1002/clt2.70009.
+
+10 practical priorities to prevent and manage serious allergic reactions: 
+GA(2)LEN ANACare and EFA Anaphylaxis Manifesto.
+
+Muraro A(1), de Silva D(2), Podesta M(3), Anagnostou A(4)(5), Cardona V(6), 
+Halken S(7), Smith P(8), Tanno LK(9), Turner P(10), Worm M(11), Alvaro-Lozano 
+M(12), Arasi S(13), Asarnoj A(14), Barni S(15), Beyer K(11)(16), Bilaver LA(17), 
+Bird A(18), Bonaguro R(1), Brough HA(19), Chinthrajah RS(20), Cook EE(21), 
+Demoulin C(22), Deschildre A(23), Dribin TE(24), Ebisawa M(25), Fernandez-Rivas 
+M(26), Fiocchi A(27), Fleischer DM(28), Garrow E(29), Gerdts J(30), Giovannini 
+M(15)(31), Järvinen KM(32), Kelly M(33), Knol EF(34), Lack G(19), Lazzarotto 
+F(1), Le TM(35), Leonard S(36), Lieberman J(37), Makris M(38), Mandelbaum L(39), 
+Marchisotto MJ(40), Marino GA(41), Mori F(15), Nilsson C(42)(43), Nowak-Wegrzyn 
+A(44)(45), Odemyr M(46), Oude Elberink HNG(47), Palosuo K(48), Patel N(10), Pier 
+J(49), Poblete S(50), Rachid R(51), Rodríguez Del Río P(52), Said M(53), Sampson 
+HA(54), Sánchez Sanz A(55), Schnadt S(56), Schultz F(57), Toniolo A(1), Upton 
+JEM(58), Venter C(59), Vickery BP(60), Vlieg-Boerstra B(61), Wang J(54), Roberts 
+G(62)(63)(64)(65), Zuberbier T(11)(66); GA2LEN ANACare Centres and EFA.
+
+Author information:
+(1)Padua University Hospital, Padua, Italy.
+(2)The Evidence Centre, London, UK.
+(3)European Federation of Allergy and Airways Diseases Patients' Associations, 
+Brussels, Belgium.
+(4)Children's Hospital, Houston, Texas, USA.
+(5)Baylor College of Medicine, Houston, Texas, USA.
+(6)Hospital Universitari Vall d'Hebron, Barcelona, Spain.
+(7)Hans Christian Andersen Children's Hospital and University of Southern 
+Denmark, Odense, Denmark.
+(8)Griffith University, Southport, Queensland, Australia.
+(9)Hôpital Arnaud de Villeneuve - University Hospital of Montpellier, 
+Montpellier, France.
+(10)Imperial College London, London, UK.
+(11)Charite Univeritätsmedizin Berlin, Berlin, Germany.
+(12)Hospital Sant Joan de Déu, Barcelona, Spain.
+(13)Bambino Gesù Children's Hospital, Rome, Italy.
+(14)Astrid Lindgren Children's Hospital, Karolinska University Hospital, 
+Stockholm, Sweden.
+(15)Meyer Children's Hospital IRCCS, Florence, Italy.
+(16)German Center for Child and Adolescent Health Partner Site Berlin, Berlin, 
+Germany.
+(17)Northwestern University, Evanston, Illinois, USA.
+(18)University of Texas Southwestern University, Dallas, Texas, USA.
+(19)Guy's and St Thomas' NHS Foundation Trust and King's College London, London, 
+UK.
+(20)Stanford University, Stanford, California, USA.
+(21)ATOPICCO Network for Children of the Earth, Tokyo, Japan.
+(22)AFPRAL, Paris, France.
+(23)Université de Lille, Lille, France.
+(24)Cincinnati Children's Hospital Medical Center and University of Cincinnati, 
+Cincinnati, Ohio, USA.
+(25)NHO Sagamihara National Hospital, Sagamihara, Japan.
+(26)Hospital Clinico San Carlos, Universidad Complutense IdISSC, Madrid, Spain.
+(27)Pediatric Hospital Bambino Gesù, Rome, Italy.
+(28)University of Colorado and Children's Hospital Colorado, Aurora, Colorado, 
+USA.
+(29)Food Allergy and Anaphylaxis Connection Team, West Chester, Ohio, USA.
+(30)Food Allergy Canada, North York, Ontario, Canada.
+(31)University of Florence, Florence, Italy.
+(32)University of Rochester, New York, New York, USA.
+(33)Anaphylaxis UK, Farnborough, UK.
+(34)University Medical Center Utrecht, Utrecht, The Netherlands.
+(35)University Utrecht, Utrecht, The Netherlands.
+(36)University of California, San Diego, La Jolla, California, USA.
+(37)University of Tennessee Health Science Center and LeBonheur Children's 
+Hospital, Memphis, Tennessee, USA.
+(38)National and Kapodistrian University of Athens, Athens, Greece.
+(39)No Nut Traveler Inc, Livingston, New Jersey, USA.
+(40)MJM Advisory LLC, New York, New York, USA.
+(41)Hospital Universitario Austral and Fundación SOS Alergia, Pilar, Argentina.
+(42)Karolinska Institutet, Stockholm, Sweden.
+(43)Sachs' Children and Youth Hospital, Stockholm, Sweden.
+(44)New York University, New York, New York, USA.
+(45)University of Warmia and Mazury, Olsztyn, Poland.
+(46)Astma- och Allergiförbundet, Stockholm, Sweden.
+(47)University of Groningen, Groningen, The Netherlands.
+(48)Helsinki University Hospital, Helsinki, Finland.
+(49)University of Rochester, Rochester, New York, USA.
+(50)Food Allergy Research & Education (FARE), McLean, Virginia, USA.
+(51)Boston Children's Hospital, Harvard Medical School, Boston, Massachusetts, 
+USA.
+(52)Hospital Infantil Universitario Niño Jesús, Madrid, Spain.
+(53)Allergy & Anaphylaxis Australia, Sydney, New South Wales, Australia.
+(54)Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+(55)AEPNAA Spanish Association of People with Food and Latex Allergy, Madrid, 
+Spain.
+(56)Deutscher Allergie- und Asthmabund, Berlin, North Rhine-Westphalia, Germany.
+(57)International FPIES Association, Quincy, Massachusetts, USA.
+(58)University of Toronto, Toronto, Ontario, Canada.
+(59)University of Colorado, Denver, Colorado, USA.
+(60)Emory University School of Medicine and Children's Healthcare of Atlanta, 
+Atlanta, Georgia, USA.
+(61)OLVG Hospital, Amsterdam, The Netherlands.
+(62)University of Southampton, Southampton, UK.
+(63)St Mary's Hospital, Southampton, UK.
+(64)NIHR Biomedical Research Centre, Southampton, UK.
+(65)University Hospital Southampton NHS Foundation Trust, Southampton, UK.
+(66)Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, 
+Immunology and Allergology, Berlin, Germany.
+
+This Anaphylaxis Manifesto calls on communities to prioritise 10 practical 
+actions to improve the lives of people at risk of serious allergic reactions. 
+The Global Allergy and Asthma European Network and the European Federation of 
+Allergy and Airways Diseases Patients' Associations (EFA) compiled 
+patient-centric priorities. We used qualitative consensus methods, research 
+evidence and feedback from over 200 patient groups, stakeholder organisations 
+and healthcare professionals. We encourage healthcare, education and food 
+organisations to collaborate with people at risk of serious allergic reactions 
+to tackle safety, anxiety and financial burdens for individuals and societies. 
+Key priorities for prevention include awareness-raising campaigns for the public 
+and professionals, school and workplace initiatives and mandatory precautionary 
+allergen labels on food. Priorities for improving immediate and long-term 
+management include educating healthcare professionals, patients and schools 
+about when and how to use adrenaline, funding two approved adrenaline devices 
+for everyone at risk, and facilitating access to allergy specialists. Integrated 
+care pathways should include clinical and non-clinical management options such 
+as individualised risk assessment and quality of life assessment, 
+self-management plans, dietetic and psychosocial support and peer support. 
+Organisations around the world are committing to work together towards these 
+priorities.
+
+© 2024 The Author(s). Clinical and Translational Allergy published by John Wiley 
+& Sons Ltd on behalf of European Academy of Allergy and Clinical Immunology.
+
+DOI: 10.1002/clt2.70009
+PMCID: PMC11606857
+PMID: 39614094
+
+Conflict of interest statement: A separate file has been provided listing all 
+potential interests of the authors.
+
+
+7. Swiss Med Wkly. 2024 Nov 20;154:3691. doi: 10.57187/s.3691.
+
+Safety of oral immunotherapy for cashew nut and peanut allergy in children - a 
+retrospective single-centre study.
+
+Breiding M(1), Soomann M(1), Roth M(2), Trück J(1), Bellutti Enders F(1)(2).
+
+Author information:
+(1)Divisions of Allergy and Immunology, University Children's Hospital Zurich 
+and the Children's Research Center, University of Zurich, Zurich, Switzerland.
+(2)Division of Allergy and Clinical Immunology, University Children's Hospital 
+Basel, Basel, Switzerland.
+
+AIM OF THE STUDY: Oral immunotherapy (OIT) is increasingly used for the 
+treatment of childhood food allergies, with limited data available on cashew nut 
+OIT. This real-life study investigated the safety and feasibility of cashew nut 
+OIT, comparing it with peanut OIT, with a focus on the up-dosing process.
+METHODS: We analysed cashew nut (n = 24) and peanut (n = 38) OIT cases with 
+treatment initiated between 2018 and 2022 at the University Children's Hospital 
+Basel. All patients who commenced therapy within this time frame were enrolled 
+without prior selection. Two different starting protocols were used. Within the 
+up-dosing protocol, the nut intake was incrementally increased by 20-30% every 2 
+weeks until reaching a maintenance dose of 1 g of nut protein. After consuming 
+the maintenance dose regularly for 18-24 months, a second oral food challenge 
+was performed. Patients who passed this challenge were considered desensitised. 
+The safety of the therapy was evaluated based on the severity of adverse 
+reactions during the up-dosing phase. Symptom severity was evaluated using the 
+validated ordinal food allergy severity scale (o-FASS-5).
+RESULTS: Over the study period, 33% of cashew nut-allergic and 63% of 
+peanut-allergic patients experienced mild to moderate allergic reactions. Severe 
+allergic reactions occurred in five peanut-allergic children with high baseline 
+allergen-specific IgE levels. Six patients with peanut, and none with cashew nut 
+OIT, discontinued the therapy due to adverse reactions. The mean duration to 
+reach the maintenance phase was longer for children with asthma or another food 
+allergy. Among children who already underwent the second oral food challenge, 
+desensitisation was achieved in 91% (11 out of 12) of cashew nut- and 73% (11 
+out of 15) of peanut-allergic patients.
+CONCLUSION: Cashew nut OIT had a low severity of adverse reactions and was 
+generally well-tolerated. However, patient characteristics influenced side 
+effect risk and treatment duration, emphasising the need for individualised OIT 
+strategies.
+
+DOI: 10.57187/s.3691
+PMID: 39570923 [Indexed for MEDLINE]
+
+
+8. Allergol Int. 2025 Jan;74(1):4-12. doi: 10.1016/j.alit.2024.10.003. Epub 2024 
+Nov 18.
+
+T follicular helper and memory B cells in IgE recall responses.
+
+Koenig JFE(1).
+
+Author information:
+(1)McMaster Immunology Research Centre, Department of Medicine, Faculty of 
+Health Sciences, McMaster University, Hamilton, Ontario, Canada; Schroeder 
+Allergy and Immunology Research Institute, Department of Medicine, Faculty of 
+Health Sciences, McMaster University, Hamilton, Ontario, Canada. Electronic 
+address: koenigjf@mcmaster.ca.
+
+IgE antibodies raised against innocuous environmental antigens cause allergic 
+diseases like allergic rhinitis, food allergy, and allergic asthma. While some 
+allergies are often outgrown, others (peanut, shellfish, tree nut) are lifelong 
+in the majority of individuals. Lifelong allergies are the result of persistent 
+production of allergen-specific IgE. However, IgE antibodies and the plasma 
+cells that secrete them tend to be short-lived. Persistent allergen-specific IgE 
+titres are thought to be derived from the continued renewal of IgE plasma cells 
+from memory B cells in response to allergen encounters. The initial generation 
+of allergen-specific IgE is driven by B cell activation by IL-4 producing Tfh 
+cells, but the cellular and molecular mechanisms of the long-term production of 
+IgE are poorly characterized. This review investigates the mechanisms governing 
+IgE production and Tfh activation in the primary and recall responses, towards 
+the objective of identifying molecular targets for therapeutic intervention that 
+durably inactivate the IgE recall response.
+
+Crown Copyright © 2024. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.alit.2024.10.003
+PMID: 39562254 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The author receives funding 
+from ALK Abello A/S.
+
+
+9. Pediatr Allergy Immunol. 2024 Nov;35(11):e14276. doi: 10.1111/pai.14276.
+
+AAAAI-EAACI PRACTALL: Standardizing oral food challenges-2024 Update.
+
+Sampson HA(1), Arasi S(2), Bahnson HT(3), Ballmer-Weber B(4)(5), Beyer K(6), 
+Bindslev-Jensen C(7), Bird JA(8), Blumchen K(9), Davis C(10), Ebisawa M(11), 
+Nowak-Wegrzyn A(12)(13), Patel N(14), Peters RL(15)(16), Sicherer S(1), Spergel 
+J(17), Turner PJ(14), Yanagida N(11), Eigenmann PA(18).
+
+Author information:
+(1)Division of Pediatric Allergy and Immunology, Department of Pediatrics, Jaffe 
+Food Allergy Institute, Icahn School of Medicine at Mount Sinai, New York, New 
+York, USA.
+(2)Translational Research in Pediatric Specialties Area, Division of Allergy, 
+Bambino Gesù Children's Hospital, IRCCS, Rome, Italy.
+(3)The Immune Tolerance Network, Seattle & Benaroya Research Institute at 
+Virginia Mason, Seattle, Washington, USA.
+(4)Allergy Unit, Department of Dermatology, University Hospital Zurich, Zurich, 
+Switzerland.
+(5)Clinic for Dermatology and Allergology, Kantonsspital St Gallen, St Gallen, 
+Switzerland.
+(6)Department of Pediatric Respiratory Medicine, Immunology and Critical Care 
+Medicine, Charité - Universitätsmedizin Berlin, Corporate Member of Freie 
+Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.
+(7)Department of Dermatology and Allergy Centre, Odense Research Centre for 
+Anaphylaxis (ORCA), Odense University Hospital, University of Southern Denmark, 
+Odense, Denmark.
+(8)Department of Pediatrics, University of Texas Southwestern Medical Center, 
+Dallas, Texas, USA.
+(9)Division of Pneumology, Allergology and Cystic Fibrosis, Department of 
+Paediatric and Adolescent Medicine, University Hospital Frankfurt, Goethe 
+University, Frankfurt, Germany.
+(10)Department of Pediatrics, Baylor College of Medicine, Houston, Texas, USA.
+(11)Department of Allergy, Clinical Research Center for Allergy and 
+Rheumatology, NHO Sagamihara National Hospital, Kanagawa, Japan.
+(12)Department of Pediatrics, Hassenfeld Children's Hospital, NYU Grossman 
+School of Medicine, New York, New York, USA.
+(13)Department of Pediatrics, Gastroenterology and Nutrition, Collegium Medicum, 
+University of Warmia and Mazury, Olsztyn, Poland.
+(14)National Heart & Lung Institute, Imperial College London, London, UK.
+(15)Murdoch Children's Research Institute, Parkville, Victoria, Australia.
+(16)Department of Paediatrics, University of Melbourne, Melbourne, Victoria, 
+Australia.
+(17)Division of Allergy and Immunology, Children's Hospital of Philadelphia, 
+Philadelphia, Pennsylvania, USA.
+(18)Pediatric Allergy Unit, University Hospitals of Geneva, Geneva, Switzerland.
+
+This common statement of the American Academy of Allergy, Asthma and Immunology 
+(AAAAI) and The European Academy of Allergy and Clinical Immunology (EAACI) 
+provides an update of the 2012 published guidelines on food challenges. The 
+guidelines equally address food challenges in the research and the clinical 
+settings. They first address the diagnostic tests which can guide the decision 
+to conduct a challenge. Safety of food challenges is prime, and the various 
+procedures and safety issues as well as medications potentially involved in 
+challenges are extensively discussed. Challenges are suggested to be conducted 
+with semi-logarithmic incremental doses based on the protein content, typically 
+for IgE-mediated food allergy with intervals of 20-30 min between doses. 
+Specific protocols for other types of reactions such atopic dermatitis or 
+gastrointestinal food allergy are detailed separately. Proper stopping criteria 
+are essential in order to reduce the risk of false-positive diagnoses, but also 
+severe reactions. The guidelines recommend criteria based on "go on," "stop," or 
+"observation." These revised guidelines will clearly provide much needed 
+guidance for food challenges in the research and clinical settings. They will 
+continue to evolve with new diagnostic tests or new needs in the field of food 
+allergy.
+
+© 2024 European Academy of Allergy and Clinical Immunology and John Wiley & Sons 
+Ltd.
+
+DOI: 10.1111/pai.14276
+PMID: 39560049 [Indexed for MEDLINE]
+
+
+10. Allergy Asthma Clin Immunol. 2024 Oct 14;20(1):53. doi: 
+10.1186/s13223-024-00915-6.
+
+Oral immunotherapy improves the quality of life of adults with food allergy.
+
+Epstein-Rigbi N(1)(2), Levy MB(3), Nachshon L(3)(4), Koren Y(3), Goldberg 
+MR(3)(5), Elizur A(3)(5).
+
+Author information:
+(1)The Institute of Allergy, Immunology and Pediatric Pulmonology, Shamir 
+Medical Center (Former Assaf Harofeh), 71300, Be'er Ya'akov, Israel. 
+naamaepstein@gmail.com.
+(2)Department of Pediatrics, School of Medicine, Tel Aviv University, Tel Aviv, 
+Israel. naamaepstein@gmail.com.
+(3)The Institute of Allergy, Immunology and Pediatric Pulmonology, Shamir 
+Medical Center (Former Assaf Harofeh), 71300, Be'er Ya'akov, Israel.
+(4)Department of Medicine, School of Medicine, Tel Aviv University, Tel Aviv, 
+Israel.
+(5)Department of Pediatrics, School of Medicine, Tel Aviv University, Tel Aviv, 
+Israel.
+
+BACKGROUND: Oral immunotherapy (OIT) has become the standard of care for 
+children with food allergy (FA) and has substantially improved their quality of 
+life. The effect of OIT on the quality of life in adults, however, has been 
+studied to a much lesser degree.
+METHODS: Patients with food allergy aged ≥ 18 years who underwent OIT at Shamir 
+Medical Center completed the Food Allergy Quality of Life Questionnaire-Adult 
+Form (FAQLQ-AF) before and at the end of treatment. Adults with FA not 
+undergoing OIT who completed the FAQLQ-AF at 2 time points, served as controls.
+RESULTS: A total of 44 adults, median age 23.4 years, who underwent OIT for milk 
+(n = 19), egg (n = 2), peanut (n = 9), sesame (n = 6), and tree nuts (n = 8), 
+and 11 controls were studied. The median OIT starting dose was 23.8 mg protein. 
+33 patients (75%) reached full desensitization within a median of 10.3 months. 
+The FAQLQ-AF baseline scores were comparable between the study and control 
+groups for all items except for Food Allergy related Health (FAH) item in which 
+the study group had a significantly better score (p = 0.02). At the second time 
+point, the study group had significantly better scores in all items (Allergen 
+Avoidance and Dietary Restrictions (AADR), p = 0.02; and Emotional Impact (EI), 
+Risk of Allergen Exposure (RAE), FAH and the Total Score, p < 0.01). The change 
+in scores for the study group was significantly better, statistically and 
+clinically, in AADR, p = 0.04; EI, p < 0.01; RAE, p = 0.01, and in the total 
+score, p = 0.01.
+CONCLUSIONS: OIT significantly improves quality of life of adults with FA. This 
+finding adds important support for providing OIT in this population.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s13223-024-00915-6
+PMCID: PMC11472437
+PMID: 39402617
+
+Conflict of interest statement: The authors declare no competing interests.

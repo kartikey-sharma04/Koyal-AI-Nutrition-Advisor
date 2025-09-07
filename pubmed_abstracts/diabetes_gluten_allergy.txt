@@ -1,0 +1,529 @@
+1. Sci Transl Med. 2025 Mar 19;17(790):eadr8941. doi:
+10.1126/scitranslmed.adr8941.  Epub 2025 Mar 19.
+
+T cell receptor precision editing of regulatory T cells for celiac disease.
+
+Porret R(1), Alcaraz-Serna A(1), Peter B(2), Bernier-Latmani J(3), Cecchin R(1), 
+Alfageme-Abello O(1), Ermellino L(1), Hafezi M(3), Pace E(1), du Pré MF(4), Lana 
+E(1), Golshayan D(5), Velin D(6), Eyquem J(7), Tang Q(8), Petrova TV(3), Coukos 
+G(3)(9), Irving M(3)(9), Pot C(2), Pantaleo G(1), Sollid LM(4), Muller 
+YD(1)(10).
+
+Author information:
+(1)Division of Immunology and Allergy, Lausanne University Hospital and 
+University of Lausanne, Lausanne CH-1005, Switzerland.
+(2)Laboratories of Neuroimmunology, Service of Neurology and Neuroscience 
+Research Center, Department of Clinical Neurosciences, Lausanne University 
+Hospital and University of Lausanne, Lausanne CH-1005, Switzerland.
+(3)Department of Oncology, Lausanne University Hospital and University of 
+Lausanne, 1005 Lausanne, Switzerland.
+(4)Norwegian Coeliac Disease Research Centre, Institute of Clinical Medicine, 
+University of Oslo and Department of Immunology, Oslo University Hospital, Oslo 
+NO-0424, Norway.
+(5)Transplantation Center, Department of Medicine, Lausanne University Hospital 
+and University of Lausanne, Lausanne CH-1005, Switzerland.
+(6)Service of Gastroenterology and Hepatology, Lausanne University Hospital and 
+University of Lausanne, Lausanne CH-1005, Switzerland.
+(7)Department of Medicine, University of California San Francisco, San 
+Francisco, CA 94143, USA.
+(8)Diabetes Center, University of California San Francisco, San Francisco, CA 
+94143, USA.
+(9)Ludwig Institute for Cancer Research Lausanne Branch, 1066 Lausanne, 
+Switzerland.
+(10)Centre for Human Immunology Lausanne, Lausanne CH-1005, Switzerland.
+
+Celiac disease, a gluten-sensitive enteropathy, demonstrates a strong human 
+leukocyte antigen (HLA) association, with more than 90% of patients carrying the 
+HLA-DQ2.5 allotype. No therapy is available for the condition except for a 
+lifelong gluten-free diet. To address this gap, we explored the therapeutic 
+potential of regulatory T cells (Tregs). By orthotopic replacement of T cell 
+receptors (TCRs) through homology-directed repair, we generated gluten-reactive 
+HLA-DQ2.5-restricted CD4+ engineered (e) T effector cells (Teffs) and eTregs and 
+performed in vivo experiments in HLA-DQ2.5 transgenic mice. Of five validated 
+TCRs, TCRs specific for two immunodominant and deamidated gluten epitopes 
+(DQ2.5-glia-α1a and DQ2.5-glia-α2) were selected for further evaluation. CD4+ 
+eTeffs exposed to deamidated gluten through oral gavage colocalized with 
+dendritic and B cells in the Peyer's patches and gut-draining lymph nodes and 
+specifically migrated to the intestine. The suppressive function of human eTregs 
+correlated with high TCR functional activity. eTregs specific for one epitope 
+suppressed the proliferation and gut migration of CD4+ eTeffs specific for the 
+same and the other gluten epitope, demonstrating bystander suppression. The 
+suppression requires an antigen-specific activation of eTregs given that 
+polyclonal Tregs failed to suppress CD4+ eTeffs. These findings highlight the 
+potential of gluten-reactive eTregs as a therapeutic for celiac disease.
+
+DOI: 10.1126/scitranslmed.adr8941
+PMID: 40106579 [Indexed for MEDLINE]
+
+
+2. Immunol Cell Biol. 2024 May-Jun;102(5):331-335. doi: 10.1111/imcb.12716. Epub 
+2023 Dec 18.
+
+Bridging science and accessibility: a tactile journey from gluten through to 
+coeliac disease.
+
+Henneken LM(1), Loh TJ(2)(3), Ciacchi L(2)(3), Ciacchi L(2)(3), Lim JJ(2)(3), 
+Reid HH(2)(3), Tye-Din JA(1)(4).
+
+Author information:
+(1)Department of Gastroenterology, Royal Melbourne Hospital, Parkville, VIC, 
+Australia.
+(2)Department of Biochemistry and Molecular Biology, Monash University, Clayton, 
+VIC, Australia.
+(3)Immunity Program, Biomedicine Discovery Institute, Monash University, 
+Clayton, VIC, Australia.
+(4)Immunology Division, Walter and Eliza Hall Institute, Parkville, VIC, 
+Australia.
+
+As part of the Monash Sensory Science Exhibition, our team guided participants 
+through a multisensory journey unraveling coeliac disease development and 
+pathology. Through tactile and sensory exhibits, we showed how benign dietary 
+gluten can be transformed into a harmful entity for the 1 in 70 Australians with 
+this illness. In contrast to the common misconception of coeliac disease as a 
+food allergy, our exhibits revealed its closer association with autoimmune 
+diseases such as type 1 diabetes, involving genetic susceptibility linked to 
+specific human leukocyte antigens, crucial antigen-specific T- and B-cell 
+responses and autoantibody production. Tactile models underscored the severe 
+consequences of the proinflammatory immune response to gluten on patient health 
+and quality of life. This educational event affirmed to us the value and 
+importance of fostering inclusivity in science education.
+
+© 2023 the Australian and New Zealand Society for Immunology, Inc.
+
+DOI: 10.1111/imcb.12716
+PMID: 38111272 [Indexed for MEDLINE]
+
+
+3. Foods. 2022 Apr 19;11(9):1185. doi: 10.3390/foods11091185.
+
+Effective Use of Plant Proteins for the Development of "New" Foods.
+
+Yano H(1), Fu W(1).
+
+Author information:
+(1)Food Research Institute, National Agriculture and Food Research Organization, 
+Tsukuba 305-8642, Japan.
+
+Diversity in our diet mirrors modern society. Affluent lifestyles and extended 
+longevity have caused the prevalence of diabetes and sarcopenia, which has led 
+to the increased demand of low-carb, high-protein foods. Expansion of the global 
+population and Westernization of Asian diets have surged the number of meat 
+eaters, which has eventually disrupted the supply-demand balance of meat. In 
+contrast, some people do not eat meat for religious reasons or due to veganism. 
+With these multiple circumstances, our society has begun to resort to obtaining 
+protein from plant sources rather than animal origins. This "protein shift" 
+urges food researchers to develop high-quality foods based on plant proteins. 
+Meanwhile, patients with food allergies, especially gluten-related ones, are 
+reported to be increasing. Additionally, growing popularity of the gluten-free 
+diet demands development of foods without using ingredients of wheat origin. 
+Besides, consumers prefer "clean-label" products in which products are expected 
+to contain fewer artificial compounds. These diversified demands on foods have 
+spurred the development of "new" foods in view of food-processing technologies 
+as well as selection of the primary ingredients. In this short review, examples 
+of foodstuffs that have achieved tremendous recent progress are introduced: 
+effective use of plant protein realized low-carb, high protein, gluten-free 
+bread/pasta. Basic manufacturing principles of plant-based vegan cheese have 
+also been established. We will also discuss on the strategy of effective 
+development of new foods in view of the better communication with consumers as 
+well as efficient use of plant proteins.
+
+DOI: 10.3390/foods11091185
+PMCID: PMC9102783
+PMID: 35563905
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Pathology. 2022 Aug;54(5):606-610. doi: 10.1016/j.pathol.2021.12.297. Epub
+2022  Mar 23.
+
+Gluten-free diet adherence and implications for the diagnosis of coeliac 
+disease.
+
+Richardson A(1), Chu S(2), Agapides M(2), Adelstein S(2), Wallman L(3), Wienholt 
+L(4).
+
+Author information:
+(1)Department of Clinical Immunology and Allergy, Royal Prince Alfred Hospital, 
+Camperdown, NSW, Australia.
+(2)Department of Clinical Immunology and Allergy, Royal Prince Alfred Hospital, 
+Camperdown, NSW, Australia; Sydney Medical School, Faculty of Medicine and 
+Health, University of Sydney, Sydney, NSW, Australia.
+(3)Laverty Pathology, Macquarie Park, NSW, Australia.
+(4)Department of Clinical Immunology and Allergy, Royal Prince Alfred Hospital, 
+Camperdown, NSW, Australia; Sydney Medical School, Faculty of Medicine and 
+Health, University of Sydney, Sydney, NSW, Australia. Electronic address: 
+louise.wienholt@health.nsw.gov.au.
+
+Coeliac disease (CD) is an autoimmune disorder caused by the ingestion of gluten 
+containing foods in genetically susceptible individuals, with a worldwide 
+prevalence of up to 1%. Currently, the only available treatment is a gluten-free 
+diet (GFD). Screening for CD is primarily performed using serum based testing 
+for anti-tissue transglutaminase (tTG) antibodies. Patients must be on a gluten 
+containing diet at the time of testing to ensure an accurate serological result. 
+We investigated the prevalence of a GFD in hospital clinic settings and the 
+general population using survey data to estimate the proportion of CD patients 
+that may be misdiagnosed for CD based on serological tests. Data were collected 
+at clinics of a metropolitan hospital in Sydney, Australia, and the general 
+population. Data from Medicare Benefits Scheme and tTG results from a large 
+Australian private laboratory were reviewed for comparison. Of 778 participants 
+who responded to the survey, 58 (7.5%) were on a GFD. More patients attending 
+the immunology (15.9%) and gastroenterology (12.1%) clinics adopted a GFD than 
+those attending the diabetes (2.6%) or endocrinology (6.1%) clinics, or in the 
+general population (4.3%). More females than males excluded gluten from their 
+diet (p<0.0001). Medicare statistics between 2013 and 2019 demonstrated an 
+increase in CD serological testing; however, tTG data from a private pathology 
+highlighted a stable level of elevated tTG antibodies of 3% of total tests 
+performed. The high number of individuals on a GFD is likely impacting the 
+ability to accurately diagnose CD using serum-based testing.
+
+Copyright © 2022 Royal College of Pathologists of Australasia. All rights 
+reserved.
+
+DOI: 10.1016/j.pathol.2021.12.297
+PMID: 35337666 [Indexed for MEDLINE]
+
+
+5. Clin Nutr. 2021 Dec;40(12):5684-5709. doi: 10.1016/j.clnu.2021.09.039. Epub
+2021  Oct 20.
+
+ESPEN guideline on hospital nutrition.
+
+Thibault R(1), Abbasoglu O(2), Ioannou E(3), Meija L(4), Ottens-Oussoren K(5), 
+Pichard C(6), Rothenberg E(7), Rubin D(8), Siljamäki-Ojansuu U(9), Vaillant 
+MF(10), Bischoff SC(11).
+
+Author information:
+(1)Unité de Nutrition, CHU Rennes, INRAE, INSERM, Univ Rennes, Nutrition 
+Metabolisms and Cancer Institute, NuMeCan, Rennes, France. Electronic address: 
+ronan.thibault@chu-rennes.fr.
+(2)Department of Surgery, Hacettepe University Faculty of Medicine, Ankara, 
+Turkey.
+(3)Department of Nutrition, Limassol General Hospital, Cyprus.
+(4)Riga Stradins University, Pauls Stradins Clinical University Hospital, 
+Latvia.
+(5)Department of Nutrition and Dietetics, Amsterdam University Medical Centers, 
+Location VUmc, Amsterdam, the Netherlands.
+(6)Unité de Nutrition, Hôpitaux Universitaires de Genève, Geneva, Switzerland.
+(7)Faculty of Health Sciences Kristianstad University Kristianstad Sweden, 
+Sweden.
+(8)Vivantes Netzwerk für Gesundheit GmbH, Humboldt Klinikum und Klinikum 
+Spandau, Berlin, Germany.
+(9)Clinical Nutrition Unit, Tampere University Hospital, Tampere, Finland.
+(10)Department of Dietetics, Grenoble University Hospital, Grenoble, France.
+(11)University of Hohenheim, Institute of Nutritional Medicine, Stuttgart, 
+Germany.
+
+Comment in
+    Clin Nutr. 2022 Feb;41(2):570. doi: 10.1016/j.clnu.2021.12.029.
+    Clin Nutr. 2022 Feb;41(2):571. doi: 10.1016/j.clnu.2021.12.028.
+    Clin Nutr. 2022 Mar;41(3):786. doi: 10.1016/j.clnu.2022.01.005.
+    Clin Nutr. 2022 Mar;41(3):787. doi: 10.1016/j.clnu.2022.01.007.
+    Clin Nutr. 2022 May;41(5):1144-1145. doi: 10.1016/j.clnu.2022.03.011.
+    Clin Nutr. 2022 May;41(5):1142-1143. doi: 10.1016/j.clnu.2022.03.012.
+    Clin Nutr. 2022 Aug;41(8):1845-1846. doi: 10.1016/j.clnu.2022.06.024.
+    Clin Nutr. 2022 Aug;41(8):1847-1848. doi: 10.1016/j.clnu.2022.06.028.
+
+In hospitals through Europe and worldwide, the practices regarding hospital 
+diets are very heterogeneous. Hospital diets are rarely prescribed by 
+physicians, and sometimes the choices of diets are based on arbitrary reasons. 
+Often prescriptions are made independently from the evaluation of nutritional 
+status, and without taking into account the nutritional status. Therapeutic 
+diets (low salt, gluten-free, texture and consistency modified, …) are 
+associated with decreased energy delivery (i.e. underfeeding) and increased risk 
+of malnutrition. The European Society for Clinical Nutrition and Metabolism 
+(ESPEN) proposes here evidence-based recommendations regarding the organization 
+of food catering, the prescriptions and indications of diets, as well as 
+monitoring of food intake at hospital, rehabilitation center, and nursing home, 
+all of these by taking into account the patient perspectives. We propose a 
+systematic approach to adapt the hospital food to the nutritional status and 
+potential food allergy or intolerances. Particular conditions such as patients 
+with dysphagia, older patients, gastrointestinal diseases, abdominal surgery, 
+diabetes, and obesity, are discussed to guide the practitioner toward the best 
+evidence based therapy. The terminology of the different useful diets is 
+defined. The general objectives are to increase the awareness of physicians, 
+dietitians, nurses, kitchen managers, and stakeholders towards the pivotal role 
+of hospital food in hospital care, to contribute to patient safety within 
+nutritional care, to improve coverage of nutritional needs by hospital food, and 
+reduce the risk of malnutrition and its related complications.
+
+Copyright © 2021 Elsevier Ltd and European Society for Clinical Nutrition and 
+Metabolism. All rights reserved.
+
+DOI: 10.1016/j.clnu.2021.09.039
+PMID: 34742138 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The expert members of the 
+working group were accredited by the ESPEN Guidelines Group, the ESPEN Education 
+and Clinical Practice Committee, and the ESPEN executive. All expert members 
+have declared their individual conflicts of interest according to the rules of 
+the International Committee of Medical Journal Editors (ICMJE). If potential 
+conflicts were indicated, they were reviewed by the ESPEN guideline officers 
+and, in cases of doubts, by the ESPEN executive. None of the expert panel had to 
+be excluded from the working group or from co-authorship because of serious 
+conflicts. The conflict of interest forms are stored at the ESPEN guideline 
+office and can be reviewed by ESPEN members with legitimate interest upon 
+request to the ESPEN executive.
+
+
+6. Fac Rev. 2021 Jul 27;10:62. doi: 10.12703/r/10-62. eCollection 2021.
+
+Recent advances in palmoplantar pustulosis.
+
+Brunasso AMG(1), Massone C(1).
+
+Author information:
+(1)Dermatology Unit, Galliera Hospital, Genoa, Italy.
+
+Palmoplantar pustulosis (PPP) is a chronic inflammatory condition where crops of 
+sterile pustules with erythematous keratotic lesions causing bleeding and pain 
+appear on the palms and soles. Recently, the European Rare and Severe Expert 
+Network considered PPP as a variant of pustular psoriasis with or without 
+psoriasis vulgaris. The prevalence of PPP varies from 0.050 to 0.12%. PPP occurs 
+more frequently in women and the highest prevalence occurred between the ages of 
+50 and 69 years. Nail psoriasis seems to be frequent in PPP, ranging from 30 to 
+76%, and psoriatic arthritis in 8.6 to 26% of PPP patients. Synovitis, acne, 
+pustulosis, hyperostosis, osteitis (SAPHO) syndrome and pustulotic 
+arthro-osteitis are considered PPP-associated disorders. PPP has been reported 
+with other co-morbidities such as psychiatric disorders, thyroid-associated 
+disease, altered calcium homeostasis, gluten sensitivity diabetes, obesity, and 
+dyslipidemia, but larger studies are required to prove such associations. 
+Environmental exacerbating factors might contribute to the onset or worsening of 
+PPP such as cigarette smoking, stress, focal infections, metal allergies, and 
+drug intake. Genetic predisposition plays an important role in PPP. In PPP, both 
+the innate and the adaptive immune systems are activated. The acrosyringeal 
+expression of IL-17 has been demonstrated, indicating that the eccrine sweat 
+gland is an active component of the skin barrier and an immune-competent 
+structure. Increased levels of several inflammatory molecules, including IL-8, 
+IL-1α, IL-1β, IL-17A, IL-17C, IL-17D, IL-17F, IL-22, IL-23A, and IL-23 receptor, 
+have been detected in PPP biopsies. Increased serum levels of TNF-α, IL-17, 
+IL-22, and IFN-γ have been detected in patients with PPP in comparison to 
+healthy subjects, suggesting a similar inflammatory pattern to psoriasis 
+vulgaris. Oral and tonsillar infections serve as trigger factors for PPP. 
+Long-term therapy is required for many patients, but high-quality data are 
+limited, contributing to uncertainty about the ideal approach to treatment.
+
+Copyright: © 2021 Massone C et al.
+
+DOI: 10.12703/r/10-62
+PMCID: PMC8361749
+PMID: 34409425
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.No competing interests were disclosed.No competing interests were 
+disclosed.
+
+
+7. Dig Liver Dis. 2022 Mar;54(3):336-342. doi: 10.1016/j.dld.2021.06.026. Epub
+2021  Jul 14.
+
+Antitissue transglutaminase antibodies' normalization after starting a 
+gluten-free diet in a large population of celiac children-a real-life 
+experience.
+
+Sbravati F(1), Cosentino A(2), Lenzi J(3), Fiorentino M(4), Ambrosi F(5), 
+Salerno A(6), Di Biase A(7), Righi B(6), Brusa S(7), Valin PS(7), Bruni L(2), 
+Battistini B(7), Pagano S(1), Grondona AG(8), Labriola F(1), Alvisi P(9).
+
+Author information:
+(1)Pediatric Gastroenterology Unit, Department of Pediatrics, Maggiore Hospital, 
+Largo B. Nigrisoli 2, Bologna 40132, Italy.
+(2)Specialty School of Pediatrics-Alma Mater Studiorum, Università di Bologna, 
+Italy.
+(3)Department of Biomedical and Neuromotor Sciences, Alma Mater 
+Studiorum-University of Bologna, Bologna 40138, Italy.
+(4)Department of Experimental, Diagnostic and Specialty Medicine, DIMES, 
+University of Bologna, Bologna 40138, Italy.
+(5)Bologna Metropolitan Department of Pathology, Maggiore Hospital, Bologna 
+40132, Italy.
+(6)Department of Pediatrics, University of Modena, Modena 41125, Italy.
+(7)Pediatric Unit, Santa Maria della Scaletta Hospital, Imola 40026, Italy.
+(8)Unified Metropolitan Laboratory, Autoimmunity and Allergy, Maggiore Hospital, 
+Bologna 40132, Italy.
+(9)Pediatric Gastroenterology Unit, Department of Pediatrics, Maggiore Hospital, 
+Largo B. Nigrisoli 2, Bologna 40132, Italy. Electronic address: 
+patrizia.alvisi@ausl.bologna.it.
+
+INTRODUCTION: Few data are available regarding the trend of IgA 
+anti-transglutaminase antibodies (TGA-IgA) in children with celiac disease (CD) 
+on a gluten-free diet (GFD). Our aim is to examine the normalization time of CD 
+serology in a large pediatric population, and its predictors.
+MATERIAL AND METHODS: We retrospectively evaluated the normalization time of 
+TGA-IgA and its predictive factors (age, sex, ethnicity, symptoms, associated 
+diabetes/thyroiditis, Marsh stage, TGA-IgA and endomysial antibody levels at 
+diagnosis, diet adherence), in 1024 children diagnosed from 2000 to 2019 in 
+three pediatric Italian centers, on a GFD.
+RESULTS: TGA-IgA remission was reached in 67,3%, 80,7%, 89,8% and 94,9% after 
+12, 18, 24 and 36 months from starting a GFD, respectively (median time = 9 
+months). TGA-IgA >10´upper limit of normal at diagnosis (HR = 0.56), age 7-12 
+years old (HR = 0.83), poor compliance to diet (HR = 0.69), female sex 
+(HR = 0.82), non-Caucasian ethnicity (HR = 0.75), and comorbidities (HR = 0.72) 
+were independent factors significantly associated with longer time to 
+normalization.
+CONCLUSIONS: Our population is the largest in the literature, with the majority 
+of patients normalizing CD serology within 24 months from starting a GFD. We 
+suggest a special attention to patients with comorbidities, language barriers or 
+age 7-12 years for a proper management and follow-up.
+
+Copyright © 2021 Editrice Gastroenterologica Italiana S.r.l. Published by 
+Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dld.2021.06.026
+PMID: 34274255 [Indexed for MEDLINE]
+
+
+8. Eur J Gastroenterol Hepatol. 2021 Mar 1;33(3):372-379. doi: 
+10.1097/MEG.0000000000001911.
+
+The dietary practices and beliefs of people living with inactive ulcerative 
+colitis.
+
+Crooks B(1)(2)(3), McLaughlin J(1)(2), Matsuoka K(4), Kobayashi T(5), Yamazaki 
+H(6), Limdi JK(1)(3)(7).
+
+Author information:
+(1)Division of Diabetes, Endocrinology & Gastroenterology, Faculty of Biology, 
+Medicine and Health, The University of Manchester, Manchester.
+(2)Department of Gastroenterology, Salford Royal NHS Foundation Trust, Stott 
+Lane, Salford.
+(3)Section of IBD - Division of Gastroenterology, The Pennine Acute Hospitals 
+NHS Trust, Manchester, UK.
+(4)Division of Gastroenterology and Hepatology, Department of Internal Medicine, 
+Toho University Sakura Medical Center, Chiba.
+(5)Center for Advanced IBD Research and Treatment, Kitasato University Kitasato 
+Institute Hospital, Tokyo.
+(6)Section of Clinical Epidemiology, Department of Community Medicine, Graduate 
+School of Medicine, Kyoto University, Kyoto, Japan.
+(7)Manchester Metropolitan University, Manchester, UK.
+
+OBJECTIVE: Diet is implicated in the aetiopathogenesis of inflammatory bowel 
+disease (IBD) and in generating symptoms. Few studies have explored dietary 
+practices in people with IBD, in which participants perceived strong links 
+between diet in triggering flares and maintaining remission. Fewer studies have 
+explored dietary habits in self-reported remission. Our aim was to describe 
+dietary practices and beliefs in those with inactive ulcerative colitis.
+METHODS: A questionnaire was developed and prospectively administered to 208 
+participants with inactive ulcerative colitis attending IBD clinics.
+RESULTS: Thirty-one percent believed diet was the initiating factor for 
+ulcerative colitis with 37% believing diet could trigger relapse. Fifty-nine 
+percent avoided dietary items to prevent relapse. Most frequently avoided were 
+spicy (43%) and fatty (38%) foods, alcohol (27%), carbonated drinks (26%), 
+coffee (24%) and milk products (21%). Females were more likely to practice 
+dietary avoidance (P = 0.007). Twenty-three percent had used exclusion diets, 
+most commonly gluten- or lactose-free. Those reporting relapse in the previous 
+year were more likely to avoid the same menu as their family (P = 0.01) and 
+females were less likely to eat out in order to prevent relapse (P = 0.004). 
+Information resources guiding food avoidance included participants' own 
+experiences (90%), healthcare professionals' advice (19%) and the internet 
+(11%).
+CONCLUSION: People with inactive ulcerative colitis hold dietary beliefs and 
+display practices with a high level of consistency around perceived triggers. 
+Food avoidance whilst in remission raises the possibility of visceral 
+hypersensitivity or altered physiology alongside psychosocial, neurocognitive or 
+co-existing functional factors.
+
+Copyright © 2020 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MEG.0000000000001911
+PMID: 32956176 [Indexed for MEDLINE]
+
+
+9. Nucl Med Commun. 2020 Jul;41(7):636-650. doi: 10.1097/MNM.0000000000001209.
+
+Gastric emptying: methodology and normal ranges for two commonly used meals in 
+the UK.
+
+Hansrod S(1), James G(2), Notghi A(2), Croasdale J(1), O'Brien J(2), Thomson 
+WH(2).
+
+Author information:
+(1)Regional Radiopharmacy.
+(2)Department of Physics and Nuclear Medicine, City Hospital, Sandwell and West 
+Birmingham Hospitals NHS Trust, Birmingham, UK.
+
+AIM: A recent audit has highlighted that there is a large variation in the way 
+gastric emptying scintigraphy is performed, analysed and reported in the UK. In 
+this study, we have established a comprehensive protocol on how to perform 
+gastric emptying including normal ranges for two of the most widely used meals. 
+A standardized scrambled egg sandwich was used as the main meal. Normal ranges 
+were also established for oat porridge as an alternative gluten-free meal. We 
+have calculated normal ranges for several functional parameters which may be 
+used to assess gastric emptying. We hope that establishing a reliable normal 
+range for these two simple and commonly used meals will encourage adoption of a 
+universally accepted protocol for measurement of solid gastric emptying in the 
+UK.
+METHOD: A total of 42 volunteers (20 male, 22 female, age range 22-68) with no 
+history of gastrointestinal symptoms or diabetes were studied. Each volunteer 
+fasted overnight and consumed two meals with similar nutritional composition on 
+two separate days: scrambled eggs with two slices of bread were consumed on one 
+day and gluten-free porridge (40 g in 200 mL whole milk) was consumed on a 
+different day. Each meal was radiolabelled with 10 MBq of Tc-DTPA. Simultaneous 
+anterior-posterior 2-min static images were acquired with the patient standing 
+between the gamma camera detectors. Images were acquired every 5 min over a 2 
+hour period, followed by a single image at 3 hour. The data were modelled using 
+a power-exponential function that allowed measurements of gastric emptying 
+functional parameters including lag time, half-emptying time (HET), peak 
+emptying rate, time-to-peak emptying (TPE) and exponential half-life (EHL). 
+Three-hour retention was also calculated. Paired t-tests were used to compare 
+the two meals and two-sample t-tests were used to assess gender-related 
+differences. Regression analysis was used to assess correlation of the 
+functional parameters with age and body habitus (body surface area, BSA).
+RESULTS: All gastric emptying functional parameters were significantly different 
+between the two meals (P < 0.001). The normal range for lag time was 0-13 min 
+for porridge and 1-34 min for scrambled egg. The normal range for HET was 
+18-73 min for porridge and 44-116 min for scrambled egg. The normal range for 
+EHL was 21-57 min for porridge and 20-82 min for scrambled egg. The normal range 
+for 3 hour retention was <7% for porridge and <17% for scrambled egg. Only weak 
+significance was found for gender-related differences in gastric function for 
+the two meals (0.05 < P < 0.10). Weak correlation was also observed for some 
+functional parameters when plotted against age and BSA (0.05 < P < 0.10).
+CONCLUSION: We have established gastric emptying normal ranges for the two most 
+commonly used meals in the UK. The normal ranges are meal specific and not 
+interchangeable, with porridge showing significantly faster transit than 
+scrambled egg for all measured parameters. Scrambled egg sandwich is the 
+recommended meal for solid gastric emptying studies as it is more reproducible 
+and more comparable to a normally consumed solid meal for our population. 
+Porridge would be a suitable alternative for patients who are unable to eat egg 
+sandwiches, for example, patients with egg allergy or gluten intolerance.
+
+DOI: 10.1097/MNM.0000000000001209
+PMID: 32427698 [Indexed for MEDLINE]
+
+
+10. Foods. 2019 Dec 9;8(12):660. doi: 10.3390/foods8120660.
+
+From the Laboratory to the Kitchen: New Alternatives to Healthier Bakery 
+Products.
+
+Peris M(1), Rubio-Arraez S(2), Castelló ML(2), Ortolá MD(2).
+
+Author information:
+(1)Department of Chemistry, Universitat Politècnica de València, Camino de Vera, 
+s/n. 46022 Valencia, Spain.
+(2)Institute of Food Engineering for Development, Universitat Politècnica de 
+València, Camino de Vera, s/n. 46022 Valencia, Spain.
+
+Due to the growing interest in improving the nutritional profile of bakery 
+products, we have dealt with the most recent and relevant contributions 
+regarding potential replacements for carbohydrates, proteins, and fats. Focusing 
+on the influence of carbohydrates on metabolism, their excess implies obesity, 
+diabetes and tooth decay. However, they are technologically important, since 
+they are responsible for the structure of many bakery products. Regarding of the 
+lipid profile, saturated fats have a great impact on the appearance of 
+cardiovascular disease. Fortunately, nature and the food industry offer 
+alternatives to traditional oils/butters with large amounts of omega 3 and other 
+components that can mitigate these problems. Other relevant aspects are related 
+to allergies concerning egg proteins, gluten or even requirements for vegan 
+consumers. Several studies have been performed in this line, replacing eggs with 
+milk serum, different mucilages obtained from legumes or some gums, etc. In 
+conclusion, many papers have been published showing the possibility of 
+successfully replacing (both at technological and sensory levels) less healthy 
+ingredients with others that are nutritionally better. The challenge now is to 
+combine these better components in a given product, as well as to evaluate 
+possible interactions among them.
+
+DOI: 10.3390/foods8120660
+PMCID: PMC6963723
+PMID: 31835412
+
+Conflict of interest statement: The authors declare no conflict of interest.

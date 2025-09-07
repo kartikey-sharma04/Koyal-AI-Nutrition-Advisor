@@ -1,0 +1,578 @@
+1. Lancet Gastroenterol Hepatol. 2024 Feb;9(2):110-123. doi: 
+10.1016/S2468-1253(23)00317-5. Epub 2023 Nov 28.
+
+The effect of expectancy versus actual gluten intake on gastrointestinal and 
+extra-intestinal symptoms in non-coeliac gluten sensitivity: a randomised, 
+double-blind, placebo-controlled, international, multicentre study.
+
+de Graaf MCG(1), Lawton CL(2), Croden F(2), Smolinska A(3), Winkens B(4), 
+Hesselink MAM(1), van Rooy G(1), Weegels PL(5), Shewry PR(6), Houghton LA(7), 
+Witteman BJM(8), Keszthelyi D(1), Brouns FJPH(9), Dye L(10), Jonkers DMAE(11).
+
+Author information:
+(1)Department of Gastroenterology-Hepatology, Maastricht University Medical 
+Center+, Maastricht, Netherlands; NUTRIM School of Nutrition and Translational 
+Research in Metabolism, Maastricht University, Maastricht, Netherlands.
+(2)School of Psychology, University of Leeds, Leeds, UK.
+(3)NUTRIM School of Nutrition and Translational Research in Metabolism, 
+Maastricht University, Maastricht, Netherlands; Department of Pharmacology and 
+Toxicology, Maastricht University, Maastricht, Netherlands.
+(4)Department of Methodology and Statistics, Care and Public Health Research 
+Institute, Maastricht University, Maastricht, Netherlands.
+(5)Laboratory of Food Chemistry, Wageningen University and Research, Wageningen, 
+Netherlands; European Bakery Innovation Centre, Sonneveld Group, Papendrecht, 
+Netherlands.
+(6)Rothamsted Research, Harpenden, UK.
+(7)Division of Gastroenterology and Surgical Sciences, Leeds Institute of 
+Medical Research, University of Leeds, Leeds, UK; Division of Gastroenterology 
+and Hepatology, Mayo Clinic, Jacksonville, FL, USA.
+(8)Division of Human Nutrition, Wageningen University and Research, Wageningen, 
+Netherlands; Division of Gastroenterology-Hepatology, Gelderse Vallei Hospital, 
+Ede, Netherlands.
+(9)NUTRIM School of Nutrition and Translational Research in Metabolism, 
+Maastricht University, Maastricht, Netherlands; Department of Human Biology, 
+Maastricht University, Maastricht, Netherlands.
+(10)School of Psychology, University of Leeds, Leeds, UK; School of Food Science 
+and Nutrition, University of Leeds, Leeds, UK.
+(11)Department of Gastroenterology-Hepatology, Maastricht University Medical 
+Center+, Maastricht, Netherlands; NUTRIM School of Nutrition and Translational 
+Research in Metabolism, Maastricht University, Maastricht, Netherlands. 
+Electronic address: d.jonkers@maastrichtuniversity.nl.
+
+Erratum in
+    Lancet Gastroenterol Hepatol. 2024 Mar;9(3):e8. doi: 
+10.1016/S2468-1253(24)00014-1.
+
+BACKGROUND: Many individuals without coeliac disease or wheat allergy reduce 
+their gluten intake because they believe that gluten causes their 
+gastrointestinal symptoms. Symptoms could be affected by negative expectancy. 
+Therefore, we aimed to investigate the effects of expectancy versus actual 
+gluten intake on symptoms in people with non-coeliac gluten sensitivity (NCGS).
+METHODS: This randomised, double-blind, placebo-controlled, international, 
+multicentre study was done at the University of Leeds (Leeds, UK), Maastricht 
+University (Maastricht, the Netherlands), and Wageningen University and Research 
+(Wageningen, the Netherlands). People aged 18-70 years with self-reported NCGS 
+(ie, gastrointestinal symptoms within 8 h of gluten consumption) without coeliac 
+disease and wheat allergy were recruited. Participants had to follow a 
+gluten-free or gluten-restricted diet for at least 1 week before (and 
+throughout) study participation and had to be asymptomatic or mildly symptomatic 
+(overall gastrointestinal symptom score ≤30 mm on the Visual Analogue Scale 
+[VAS]) while on the diet. Participants were randomly assigned (1:1:1:1; blocks 
+of eight; stratified by site and gender) to one of four groups based on the 
+expectation to consume gluten-containing (E+) or gluten-free (E-) oat bread for 
+breakfast and lunch (two slices each) and actual intake of gluten-containing 
+(G+) or gluten-free (G-) oat bread. Participants, investigators, and those 
+assessing outcomes were masked to the actual gluten assignment, and participants 
+were also masked to the expectancy part of the study. The primary outcome was 
+overall gastrointestinal symptom score on the VAS, which was measured at and 
+corrected for baseline (before breakfast) and hourly for 8 h, with lunch served 
+after 4 h, and analysed per-protocol. Safety analysis included all participants 
+incorporated in the per-protocol analysis. The study is registered at 
+ClinicalTrials.gov, NCT05779358, and has ended.
+FINDINGS: Between Oct 19, 2018, and Feb 14, 2022, 165 people were screened and 
+84 were randomly assigned to E+G+ (n=21), E+G- (n=21), E-G+ (n=20), or E-G- 
+(n=22). One person in the E+G+ group was excluded due to not following test day 
+instructions, leaving 83 participants in the per-protocol analysis. Median age 
+was 27·0 years (IQR 21·0-45·0), 71 (86%) of 83 people were women, and 12 (14%) 
+were men. Mean overall gastrointestinal symptom score was significantly higher 
+for E+G+ (16·6 mm [95% CI 13·1 to 20·0]) than for E-G+ (6·9 mm [3·5 to 10·4]; 
+difference 9·6 mm [95% CI 3·0 to 16·2], p=0·0010) and E-G- (7·4 mm [4·2 to 
+10·7]; difference 9·1 mm [2·7 to 15·6], p=0·0016), but not for E+G- (11·7 mm 
+[8·3 to 15·1]; difference 4·9 mm [-1·7 to 11·5], p=0·28). There was no 
+difference between E+G- and E-G+ (difference 4·7 mm [-1·8 to 11·3], p=0·33), 
+E+G- and E-G- (difference 4·2 mm [-2·2 to 10·7], p=0·47), and E-G+ and E-G- 
+(difference -0·5 mm [-7·0 to 5·9], p=1·0). Adverse events were reported by two 
+participants in the E+G- group (itching jaw [n=1]; feeling lightheaded and 
+stomach rumbling [n=1]) and one participant in the E-G+ group (vomiting).
+INTERPRETATION: The combination of expectancy and actual gluten intake had the 
+largest effect on gastrointestinal symptoms, reflecting a nocebo effect, 
+although an additional effect of gluten cannot be ruled out. Our results 
+necessitate further research into the possible involvement of the gut-brain 
+interaction in NCGS.
+FUNDING: Government of the Netherlands Topsector Agri & Food Top Consortium for 
+Knowledge and Innovation, AB Mauri Global Bakery Ingredients, Baking Industry 
+Research Trust, Borgesius-Albert Heijn, CSM Innovation Centre, the International 
+Maize and Wheat Improvement Center (CIMMYT), DSM Food Specialties, Fazer, 
+Healthgrain Forum, the International Association for Cereal Science and 
+Technology, the International Wheat Gluten Association, Lantmännen, Mondelez 
+International, Nederlands Bakkerij Centrum, Nutrition & Santé, Puratos, 
+Rademaker, Sonneveld Group, and Zeelandia HJ Doeleman.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2468-1253(23)00317-5
+PMID: 38040019 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests MCGdG, CLL, FC, MAMH, 
+and GvR report partial financing by a public–private partnership grant from 
+Topsector Agri & Food Top Consortium for Knowledge and Innovation (TKI) for Well 
+on Wheat? (TKI16060BMNU). AS reports consulting fees and financial support for 
+conference attendance from Owlstone Medical (all outside submitted work). PLW 
+reports part employment by the European Bakery Innovation Centre, Sonneveld 
+Group, who provided the study breads; Sonneveld Group received payment from a 
+public–private partnership grant of TKI Well on Wheat? (TKI16060BMNU) for 
+providing the study bread. PRS reports a public–private partnership grant of TKI 
+Well on Wheat? (TKI16060BMNU), Agriculture and Horticulture Development Board 
+Studentship Project grant (061), FIBRAXFUN grant, the Biotechnology and 
+Biological Sciences Research Council (BBSRC) grant (BB/S013954/1, BBSRC 
+BB/S020101/1, BBSRC BB/T013923/1, and BBSRC BB/W01792X/1), and the Engineering 
+and Physical Sciences Research Council grant (EP/S01679/1 GCRF Hub SANC South 
+Asian Nitrogen Hub); an honorarium for membership of the Editorial Board of the 
+Journal of Cereal Science (Elsevier); payment for conference flight, hotel, and 
+registration costs by Gluten Workshop Madrid, Wheat Research Updates Norway, 8th 
+International Conference on Dietary Fiber, From Seed to Pasta IV, and the 
+British Society for Allergy and Clinical Immunology; being a member of the Irish 
+Department of Agriculture, Food and the Marine grant board (paid to self); and 
+employment at Rothamsted Research, which receive strategic funding from the 
+BBSRC and whose work forms part of the Designing Future Wheat (BB/P016855/1) and 
+Developing Sustainable Wheat (BB/X011003/1) strategic programmes. LAH reports 
+acting as a consultant to GSK, Ironwood, and non-paid to Pfizer; receiving 
+financial support to attend the Rome V foundation meeting in Chicago, IL, USA, 
+in May, 2023; and being a member of the British Society of Gastroenterology 
+Neurogastroenterology and Motility Committee and Food and Function Committee 
+(all outside submitted work). DK reports receiving research funding from 
+Grunenthal, Allergan, ZonMw, MLDS, the Rome Foundation, Horizon 2020, Horizon 
+Europe, and United European Gastroenterology; receiving a speaker's fee (paid to 
+host institution) from Dr Falk; participating on a data safety and monitoring 
+and advisory board for the NUTRECOVER study (no financial reimbursement); and 
+being a board member of the Dutch Society of Gastroenterology (no financial 
+reimbursement; all outside submitted work). FJPHB reports receiving a 
+public–private partnership grant of TKI Well on Wheat? (TKI16060BMNU); 
+consulting fees from Lesaffre France; a personal speaker fee and travel cost 
+reimbursement from Zeelandia Netherlands; and payment from Zeelandia and 
+Lesaffre for travel or hotel costs (paid to institution) for invited scientific 
+meetings. LD reports partial financing by a public–private partnership grant of 
+TKI Well on Wheat? (TKI16060BMNU); being a past President of the International 
+Life Sciences Institute Europe and current Co-Chair of the International Life 
+Sciences Institute Global; receiving grant funding from Sanofi Consumer 
+Healthcare; and sitting on the Hass Avocado Scientific Advisory Board. DMAEJ 
+reports receiving a public–private partnership grant of TKI Well on Wheat? 
+(TKI16060BMNU) and TKI grants from Agri & Food and Health Holland (AF18109, 
+LWV20.187, LWV21.052, LSHM22057), the Carbokinetics programme as part of the 
+Netherlands Organisation for Scientific Research–Carbohydrate Competence Center 
+partnership, Organic A2BV/Mothersfinest, and Horizon 2020 (DISCOvERIE/848228). 
+All other authors declare no competing interests.
+
+
+2. J Food Biochem. 2022 Sep;46(9):e14185. doi: 10.1111/jfbc.14185. Epub 2022 Apr 
+19.
+
+New alternatives from sustainable sources to wheat in bakery foods: Science, 
+technology, and challenges.
+
+Siddiqui SA(1)(2), Mahmud MMC(3), Abdi G(4), Wanich U(5), Farooqi MQU(6), 
+Settapramote N(7), Khan S(8), Wani SA(9).
+
+Author information:
+(1)Technical University of Munich Campus Straubing for Biotechnology and 
+Sustainability, Straubing, Germany.
+(2)German Institute of Food Technologies (DIL e.V.), Quakenbrück, Germany.
+(3)CASS Food Research Centre, School of Exercise and Nutrition Sciences, Deakin 
+University, Geelong, Victoria, Australia.
+(4)Department of Biotechnology, Persian Gulf Research Institute, Persian Gulf 
+University, Bushehr, Iran.
+(5)Department of Home Economics, Rambhaibarni Rahjabhat University, Chanthaburi, 
+Thailand.
+(6)School of Agriculture and Environment, The University of Western Australia, 
+Perth, Western Australia, Australia.
+(7)Department Of Agro-Industry, RaJamangala University of Technology Isan Surin 
+Campus, Nogmuang, Surin, Thailand.
+(8)Institute of Agricultural Engineering, Tropics and Subtropics Group, 
+University of Hohenheim, Stuttgart, Germany.
+(9)Department of Food Technology, Islamic University of Science and Technology, 
+Awantipora, India.
+
+Ongoing research in the food industry is striving to replace wheat flour with 
+new alternatives from sustainable sources to overcome the disease burden in the 
+existing population. Celiac disease, wheat allergy, gluten sensitivity, or 
+non-celiac gluten sensitivity are some common disorders associated with gluten 
+present in wheat. These scientific findings are crucial to finding appropriate 
+alternatives in introducing new ingredients supporting the consumer's 
+requirements. Among the alternatives, amaranth, barley, coconut, chestnut, 
+maize, millet, teff, oat, rye, sorghum, soy, rice flour, and legumes could be 
+considered appropriate due to their chemical composition, bioactive profile, and 
+alternatives utilization in the baking industry. Furthermore, the enrichment of 
+these alternatives with proper ingredients is considered effective. Literature 
+demonstrated that the flours from these alternative sources significantly 
+enhanced the physicochemical, pasting, and rheological properties of the doughs. 
+These flours boost a significant reduction in gluten proteins associated with 
+food intolerance, in comparison with wheat highlighting a visible market 
+opportunity with nutritional and organoleptic benefits for food producers. 
+PRACTICAL APPLICATIONS: New alternatives from sustainable sources to wheat in 
+bakery foods as an approach that affects human health. Alternatives from 
+sustainable sources are important source of nutrients and bioactive compounds. 
+Alternatives from sustainable sources are rising due to nutritional and consumer 
+demand in bakery industry. New alternatives from sustainable sources improve 
+physicochemical, pasting, and rheological properties of dough. Non-wheat-based 
+foods from non-traditional grains have a potential to increase consumer market 
+acceptance.
+
+© 2022 Wiley Periodicals LLC.
+
+DOI: 10.1111/jfbc.14185
+PMID: 35441405 [Indexed for MEDLINE]
+
+
+3. Foods. 2021 Dec 8;10(12):3049. doi: 10.3390/foods10123049.
+
+Gluten-Free Pasta Enriched with Fish By-Product for Special Dietary Uses: 
+Technological Quality and Sensory Properties.
+
+Aínsa A(1), Vega A(1), Honrado A(1), Marquina P(1), Roncales P(1), Gracia 
+JAB(1), Morales JBC(1).
+
+Author information:
+(1)Instituto Agroalimentario de Aragón -IA2, Universidad de Zaragoza-CITA, 
+Miguel Servet. 177, 50013 Zaragoza, Spain.
+
+Gluten-free pasta enriched with fish can support a nutritive and suitable option 
+for people with celiac disease that allows achieving the benefits of fish 
+consumption, especially the consumption of Ω-3 fatty acids; however, this 
+requires that the pasta has adequate technological and sensory properties. For 
+this purpose, four optimal formulations, obtained with an iterative process, 
+were analyzed to determine the effect of the different ingredients (yellow corn 
+flour, white corn flour, and rice flour) in gluten-free pasta compared to 
+commercial wheat pasta. An evaluation of the color, texture, and technological 
+properties were conducted, and the pasta was sensorially characterized. The 
+enriched gluten-free pasta required shorter cooking times (≈3 min) and was 
+characterized by lower hardness, springiness, gumminess, chewiness, and 
+fracturability, and had higher values of adhesiveness than wheat pasta. In 
+addition, the incorporation of yellow corn gives gluten-free pasta a similarity 
+in color to commercial pasta, with a value of ∆E between 5.5 and 8.0. Regarding 
+the sensory analysis, gluten-free pasta was characterized by slight fishy aromas 
+and flavors with some aftertaste compared to commercial pasta. Finally, the use 
+of different cereals to obtain gluten-free pasta could be a good and feasible 
+alternative despite the technological and sensory modifications observed.
+
+DOI: 10.3390/foods10123049
+PMCID: PMC8701056
+PMID: 34945600
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Foods. 2021 Oct 21;10(11):2523. doi: 10.3390/foods10112523.
+
+Gluten-Free Cereal Products and Beverages: A Review of Their Health Benefits in 
+the Last Five Years.
+
+Khairuddin MAN(1), Lasekan O(1).
+
+Author information:
+(1)Department of Food Technology, University Putra Malaysia UPM, Serdang 43400, 
+Malaysia.
+
+In the past decades, food products and beverages made from gluten-free cereals 
+were initially created for certain groups of people who experience 
+gluten-related disorders such as wheat allergies, gluten ataxia, non-celiac 
+gluten sensitivity, and the most well-known, celiac disease. Nowadays, the 
+consumption of gluten-free products is not only restricted to targeted groups, 
+but it has become a food trend for normal consumers, especially in countries 
+such as the UK, the US, and some European countries, who believe that consuming 
+a gluten-free product is a healthier choice compared to normal gluten-containing 
+products. However, some research studies have disapproved of this claim because 
+the currently available gluten-free products in the market are generally known 
+to be lower in proteins, vitamins, and minerals and to contain higher lipids, 
+sugar, and salt compared to their gluten-containing counterparts. The use of 
+other gluten-free cereals such as sorghum, millet, and teff as well as pseudo 
+cereals such as buckwheat and quinoa has gained significant interest in research 
+in terms of their various potential health benefits. Hence, this review 
+highlights the potential health benefits of some gluten-free cereals and pseudo 
+cereals apart from corn and rice in the last decade. The potential health 
+benefits of gluten-free products such as bread, pasta, crackers, and cookies and 
+the health benefits of some other non-alcoholic beverages made from gluten-free 
+cereals and pseudo cereals are reported.
+
+DOI: 10.3390/foods10112523
+PMCID: PMC8618534
+PMID: 34828804
+
+Conflict of interest statement: The authors declare that this manuscript was 
+written in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+5. Middle East J Dig Dis. 2021 Oct;13(4):339-342. doi: 10.34172/mejdd.2021.244. 
+Epub 2021 Jun 11.
+
+Prevalence of IgE-Mediated Food Hypersensitivity to Cereals and Beans Based on 
+Skin Prick Test in Children with Celiac Disease.
+
+Jafari A(1), Kayvanloo S(1), Moazzen N(1), Motevalli Haghi N(1), Sedghi N(1), 
+Khoshkhui M(2), Ahanchian H(1).
+
+Author information:
+(1)Clinical Research Development unit of Akbar Hospital, Faculty of Medicine, 
+Mashhad University of medical sciences, Mashhad, Iran.
+(2)Allergy research center, Mashhad University of medical sciences, Mashhad, 
+Iran.
+
+BACKGROUND Celiac disease is a non-IgE mediated food allergy, which can cause 
+extensive villus atrophy. Because of increased food allergen absorption, there 
+are elevated IgA and IgG antibodies in these patients, so there is a concern 
+about IgE antibody production against wheat and other cereals. METHODS In this 
+study, we evaluated IgE-mediated hypersensitivity to wheat, rice, and other 
+cereals in children with celiac disease. RESULTS 22 patients (50%) had at least 
+one positive skin prick test to food allergens. The most frequent food allergen 
+was peanut (31.8%), followed by wheat (18.2%), corn (9.1%), and rice (4.5%). The 
+results revealed no significant correlation between age, sex, and the results of 
+the skin prick test (p >0.05). The correlation between diagnosis time of celiac 
+disease and results of skin prick test was also not significant statistically (p 
+>0.05). CONCLUSION Because of the high prevalence of IgE mediated 
+hypersensitivity to cereals and beans in children with celiac disease, a skin 
+prick test might be considered in these patients, especially in refractory 
+cases.
+
+© 2021 The Author(s).
+
+DOI: 10.34172/mejdd.2021.244
+PMCID: PMC9489450
+PMID: 36606013
+
+Conflict of interest statement: CONFLICT OF INTEREST The authors declare no 
+conflict of interest related to this work
+
+
+6. Nutrients. 2020 Jul 29;12(8):2277. doi: 10.3390/nu12082277.
+
+Beneficial Effects of a Low-Nickel Diet on Relapsing IBS-Like and 
+Extraintestinal Symptoms of Celiac Patients during a Proper Gluten-Free Diet: 
+Nickel Allergic Contact Mucositis in Suspected Non-Responsive Celiac Disease.
+
+Borghini R(1), De Amicis N(1), Bella A(2), Greco N(1), Donato G(1), Picarelli 
+A(1).
+
+Author information:
+(1)Department of Translational and Precision Medicine, Sapienza University, 
+00185 Rome, Italy.
+(2)Department of Infectious Diseases, Istituto Superiore di Sanità, 00161 Rome, 
+Italy.
+
+BACKGROUND AND AIM: Nickel (Ni)-rich foods can induce allergic contact mucositis 
+(ACM) with irritable bowel syndrome (IBS)-like symptoms in predisposed subjects. 
+Ni ACM has a high prevalence (>30%) in the general population and can be 
+diagnosed by a Ni oral mucosa patch test (omPT). Many celiac disease (CD) 
+patients on a gluten-free diet (GFD) often show a recrudescence of 
+gastrointestinal and extraintestinal symptoms, although serological and 
+histological remission has been achieved. Since a GFD often results in higher 
+loads of ingested alimentary Ni (e.g., corn), we hypothesized that it would lead 
+to a consequent intestinal sensitization to Ni in predisposed subjects. We 
+wanted to (1) study Ni ACM prevalence in still symptomatic CD patients on a GFD 
+and (2) study the effects of a low-Ni diet (LNiD) on their recurrent symptoms.
+MATERIAL AND METHODS: We recruited 102 consecutive CD patients (74 female, 28 
+male; age range 18-65 years, mean age 42.3 ± 7.4) on a GFD since at least 12 
+months, in current serological and histological remission (Marsh-Oberhuber type 
+0-I) who complained of relapsing gastrointestinal and/or extraintestinal 
+symptoms.
+INCLUSION CRITERIA: presence of at least three gastrointestinal symptoms with a 
+score ≥5 on the modified Gastrointestinal Symptom Rating Scale (GSRS) 
+questionnaire.
+EXCLUSION CRITERIA: IgE-mediated food allergy; history of past or current 
+cancer; inflammatory bowel diseases; infectious diseases including Helicobacter 
+pylori; lactose intolerance. All patients enrolled underwent Ni omPT and 
+followed a LNiD for 3 months. A 24 symptoms questionnaire (GSRS modified 
+according to the Salerno Experts' Criteria, with 15 gastrointestinal and 9 
+extraintestinal symptoms) was administered at T0 (free diet), T1 (GFD, CD 
+remission), T2 (recurrence of symptoms despite GFD), and T3 (GFD + LNiD) for 
+comparisons. Comparisons were performed using Wilcoxon signed-rank test.
+RESULTS: Twenty patients (all female, age range 23-65 years, mean age 39.1 ± 
+2.9) out of 102 (19.6%) were finally included. All 20 patients enrolled (100%) 
+showed positive Ni omPT, confirming an Ni ACM diagnosis. A correct GFD (T0 vs. 
+T1) induced the improvement of 19 out of the total 24 (79.2%) symptoms, and 14 
+out of 24 (58.3%) were statistically significant (p-value < 0.0083 according to 
+Bonferroni correction). Prolonged GFD (T1 vs. T2) revealed the worsening of 20 
+out of the total 24 (83.3%) symptoms, and 10 out of 24 (41.7%) were 
+statistically significant. LNiD (T2 vs. T3) determined an improvement of 20 out 
+of the total 24 (83.4%) symptoms, and in 10 out of 24 (41.7%) symptoms the 
+improvement was statistically significant.
+CONCLUSIONS: Our data suggest that the recrudescence of gastrointestinal and 
+extraintestinal symptoms observed in CD subjects during GFD may be due to the 
+increase in alimentary Ni intake, once gluten contamination and persisting 
+villous atrophy are excluded. Ni overload can induce Ni ACM, which can be 
+diagnosed by a specific Ni omPT. Improvement of symptoms occurs after a proper 
+LNiD. These encouraging data should be confirmed with larger studies.
+
+DOI: 10.3390/nu12082277
+PMCID: PMC7468824
+PMID: 32751300 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+7. Crit Rev Food Sci Nutr. 2021;61(1):14-24. doi: 10.1080/10408398.2020.1713724. 
+Epub 2020 Jan 22.
+
+Current applications of gluten-free grains - a review.
+
+Woomer JS(1), Adedeji AA(1).
+
+Author information:
+(1)Department of Biosystems and Agricultural Engineering, University of 
+Kentucky, Lexington, Kentucky, USA.
+
+The population of Americans suffering from celiac, gluten intolerance, and wheat 
+allergy is 1 in every 14 people. Also, many are choosing gluten-free (GF) diets 
+nowadays because of the perception that it is a healthier option for them. 
+Therefore, in the last decade, the GF market in the US and all over the world 
+has seen significant growth. Globally, GF product sales reached 4.63 billion USD 
+in 2017, and are expected to reach 6.47 billion USD by 2023, a projected 
+compound annual growth rate of 7.6%. Several grains like millet, corn, sorghum, 
+and pseudocereals like amaranth, quinoa, and teff are the main ingredients for a 
+gluten diet. Though most of them have a comparable nutrient profile as common 
+grains, the main challenge to their acceptability is the quality departure from 
+gluten-containing counterparts and imbalance nutrients that ensue when food 
+processing aids like starch, gums, and enzymes are used. In this review, we 
+profiled some of the common grains, their characteristics, functionality and the 
+various food types they are used for. We also reviewed the impact of some of the 
+current food processing aids like starch, hydrocolloids used for improving 
+functionality, and processing techniques like extrusion suitable for making 
+remarkable GF foods.
+
+DOI: 10.1080/10408398.2020.1713724
+PMID: 31965815 [Indexed for MEDLINE]
+
+
+8. J Food Prot. 2018 Oct;81(10):1723-1728. doi: 10.4315/0362-028X.JFP-18-184.
+
+Evaluation of a Handheld Gluten Detection Device.
+
+Taylor SL(1), Nordlee JA(1), Jayasena S(1), Baumert JL(1).
+
+Author information:
+(1)Food Allergy Research & Resource Program, Food Innovation Center, University 
+of Nebraska-Lincoln, 1901 North 21st Street, Lincoln, Nebraska 68588-6207, USA.
+
+A portable, handheld gluten detection device, the Nima sensor, is now available 
+for consumers wishing to determine if gluten is present in food. By U.S. 
+regulation, gluten-free foods should contain <20 ppm of gluten. Thirteen 
+gluten-free foods (muffins, three different types of bread, three different 
+types of pasta, puffed corn snack, ice cream, meatballs, vinegar and oil salad 
+dressing, oatmeal, and dark chocolate) were prepared; each food was spiked on a 
+weight to weight basis with gluten levels of 0, 5, 10, 20, 30, 40, and 100 ppm 
+before processing or preparation. Unprocessed and processed foods were tested 
+with the handheld gluten sensor and by two gluten-specific enzyme-linked 
+immunosorbent assays (ELISAs) on the basis of the R5 and G12 monoclonal 
+antibodies, respectively. The portable gluten detection device detected gluten 
+in all food types at the 30-ppm addition level, failing to detect gluten in only 
+5 (6.4%) of 78 subsamples. At the 20-ppm addition level, the portable gluten 
+detection device failed to detect gluten in one type of pasta but detected 
+gluten residues in 63 (87.5%) of 72 other subsamples. The device was able to 
+detect gluten at the 10-ppm addition level in 9 of the 13 food matrices (41 of 
+54 subsamples, 75.9%) but not in the three types of pasta and the puffed corn 
+snack. The gluten-sensing device did not perform reliably at the 5-ppm addition 
+level in 11 of 13 food matrices (exceptions: ice cream and muffins). In 
+contrast, the ELISA methods were highly reliable at gluten addition levels of 
+≥10 ppm in all food matrices. The portable gluten detection device yielded a low 
+percentage of false-positive results (4 of 111, 3.6%) in these food matrices. 
+Thus, this handheld portable gluten sensor performed reliably in the detection 
+of gluten in foods having ≥20 ppm of added gluten with only 18 (5.9%) of 306 
+failures, if results of the one type of pasta are excluded. The device worked 
+with greater reliability as the gluten levels in the foods increased.
+
+DOI: 10.4315/0362-028X.JFP-18-184
+PMID: 30239212 [Indexed for MEDLINE]
+
+
+9. J Allergy Clin Immunol. 2019 Jan;143(1):201-212.e4. doi: 
+10.1016/j.jaci.2018.02.041. Epub 2018 Mar 21.
+
+Wheat amylase-trypsin inhibitors exacerbate intestinal and airway allergic 
+immune responses in humanized mice.
+
+Bellinghausen I(1), Weigmann B(2), Zevallos V(3), Maxeiner J(4), Reißig S(5), 
+Waisman A(5), Schuppan D(3), Saloga J(6).
+
+Author information:
+(1)Department of Dermatology, University Medical Center, Johannes Gutenberg 
+University, Mainz, Germany; Research Center for Immunotherapy, University 
+Medical Center, Johannes Gutenberg University, Mainz, Germany. Electronic 
+address: iris.bellinghausen@unimedizin-mainz.de.
+(2)Department of Internal Medicine I, University Hospital Erlangen, University 
+of Erlangen-Nürnberg, Erlangen, Germany.
+(3)Research Center for Immunotherapy, University Medical Center, Johannes 
+Gutenberg University, Mainz, Germany; Institute of Translational Immunology, 
+University Medical Center, Johannes Gutenberg University Mainz, Mainz, Germany.
+(4)Asthma Core Facility, Research Center for Immunotherapy, University Medical 
+Center, Johannes Gutenberg University, Mainz, Germany.
+(5)Research Center for Immunotherapy, University Medical Center, Johannes 
+Gutenberg University, Mainz, Germany; Institute for Molecular Medicine, 
+University Medical Center, Johannes Gutenberg University, Mainz, Germany.
+(6)Department of Dermatology, University Medical Center, Johannes Gutenberg 
+University, Mainz, Germany; Research Center for Immunotherapy, University 
+Medical Center, Johannes Gutenberg University, Mainz, Germany.
+
+BACKGROUND: Amylase-trypsin inhibitors (ATIs) in wheat and related cereals are 
+potent activators of myeloid innate immune cells via engagement of TLR4. 
+Furthermore, ATIs have been shown to serve as adjuvants in experimental 
+intestinal inflammatory diseases.
+OBJECTIVE: The aim of this study was to analyze whether ATIs are also modifiers 
+of allergic inflammation.
+METHODS: Therefore, CD4+ T cells from donors sensitized to grass or birch pollen 
+were stimulated with autologous allergen-pulsed dendritic cells in the presence 
+or absence of ATIs or the control storage protein zein from corn. To analyze 
+allergen-induced gut and lung inflammation, immunodeficient mice were engrafted 
+with PBMCs from these allergic donors plus the respective allergen, and fed with 
+selected diets. Three weeks later, inflammation was induced by rectal or 
+intranasal allergen challenge and monitored by mini endoscopy or airway 
+hyperreactivity, respectively.
+RESULTS: Allergen-specific T-cell proliferation and cytokine production was 
+significantly exacerbated by ATIs and not by zein. In vivo, allergen-specific 
+human IgE level was strongly elevated in sera of mice receiving an 
+ATI-containing diet compared with mice that were fed gluten-free and thus 
+ATI-free diet. Importantly, allergen-induced IgE-dependent colitis and airway 
+hyperreactivity were also enhanced in ATI-fed mice. Gut inflammation was further 
+increased in mice receiving an additional ATI injection and even detectable in 
+the absence of the aeroallergen, whereas zein had no such effect. Injection of 
+anti-human TLR4 mAbs or the anti-human IgE mAb omalizumab completely abolished 
+ATI-induced allergic inflammation.
+CONCLUSIONS: These results underline that wheat ATIs are important nutritional 
+activators and adjuvants of allergy, which might be exploited for nutritional 
+therapeutic strategies.
+
+Copyright © 2018. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jaci.2018.02.041
+PMID: 29574077 [Indexed for MEDLINE]
+
+
+10. Clin Gastroenterol Hepatol. 2017 Mar;15(3):339-348. doi: 
+10.1016/j.cgh.2016.08.007. Epub 2016 Aug 12.
+
+Suspected Nonceliac Gluten Sensitivity Confirmed in Few Patients After Gluten 
+Challenge in Double-Blind, Placebo-Controlled Trials.
+
+Molina-Infante J(1), Carroccio A(2).
+
+Author information:
+(1)Department of Gastroenterology, Hospital Universitario San Pedro de 
+Alcantara, Caceres, Spain; Centro de Investigación Biomédica en Red de 
+Enfermedades Hepáticas y Digestivas (CIBEREHD), Madrid, Spain. Electronic 
+address: xavi_molina@hotmail.com.
+(2)Department of Internal Medicine, University of Palermo and Giovanni Paolo II 
+Hospital, Sciacca (Azienda Sanitaria Provinciale di Agrigento), Italy.
+
+Comment in
+    JPEN J Parenter Enteral Nutr. 2018 Sep;42(7):1211-1213. doi: 
+10.1002/jpen.1429.
+
+A double-blind, placebo-controlled, gluten challenge has been proposed to 
+confirm a diagnosis of nonceliac gluten sensitivity (NCGS) in patients without 
+celiac disease who respond to a gluten-free diet. To determine the accuracy of 
+this approach, we analyzed data from 10 double-blind, placebo-controlled, 
+gluten-challenge trials, comprising 1312 adults. The studies varied in the 
+duration of the challenge (range, 1 d to 6 wk), daily doses for the gluten 
+challenge (range, 2-52 g; 3 studies administered <8 g/d), and composition of the 
+placebo (gluten-free products, xylose, whey protein, rice, or corn starch 
+containing fermentable carbohydrates). Most of the studies found gluten 
+challenge to significantly increase symptom scores compared with placebo. 
+However, only 38 of 231 NCGS patients (16%) showed gluten-specific symptoms. 
+Furthermore, 40% of these subjects had a nocebo response (similar or increased 
+symptoms in response to placebo). These findings reveal heterogeneity and 
+potential methodology flaws among studies of gluten challenge, cast doubt on 
+gluten as the culprit food component in most patients with presumptive NCGS, and 
+highlight the importance of the nocebo effect in these types of studies.
+
+Copyright © 2017 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cgh.2016.08.007
+PMID: 27523634 [Indexed for MEDLINE]

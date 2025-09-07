@@ -1,0 +1,3945 @@
+{
+  "totalHits": 473,
+  "currentPage": 1,
+  "totalPages": 95,
+  "pageList": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "foodSearchCriteria": {
+    "dataType": [
+      "Foundation",
+      "SR Legacy",
+      "Survey (FNDDS)"
+    ],
+    "query": "lactose intolerance dairy",
+    "generalSearchInput": "lactose intolerance dairy",
+    "pageNumber": 1,
+    "numberOfResultsPerPage": 50,
+    "pageSize": 5,
+    "requireAllWords": false,
+    "foodTypes": [
+      "Foundation",
+      "SR Legacy",
+      "Survey (FNDDS)"
+    ]
+  },
+  "foods": [
+    {
+      "fdcId": 2705392,
+      "description": "Milk, lactose free, whole",
+      "commonNames": "",
+      "additionalDescriptions": "",
+      "dataType": "Survey (FNDDS)",
+      "foodCode": 11114350,
+      "publishedDate": "2024-10-31",
+      "foodCategory": "Milk, whole",
+      "foodCategoryId": 3298332,
+      "allHighlightFields": "",
+      "score": 433.9873,
+      "microbes": [],
+      "foodNutrients": [
+        {
+          "nutrientId": 1003,
+          "nutrientName": "Protein",
+          "nutrientNumber": "203",
+          "unitName": "G",
+          "value": 3.27,
+          "rank": 600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136679
+        },
+        {
+          "nutrientId": 1004,
+          "nutrientName": "Total lipid (fat)",
+          "nutrientNumber": "204",
+          "unitName": "G",
+          "value": 3.2,
+          "rank": 800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136680
+        },
+        {
+          "nutrientId": 1005,
+          "nutrientName": "Carbohydrate, by difference",
+          "nutrientNumber": "205",
+          "unitName": "G",
+          "value": 4.63,
+          "rank": 1110,
+          "indentLevel": 2,
+          "foodNutrientId": 34136681
+        },
+        {
+          "nutrientId": 1008,
+          "nutrientName": "Energy",
+          "nutrientNumber": "208",
+          "unitName": "KCAL",
+          "value": 61,
+          "rank": 300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136682
+        },
+        {
+          "nutrientId": 1018,
+          "nutrientName": "Alcohol, ethyl",
+          "nutrientNumber": "221",
+          "unitName": "G",
+          "value": 0,
+          "rank": 18200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136683
+        },
+        {
+          "nutrientId": 1051,
+          "nutrientName": "Water",
+          "nutrientNumber": "255",
+          "unitName": "G",
+          "value": 88.1,
+          "rank": 100,
+          "indentLevel": 1,
+          "foodNutrientId": 34136684
+        },
+        {
+          "nutrientId": 1057,
+          "nutrientName": "Caffeine",
+          "nutrientNumber": "262",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18300,
+          "indentLevel": 0,
+          "foodNutrientId": 34136685
+        },
+        {
+          "nutrientId": 1058,
+          "nutrientName": "Theobromine",
+          "nutrientNumber": "263",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18400,
+          "indentLevel": 0,
+          "foodNutrientId": 34136686
+        },
+        {
+          "nutrientId": 2000,
+          "nutrientName": "Total Sugars",
+          "nutrientNumber": "269",
+          "unitName": "G",
+          "value": 4.81,
+          "rank": 1510,
+          "indentLevel": 3,
+          "foodNutrientId": 34136687
+        },
+        {
+          "nutrientId": 1079,
+          "nutrientName": "Fiber, total dietary",
+          "nutrientNumber": "291",
+          "unitName": "G",
+          "value": 0,
+          "rank": 1200,
+          "indentLevel": 3,
+          "foodNutrientId": 34136688
+        },
+        {
+          "nutrientId": 1087,
+          "nutrientName": "Calcium, Ca",
+          "nutrientNumber": "301",
+          "unitName": "MG",
+          "value": 123,
+          "rank": 5300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136689
+        },
+        {
+          "nutrientId": 1089,
+          "nutrientName": "Iron, Fe",
+          "nutrientNumber": "303",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 5400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136690
+        },
+        {
+          "nutrientId": 1090,
+          "nutrientName": "Magnesium, Mg",
+          "nutrientNumber": "304",
+          "unitName": "MG",
+          "value": 12,
+          "rank": 5500,
+          "indentLevel": 1,
+          "foodNutrientId": 34136691
+        },
+        {
+          "nutrientId": 1091,
+          "nutrientName": "Phosphorus, P",
+          "nutrientNumber": "305",
+          "unitName": "MG",
+          "value": 101,
+          "rank": 5600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136692
+        },
+        {
+          "nutrientId": 1092,
+          "nutrientName": "Potassium, K",
+          "nutrientNumber": "306",
+          "unitName": "MG",
+          "value": 150,
+          "rank": 5700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136693
+        },
+        {
+          "nutrientId": 1093,
+          "nutrientName": "Sodium, Na",
+          "nutrientNumber": "307",
+          "unitName": "MG",
+          "value": 38,
+          "rank": 5800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136694
+        },
+        {
+          "nutrientId": 1095,
+          "nutrientName": "Zinc, Zn",
+          "nutrientNumber": "309",
+          "unitName": "MG",
+          "value": 0.42,
+          "rank": 5900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136695
+        },
+        {
+          "nutrientId": 1098,
+          "nutrientName": "Copper, Cu",
+          "nutrientNumber": "312",
+          "unitName": "MG",
+          "value": 0.001,
+          "rank": 6000,
+          "indentLevel": 1,
+          "foodNutrientId": 34136696
+        },
+        {
+          "nutrientId": 1103,
+          "nutrientName": "Selenium, Se",
+          "nutrientNumber": "317",
+          "unitName": "UG",
+          "value": 1.9,
+          "rank": 6200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136697
+        },
+        {
+          "nutrientId": 1105,
+          "nutrientName": "Retinol",
+          "nutrientNumber": "319",
+          "unitName": "UG",
+          "value": 31,
+          "rank": 7430,
+          "indentLevel": 2,
+          "foodNutrientId": 34136698
+        },
+        {
+          "nutrientId": 1106,
+          "nutrientName": "Vitamin A, RAE",
+          "nutrientNumber": "320",
+          "unitName": "UG",
+          "value": 32,
+          "rank": 7420,
+          "indentLevel": 1,
+          "foodNutrientId": 34136699
+        },
+        {
+          "nutrientId": 1107,
+          "nutrientName": "Carotene, beta",
+          "nutrientNumber": "321",
+          "unitName": "UG",
+          "value": 7,
+          "rank": 7440,
+          "indentLevel": 2,
+          "foodNutrientId": 34136700
+        },
+        {
+          "nutrientId": 1108,
+          "nutrientName": "Carotene, alpha",
+          "nutrientNumber": "322",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7450,
+          "indentLevel": 2,
+          "foodNutrientId": 34136701
+        },
+        {
+          "nutrientId": 1109,
+          "nutrientName": "Vitamin E (alpha-tocopherol)",
+          "nutrientNumber": "323",
+          "unitName": "MG",
+          "value": 0.05,
+          "rank": 7905,
+          "indentLevel": 1,
+          "foodNutrientId": 34136702
+        },
+        {
+          "nutrientId": 1114,
+          "nutrientName": "Vitamin D (D2 + D3)",
+          "nutrientNumber": "328",
+          "unitName": "UG",
+          "value": 1.1,
+          "rank": 8700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136703
+        },
+        {
+          "nutrientId": 1120,
+          "nutrientName": "Cryptoxanthin, beta",
+          "nutrientNumber": "334",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7460,
+          "indentLevel": 2,
+          "foodNutrientId": 34136704
+        },
+        {
+          "nutrientId": 1122,
+          "nutrientName": "Lycopene",
+          "nutrientNumber": "337",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7530,
+          "indentLevel": 1,
+          "foodNutrientId": 34136705
+        },
+        {
+          "nutrientId": 1123,
+          "nutrientName": "Lutein + zeaxanthin",
+          "nutrientNumber": "338",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7560,
+          "indentLevel": 1,
+          "foodNutrientId": 34136706
+        },
+        {
+          "nutrientId": 1162,
+          "nutrientName": "Vitamin C, total ascorbic acid",
+          "nutrientNumber": "401",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 6300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136707
+        },
+        {
+          "nutrientId": 1165,
+          "nutrientName": "Thiamin",
+          "nutrientNumber": "404",
+          "unitName": "MG",
+          "value": 0.056,
+          "rank": 6400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136708
+        },
+        {
+          "nutrientId": 1166,
+          "nutrientName": "Riboflavin",
+          "nutrientNumber": "405",
+          "unitName": "MG",
+          "value": 0.138,
+          "rank": 6500,
+          "indentLevel": 1,
+          "foodNutrientId": 34136709
+        },
+        {
+          "nutrientId": 1167,
+          "nutrientName": "Niacin",
+          "nutrientNumber": "406",
+          "unitName": "MG",
+          "value": 0.105,
+          "rank": 6600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136710
+        },
+        {
+          "nutrientId": 1175,
+          "nutrientName": "Vitamin B-6",
+          "nutrientNumber": "415",
+          "unitName": "MG",
+          "value": 0.061,
+          "rank": 6800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136711
+        },
+        {
+          "nutrientId": 1177,
+          "nutrientName": "Folate, total",
+          "nutrientNumber": "417",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 6900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136712
+        },
+        {
+          "nutrientId": 1178,
+          "nutrientName": "Vitamin B-12",
+          "nutrientNumber": "418",
+          "unitName": "UG",
+          "value": 0.54,
+          "rank": 7300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136713
+        },
+        {
+          "nutrientId": 1180,
+          "nutrientName": "Choline, total",
+          "nutrientNumber": "421",
+          "unitName": "MG",
+          "value": 17.8,
+          "rank": 7220,
+          "indentLevel": 1,
+          "foodNutrientId": 34136714
+        },
+        {
+          "nutrientId": 1185,
+          "nutrientName": "Vitamin K (phylloquinone)",
+          "nutrientNumber": "430",
+          "unitName": "UG",
+          "value": 0.3,
+          "rank": 8800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136715
+        },
+        {
+          "nutrientId": 1186,
+          "nutrientName": "Folic acid",
+          "nutrientNumber": "431",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7000,
+          "indentLevel": 0,
+          "foodNutrientId": 34136716
+        },
+        {
+          "nutrientId": 1187,
+          "nutrientName": "Folate, food",
+          "nutrientNumber": "432",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7100,
+          "indentLevel": 1,
+          "foodNutrientId": 34136717
+        },
+        {
+          "nutrientId": 1190,
+          "nutrientName": "Folate, DFE",
+          "nutrientNumber": "435",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136718
+        },
+        {
+          "nutrientId": 1242,
+          "nutrientName": "Vitamin E, added",
+          "nutrientNumber": "573",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 7920,
+          "indentLevel": 0,
+          "foodNutrientId": 34136719
+        },
+        {
+          "nutrientId": 1246,
+          "nutrientName": "Vitamin B-12, added",
+          "nutrientNumber": "578",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7340,
+          "indentLevel": 0,
+          "foodNutrientId": 34136720
+        },
+        {
+          "nutrientId": 1253,
+          "nutrientName": "Cholesterol",
+          "nutrientNumber": "601",
+          "unitName": "MG",
+          "value": 12,
+          "rank": 15700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136721
+        },
+        {
+          "nutrientId": 1258,
+          "nutrientName": "Fatty acids, total saturated",
+          "nutrientNumber": "606",
+          "unitName": "G",
+          "value": 1.86,
+          "rank": 9700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136722
+        },
+        {
+          "nutrientId": 1259,
+          "nutrientName": "SFA 4:0",
+          "nutrientNumber": "607",
+          "unitName": "G",
+          "value": 0.067,
+          "rank": 9800,
+          "indentLevel": 2,
+          "foodNutrientId": 34136723
+        },
+        {
+          "nutrientId": 1260,
+          "nutrientName": "SFA 6:0",
+          "nutrientNumber": "608",
+          "unitName": "G",
+          "value": 0.054,
+          "rank": 9900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136724
+        },
+        {
+          "nutrientId": 1261,
+          "nutrientName": "SFA 8:0",
+          "nutrientNumber": "609",
+          "unitName": "G",
+          "value": 0.034,
+          "rank": 10000,
+          "indentLevel": 2,
+          "foodNutrientId": 34136725
+        },
+        {
+          "nutrientId": 1262,
+          "nutrientName": "SFA 10:0",
+          "nutrientNumber": "610",
+          "unitName": "G",
+          "value": 0.084,
+          "rank": 10100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136726
+        },
+        {
+          "nutrientId": 1263,
+          "nutrientName": "SFA 12:0",
+          "nutrientNumber": "611",
+          "unitName": "G",
+          "value": 0.097,
+          "rank": 10300,
+          "indentLevel": 2,
+          "foodNutrientId": 34136727
+        },
+        {
+          "nutrientId": 1264,
+          "nutrientName": "SFA 14:0",
+          "nutrientNumber": "612",
+          "unitName": "G",
+          "value": 0.303,
+          "rank": 10500,
+          "indentLevel": 2,
+          "foodNutrientId": 34136728
+        },
+        {
+          "nutrientId": 1265,
+          "nutrientName": "SFA 16:0",
+          "nutrientNumber": "613",
+          "unitName": "G",
+          "value": 0.857,
+          "rank": 10700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136729
+        },
+        {
+          "nutrientId": 1266,
+          "nutrientName": "SFA 18:0",
+          "nutrientNumber": "614",
+          "unitName": "G",
+          "value": 0.309,
+          "rank": 10900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136730
+        },
+        {
+          "nutrientId": 1268,
+          "nutrientName": "MUFA 18:1",
+          "nutrientNumber": "617",
+          "unitName": "G",
+          "value": 0.694,
+          "rank": 12100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136731
+        },
+        {
+          "nutrientId": 1269,
+          "nutrientName": "PUFA 18:2",
+          "nutrientNumber": "618",
+          "unitName": "G",
+          "value": 0.115,
+          "rank": 13100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136732
+        },
+        {
+          "nutrientId": 1270,
+          "nutrientName": "PUFA 18:3",
+          "nutrientNumber": "619",
+          "unitName": "G",
+          "value": 0.013,
+          "rank": 13900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136733
+        },
+        {
+          "nutrientId": 1271,
+          "nutrientName": "PUFA 20:4",
+          "nutrientNumber": "620",
+          "unitName": "G",
+          "value": 0.004,
+          "rank": 14700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136734
+        },
+        {
+          "nutrientId": 1272,
+          "nutrientName": "PUFA 22:6 n-3 (DHA)",
+          "nutrientNumber": "621",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15300,
+          "indentLevel": 2,
+          "foodNutrientId": 34136735
+        },
+        {
+          "nutrientId": 1275,
+          "nutrientName": "MUFA 16:1",
+          "nutrientNumber": "626",
+          "unitName": "G",
+          "value": 0.047,
+          "rank": 11700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136736
+        },
+        {
+          "nutrientId": 1276,
+          "nutrientName": "PUFA 18:4",
+          "nutrientNumber": "627",
+          "unitName": "G",
+          "value": 0,
+          "rank": 14250,
+          "indentLevel": 2,
+          "foodNutrientId": 34136737
+        },
+        {
+          "nutrientId": 1277,
+          "nutrientName": "MUFA 20:1",
+          "nutrientNumber": "628",
+          "unitName": "G",
+          "value": 0.004,
+          "rank": 12400,
+          "indentLevel": 2,
+          "foodNutrientId": 34136738
+        },
+        {
+          "nutrientId": 1278,
+          "nutrientName": "PUFA 20:5 n-3 (EPA)",
+          "nutrientNumber": "629",
+          "unitName": "G",
+          "value": 0.001,
+          "rank": 15000,
+          "indentLevel": 2,
+          "foodNutrientId": 34136739
+        },
+        {
+          "nutrientId": 1279,
+          "nutrientName": "MUFA 22:1",
+          "nutrientNumber": "630",
+          "unitName": "G",
+          "value": 0,
+          "rank": 12500,
+          "indentLevel": 2,
+          "foodNutrientId": 34136740
+        },
+        {
+          "nutrientId": 1280,
+          "nutrientName": "PUFA 22:5 n-3 (DPA)",
+          "nutrientNumber": "631",
+          "unitName": "G",
+          "value": 0.002,
+          "rank": 15200,
+          "indentLevel": 2,
+          "foodNutrientId": 34136741
+        },
+        {
+          "nutrientId": 1292,
+          "nutrientName": "Fatty acids, total monounsaturated",
+          "nutrientNumber": "645",
+          "unitName": "G",
+          "value": 0.688,
+          "rank": 11400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136742
+        },
+        {
+          "nutrientId": 1293,
+          "nutrientName": "Fatty acids, total polyunsaturated",
+          "nutrientNumber": "646",
+          "unitName": "G",
+          "value": 0.108,
+          "rank": 12900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136743
+        }
+      ],
+      "finalFoodInputFoods": [
+        {
+          "foodDescription": "Milk, whole, 3.25% milkfat, with added vitamin D",
+          "gramWeight": 100,
+          "id": 124279,
+          "portionCode": "0",
+          "portionDescription": "NONE",
+          "unit": "GM",
+          "rank": 1,
+          "retentionCode": 0,
+          "srCode": 1077,
+          "value": 100
+        }
+      ],
+      "foodMeasures": [
+        {
+          "disseminationText": "Quantity not specified",
+          "gramWeight": 244,
+          "id": 290558,
+          "modifier": "90000",
+          "rank": 5,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "Guideline amount per cup of hot cereal",
+          "gramWeight": 61,
+          "id": 290557,
+          "modifier": "63546",
+          "rank": 4,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "1 fl oz",
+          "gramWeight": 30.5,
+          "id": 290555,
+          "modifier": "30000",
+          "rank": 2,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "1 cup",
+          "gramWeight": 244,
+          "id": 290554,
+          "modifier": "10205",
+          "rank": 1,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "Guideline amount per fl oz of beverage",
+          "gramWeight": 2.5,
+          "id": 290556,
+          "modifier": "63480",
+          "rank": 3,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        }
+      ],
+      "foodAttributes": [
+        {
+          "value": "Moisture change: 0%",
+          "id": 3318832
+        },
+        {
+          "value": "Milk, whole",
+          "name": "WWEIA Category description",
+          "id": 3298332
+        },
+        {
+          "value": "1002",
+          "name": "WWEIA Category number",
+          "id": 3298331
+        }
+      ],
+      "foodAttributeTypes": [
+        {
+          "name": "Adjustments",
+          "description": "Adjustments made to foods, including moisture changes",
+          "id": 1002,
+          "foodAttributes": [
+            {
+              "value": "Moisture change: 0%",
+              "id": 3318832
+            }
+          ]
+        },
+        {
+          "name": "Attribute",
+          "description": "Generic attributes",
+          "id": 999,
+          "foodAttributes": [
+            {
+              "value": "Milk, whole",
+              "name": "WWEIA Category description",
+              "id": 3298332
+            },
+            {
+              "value": "1002",
+              "name": "WWEIA Category number",
+              "id": 3298331
+            }
+          ]
+        }
+      ],
+      "foodVersionIds": []
+    },
+    {
+      "fdcId": 2705759,
+      "description": "Cheese, cottage, lowfat, lactose reduced",
+      "commonNames": "",
+      "additionalDescriptions": "Lactaid",
+      "dataType": "Survey (FNDDS)",
+      "foodCode": 14207010,
+      "publishedDate": "2024-10-31",
+      "foodCategory": "Cottage/ricotta cheese",
+      "foodCategoryId": 3299066,
+      "allHighlightFields": "",
+      "score": 402.0235,
+      "microbes": [],
+      "foodNutrients": [
+        {
+          "nutrientId": 1003,
+          "nutrientName": "Protein",
+          "nutrientNumber": "203",
+          "unitName": "G",
+          "value": 11,
+          "rank": 600,
+          "indentLevel": 1,
+          "foodNutrientId": 34160534
+        },
+        {
+          "nutrientId": 1004,
+          "nutrientName": "Total lipid (fat)",
+          "nutrientNumber": "204",
+          "unitName": "G",
+          "value": 2.3,
+          "rank": 800,
+          "indentLevel": 1,
+          "foodNutrientId": 34160535
+        },
+        {
+          "nutrientId": 1005,
+          "nutrientName": "Carbohydrate, by difference",
+          "nutrientNumber": "205",
+          "unitName": "G",
+          "value": 4.31,
+          "rank": 1110,
+          "indentLevel": 2,
+          "foodNutrientId": 34160536
+        },
+        {
+          "nutrientId": 1008,
+          "nutrientName": "Energy",
+          "nutrientNumber": "208",
+          "unitName": "KCAL",
+          "value": 82,
+          "rank": 300,
+          "indentLevel": 1,
+          "foodNutrientId": 34160537
+        },
+        {
+          "nutrientId": 1018,
+          "nutrientName": "Alcohol, ethyl",
+          "nutrientNumber": "221",
+          "unitName": "G",
+          "value": 0,
+          "rank": 18200,
+          "indentLevel": 1,
+          "foodNutrientId": 34160538
+        },
+        {
+          "nutrientId": 1051,
+          "nutrientName": "Water",
+          "nutrientNumber": "255",
+          "unitName": "G",
+          "value": 81.1,
+          "rank": 100,
+          "indentLevel": 1,
+          "foodNutrientId": 34160539
+        },
+        {
+          "nutrientId": 1057,
+          "nutrientName": "Caffeine",
+          "nutrientNumber": "262",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18300,
+          "indentLevel": 0,
+          "foodNutrientId": 34160540
+        },
+        {
+          "nutrientId": 1058,
+          "nutrientName": "Theobromine",
+          "nutrientNumber": "263",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18400,
+          "indentLevel": 0,
+          "foodNutrientId": 34160541
+        },
+        {
+          "nutrientId": 2000,
+          "nutrientName": "Total Sugars",
+          "nutrientNumber": "269",
+          "unitName": "G",
+          "value": 4.1,
+          "rank": 1510,
+          "indentLevel": 3,
+          "foodNutrientId": 34160542
+        },
+        {
+          "nutrientId": 1079,
+          "nutrientName": "Fiber, total dietary",
+          "nutrientNumber": "291",
+          "unitName": "G",
+          "value": 0,
+          "rank": 1200,
+          "indentLevel": 3,
+          "foodNutrientId": 34160543
+        },
+        {
+          "nutrientId": 1087,
+          "nutrientName": "Calcium, Ca",
+          "nutrientNumber": "301",
+          "unitName": "MG",
+          "value": 103,
+          "rank": 5300,
+          "indentLevel": 1,
+          "foodNutrientId": 34160544
+        },
+        {
+          "nutrientId": 1089,
+          "nutrientName": "Iron, Fe",
+          "nutrientNumber": "303",
+          "unitName": "MG",
+          "value": 0.13,
+          "rank": 5400,
+          "indentLevel": 1,
+          "foodNutrientId": 34160545
+        },
+        {
+          "nutrientId": 1090,
+          "nutrientName": "Magnesium, Mg",
+          "nutrientNumber": "304",
+          "unitName": "MG",
+          "value": 9,
+          "rank": 5500,
+          "indentLevel": 1,
+          "foodNutrientId": 34160546
+        },
+        {
+          "nutrientId": 1091,
+          "nutrientName": "Phosphorus, P",
+          "nutrientNumber": "305",
+          "unitName": "MG",
+          "value": 148,
+          "rank": 5600,
+          "indentLevel": 1,
+          "foodNutrientId": 34160547
+        },
+        {
+          "nutrientId": 1092,
+          "nutrientName": "Potassium, K",
+          "nutrientNumber": "306",
+          "unitName": "MG",
+          "value": 120,
+          "rank": 5700,
+          "indentLevel": 1,
+          "foodNutrientId": 34160548
+        },
+        {
+          "nutrientId": 1093,
+          "nutrientName": "Sodium, Na",
+          "nutrientNumber": "307",
+          "unitName": "MG",
+          "value": 321,
+          "rank": 5800,
+          "indentLevel": 1,
+          "foodNutrientId": 34160549
+        },
+        {
+          "nutrientId": 1095,
+          "nutrientName": "Zinc, Zn",
+          "nutrientNumber": "309",
+          "unitName": "MG",
+          "value": 0.61,
+          "rank": 5900,
+          "indentLevel": 1,
+          "foodNutrientId": 34160550
+        },
+        {
+          "nutrientId": 1098,
+          "nutrientName": "Copper, Cu",
+          "nutrientNumber": "312",
+          "unitName": "MG",
+          "value": 0.03,
+          "rank": 6000,
+          "indentLevel": 1,
+          "foodNutrientId": 34160551
+        },
+        {
+          "nutrientId": 1103,
+          "nutrientName": "Selenium, Se",
+          "nutrientNumber": "317",
+          "unitName": "UG",
+          "value": 14.6,
+          "rank": 6200,
+          "indentLevel": 1,
+          "foodNutrientId": 34160552
+        },
+        {
+          "nutrientId": 1105,
+          "nutrientName": "Retinol",
+          "nutrientNumber": "319",
+          "unitName": "UG",
+          "value": 69,
+          "rank": 7430,
+          "indentLevel": 2,
+          "foodNutrientId": 34160553
+        },
+        {
+          "nutrientId": 1106,
+          "nutrientName": "Vitamin A, RAE",
+          "nutrientNumber": "320",
+          "unitName": "UG",
+          "value": 69,
+          "rank": 7420,
+          "indentLevel": 1,
+          "foodNutrientId": 34160554
+        },
+        {
+          "nutrientId": 1107,
+          "nutrientName": "Carotene, beta",
+          "nutrientNumber": "321",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7440,
+          "indentLevel": 2,
+          "foodNutrientId": 34160555
+        },
+        {
+          "nutrientId": 1108,
+          "nutrientName": "Carotene, alpha",
+          "nutrientNumber": "322",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7450,
+          "indentLevel": 2,
+          "foodNutrientId": 34160556
+        },
+        {
+          "nutrientId": 1109,
+          "nutrientName": "Vitamin E (alpha-tocopherol)",
+          "nutrientNumber": "323",
+          "unitName": "MG",
+          "value": 0.08,
+          "rank": 7905,
+          "indentLevel": 1,
+          "foodNutrientId": 34160557
+        },
+        {
+          "nutrientId": 1114,
+          "nutrientName": "Vitamin D (D2 + D3)",
+          "nutrientNumber": "328",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 8700,
+          "indentLevel": 1,
+          "foodNutrientId": 34160558
+        },
+        {
+          "nutrientId": 1120,
+          "nutrientName": "Cryptoxanthin, beta",
+          "nutrientNumber": "334",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7460,
+          "indentLevel": 2,
+          "foodNutrientId": 34160559
+        },
+        {
+          "nutrientId": 1122,
+          "nutrientName": "Lycopene",
+          "nutrientNumber": "337",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7530,
+          "indentLevel": 1,
+          "foodNutrientId": 34160560
+        },
+        {
+          "nutrientId": 1123,
+          "nutrientName": "Lutein + zeaxanthin",
+          "nutrientNumber": "338",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7560,
+          "indentLevel": 1,
+          "foodNutrientId": 34160561
+        },
+        {
+          "nutrientId": 1162,
+          "nutrientName": "Vitamin C, total ascorbic acid",
+          "nutrientNumber": "401",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 6300,
+          "indentLevel": 1,
+          "foodNutrientId": 34160562
+        },
+        {
+          "nutrientId": 1165,
+          "nutrientName": "Thiamin",
+          "nutrientNumber": "404",
+          "unitName": "MG",
+          "value": 0.02,
+          "rank": 6400,
+          "indentLevel": 1,
+          "foodNutrientId": 34160563
+        },
+        {
+          "nutrientId": 1166,
+          "nutrientName": "Riboflavin",
+          "nutrientNumber": "405",
+          "unitName": "MG",
+          "value": 0.234,
+          "rank": 6500,
+          "indentLevel": 1,
+          "foodNutrientId": 34160564
+        },
+        {
+          "nutrientId": 1167,
+          "nutrientName": "Niacin",
+          "nutrientNumber": "406",
+          "unitName": "MG",
+          "value": 0.09,
+          "rank": 6600,
+          "indentLevel": 1,
+          "foodNutrientId": 34160565
+        },
+        {
+          "nutrientId": 1175,
+          "nutrientName": "Vitamin B-6",
+          "nutrientNumber": "415",
+          "unitName": "MG",
+          "value": 0.057,
+          "rank": 6800,
+          "indentLevel": 1,
+          "foodNutrientId": 34160566
+        },
+        {
+          "nutrientId": 1177,
+          "nutrientName": "Folate, total",
+          "nutrientNumber": "417",
+          "unitName": "UG",
+          "value": 10,
+          "rank": 6900,
+          "indentLevel": 1,
+          "foodNutrientId": 34160567
+        },
+        {
+          "nutrientId": 1178,
+          "nutrientName": "Vitamin B-12",
+          "nutrientNumber": "418",
+          "unitName": "UG",
+          "value": 0.42,
+          "rank": 7300,
+          "indentLevel": 1,
+          "foodNutrientId": 34160568
+        },
+        {
+          "nutrientId": 1180,
+          "nutrientName": "Choline, total",
+          "nutrientNumber": "421",
+          "unitName": "MG",
+          "value": 16.3,
+          "rank": 7220,
+          "indentLevel": 1,
+          "foodNutrientId": 34160569
+        },
+        {
+          "nutrientId": 1185,
+          "nutrientName": "Vitamin K (phylloquinone)",
+          "nutrientNumber": "430",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 8800,
+          "indentLevel": 1,
+          "foodNutrientId": 34160570
+        },
+        {
+          "nutrientId": 1186,
+          "nutrientName": "Folic acid",
+          "nutrientNumber": "431",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7000,
+          "indentLevel": 0,
+          "foodNutrientId": 34160571
+        },
+        {
+          "nutrientId": 1187,
+          "nutrientName": "Folate, food",
+          "nutrientNumber": "432",
+          "unitName": "UG",
+          "value": 10,
+          "rank": 7100,
+          "indentLevel": 1,
+          "foodNutrientId": 34160572
+        },
+        {
+          "nutrientId": 1190,
+          "nutrientName": "Folate, DFE",
+          "nutrientNumber": "435",
+          "unitName": "UG",
+          "value": 10,
+          "rank": 7200,
+          "indentLevel": 1,
+          "foodNutrientId": 34160573
+        },
+        {
+          "nutrientId": 1242,
+          "nutrientName": "Vitamin E, added",
+          "nutrientNumber": "573",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 7920,
+          "indentLevel": 0,
+          "foodNutrientId": 34160574
+        },
+        {
+          "nutrientId": 1246,
+          "nutrientName": "Vitamin B-12, added",
+          "nutrientNumber": "578",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7340,
+          "indentLevel": 0,
+          "foodNutrientId": 34160575
+        },
+        {
+          "nutrientId": 1253,
+          "nutrientName": "Cholesterol",
+          "nutrientNumber": "601",
+          "unitName": "MG",
+          "value": 12,
+          "rank": 15700,
+          "indentLevel": 1,
+          "foodNutrientId": 34160576
+        },
+        {
+          "nutrientId": 1258,
+          "nutrientName": "Fatty acids, total saturated",
+          "nutrientNumber": "606",
+          "unitName": "G",
+          "value": 1.26,
+          "rank": 9700,
+          "indentLevel": 1,
+          "foodNutrientId": 34160577
+        },
+        {
+          "nutrientId": 1259,
+          "nutrientName": "SFA 4:0",
+          "nutrientNumber": "607",
+          "unitName": "G",
+          "value": 0.04,
+          "rank": 9800,
+          "indentLevel": 2,
+          "foodNutrientId": 34160578
+        },
+        {
+          "nutrientId": 1260,
+          "nutrientName": "SFA 6:0",
+          "nutrientNumber": "608",
+          "unitName": "G",
+          "value": 0.035,
+          "rank": 9900,
+          "indentLevel": 2,
+          "foodNutrientId": 34160579
+        },
+        {
+          "nutrientId": 1261,
+          "nutrientName": "SFA 8:0",
+          "nutrientNumber": "609",
+          "unitName": "G",
+          "value": 0.026,
+          "rank": 10000,
+          "indentLevel": 2,
+          "foodNutrientId": 34160580
+        },
+        {
+          "nutrientId": 1262,
+          "nutrientName": "SFA 10:0",
+          "nutrientNumber": "610",
+          "unitName": "G",
+          "value": 0.061,
+          "rank": 10100,
+          "indentLevel": 2,
+          "foodNutrientId": 34160581
+        },
+        {
+          "nutrientId": 1263,
+          "nutrientName": "SFA 12:0",
+          "nutrientNumber": "611",
+          "unitName": "G",
+          "value": 0.062,
+          "rank": 10300,
+          "indentLevel": 2,
+          "foodNutrientId": 34160582
+        },
+        {
+          "nutrientId": 1264,
+          "nutrientName": "SFA 14:0",
+          "nutrientNumber": "612",
+          "unitName": "G",
+          "value": 0.201,
+          "rank": 10500,
+          "indentLevel": 2,
+          "foodNutrientId": 34160583
+        },
+        {
+          "nutrientId": 1265,
+          "nutrientName": "SFA 16:0",
+          "nutrientNumber": "613",
+          "unitName": "G",
+          "value": 0.568,
+          "rank": 10700,
+          "indentLevel": 2,
+          "foodNutrientId": 34160584
+        },
+        {
+          "nutrientId": 1266,
+          "nutrientName": "SFA 18:0",
+          "nutrientNumber": "614",
+          "unitName": "G",
+          "value": 0.228,
+          "rank": 10900,
+          "indentLevel": 2,
+          "foodNutrientId": 34160585
+        },
+        {
+          "nutrientId": 1268,
+          "nutrientName": "MUFA 18:1",
+          "nutrientNumber": "617",
+          "unitName": "G",
+          "value": 0.47,
+          "rank": 12100,
+          "indentLevel": 2,
+          "foodNutrientId": 34160586
+        },
+        {
+          "nutrientId": 1269,
+          "nutrientName": "PUFA 18:2",
+          "nutrientNumber": "618",
+          "unitName": "G",
+          "value": 0.071,
+          "rank": 13100,
+          "indentLevel": 2,
+          "foodNutrientId": 34160587
+        },
+        {
+          "nutrientId": 1270,
+          "nutrientName": "PUFA 18:3",
+          "nutrientNumber": "619",
+          "unitName": "G",
+          "value": 0.007,
+          "rank": 13900,
+          "indentLevel": 2,
+          "foodNutrientId": 34160588
+        },
+        {
+          "nutrientId": 1271,
+          "nutrientName": "PUFA 20:4",
+          "nutrientNumber": "620",
+          "unitName": "G",
+          "value": 0.003,
+          "rank": 14700,
+          "indentLevel": 2,
+          "foodNutrientId": 34160589
+        },
+        {
+          "nutrientId": 1272,
+          "nutrientName": "PUFA 22:6 n-3 (DHA)",
+          "nutrientNumber": "621",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15300,
+          "indentLevel": 2,
+          "foodNutrientId": 34160590
+        },
+        {
+          "nutrientId": 1275,
+          "nutrientName": "MUFA 16:1",
+          "nutrientNumber": "626",
+          "unitName": "G",
+          "value": 0.029,
+          "rank": 11700,
+          "indentLevel": 2,
+          "foodNutrientId": 34160591
+        },
+        {
+          "nutrientId": 1276,
+          "nutrientName": "PUFA 18:4",
+          "nutrientNumber": "627",
+          "unitName": "G",
+          "value": 0,
+          "rank": 14250,
+          "indentLevel": 2,
+          "foodNutrientId": 34160592
+        },
+        {
+          "nutrientId": 1277,
+          "nutrientName": "MUFA 20:1",
+          "nutrientNumber": "628",
+          "unitName": "G",
+          "value": 0.003,
+          "rank": 12400,
+          "indentLevel": 2,
+          "foodNutrientId": 34160593
+        },
+        {
+          "nutrientId": 1278,
+          "nutrientName": "PUFA 20:5 n-3 (EPA)",
+          "nutrientNumber": "629",
+          "unitName": "G",
+          "value": 0.001,
+          "rank": 15000,
+          "indentLevel": 2,
+          "foodNutrientId": 34160594
+        },
+        {
+          "nutrientId": 1279,
+          "nutrientName": "MUFA 22:1",
+          "nutrientNumber": "630",
+          "unitName": "G",
+          "value": 0,
+          "rank": 12500,
+          "indentLevel": 2,
+          "foodNutrientId": 34160595
+        },
+        {
+          "nutrientId": 1280,
+          "nutrientName": "PUFA 22:5 n-3 (DPA)",
+          "nutrientNumber": "631",
+          "unitName": "G",
+          "value": 0.001,
+          "rank": 15200,
+          "indentLevel": 2,
+          "foodNutrientId": 34160596
+        },
+        {
+          "nutrientId": 1292,
+          "nutrientName": "Fatty acids, total monounsaturated",
+          "nutrientNumber": "645",
+          "unitName": "G",
+          "value": 0.469,
+          "rank": 11400,
+          "indentLevel": 1,
+          "foodNutrientId": 34160597
+        },
+        {
+          "nutrientId": 1293,
+          "nutrientName": "Fatty acids, total polyunsaturated",
+          "nutrientNumber": "646",
+          "unitName": "G",
+          "value": 0.072,
+          "rank": 12900,
+          "indentLevel": 1,
+          "foodNutrientId": 34160598
+        }
+      ],
+      "finalFoodInputFoods": [
+        {
+          "foodDescription": "Cheese, cottage, lowfat, 2% milkfat",
+          "gramWeight": 100,
+          "id": 125039,
+          "portionCode": "0",
+          "portionDescription": "NONE",
+          "unit": "GM",
+          "rank": 1,
+          "retentionCode": 0,
+          "srCode": 1015,
+          "value": 100
+        }
+      ],
+      "foodMeasures": [
+        {
+          "disseminationText": "1 cup",
+          "gramWeight": 227,
+          "id": 291829,
+          "modifier": "10205",
+          "rank": 1,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "Quantity not specified",
+          "gramWeight": 113,
+          "id": 291830,
+          "modifier": "90000",
+          "rank": 2,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        }
+      ],
+      "foodAttributes": [
+        {
+          "value": "Lactaid",
+          "id": 3309857,
+          "sequenceNumber": 1
+        },
+        {
+          "value": "Cottage/ricotta cheese",
+          "name": "WWEIA Category description",
+          "id": 3299066
+        },
+        {
+          "value": "Moisture change: 0%",
+          "id": 3319199
+        },
+        {
+          "value": "1604",
+          "name": "WWEIA Category number",
+          "id": 3299065
+        }
+      ],
+      "foodAttributeTypes": [
+        {
+          "name": "Additional Description",
+          "description": "Additional descriptions for the food.",
+          "id": 1001,
+          "foodAttributes": [
+            {
+              "value": "Lactaid",
+              "id": 3309857,
+              "sequenceNumber": 1
+            }
+          ]
+        },
+        {
+          "name": "Adjustments",
+          "description": "Adjustments made to foods, including moisture changes",
+          "id": 1002,
+          "foodAttributes": [
+            {
+              "value": "Moisture change: 0%",
+              "id": 3319199
+            }
+          ]
+        },
+        {
+          "name": "Attribute",
+          "description": "Generic attributes",
+          "id": 999,
+          "foodAttributes": [
+            {
+              "value": "Cottage/ricotta cheese",
+              "name": "WWEIA Category description",
+              "id": 3299066
+            },
+            {
+              "value": "1604",
+              "name": "WWEIA Category number",
+              "id": 3299065
+            }
+          ]
+        }
+      ],
+      "foodVersionIds": []
+    },
+    {
+      "fdcId": 2705391,
+      "description": "Milk, lactose free, reduced fat (2%)",
+      "commonNames": "",
+      "additionalDescriptions": "lactose free milk, NS as to fat content",
+      "dataType": "Survey (FNDDS)",
+      "foodCode": 11114330,
+      "publishedDate": "2024-10-31",
+      "foodCategory": "Milk, reduced fat",
+      "foodCategoryId": 3298330,
+      "allHighlightFields": "<b>Includes</b>: <em>lactose</em> free milk, NS as to fat content",
+      "score": 391.59653,
+      "microbes": [],
+      "foodNutrients": [
+        {
+          "nutrientId": 1003,
+          "nutrientName": "Protein",
+          "nutrientNumber": "203",
+          "unitName": "G",
+          "value": 3.36,
+          "rank": 600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136614
+        },
+        {
+          "nutrientId": 1004,
+          "nutrientName": "Total lipid (fat)",
+          "nutrientNumber": "204",
+          "unitName": "G",
+          "value": 1.9,
+          "rank": 800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136615
+        },
+        {
+          "nutrientId": 1005,
+          "nutrientName": "Carbohydrate, by difference",
+          "nutrientNumber": "205",
+          "unitName": "G",
+          "value": 4.9,
+          "rank": 1110,
+          "indentLevel": 2,
+          "foodNutrientId": 34136616
+        },
+        {
+          "nutrientId": 1008,
+          "nutrientName": "Energy",
+          "nutrientNumber": "208",
+          "unitName": "KCAL",
+          "value": 50,
+          "rank": 300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136617
+        },
+        {
+          "nutrientId": 1018,
+          "nutrientName": "Alcohol, ethyl",
+          "nutrientNumber": "221",
+          "unitName": "G",
+          "value": 0,
+          "rank": 18200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136618
+        },
+        {
+          "nutrientId": 1051,
+          "nutrientName": "Water",
+          "nutrientNumber": "255",
+          "unitName": "G",
+          "value": 89.1,
+          "rank": 100,
+          "indentLevel": 1,
+          "foodNutrientId": 34136619
+        },
+        {
+          "nutrientId": 1057,
+          "nutrientName": "Caffeine",
+          "nutrientNumber": "262",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18300,
+          "indentLevel": 0,
+          "foodNutrientId": 34136620
+        },
+        {
+          "nutrientId": 1058,
+          "nutrientName": "Theobromine",
+          "nutrientNumber": "263",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18400,
+          "indentLevel": 0,
+          "foodNutrientId": 34136621
+        },
+        {
+          "nutrientId": 2000,
+          "nutrientName": "Total Sugars",
+          "nutrientNumber": "269",
+          "unitName": "G",
+          "value": 4.89,
+          "rank": 1510,
+          "indentLevel": 3,
+          "foodNutrientId": 34136622
+        },
+        {
+          "nutrientId": 1079,
+          "nutrientName": "Fiber, total dietary",
+          "nutrientNumber": "291",
+          "unitName": "G",
+          "value": 0,
+          "rank": 1200,
+          "indentLevel": 3,
+          "foodNutrientId": 34136623
+        },
+        {
+          "nutrientId": 1087,
+          "nutrientName": "Calcium, Ca",
+          "nutrientNumber": "301",
+          "unitName": "MG",
+          "value": 126,
+          "rank": 5300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136624
+        },
+        {
+          "nutrientId": 1089,
+          "nutrientName": "Iron, Fe",
+          "nutrientNumber": "303",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 5400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136625
+        },
+        {
+          "nutrientId": 1090,
+          "nutrientName": "Magnesium, Mg",
+          "nutrientNumber": "304",
+          "unitName": "MG",
+          "value": 12,
+          "rank": 5500,
+          "indentLevel": 1,
+          "foodNutrientId": 34136626
+        },
+        {
+          "nutrientId": 1091,
+          "nutrientName": "Phosphorus, P",
+          "nutrientNumber": "305",
+          "unitName": "MG",
+          "value": 103,
+          "rank": 5600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136627
+        },
+        {
+          "nutrientId": 1092,
+          "nutrientName": "Potassium, K",
+          "nutrientNumber": "306",
+          "unitName": "MG",
+          "value": 159,
+          "rank": 5700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136628
+        },
+        {
+          "nutrientId": 1093,
+          "nutrientName": "Sodium, Na",
+          "nutrientNumber": "307",
+          "unitName": "MG",
+          "value": 39,
+          "rank": 5800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136629
+        },
+        {
+          "nutrientId": 1095,
+          "nutrientName": "Zinc, Zn",
+          "nutrientNumber": "309",
+          "unitName": "MG",
+          "value": 0.43,
+          "rank": 5900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136630
+        },
+        {
+          "nutrientId": 1098,
+          "nutrientName": "Copper, Cu",
+          "nutrientNumber": "312",
+          "unitName": "MG",
+          "value": 0.001,
+          "rank": 6000,
+          "indentLevel": 1,
+          "foodNutrientId": 34136631
+        },
+        {
+          "nutrientId": 1103,
+          "nutrientName": "Selenium, Se",
+          "nutrientNumber": "317",
+          "unitName": "UG",
+          "value": 1.8,
+          "rank": 6200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136632
+        },
+        {
+          "nutrientId": 1105,
+          "nutrientName": "Retinol",
+          "nutrientNumber": "319",
+          "unitName": "UG",
+          "value": 83,
+          "rank": 7430,
+          "indentLevel": 2,
+          "foodNutrientId": 34136633
+        },
+        {
+          "nutrientId": 1106,
+          "nutrientName": "Vitamin A, RAE",
+          "nutrientNumber": "320",
+          "unitName": "UG",
+          "value": 83,
+          "rank": 7420,
+          "indentLevel": 1,
+          "foodNutrientId": 34136634
+        },
+        {
+          "nutrientId": 1107,
+          "nutrientName": "Carotene, beta",
+          "nutrientNumber": "321",
+          "unitName": "UG",
+          "value": 3,
+          "rank": 7440,
+          "indentLevel": 2,
+          "foodNutrientId": 34136635
+        },
+        {
+          "nutrientId": 1108,
+          "nutrientName": "Carotene, alpha",
+          "nutrientNumber": "322",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7450,
+          "indentLevel": 2,
+          "foodNutrientId": 34136636
+        },
+        {
+          "nutrientId": 1109,
+          "nutrientName": "Vitamin E (alpha-tocopherol)",
+          "nutrientNumber": "323",
+          "unitName": "MG",
+          "value": 0.03,
+          "rank": 7905,
+          "indentLevel": 1,
+          "foodNutrientId": 34136637
+        },
+        {
+          "nutrientId": 1114,
+          "nutrientName": "Vitamin D (D2 + D3)",
+          "nutrientNumber": "328",
+          "unitName": "UG",
+          "value": 1.1,
+          "rank": 8700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136638
+        },
+        {
+          "nutrientId": 1120,
+          "nutrientName": "Cryptoxanthin, beta",
+          "nutrientNumber": "334",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7460,
+          "indentLevel": 2,
+          "foodNutrientId": 34136639
+        },
+        {
+          "nutrientId": 1122,
+          "nutrientName": "Lycopene",
+          "nutrientNumber": "337",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7530,
+          "indentLevel": 1,
+          "foodNutrientId": 34136640
+        },
+        {
+          "nutrientId": 1123,
+          "nutrientName": "Lutein + zeaxanthin",
+          "nutrientNumber": "338",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7560,
+          "indentLevel": 1,
+          "foodNutrientId": 34136641
+        },
+        {
+          "nutrientId": 1162,
+          "nutrientName": "Vitamin C, total ascorbic acid",
+          "nutrientNumber": "401",
+          "unitName": "MG",
+          "value": 0.2,
+          "rank": 6300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136642
+        },
+        {
+          "nutrientId": 1165,
+          "nutrientName": "Thiamin",
+          "nutrientNumber": "404",
+          "unitName": "MG",
+          "value": 0.059,
+          "rank": 6400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136643
+        },
+        {
+          "nutrientId": 1166,
+          "nutrientName": "Riboflavin",
+          "nutrientNumber": "405",
+          "unitName": "MG",
+          "value": 0.137,
+          "rank": 6500,
+          "indentLevel": 1,
+          "foodNutrientId": 34136644
+        },
+        {
+          "nutrientId": 1167,
+          "nutrientName": "Niacin",
+          "nutrientNumber": "406",
+          "unitName": "MG",
+          "value": 0.112,
+          "rank": 6600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136645
+        },
+        {
+          "nutrientId": 1175,
+          "nutrientName": "Vitamin B-6",
+          "nutrientNumber": "415",
+          "unitName": "MG",
+          "value": 0.061,
+          "rank": 6800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136646
+        },
+        {
+          "nutrientId": 1177,
+          "nutrientName": "Folate, total",
+          "nutrientNumber": "417",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 6900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136647
+        },
+        {
+          "nutrientId": 1178,
+          "nutrientName": "Vitamin B-12",
+          "nutrientNumber": "418",
+          "unitName": "UG",
+          "value": 0.55,
+          "rank": 7300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136648
+        },
+        {
+          "nutrientId": 1180,
+          "nutrientName": "Choline, total",
+          "nutrientNumber": "421",
+          "unitName": "MG",
+          "value": 18.2,
+          "rank": 7220,
+          "indentLevel": 1,
+          "foodNutrientId": 34136649
+        },
+        {
+          "nutrientId": 1185,
+          "nutrientName": "Vitamin K (phylloquinone)",
+          "nutrientNumber": "430",
+          "unitName": "UG",
+          "value": 0.2,
+          "rank": 8800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136650
+        },
+        {
+          "nutrientId": 1186,
+          "nutrientName": "Folic acid",
+          "nutrientNumber": "431",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7000,
+          "indentLevel": 0,
+          "foodNutrientId": 34136651
+        },
+        {
+          "nutrientId": 1187,
+          "nutrientName": "Folate, food",
+          "nutrientNumber": "432",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 7100,
+          "indentLevel": 1,
+          "foodNutrientId": 34136652
+        },
+        {
+          "nutrientId": 1190,
+          "nutrientName": "Folate, DFE",
+          "nutrientNumber": "435",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 7200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136653
+        },
+        {
+          "nutrientId": 1242,
+          "nutrientName": "Vitamin E, added",
+          "nutrientNumber": "573",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 7920,
+          "indentLevel": 0,
+          "foodNutrientId": 34136654
+        },
+        {
+          "nutrientId": 1246,
+          "nutrientName": "Vitamin B-12, added",
+          "nutrientNumber": "578",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7340,
+          "indentLevel": 0,
+          "foodNutrientId": 34136655
+        },
+        {
+          "nutrientId": 1253,
+          "nutrientName": "Cholesterol",
+          "nutrientNumber": "601",
+          "unitName": "MG",
+          "value": 8,
+          "rank": 15700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136656
+        },
+        {
+          "nutrientId": 1258,
+          "nutrientName": "Fatty acids, total saturated",
+          "nutrientNumber": "606",
+          "unitName": "G",
+          "value": 1.11,
+          "rank": 9700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136657
+        },
+        {
+          "nutrientId": 1259,
+          "nutrientName": "SFA 4:0",
+          "nutrientNumber": "607",
+          "unitName": "G",
+          "value": 0.041,
+          "rank": 9800,
+          "indentLevel": 2,
+          "foodNutrientId": 34136658
+        },
+        {
+          "nutrientId": 1260,
+          "nutrientName": "SFA 6:0",
+          "nutrientNumber": "608",
+          "unitName": "G",
+          "value": 0.032,
+          "rank": 9900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136659
+        },
+        {
+          "nutrientId": 1261,
+          "nutrientName": "SFA 8:0",
+          "nutrientNumber": "609",
+          "unitName": "G",
+          "value": 0.021,
+          "rank": 10000,
+          "indentLevel": 2,
+          "foodNutrientId": 34136660
+        },
+        {
+          "nutrientId": 1262,
+          "nutrientName": "SFA 10:0",
+          "nutrientNumber": "610",
+          "unitName": "G",
+          "value": 0.049,
+          "rank": 10100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136661
+        },
+        {
+          "nutrientId": 1263,
+          "nutrientName": "SFA 12:0",
+          "nutrientNumber": "611",
+          "unitName": "G",
+          "value": 0.058,
+          "rank": 10300,
+          "indentLevel": 2,
+          "foodNutrientId": 34136662
+        },
+        {
+          "nutrientId": 1264,
+          "nutrientName": "SFA 14:0",
+          "nutrientNumber": "612",
+          "unitName": "G",
+          "value": 0.181,
+          "rank": 10500,
+          "indentLevel": 2,
+          "foodNutrientId": 34136663
+        },
+        {
+          "nutrientId": 1265,
+          "nutrientName": "SFA 16:0",
+          "nutrientNumber": "613",
+          "unitName": "G",
+          "value": 0.512,
+          "rank": 10700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136664
+        },
+        {
+          "nutrientId": 1266,
+          "nutrientName": "SFA 18:0",
+          "nutrientNumber": "614",
+          "unitName": "G",
+          "value": 0.184,
+          "rank": 10900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136665
+        },
+        {
+          "nutrientId": 1268,
+          "nutrientName": "MUFA 18:1",
+          "nutrientNumber": "617",
+          "unitName": "G",
+          "value": 0.41,
+          "rank": 12100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136666
+        },
+        {
+          "nutrientId": 1269,
+          "nutrientName": "PUFA 18:2",
+          "nutrientNumber": "618",
+          "unitName": "G",
+          "value": 0.061,
+          "rank": 13100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136667
+        },
+        {
+          "nutrientId": 1270,
+          "nutrientName": "PUFA 18:3",
+          "nutrientNumber": "619",
+          "unitName": "G",
+          "value": 0.007,
+          "rank": 13900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136668
+        },
+        {
+          "nutrientId": 1271,
+          "nutrientName": "PUFA 20:4",
+          "nutrientNumber": "620",
+          "unitName": "G",
+          "value": 0.003,
+          "rank": 14700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136669
+        },
+        {
+          "nutrientId": 1272,
+          "nutrientName": "PUFA 22:6 n-3 (DHA)",
+          "nutrientNumber": "621",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15300,
+          "indentLevel": 2,
+          "foodNutrientId": 34136670
+        },
+        {
+          "nutrientId": 1275,
+          "nutrientName": "MUFA 16:1",
+          "nutrientNumber": "626",
+          "unitName": "G",
+          "value": 0.029,
+          "rank": 11700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136671
+        },
+        {
+          "nutrientId": 1276,
+          "nutrientName": "PUFA 18:4",
+          "nutrientNumber": "627",
+          "unitName": "G",
+          "value": 0,
+          "rank": 14250,
+          "indentLevel": 2,
+          "foodNutrientId": 34136672
+        },
+        {
+          "nutrientId": 1277,
+          "nutrientName": "MUFA 20:1",
+          "nutrientNumber": "628",
+          "unitName": "G",
+          "value": 0.002,
+          "rank": 12400,
+          "indentLevel": 2,
+          "foodNutrientId": 34136673
+        },
+        {
+          "nutrientId": 1278,
+          "nutrientName": "PUFA 20:5 n-3 (EPA)",
+          "nutrientNumber": "629",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15000,
+          "indentLevel": 2,
+          "foodNutrientId": 34136674
+        },
+        {
+          "nutrientId": 1279,
+          "nutrientName": "MUFA 22:1",
+          "nutrientNumber": "630",
+          "unitName": "G",
+          "value": 0,
+          "rank": 12500,
+          "indentLevel": 2,
+          "foodNutrientId": 34136675
+        },
+        {
+          "nutrientId": 1280,
+          "nutrientName": "PUFA 22:5 n-3 (DPA)",
+          "nutrientNumber": "631",
+          "unitName": "G",
+          "value": 0.001,
+          "rank": 15200,
+          "indentLevel": 2,
+          "foodNutrientId": 34136676
+        },
+        {
+          "nutrientId": 1292,
+          "nutrientName": "Fatty acids, total monounsaturated",
+          "nutrientNumber": "645",
+          "unitName": "G",
+          "value": 0.4,
+          "rank": 11400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136677
+        },
+        {
+          "nutrientId": 1293,
+          "nutrientName": "Fatty acids, total polyunsaturated",
+          "nutrientNumber": "646",
+          "unitName": "G",
+          "value": 0.058,
+          "rank": 12900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136678
+        }
+      ],
+      "finalFoodInputFoods": [
+        {
+          "foodDescription": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+          "gramWeight": 100,
+          "id": 124278,
+          "portionCode": "0",
+          "portionDescription": "NONE",
+          "unit": "GM",
+          "rank": 1,
+          "retentionCode": 0,
+          "srCode": 1079,
+          "value": 100
+        }
+      ],
+      "foodMeasures": [
+        {
+          "disseminationText": "Guideline amount per fl oz of beverage",
+          "gramWeight": 2.5,
+          "id": 290551,
+          "modifier": "63480",
+          "rank": 3,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "1 fl oz",
+          "gramWeight": 30.5,
+          "id": 290550,
+          "modifier": "30000",
+          "rank": 2,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "Quantity not specified",
+          "gramWeight": 244,
+          "id": 290553,
+          "modifier": "90000",
+          "rank": 5,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "1 cup",
+          "gramWeight": 244,
+          "id": 290549,
+          "modifier": "10205",
+          "rank": 1,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "Guideline amount per cup of hot cereal",
+          "gramWeight": 61,
+          "id": 290552,
+          "modifier": "63546",
+          "rank": 4,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        }
+      ],
+      "foodAttributes": [
+        {
+          "value": "1004",
+          "name": "WWEIA Category number",
+          "id": 3298329
+        },
+        {
+          "value": "Moisture change: 0%",
+          "id": 3318831
+        },
+        {
+          "value": "lactose free milk, NS as to fat content",
+          "id": 3309178,
+          "sequenceNumber": 4
+        },
+        {
+          "value": "Milk, reduced fat",
+          "name": "WWEIA Category description",
+          "id": 3298330
+        }
+      ],
+      "foodAttributeTypes": [
+        {
+          "name": "Additional Description",
+          "description": "Additional descriptions for the food.",
+          "id": 1001,
+          "foodAttributes": [
+            {
+              "value": "lactose free milk, NS as to fat content",
+              "id": 3309178,
+              "sequenceNumber": 4
+            }
+          ]
+        },
+        {
+          "name": "Adjustments",
+          "description": "Adjustments made to foods, including moisture changes",
+          "id": 1002,
+          "foodAttributes": [
+            {
+              "value": "Moisture change: 0%",
+              "id": 3318831
+            }
+          ]
+        },
+        {
+          "name": "Attribute",
+          "description": "Generic attributes",
+          "id": 999,
+          "foodAttributes": [
+            {
+              "value": "1004",
+              "name": "WWEIA Category number",
+              "id": 3298329
+            },
+            {
+              "value": "Milk, reduced fat",
+              "name": "WWEIA Category description",
+              "id": 3298330
+            }
+          ]
+        }
+      ],
+      "foodVersionIds": []
+    },
+    {
+      "fdcId": 2705390,
+      "description": "Milk, lactose free, fat free (skim)",
+      "commonNames": "",
+      "additionalDescriptions": "",
+      "dataType": "Survey (FNDDS)",
+      "foodCode": 11114320,
+      "publishedDate": "2024-10-31",
+      "foodCategory": "Milk, nonfat",
+      "foodCategoryId": 3298328,
+      "allHighlightFields": "",
+      "score": 374.45447,
+      "microbes": [],
+      "foodNutrients": [
+        {
+          "nutrientId": 1003,
+          "nutrientName": "Protein",
+          "nutrientNumber": "203",
+          "unitName": "G",
+          "value": 3.43,
+          "rank": 600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136549
+        },
+        {
+          "nutrientId": 1004,
+          "nutrientName": "Total lipid (fat)",
+          "nutrientNumber": "204",
+          "unitName": "G",
+          "value": 0.08,
+          "rank": 800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136550
+        },
+        {
+          "nutrientId": 1005,
+          "nutrientName": "Carbohydrate, by difference",
+          "nutrientNumber": "205",
+          "unitName": "G",
+          "value": 4.92,
+          "rank": 1110,
+          "indentLevel": 2,
+          "foodNutrientId": 34136551
+        },
+        {
+          "nutrientId": 1008,
+          "nutrientName": "Energy",
+          "nutrientNumber": "208",
+          "unitName": "KCAL",
+          "value": 34,
+          "rank": 300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136552
+        },
+        {
+          "nutrientId": 1018,
+          "nutrientName": "Alcohol, ethyl",
+          "nutrientNumber": "221",
+          "unitName": "G",
+          "value": 0,
+          "rank": 18200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136553
+        },
+        {
+          "nutrientId": 1051,
+          "nutrientName": "Water",
+          "nutrientNumber": "255",
+          "unitName": "G",
+          "value": 90.8,
+          "rank": 100,
+          "indentLevel": 1,
+          "foodNutrientId": 34136554
+        },
+        {
+          "nutrientId": 1057,
+          "nutrientName": "Caffeine",
+          "nutrientNumber": "262",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18300,
+          "indentLevel": 0,
+          "foodNutrientId": 34136555
+        },
+        {
+          "nutrientId": 1058,
+          "nutrientName": "Theobromine",
+          "nutrientNumber": "263",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18400,
+          "indentLevel": 0,
+          "foodNutrientId": 34136556
+        },
+        {
+          "nutrientId": 2000,
+          "nutrientName": "Total Sugars",
+          "nutrientNumber": "269",
+          "unitName": "G",
+          "value": 5.05,
+          "rank": 1510,
+          "indentLevel": 3,
+          "foodNutrientId": 34136557
+        },
+        {
+          "nutrientId": 1079,
+          "nutrientName": "Fiber, total dietary",
+          "nutrientNumber": "291",
+          "unitName": "G",
+          "value": 0,
+          "rank": 1200,
+          "indentLevel": 3,
+          "foodNutrientId": 34136558
+        },
+        {
+          "nutrientId": 1087,
+          "nutrientName": "Calcium, Ca",
+          "nutrientNumber": "301",
+          "unitName": "MG",
+          "value": 132,
+          "rank": 5300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136559
+        },
+        {
+          "nutrientId": 1089,
+          "nutrientName": "Iron, Fe",
+          "nutrientNumber": "303",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 5400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136560
+        },
+        {
+          "nutrientId": 1090,
+          "nutrientName": "Magnesium, Mg",
+          "nutrientNumber": "304",
+          "unitName": "MG",
+          "value": 12,
+          "rank": 5500,
+          "indentLevel": 1,
+          "foodNutrientId": 34136561
+        },
+        {
+          "nutrientId": 1091,
+          "nutrientName": "Phosphorus, P",
+          "nutrientNumber": "305",
+          "unitName": "MG",
+          "value": 107,
+          "rank": 5600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136562
+        },
+        {
+          "nutrientId": 1092,
+          "nutrientName": "Potassium, K",
+          "nutrientNumber": "306",
+          "unitName": "MG",
+          "value": 167,
+          "rank": 5700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136563
+        },
+        {
+          "nutrientId": 1093,
+          "nutrientName": "Sodium, Na",
+          "nutrientNumber": "307",
+          "unitName": "MG",
+          "value": 41,
+          "rank": 5800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136564
+        },
+        {
+          "nutrientId": 1095,
+          "nutrientName": "Zinc, Zn",
+          "nutrientNumber": "309",
+          "unitName": "MG",
+          "value": 0.45,
+          "rank": 5900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136565
+        },
+        {
+          "nutrientId": 1098,
+          "nutrientName": "Copper, Cu",
+          "nutrientNumber": "312",
+          "unitName": "MG",
+          "value": 0.002,
+          "rank": 6000,
+          "indentLevel": 1,
+          "foodNutrientId": 34136566
+        },
+        {
+          "nutrientId": 1103,
+          "nutrientName": "Selenium, Se",
+          "nutrientNumber": "317",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 6200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136567
+        },
+        {
+          "nutrientId": 1105,
+          "nutrientName": "Retinol",
+          "nutrientNumber": "319",
+          "unitName": "UG",
+          "value": 64,
+          "rank": 7430,
+          "indentLevel": 2,
+          "foodNutrientId": 34136568
+        },
+        {
+          "nutrientId": 1106,
+          "nutrientName": "Vitamin A, RAE",
+          "nutrientNumber": "320",
+          "unitName": "UG",
+          "value": 64,
+          "rank": 7420,
+          "indentLevel": 1,
+          "foodNutrientId": 34136569
+        },
+        {
+          "nutrientId": 1107,
+          "nutrientName": "Carotene, beta",
+          "nutrientNumber": "321",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 7440,
+          "indentLevel": 2,
+          "foodNutrientId": 34136570
+        },
+        {
+          "nutrientId": 1108,
+          "nutrientName": "Carotene, alpha",
+          "nutrientNumber": "322",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7450,
+          "indentLevel": 2,
+          "foodNutrientId": 34136571
+        },
+        {
+          "nutrientId": 1109,
+          "nutrientName": "Vitamin E (alpha-tocopherol)",
+          "nutrientNumber": "323",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 7905,
+          "indentLevel": 1,
+          "foodNutrientId": 34136572
+        },
+        {
+          "nutrientId": 1114,
+          "nutrientName": "Vitamin D (D2 + D3)",
+          "nutrientNumber": "328",
+          "unitName": "UG",
+          "value": 1.1,
+          "rank": 8700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136573
+        },
+        {
+          "nutrientId": 1120,
+          "nutrientName": "Cryptoxanthin, beta",
+          "nutrientNumber": "334",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7460,
+          "indentLevel": 2,
+          "foodNutrientId": 34136574
+        },
+        {
+          "nutrientId": 1122,
+          "nutrientName": "Lycopene",
+          "nutrientNumber": "337",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7530,
+          "indentLevel": 1,
+          "foodNutrientId": 34136575
+        },
+        {
+          "nutrientId": 1123,
+          "nutrientName": "Lutein + zeaxanthin",
+          "nutrientNumber": "338",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7560,
+          "indentLevel": 1,
+          "foodNutrientId": 34136576
+        },
+        {
+          "nutrientId": 1162,
+          "nutrientName": "Vitamin C, total ascorbic acid",
+          "nutrientNumber": "401",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 6300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136577
+        },
+        {
+          "nutrientId": 1165,
+          "nutrientName": "Thiamin",
+          "nutrientNumber": "404",
+          "unitName": "MG",
+          "value": 0.056,
+          "rank": 6400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136578
+        },
+        {
+          "nutrientId": 1166,
+          "nutrientName": "Riboflavin",
+          "nutrientNumber": "405",
+          "unitName": "MG",
+          "value": 0.131,
+          "rank": 6500,
+          "indentLevel": 1,
+          "foodNutrientId": 34136579
+        },
+        {
+          "nutrientId": 1167,
+          "nutrientName": "Niacin",
+          "nutrientNumber": "406",
+          "unitName": "MG",
+          "value": 0.118,
+          "rank": 6600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136580
+        },
+        {
+          "nutrientId": 1175,
+          "nutrientName": "Vitamin B-6",
+          "nutrientNumber": "415",
+          "unitName": "MG",
+          "value": 0.058,
+          "rank": 6800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136581
+        },
+        {
+          "nutrientId": 1177,
+          "nutrientName": "Folate, total",
+          "nutrientNumber": "417",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 6900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136582
+        },
+        {
+          "nutrientId": 1178,
+          "nutrientName": "Vitamin B-12",
+          "nutrientNumber": "418",
+          "unitName": "UG",
+          "value": 0.58,
+          "rank": 7300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136583
+        },
+        {
+          "nutrientId": 1180,
+          "nutrientName": "Choline, total",
+          "nutrientNumber": "421",
+          "unitName": "MG",
+          "value": 18.2,
+          "rank": 7220,
+          "indentLevel": 1,
+          "foodNutrientId": 34136584
+        },
+        {
+          "nutrientId": 1185,
+          "nutrientName": "Vitamin K (phylloquinone)",
+          "nutrientNumber": "430",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 8800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136585
+        },
+        {
+          "nutrientId": 1186,
+          "nutrientName": "Folic acid",
+          "nutrientNumber": "431",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7000,
+          "indentLevel": 0,
+          "foodNutrientId": 34136586
+        },
+        {
+          "nutrientId": 1187,
+          "nutrientName": "Folate, food",
+          "nutrientNumber": "432",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 7100,
+          "indentLevel": 1,
+          "foodNutrientId": 34136587
+        },
+        {
+          "nutrientId": 1190,
+          "nutrientName": "Folate, DFE",
+          "nutrientNumber": "435",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 7200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136588
+        },
+        {
+          "nutrientId": 1242,
+          "nutrientName": "Vitamin E, added",
+          "nutrientNumber": "573",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 7920,
+          "indentLevel": 0,
+          "foodNutrientId": 34136589
+        },
+        {
+          "nutrientId": 1246,
+          "nutrientName": "Vitamin B-12, added",
+          "nutrientNumber": "578",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7340,
+          "indentLevel": 0,
+          "foodNutrientId": 34136590
+        },
+        {
+          "nutrientId": 1253,
+          "nutrientName": "Cholesterol",
+          "nutrientNumber": "601",
+          "unitName": "MG",
+          "value": 3,
+          "rank": 15700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136591
+        },
+        {
+          "nutrientId": 1258,
+          "nutrientName": "Fatty acids, total saturated",
+          "nutrientNumber": "606",
+          "unitName": "G",
+          "value": 0.049,
+          "rank": 9700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136592
+        },
+        {
+          "nutrientId": 1259,
+          "nutrientName": "SFA 4:0",
+          "nutrientNumber": "607",
+          "unitName": "G",
+          "value": 0.003,
+          "rank": 9800,
+          "indentLevel": 2,
+          "foodNutrientId": 34136593
+        },
+        {
+          "nutrientId": 1260,
+          "nutrientName": "SFA 6:0",
+          "nutrientNumber": "608",
+          "unitName": "G",
+          "value": 0.001,
+          "rank": 9900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136594
+        },
+        {
+          "nutrientId": 1261,
+          "nutrientName": "SFA 8:0",
+          "nutrientNumber": "609",
+          "unitName": "G",
+          "value": 0.001,
+          "rank": 10000,
+          "indentLevel": 2,
+          "foodNutrientId": 34136595
+        },
+        {
+          "nutrientId": 1262,
+          "nutrientName": "SFA 10:0",
+          "nutrientNumber": "610",
+          "unitName": "G",
+          "value": 0.002,
+          "rank": 10100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136596
+        },
+        {
+          "nutrientId": 1263,
+          "nutrientName": "SFA 12:0",
+          "nutrientNumber": "611",
+          "unitName": "G",
+          "value": 0.002,
+          "rank": 10300,
+          "indentLevel": 2,
+          "foodNutrientId": 34136597
+        },
+        {
+          "nutrientId": 1264,
+          "nutrientName": "SFA 14:0",
+          "nutrientNumber": "612",
+          "unitName": "G",
+          "value": 0.008,
+          "rank": 10500,
+          "indentLevel": 2,
+          "foodNutrientId": 34136598
+        },
+        {
+          "nutrientId": 1265,
+          "nutrientName": "SFA 16:0",
+          "nutrientNumber": "613",
+          "unitName": "G",
+          "value": 0.021,
+          "rank": 10700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136599
+        },
+        {
+          "nutrientId": 1266,
+          "nutrientName": "SFA 18:0",
+          "nutrientNumber": "614",
+          "unitName": "G",
+          "value": 0.009,
+          "rank": 10900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136600
+        },
+        {
+          "nutrientId": 1268,
+          "nutrientName": "MUFA 18:1",
+          "nutrientNumber": "617",
+          "unitName": "G",
+          "value": 0.018,
+          "rank": 12100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136601
+        },
+        {
+          "nutrientId": 1269,
+          "nutrientName": "PUFA 18:2",
+          "nutrientNumber": "618",
+          "unitName": "G",
+          "value": 0.005,
+          "rank": 13100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136602
+        },
+        {
+          "nutrientId": 1270,
+          "nutrientName": "PUFA 18:3",
+          "nutrientNumber": "619",
+          "unitName": "G",
+          "value": 0,
+          "rank": 13900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136603
+        },
+        {
+          "nutrientId": 1271,
+          "nutrientName": "PUFA 20:4",
+          "nutrientNumber": "620",
+          "unitName": "G",
+          "value": 0,
+          "rank": 14700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136604
+        },
+        {
+          "nutrientId": 1272,
+          "nutrientName": "PUFA 22:6 n-3 (DHA)",
+          "nutrientNumber": "621",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15300,
+          "indentLevel": 2,
+          "foodNutrientId": 34136605
+        },
+        {
+          "nutrientId": 1275,
+          "nutrientName": "MUFA 16:1",
+          "nutrientNumber": "626",
+          "unitName": "G",
+          "value": 0.001,
+          "rank": 11700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136606
+        },
+        {
+          "nutrientId": 1276,
+          "nutrientName": "PUFA 18:4",
+          "nutrientNumber": "627",
+          "unitName": "G",
+          "value": 0,
+          "rank": 14250,
+          "indentLevel": 2,
+          "foodNutrientId": 34136607
+        },
+        {
+          "nutrientId": 1277,
+          "nutrientName": "MUFA 20:1",
+          "nutrientNumber": "628",
+          "unitName": "G",
+          "value": 0,
+          "rank": 12400,
+          "indentLevel": 2,
+          "foodNutrientId": 34136608
+        },
+        {
+          "nutrientId": 1278,
+          "nutrientName": "PUFA 20:5 n-3 (EPA)",
+          "nutrientNumber": "629",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15000,
+          "indentLevel": 2,
+          "foodNutrientId": 34136609
+        },
+        {
+          "nutrientId": 1279,
+          "nutrientName": "MUFA 22:1",
+          "nutrientNumber": "630",
+          "unitName": "G",
+          "value": 0,
+          "rank": 12500,
+          "indentLevel": 2,
+          "foodNutrientId": 34136610
+        },
+        {
+          "nutrientId": 1280,
+          "nutrientName": "PUFA 22:5 n-3 (DPA)",
+          "nutrientNumber": "631",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15200,
+          "indentLevel": 2,
+          "foodNutrientId": 34136611
+        },
+        {
+          "nutrientId": 1292,
+          "nutrientName": "Fatty acids, total monounsaturated",
+          "nutrientNumber": "645",
+          "unitName": "G",
+          "value": 0.017,
+          "rank": 11400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136612
+        },
+        {
+          "nutrientId": 1293,
+          "nutrientName": "Fatty acids, total polyunsaturated",
+          "nutrientNumber": "646",
+          "unitName": "G",
+          "value": 0.006,
+          "rank": 12900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136613
+        }
+      ],
+      "finalFoodInputFoods": [
+        {
+          "foodDescription": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+          "gramWeight": 100,
+          "id": 124277,
+          "portionCode": "0",
+          "portionDescription": "NONE",
+          "unit": "GM",
+          "rank": 1,
+          "retentionCode": 0,
+          "srCode": 1085,
+          "value": 100
+        }
+      ],
+      "foodMeasures": [
+        {
+          "disseminationText": "Guideline amount per cup of hot cereal",
+          "gramWeight": 61,
+          "id": 290547,
+          "modifier": "63546",
+          "rank": 4,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "Guideline amount per fl oz of beverage",
+          "gramWeight": 2.5,
+          "id": 290546,
+          "modifier": "63480",
+          "rank": 3,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "1 fl oz",
+          "gramWeight": 30.5,
+          "id": 290545,
+          "modifier": "30000",
+          "rank": 2,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "Quantity not specified",
+          "gramWeight": 244,
+          "id": 290548,
+          "modifier": "90000",
+          "rank": 5,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "1 cup",
+          "gramWeight": 244,
+          "id": 290544,
+          "modifier": "10205",
+          "rank": 1,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        }
+      ],
+      "foodAttributes": [
+        {
+          "value": "1008",
+          "name": "WWEIA Category number",
+          "id": 3298327
+        },
+        {
+          "value": "Moisture change: 0%",
+          "id": 3318830
+        },
+        {
+          "value": "Milk, nonfat",
+          "name": "WWEIA Category description",
+          "id": 3298328
+        }
+      ],
+      "foodAttributeTypes": [
+        {
+          "name": "Adjustments",
+          "description": "Adjustments made to foods, including moisture changes",
+          "id": 1002,
+          "foodAttributes": [
+            {
+              "value": "Moisture change: 0%",
+              "id": 3318830
+            }
+          ]
+        },
+        {
+          "name": "Attribute",
+          "description": "Generic attributes",
+          "id": 999,
+          "foodAttributes": [
+            {
+              "value": "1008",
+              "name": "WWEIA Category number",
+              "id": 3298327
+            },
+            {
+              "value": "Milk, nonfat",
+              "name": "WWEIA Category description",
+              "id": 3298328
+            }
+          ]
+        }
+      ],
+      "foodVersionIds": []
+    },
+    {
+      "fdcId": 2705389,
+      "description": "Milk, lactose free, low fat (1%)",
+      "commonNames": "",
+      "additionalDescriptions": "",
+      "dataType": "Survey (FNDDS)",
+      "foodCode": 11114300,
+      "publishedDate": "2024-10-31",
+      "foodCategory": "Milk, lowfat",
+      "foodCategoryId": 3298326,
+      "allHighlightFields": "",
+      "score": 374.45447,
+      "microbes": [],
+      "foodNutrients": [
+        {
+          "nutrientId": 1003,
+          "nutrientName": "Protein",
+          "nutrientNumber": "203",
+          "unitName": "G",
+          "value": 3.38,
+          "rank": 600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136484
+        },
+        {
+          "nutrientId": 1004,
+          "nutrientName": "Total lipid (fat)",
+          "nutrientNumber": "204",
+          "unitName": "G",
+          "value": 0.95,
+          "rank": 800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136485
+        },
+        {
+          "nutrientId": 1005,
+          "nutrientName": "Carbohydrate, by difference",
+          "nutrientNumber": "205",
+          "unitName": "G",
+          "value": 5.18,
+          "rank": 1110,
+          "indentLevel": 2,
+          "foodNutrientId": 34136486
+        },
+        {
+          "nutrientId": 1008,
+          "nutrientName": "Energy",
+          "nutrientNumber": "208",
+          "unitName": "KCAL",
+          "value": 43,
+          "rank": 300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136487
+        },
+        {
+          "nutrientId": 1018,
+          "nutrientName": "Alcohol, ethyl",
+          "nutrientNumber": "221",
+          "unitName": "G",
+          "value": 0,
+          "rank": 18200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136488
+        },
+        {
+          "nutrientId": 1051,
+          "nutrientName": "Water",
+          "nutrientNumber": "255",
+          "unitName": "G",
+          "value": 89.7,
+          "rank": 100,
+          "indentLevel": 1,
+          "foodNutrientId": 34136489
+        },
+        {
+          "nutrientId": 1057,
+          "nutrientName": "Caffeine",
+          "nutrientNumber": "262",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18300,
+          "indentLevel": 0,
+          "foodNutrientId": 34136490
+        },
+        {
+          "nutrientId": 1058,
+          "nutrientName": "Theobromine",
+          "nutrientNumber": "263",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 18400,
+          "indentLevel": 0,
+          "foodNutrientId": 34136491
+        },
+        {
+          "nutrientId": 2000,
+          "nutrientName": "Total Sugars",
+          "nutrientNumber": "269",
+          "unitName": "G",
+          "value": 4.96,
+          "rank": 1510,
+          "indentLevel": 3,
+          "foodNutrientId": 34136492
+        },
+        {
+          "nutrientId": 1079,
+          "nutrientName": "Fiber, total dietary",
+          "nutrientNumber": "291",
+          "unitName": "G",
+          "value": 0,
+          "rank": 1200,
+          "indentLevel": 3,
+          "foodNutrientId": 34136493
+        },
+        {
+          "nutrientId": 1087,
+          "nutrientName": "Calcium, Ca",
+          "nutrientNumber": "301",
+          "unitName": "MG",
+          "value": 126,
+          "rank": 5300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136494
+        },
+        {
+          "nutrientId": 1089,
+          "nutrientName": "Iron, Fe",
+          "nutrientNumber": "303",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 5400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136495
+        },
+        {
+          "nutrientId": 1090,
+          "nutrientName": "Magnesium, Mg",
+          "nutrientNumber": "304",
+          "unitName": "MG",
+          "value": 12,
+          "rank": 5500,
+          "indentLevel": 1,
+          "foodNutrientId": 34136496
+        },
+        {
+          "nutrientId": 1091,
+          "nutrientName": "Phosphorus, P",
+          "nutrientNumber": "305",
+          "unitName": "MG",
+          "value": 103,
+          "rank": 5600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136497
+        },
+        {
+          "nutrientId": 1092,
+          "nutrientName": "Potassium, K",
+          "nutrientNumber": "306",
+          "unitName": "MG",
+          "value": 159,
+          "rank": 5700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136498
+        },
+        {
+          "nutrientId": 1093,
+          "nutrientName": "Sodium, Na",
+          "nutrientNumber": "307",
+          "unitName": "MG",
+          "value": 39,
+          "rank": 5800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136499
+        },
+        {
+          "nutrientId": 1095,
+          "nutrientName": "Zinc, Zn",
+          "nutrientNumber": "309",
+          "unitName": "MG",
+          "value": 0.43,
+          "rank": 5900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136500
+        },
+        {
+          "nutrientId": 1098,
+          "nutrientName": "Copper, Cu",
+          "nutrientNumber": "312",
+          "unitName": "MG",
+          "value": 0.001,
+          "rank": 6000,
+          "indentLevel": 1,
+          "foodNutrientId": 34136501
+        },
+        {
+          "nutrientId": 1103,
+          "nutrientName": "Selenium, Se",
+          "nutrientNumber": "317",
+          "unitName": "UG",
+          "value": 2.1,
+          "rank": 6200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136502
+        },
+        {
+          "nutrientId": 1105,
+          "nutrientName": "Retinol",
+          "nutrientNumber": "319",
+          "unitName": "UG",
+          "value": 58,
+          "rank": 7430,
+          "indentLevel": 2,
+          "foodNutrientId": 34136503
+        },
+        {
+          "nutrientId": 1106,
+          "nutrientName": "Vitamin A, RAE",
+          "nutrientNumber": "320",
+          "unitName": "UG",
+          "value": 58,
+          "rank": 7420,
+          "indentLevel": 1,
+          "foodNutrientId": 34136504
+        },
+        {
+          "nutrientId": 1107,
+          "nutrientName": "Carotene, beta",
+          "nutrientNumber": "321",
+          "unitName": "UG",
+          "value": 1,
+          "rank": 7440,
+          "indentLevel": 2,
+          "foodNutrientId": 34136505
+        },
+        {
+          "nutrientId": 1108,
+          "nutrientName": "Carotene, alpha",
+          "nutrientNumber": "322",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7450,
+          "indentLevel": 2,
+          "foodNutrientId": 34136506
+        },
+        {
+          "nutrientId": 1109,
+          "nutrientName": "Vitamin E (alpha-tocopherol)",
+          "nutrientNumber": "323",
+          "unitName": "MG",
+          "value": 0.02,
+          "rank": 7905,
+          "indentLevel": 1,
+          "foodNutrientId": 34136507
+        },
+        {
+          "nutrientId": 1114,
+          "nutrientName": "Vitamin D (D2 + D3)",
+          "nutrientNumber": "328",
+          "unitName": "UG",
+          "value": 1.1,
+          "rank": 8700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136508
+        },
+        {
+          "nutrientId": 1120,
+          "nutrientName": "Cryptoxanthin, beta",
+          "nutrientNumber": "334",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7460,
+          "indentLevel": 2,
+          "foodNutrientId": 34136509
+        },
+        {
+          "nutrientId": 1122,
+          "nutrientName": "Lycopene",
+          "nutrientNumber": "337",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7530,
+          "indentLevel": 1,
+          "foodNutrientId": 34136510
+        },
+        {
+          "nutrientId": 1123,
+          "nutrientName": "Lutein + zeaxanthin",
+          "nutrientNumber": "338",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7560,
+          "indentLevel": 1,
+          "foodNutrientId": 34136511
+        },
+        {
+          "nutrientId": 1162,
+          "nutrientName": "Vitamin C, total ascorbic acid",
+          "nutrientNumber": "401",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 6300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136512
+        },
+        {
+          "nutrientId": 1165,
+          "nutrientName": "Thiamin",
+          "nutrientNumber": "404",
+          "unitName": "MG",
+          "value": 0.057,
+          "rank": 6400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136513
+        },
+        {
+          "nutrientId": 1166,
+          "nutrientName": "Riboflavin",
+          "nutrientNumber": "405",
+          "unitName": "MG",
+          "value": 0.14,
+          "rank": 6500,
+          "indentLevel": 1,
+          "foodNutrientId": 34136514
+        },
+        {
+          "nutrientId": 1167,
+          "nutrientName": "Niacin",
+          "nutrientNumber": "406",
+          "unitName": "MG",
+          "value": 0.113,
+          "rank": 6600,
+          "indentLevel": 1,
+          "foodNutrientId": 34136515
+        },
+        {
+          "nutrientId": 1175,
+          "nutrientName": "Vitamin B-6",
+          "nutrientNumber": "415",
+          "unitName": "MG",
+          "value": 0.06,
+          "rank": 6800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136516
+        },
+        {
+          "nutrientId": 1177,
+          "nutrientName": "Folate, total",
+          "nutrientNumber": "417",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 6900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136517
+        },
+        {
+          "nutrientId": 1178,
+          "nutrientName": "Vitamin B-12",
+          "nutrientNumber": "418",
+          "unitName": "UG",
+          "value": 0.61,
+          "rank": 7300,
+          "indentLevel": 1,
+          "foodNutrientId": 34136518
+        },
+        {
+          "nutrientId": 1180,
+          "nutrientName": "Choline, total",
+          "nutrientNumber": "421",
+          "unitName": "MG",
+          "value": 17.4,
+          "rank": 7220,
+          "indentLevel": 1,
+          "foodNutrientId": 34136519
+        },
+        {
+          "nutrientId": 1185,
+          "nutrientName": "Vitamin K (phylloquinone)",
+          "nutrientNumber": "430",
+          "unitName": "UG",
+          "value": 0.1,
+          "rank": 8800,
+          "indentLevel": 1,
+          "foodNutrientId": 34136520
+        },
+        {
+          "nutrientId": 1186,
+          "nutrientName": "Folic acid",
+          "nutrientNumber": "431",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7000,
+          "indentLevel": 0,
+          "foodNutrientId": 34136521
+        },
+        {
+          "nutrientId": 1187,
+          "nutrientName": "Folate, food",
+          "nutrientNumber": "432",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 7100,
+          "indentLevel": 1,
+          "foodNutrientId": 34136522
+        },
+        {
+          "nutrientId": 1190,
+          "nutrientName": "Folate, DFE",
+          "nutrientNumber": "435",
+          "unitName": "UG",
+          "value": 2,
+          "rank": 7200,
+          "indentLevel": 1,
+          "foodNutrientId": 34136523
+        },
+        {
+          "nutrientId": 1242,
+          "nutrientName": "Vitamin E, added",
+          "nutrientNumber": "573",
+          "unitName": "MG",
+          "value": 0,
+          "rank": 7920,
+          "indentLevel": 0,
+          "foodNutrientId": 34136524
+        },
+        {
+          "nutrientId": 1246,
+          "nutrientName": "Vitamin B-12, added",
+          "nutrientNumber": "578",
+          "unitName": "UG",
+          "value": 0,
+          "rank": 7340,
+          "indentLevel": 0,
+          "foodNutrientId": 34136525
+        },
+        {
+          "nutrientId": 1253,
+          "nutrientName": "Cholesterol",
+          "nutrientNumber": "601",
+          "unitName": "MG",
+          "value": 5,
+          "rank": 15700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136526
+        },
+        {
+          "nutrientId": 1258,
+          "nutrientName": "Fatty acids, total saturated",
+          "nutrientNumber": "606",
+          "unitName": "G",
+          "value": 0.568,
+          "rank": 9700,
+          "indentLevel": 1,
+          "foodNutrientId": 34136527
+        },
+        {
+          "nutrientId": 1259,
+          "nutrientName": "SFA 4:0",
+          "nutrientNumber": "607",
+          "unitName": "G",
+          "value": 0.022,
+          "rank": 9800,
+          "indentLevel": 2,
+          "foodNutrientId": 34136528
+        },
+        {
+          "nutrientId": 1260,
+          "nutrientName": "SFA 6:0",
+          "nutrientNumber": "608",
+          "unitName": "G",
+          "value": 0.015,
+          "rank": 9900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136529
+        },
+        {
+          "nutrientId": 1261,
+          "nutrientName": "SFA 8:0",
+          "nutrientNumber": "609",
+          "unitName": "G",
+          "value": 0.011,
+          "rank": 10000,
+          "indentLevel": 2,
+          "foodNutrientId": 34136530
+        },
+        {
+          "nutrientId": 1262,
+          "nutrientName": "SFA 10:0",
+          "nutrientNumber": "610",
+          "unitName": "G",
+          "value": 0.023,
+          "rank": 10100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136531
+        },
+        {
+          "nutrientId": 1263,
+          "nutrientName": "SFA 12:0",
+          "nutrientNumber": "611",
+          "unitName": "G",
+          "value": 0.026,
+          "rank": 10300,
+          "indentLevel": 2,
+          "foodNutrientId": 34136532
+        },
+        {
+          "nutrientId": 1264,
+          "nutrientName": "SFA 14:0",
+          "nutrientNumber": "612",
+          "unitName": "G",
+          "value": 0.093,
+          "rank": 10500,
+          "indentLevel": 2,
+          "foodNutrientId": 34136533
+        },
+        {
+          "nutrientId": 1265,
+          "nutrientName": "SFA 16:0",
+          "nutrientNumber": "613",
+          "unitName": "G",
+          "value": 0.265,
+          "rank": 10700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136534
+        },
+        {
+          "nutrientId": 1266,
+          "nutrientName": "SFA 18:0",
+          "nutrientNumber": "614",
+          "unitName": "G",
+          "value": 0.096,
+          "rank": 10900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136535
+        },
+        {
+          "nutrientId": 1268,
+          "nutrientName": "MUFA 18:1",
+          "nutrientNumber": "617",
+          "unitName": "G",
+          "value": 0.214,
+          "rank": 12100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136536
+        },
+        {
+          "nutrientId": 1269,
+          "nutrientName": "PUFA 18:2",
+          "nutrientNumber": "618",
+          "unitName": "G",
+          "value": 0.033,
+          "rank": 13100,
+          "indentLevel": 2,
+          "foodNutrientId": 34136537
+        },
+        {
+          "nutrientId": 1270,
+          "nutrientName": "PUFA 18:3",
+          "nutrientNumber": "619",
+          "unitName": "G",
+          "value": 0.004,
+          "rank": 13900,
+          "indentLevel": 2,
+          "foodNutrientId": 34136538
+        },
+        {
+          "nutrientId": 1271,
+          "nutrientName": "PUFA 20:4",
+          "nutrientNumber": "620",
+          "unitName": "G",
+          "value": 0.001,
+          "rank": 14700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136539
+        },
+        {
+          "nutrientId": 1272,
+          "nutrientName": "PUFA 22:6 n-3 (DHA)",
+          "nutrientNumber": "621",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15300,
+          "indentLevel": 2,
+          "foodNutrientId": 34136540
+        },
+        {
+          "nutrientId": 1275,
+          "nutrientName": "MUFA 16:1",
+          "nutrientNumber": "626",
+          "unitName": "G",
+          "value": 0.014,
+          "rank": 11700,
+          "indentLevel": 2,
+          "foodNutrientId": 34136541
+        },
+        {
+          "nutrientId": 1276,
+          "nutrientName": "PUFA 18:4",
+          "nutrientNumber": "627",
+          "unitName": "G",
+          "value": 0,
+          "rank": 14250,
+          "indentLevel": 2,
+          "foodNutrientId": 34136542
+        },
+        {
+          "nutrientId": 1277,
+          "nutrientName": "MUFA 20:1",
+          "nutrientNumber": "628",
+          "unitName": "G",
+          "value": 0.001,
+          "rank": 12400,
+          "indentLevel": 2,
+          "foodNutrientId": 34136543
+        },
+        {
+          "nutrientId": 1278,
+          "nutrientName": "PUFA 20:5 n-3 (EPA)",
+          "nutrientNumber": "629",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15000,
+          "indentLevel": 2,
+          "foodNutrientId": 34136544
+        },
+        {
+          "nutrientId": 1279,
+          "nutrientName": "MUFA 22:1",
+          "nutrientNumber": "630",
+          "unitName": "G",
+          "value": 0,
+          "rank": 12500,
+          "indentLevel": 2,
+          "foodNutrientId": 34136545
+        },
+        {
+          "nutrientId": 1280,
+          "nutrientName": "PUFA 22:5 n-3 (DPA)",
+          "nutrientNumber": "631",
+          "unitName": "G",
+          "value": 0,
+          "rank": 15200,
+          "indentLevel": 2,
+          "foodNutrientId": 34136546
+        },
+        {
+          "nutrientId": 1292,
+          "nutrientName": "Fatty acids, total monounsaturated",
+          "nutrientNumber": "645",
+          "unitName": "G",
+          "value": 0.21,
+          "rank": 11400,
+          "indentLevel": 1,
+          "foodNutrientId": 34136547
+        },
+        {
+          "nutrientId": 1293,
+          "nutrientName": "Fatty acids, total polyunsaturated",
+          "nutrientNumber": "646",
+          "unitName": "G",
+          "value": 0.032,
+          "rank": 12900,
+          "indentLevel": 1,
+          "foodNutrientId": 34136548
+        }
+      ],
+      "finalFoodInputFoods": [
+        {
+          "foodDescription": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",
+          "gramWeight": 100,
+          "id": 124276,
+          "portionCode": "0",
+          "portionDescription": "NONE",
+          "unit": "GM",
+          "rank": 1,
+          "retentionCode": 0,
+          "srCode": 1082,
+          "value": 100
+        }
+      ],
+      "foodMeasures": [
+        {
+          "disseminationText": "Quantity not specified",
+          "gramWeight": 244,
+          "id": 290543,
+          "modifier": "90000",
+          "rank": 5,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "1 fl oz",
+          "gramWeight": 30.5,
+          "id": 290540,
+          "modifier": "30000",
+          "rank": 2,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "Guideline amount per cup of hot cereal",
+          "gramWeight": 61,
+          "id": 290542,
+          "modifier": "63546",
+          "rank": 4,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "Guideline amount per fl oz of beverage",
+          "gramWeight": 2.5,
+          "id": 290541,
+          "modifier": "63480",
+          "rank": 3,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        },
+        {
+          "disseminationText": "1 cup",
+          "gramWeight": 244,
+          "id": 290539,
+          "modifier": "10205",
+          "rank": 1,
+          "measureUnitAbbreviation": "undetermined",
+          "measureUnitName": "undetermined",
+          "measureUnitId": 9999
+        }
+      ],
+      "foodAttributes": [
+        {
+          "value": "1006",
+          "name": "WWEIA Category number",
+          "id": 3298325
+        },
+        {
+          "value": "Moisture change: 0%",
+          "id": 3318829
+        },
+        {
+          "value": "Milk, lowfat",
+          "name": "WWEIA Category description",
+          "id": 3298326
+        }
+      ],
+      "foodAttributeTypes": [
+        {
+          "name": "Adjustments",
+          "description": "Adjustments made to foods, including moisture changes",
+          "id": 1002,
+          "foodAttributes": [
+            {
+              "value": "Moisture change: 0%",
+              "id": 3318829
+            }
+          ]
+        },
+        {
+          "name": "Attribute",
+          "description": "Generic attributes",
+          "id": 999,
+          "foodAttributes": [
+            {
+              "value": "1006",
+              "name": "WWEIA Category number",
+              "id": 3298325
+            },
+            {
+              "value": "Milk, lowfat",
+              "name": "WWEIA Category description",
+              "id": 3298326
+            }
+          ]
+        }
+      ],
+      "foodVersionIds": []
+    }
+  ],
+  "aggregations": {
+    "dataType": {
+      "Branded": 20864,
+      "SR Legacy": 302,
+      "Survey (FNDDS)": 129,
+      "Foundation": 42
+    },
+    "nutrients": {}
+  }
+}

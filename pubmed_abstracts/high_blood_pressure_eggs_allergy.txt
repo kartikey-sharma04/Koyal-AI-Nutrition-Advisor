@@ -1,0 +1,460 @@
+1. Lancet. 2025 Feb 22;405(10479):658-670. doi: 10.1016/S0140-6736(24)02814-9.
+
+Human schistosomiasis.
+
+Buonfrate D(1), Ferrari TCA(2), Adegnika AA(3), Russell Stothard J(4), Gobbi 
+FG(5).
+
+Author information:
+(1)Department of Infectious, Tropical Diseases and Microbiology, IRCCS Sacro 
+Cuore Don Calabria Hospital, Verona, Italy.
+(2)Department of Internal Medicine, School of Medicine, Universidade Federal de 
+Minas Gerais, Belo Horizonte, Brazil.
+(3)Centre de Recherches Médicales de Lambaréné, Lambaréné, Gabon; Institute for 
+Tropical Medicine, University of Tübingen, Tübingen, Germany; German Center for 
+Infection Research, Partner Site Tübingen, Tübingen, Germany.
+(4)Department of Tropical Disease Biology, Liverpool School of Tropical 
+Medicine, Liverpool, UK.
+(5)Department of Infectious, Tropical Diseases and Microbiology, IRCCS Sacro 
+Cuore Don Calabria Hospital, Verona, Italy; Department of Clinical and 
+Experimental Sciences, University of Brescia, Brescia, Italy. Electronic 
+address: federico.gobbi@sacrocuore.it.
+
+Erratum in
+    Lancet. 2025 Apr 26;405(10488):1467. doi: 10.1016/S0140-6736(25)00768-8.
+
+Schistosomiasis is a neglected tropical disease caused by infection with blood 
+flukes of the genus Schistosoma. Widely distributed in the Middle East, 
+southeast Asia, Latin America, and (mostly) sub-Saharan Africa, schistosomiasis 
+is acquired upon skin penetration of infective larvae released by freshwater 
+snails. Acute infection might present with self-limiting hypersensitivity 
+reactions (known as Katayama fever). Chronic infection typically leads to two 
+main clinical patterns: intestinal or urogenital schistosomiasis, depending on 
+the infecting species. Impairment of other body sites (eg, the CNS or 
+respiratory tract) can occur. The intestinal form is characterised by abdominal 
+pain and diarrhoea, with or without blood; complications are hepatic fibrosis, 
+portal hypertension, splenomegaly, and variceal bleeding. The urogenital form is 
+characterised by dysuria and haematuria; complications are renal failure and 
+squamous-cell carcinoma of the bladder. Conventional diagnosis is based on egg 
+detection in faeces or urine, although sensitivity might be low. Praziquantel is 
+the first-line treatment, and it is also provided in preventive chemotherapy 
+campaigns by mass drug administration to afflicted communities.
+
+Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+data mining, AI training, and similar technologies.
+
+DOI: 10.1016/S0140-6736(24)02814-9
+PMID: 39986748 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests We declare no competing 
+interests.
+
+
+2. Respir Med Case Rep. 2024 May 3;50:102032. doi: 10.1016/j.rmcr.2024.102032. 
+eCollection 2024.
+
+Katayama syndrome disguised as eosinophilic asthma with acute systemic symptoms 
+and pulmonary nodules.
+
+Demolder F(1), De Bontridder S(1)(2)(3), Hanon S(1).
+
+Author information:
+(1)Respiratory Division, Universitair Ziekenhuis Brussel, Vrije Universiteit 
+Brussel (VUB), Laarbeeklaan 101, 1090, Jette, Belgium.
+(2)Department of Pulmonology, Regional Hospital Heilig Hart Leuven, Naamsestraat 
+105, 3000, Leuven, Belgium.
+(3)Department of Respiratory Medicine, CUB Hôpital Erasme, Université Libre de 
+Bruxelles, 808 Route de Lennik, 1070, Brussels, Belgium.
+
+BACKGROUND: Katayama syndrome is an acute manifestation of schistosomiasis, a 
+parasitic infection that manifests itself through a hypersensitivity reaction to 
+migrating larvae and early egg deposition. Left undiagnosed and untreated, acute 
+schistosomiasis can develop into chronic schistosomiasis which can lead to 
+debilitating morbidity such as pulmonary hypertension. This case highlights that 
+Katayama syndrome can also been seen in regions where the parasite is not 
+endemic, as it occurs in travelers returning from endemic regions or in 
+immigrants.
+CASE PRESENTATION: We describe the case of a 26-year-old asthmatic male, who 
+presented with systemic symptoms including fever, myalgia, night sweats as well 
+as gastro-intestinal and pulmonary complaints since five days. At presentation, 
+there was a raised blood eosinophil count and nodular lesions were seen on 
+computed tomography. After considering diagnoses such as tuberculosis, 
+vasculitis and hypereosinophilic syndrome, it was repeated history taking that 
+revealed that the patient had suffered from swimmer's itch during a stay in 
+Guinea. A stool sample showed microscopic presence of Schistosoma mansoni eggs, 
+confirming the diagnosis of Katayama syndrome. The patient was treated with 
+tapered corticosteroids to suppress the hypersensitivity reaction and 
+praziquantel was added to cure the parasitic infection. This led to a complete 
+resolution of the patients' symptoms and radiological abnormalities. Negative 
+stool samples confirmed the eradication of the schistosomes.
+CONCLUSIONS: Swimmer's itch and Katayama syndrome are manifestations of acute 
+schistosomiasis. It is important to recognize the syndrome, because early 
+diagnosis and adequate treatment can prevent chronic disease and significant 
+morbidity.
+
+© 2024 The Authors. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.rmcr.2024.102032
+PMCID: PMC11087229
+PMID: 38737518
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+3. Clin Sci (Lond). 2023 Apr 26;137(8):617-631. doi: 10.1042/CS20220642.
+
+Repetitive schistosoma exposure causes perivascular lung fibrosis and persistent 
+pulmonary hypertension.
+
+Kumar R(1)(2), Lee MH(1)(2), Kassa B(1)(2), Fonseca Balladares DC(1)(2), Mickael 
+C(3), Sanders L(3), Andruska A(4), Kumar M(5), Spiekerkoetter E(4), Bandeira 
+A(6), Stenmark KR(7), Tuder RM(3), Graham BB(1)(2).
+
+Author information:
+(1)Department of Medicine, Division of Pulmonary and Critical Care Medicine, 
+University of California San Francisco, San Francisco, California, U.S.A.
+(2)Lung Biology Center, Zuckerberg San Francisco General Hospital, San 
+Francisco, California, U.S.A.
+(3)Department of Medicine, Division of Pulmonary Sciences and Critical Care 
+Medicine, University of Colorado Anschutz Medical Campus, Aurora, CO, U.S.A.
+(4)Department of Medicine, Division of Pulmonary, Allergy and Critical Care 
+Medicine, Stanford University, Palo Alto, CA, U.S.A.
+(5)Department of Pediatrics, Division of Pulmonary Medicine, Stanford 
+University, Palo Alto, CA, U.S.A.
+(6)PROCAPE, Universidade de Pernambuco, Recife, Pernambuco, Brazil.
+(7)Department of Pediatrics, University of Colorado Anschutz Medical Campus, 
+Aurora, CO, U.S.A.
+
+BACKGROUND: Pulmonary hypertension (PH) can occur as a complication of 
+schistosomiasis. In humans, schistosomiasis-PH persists despite antihelminthic 
+therapy and parasite eradication. We hypothesized that persistent disease arises 
+as a consequence of exposure repetition.
+METHODS: Following intraperitoneal sensitization, mice were experimentally 
+exposed to Schistosoma eggs by intravenous injection, either once or three times 
+repeatedly. The phenotype was characterized by right heart catheterization and 
+tissue analysis.
+RESULTS: Following intraperitoneal sensitization, a single intravenous 
+Schistosoma egg exposure resulted in a PH phenotype that peaked at 7-14 days, 
+followed by spontaneous resolution. Three sequential exposures resulted in a 
+persistent PH phenotype. Inflammatory cytokines were not significantly different 
+between mice exposed to one or three egg doses, but there was an increase in 
+perivascular fibrosis in those who received three egg doses. Significant 
+perivascular fibrosis was also observed in autopsy specimens from patients who 
+died of this condition.
+CONCLUSIONS: Repeatedly exposing mice to schistosomiasis causes a persistent PH 
+phenotype, accompanied by perivascular fibrosis. Perivascular fibrosis may 
+contribute to the persistent schistosomiasis-PH observed in humans with this 
+disease.
+
+© 2023 The Author(s).
+
+DOI: 10.1042/CS20220642
+PMCID: PMC10133871
+PMID: 37014925 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no competing 
+interests associated with the manuscript.
+
+
+4. J Allergy Clin Immunol Pract. 2023 Aug;11(8):2524-2533.e3. doi: 
+10.1016/j.jaip.2023.03.005. Epub 2023 Mar 15.
+
+Severe Anaphylactic Reactions to Home Doses of Oral Immunotherapy for Food 
+Allergy.
+
+Nachshon L(1), Schwartz N(2), Levy MB(3), Goldberg M(4), Epstein-Rigbi N(4), 
+Katz Y(4), Elizur A(4).
+
+Author information:
+(1)Institute of Allergy, Immunology, and Pediatric Pulmonology, Yitzhak Shamir 
+Medical Center, Beer Yaakov, Israel; Department of Medicine, Sackler Faculty of 
+Medicine, Tel Aviv University, Tel Aviv, Israel. Electronic address: 
+Liatna2@gmail.com.
+(2)School of Public Health, University of Haifa, Haifa, Israel.
+(3)Institute of Allergy, Immunology, and Pediatric Pulmonology, Yitzhak Shamir 
+Medical Center, Beer Yaakov, Israel.
+(4)Institute of Allergy, Immunology, and Pediatric Pulmonology, Yitzhak Shamir 
+Medical Center, Beer Yaakov, Israel; Department of Pediatrics, Sackler Faculty 
+of Medicine, Tel Aviv University, Tel Aviv, Israel.
+
+Comment in
+    J Allergy Clin Immunol Pract. 2024 Mar;12(3):797. doi: 
+10.1016/j.jaip.2023.11.015.
+
+BACKGROUND: Severe anaphylactic reactions to home doses may occur during food 
+allergy oral immunotherapy (OIT).
+OBJECTIVE: To study the rate and risk factors for such reactions.
+METHODS: We studied all patients aged greater than 3.5 years who completed OIT 
+in a single center between April 2010 and January 2020. All home 
+epinephrine-treated reactions (HETRs) were identified. High-grade HETRs 
+(HG-HETRs) were defined as HETRs involving respiratory (SpO2 of 94% or less), 
+cardiovascular (low blood pressure), or central nervous system impairment (loss 
+of consciousness). We investigated the rate and risk factors for HG-HETRs.
+RESULTS: A total of 1,637 OIT treatments were studied: milk (880), peanut (346), 
+tree nuts (221), sesame (115), and egg (75). Of 390 identified HETRs, 30 
+HG-HETRs occurred during 27 treatments (1.65% of all treatments). Nearly all (26 
+of 30) were during milk OIT in patients with house dust mite (HDM) sensitization 
+and asthma (26 of 30 each). Of the 30 patients with HG-HETRs, 21 recovered with 
+one or two epinephrine treatments, but nine (0.55% of all treatments) did not 
+respond to a second dose of epinephrine and were deemed to have refractory 
+anaphylaxis. Three patients required intensive care unit admission and three 
+received epinephrine drip, but none required ventilatory support. Risk factors 
+for HG-HETRs included milk OIT (P = .031), asthma (P = .02) and HDM 
+sensitization (P = .02). No specific triggers for HG-HETR were identified. Of 
+patients with HG-HETRs, 25.9% were fully desensitized, including the four 
+non-milk treated patients; 22.2% were partially desensitized; and 51.9% failed.
+CONCLUSIONS: High-grade HETRs are uncommon, particularly refractory anaphylactic 
+reactions to home OIT doses. Although milk OIT, asthma, and HDM sensitization 
+are the main risk factors for such reactions, identification of patients who are 
+at risk is challenging.
+
+Copyright © 2023 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2023.03.005
+PMID: 36925102 [Indexed for MEDLINE]
+
+
+5. Chest. 2020 May;157(5):1393-1394. doi: 10.1016/j.chest.2019.10.062.
+
+Pulmonary Hypertension, Eggs, and Bananas.
+
+Maslonka M(1), Miles M(2).
+
+Author information:
+(1)Section of Pulmonary, Critical Care, Allergy & Immunologic Diseases, Wake 
+Forest Baptist Medical Center, Winston-Salem, NC. Electronic address: 
+mmaslonk@wakehealth.edu.
+(2)Section of Pulmonary, Critical Care, Allergy & Immunologic Diseases, Wake 
+Forest Baptist Medical Center, Winston-Salem, NC.
+
+Comment in
+    Chest. 2020 May;157(5):1394-1395. doi: 10.1016/j.chest.2019.11.053.
+
+Comment on
+    Chest. 2019 Aug;156(2):211-227. doi: 10.1016/j.chest.2019.04.003.
+
+DOI: 10.1016/j.chest.2019.10.062
+PMID: 32386641 [Indexed for MEDLINE]
+
+
+6. Front Immunol. 2020 Feb 18;11:61. doi: 10.3389/fimmu.2020.00061. eCollection 
+2020.
+
+T Lymphocyte-Mediated Liver Immunopathology of Schistosomiasis.
+
+Zheng B(1)(2), Zhang J(1), Chen H(1), Nie H(1)(2), Miller H(3), Gong Q(1)(2), 
+Liu C(4).
+
+Author information:
+(1)Department of Immunology, School of Medicine, Yangtze University, Jingzhou, 
+China.
+(2)Clinical Molecular Immunology Center, School of Medicine, Yangtze University, 
+Jingzhou, China.
+(3)Department of Intracellular Pathogens, National Institute of Allergy and 
+Infectious Diseases, Bethesda, MD, United States.
+(4)Department of Pathogen Biology, School of Basic Medicine, Tongji Medical 
+College, Huazhong University of Science & Technology, Wuhan, China.
+
+The parasitic worms, Schistosoma mansoni and Schistosoma japonicum, reside in 
+the mesenteric veins, where they release eggs that induce a dramatic 
+granulomatous response in the liver and intestines. Subsequently, infection may 
+further develop into significant fibrosis and portal hypertension. Over the past 
+several years, uncovering the mechanism of immunopathology in schistosomiasis 
+has become a major research objective. It is known that T lymphocytes, 
+especially CD4+ T cells, are essential for immune responses against Schistosoma 
+species. However, obtaining a clear understanding of how T lymphocytes regulate 
+the pathological process is proving to be a daunting challenge. To date, CD4+ T 
+cell subsets have been classified into several distinct T helper (Th) phenotypes 
+including Th1, Th2, Th17, T follicular helper cells (Tfh), Th9, and regulatory T 
+cells (Tregs). In the case of schistosomiasis, the granulomatous inflammation 
+and the chronic liver pathology are critically regulated by the Th1/Th2 
+responses. Animal studies suggest that there is a moderate Th1 response to 
+parasite antigens during the acute stage, but then, egg-derived antigens induce 
+a sustained and dominant Th2 response that mediates granuloma formation and 
+liver fibrosis. In addition, the newly discovered Th17 cells also play a 
+critical role in the hepatic immunopathology of schistosomiasis. Within the 
+liver, Tregs are recruited to hepatic granulomas and exert an immunosuppressive 
+role to limit the granulomatous inflammation and fibrosis. Moreover, recent 
+studies have shown that Tfh and Th9 cells might also promote liver granulomas 
+and fibrogenesis in the murine schistosomiasis. Thus, during infection, T-cell 
+subsets undergo complicated cross-talk with antigen presenting cells that then 
+defines their various roles in the local microenvironment for regulating the 
+pathological progression of schistosomiasis. This current review summarizes a 
+vast body of literature to elucidate the contribution of T lymphocytes and their 
+associated cytokines in the immunopathology of schistosomiasis.
+
+Copyright © 2020 Zheng, Zhang, Chen, Nie, Miller, Gong and Liu.
+
+DOI: 10.3389/fimmu.2020.00061
+PMCID: PMC7040032
+PMID: 32132991 [Indexed for MEDLINE]
+
+
+7. Curr Opin Allergy Clin Immunol. 2016 Aug;16(4):404-11. doi: 
+10.1097/ACI.0000000000000291.
+
+Doctor, when should I feed solid foods to my infant?
+
+Fiocchi A(1), Dahdah L, Bahna SL, Mazzina O, Assa'ad A.
+
+Author information:
+(1)aDivision of Allergy, University Department of Pediatrics, Pediatric Hospital 
+Bambino Gesù, Rome, Vatican City, Italy bAllergy and Immunology Section, 
+Louisiana State University Health Sciences Center, Shreveport, Louisiana 
+cDivision of Allergy and Immunology, Cincinnati Children's Medical Center, 
+Cincinnati, Ohio, USA.
+
+PURPOSE OF REVIEW: Modalities and timing of the introduction of solid foods to 
+infants may influence growth, obesity, atherosclerosis, hyperlipidemia, 
+hypertension, diabetes, and metabolic disease. The most debated effects of solid 
+foods introduction are those on the development of food allergy.
+RECENT FINDINGS: For the first time, in recent years prospective studies have 
+been published about the effects of early vs. delayed introduction of allergenic 
+foods into the infants' diet on food allergy. According to these studies, the 
+early introduction of peanut may be a powerful protecting factor against peanut 
+allergy in some risk categories. This seems not be true for wheat, cow's milk, 
+sesame, and whitefish. The effect of early introduction of egg on egg allergy 
+are controversial.
+SUMMARY: The recent studies have changed the practice recommendations given by 
+healthcare providers to families. We review the modifications of the 
+recommendations of international societies on the introduction of solid foods, 
+both to the general population and to infants at risk for allergy.
+
+DOI: 10.1097/ACI.0000000000000291
+PMID: 27327121 [Indexed for MEDLINE]
+
+
+8. Circulation. 2013 Sep 17;128(12):1354-64. doi: 
+10.1161/CIRCULATIONAHA.113.003072. Epub 2013 Aug 19.
+
+Transforming growth factor-β signaling promotes pulmonary hypertension caused by 
+Schistosoma mansoni.
+
+Graham BB(1), Chabon J, Gebreab L, Poole J, Debella E, Davis L, Tanaka T, 
+Sanders L, Dropcho N, Bandeira A, Vandivier RW, Champion HC, Butrous G, Wang XJ, 
+Wynn TA, Tuder RM.
+
+Author information:
+(1)Program in Translational Lung Research, Division of Pulmonary Sciences and 
+Critical Care Medicine (B.B.G., J.C., L.G., J.P., E.D., L.D., T.T., L.S., N.D., 
+R.W.V.) and Department of Pathology (X.-J.W.), Anschutz Medical Campus, Aurora, 
+CO; Pulmonary Vascular Research Institute (B.B.G., A.B., H.C.C., G.B., R.M.T.); 
+Memorial S. Jose Hospital, Universidade de Pernambuco in Recife, Recife, Brazil 
+(A.B.); Division of Cardiology, University of Pittsburgh, Pittsburgh, PA 
+(H.C.C.); School of Pharmacy, University of Kent, Kent, UK (G.B.); and 
+Immunopathogenesis Section, Laboratory of Parasitic Diseases, National Institute 
+of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 
+(T.A.W.).
+
+Comment in
+    Circulation. 2013 Sep 17;128(12):1284-5. doi: 
+10.1161/CIRCULATIONAHA.113.005221.
+
+BACKGROUND: The pathogenic mechanisms underlying pulmonary arterial hypertension 
+resulting from schistosomiasis, one of the most common causes of pulmonary 
+hypertension worldwide, remain unknown. We hypothesized that transforming growth 
+factor-β (TGF-β) signaling as a consequence of Th2 inflammation is critical for 
+the pathogenesis of this disease.
+METHODS AND RESULTS: Mice sensitized and subsequently challenged with 
+Schistosoma mansoni eggs developed pulmonary hypertension associated with an 
+increase in right ventricular systolic pressure, thickening of the pulmonary 
+artery media, and right ventricular hypertrophy. Rho-kinase-dependent 
+vasoconstriction accounted for ≈60% of the increase in right ventricular 
+systolic pressure. The pulmonary vascular remodeling and pulmonary hypertension 
+were dependent on increased TGF-β signaling, as pharmacological blockade of the 
+TGF-β ligand and receptor, and mice lacking Smad3 were significantly protected 
+from Schistosoma-induced pulmonary hypertension. Blockade of TGF-β signaling 
+also led to a decrease in interleukin-4 and interleukin-13 concentrations, which 
+drive the Th2 responses characteristic of schistosomiasis lung pathology. Lungs 
+of patients with schistosomiasis-associated pulmonary arterial hypertension have 
+evidence of TGF-β signaling in their remodeled pulmonary arteries.
+CONCLUSION: Experimental S mansoni-induced pulmonary vascular disease relies on 
+canonical TGF-β signaling.
+
+DOI: 10.1161/CIRCULATIONAHA.113.003072
+PMCID: PMC3880024
+PMID: 23958565 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: None.
+
+
+9. Curr Neurol Neurosci Rep. 2012 Dec;12(6):666-74. doi:
+10.1007/s11910-012-0305-4.
+
+Cerebral and spinal schistosomiasis.
+
+Carod Artal FJ(1).
+
+Author information:
+(1)Medicine and Health Sciences Faculty, Universitat Internacional de Catalunya, 
+Barcelona, Spain. fjcarod-artal@hotmail.com
+
+Cerebral schistosomiasis and spinal schistosomiasis are severe underrecognized 
+complications of Schistosoma sp. infection, and can occur at any time during the 
+parasitic infection. Neuroschistosomiasis has been increasingly reported not 
+only in endemic areas but also in Western countries owing to immigration and 
+international travel. Immunogenic interaction between schistosome egg deposition 
+and the delayed hypersensitivity reaction of the host are the main 
+neuropathogenic mechanisms involved. Eggs induce a periovular granulomatous 
+reaction in the tissues. In some cases, schistosome adult worms may aberrantly 
+migrate to the central nervous system via the vertebral venous plexus and place 
+the ova at an ectopic site. Headache and seizures are common in cerebral 
+schistosomiasis, and intracranial hypertension and hydrocephalus may occur in 
+tumour-like and cerebellar schistosomiasis. Spinal schistosomiasis may manifest 
+itself as acute myelitis and/or myeloradiculopathy. Recognition of 
+neuroschistosomiasis is important so that early treatment with praziquantel and 
+steroids can be started in an attempt to prevent severe disability.
+
+DOI: 10.1007/s11910-012-0305-4
+PMID: 22903225 [Indexed for MEDLINE]
+
+
+10. J Allergy Clin Immunol. 2011 Apr;127(4):990-7.e1-2. doi: 
+10.1016/j.jaci.2011.01.057. Epub 2011 Mar 5.
+
+Mechanisms underlying differential food allergy response to heated egg.
+
+Martos G(1), Lopez-Exposito I, Bencharitiwong R, Berin MC, Nowak-Węgrzyn A.
+
+Author information:
+(1)Department of Pediatrics and Jaffe Food Allergy Institute, Mount Sinai School 
+of Medicine, New York, NY 10029, USA.
+
+BACKGROUND: Egg white proteins are usually subjected to heating, making them 
+edible for the majority of children with egg allergy.
+OBJECTIVE: We sought to investigate the underlying mechanisms responsible for 
+the reduced allergenicity displayed by heat-treated egg white allergens.
+METHODS: C3H/HeJ mice were orally sensitized with ovalbumin (OVA) or ovomucoid 
+and challenged with native or heated proteins to evaluate their allergenicity. 
+Immunoreactivity was assessed by immunoblotting using sera from children with 
+egg allergy. In vitro gastrointestinal digestion of native and heated OVA and 
+ovomucoid was studied by SDS-PAGE and liquid chromatography. Intestinal uptake 
+of intact native and heated OVA and ovomucoid by human intestinal epithelial 
+(Caco-2) cells was investigated. Rat basophil leukemia cells passively 
+sensitized with mouse serum and human basophils passively sensitized with serum 
+from children with egg allergy were used to assess the effector cell activation 
+by heated, digested, and transported OVA and ovomucoid.
+RESULTS: Heated OVA and ovomucoid did not induce symptoms of anaphylaxis in 
+sensitized mice when administered orally. Heating did not completely destroy 
+IgE-binding capacity of OVA or ovomucoid but enhanced in vitro digestibility of 
+OVA. Digestion of both OVA and ovomucoid diminished mediator release in rat 
+basophil leukemia assay and basophil activation. Heating of allergens prevented 
+transport across human intestinal epithelial cells in a form capable of 
+triggering basophil activation or T-cell activation.
+CONCLUSION: Heat treatment reduces allergenicity of OVA and ovomucoid. This is 
+partially a result of the enhanced gastrointestinal digestibility of heated OVA 
+and the inability of heated OVA or ovomucoid to be absorbed in a form capable of 
+triggering basophils.
+
+Copyright © 2011 American Academy of Allergy, Asthma & Immunology. Published by 
+Mosby, Inc. All rights reserved.
+
+DOI: 10.1016/j.jaci.2011.01.057
+PMCID: PMC3530263
+PMID: 21377717 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Statement All authors 
+report no conflict of interest.

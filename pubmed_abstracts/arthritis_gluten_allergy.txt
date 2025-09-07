@@ -1,0 +1,504 @@
+1. Scand J Immunol. 2024 Dec;100(6):e13409. doi: 10.1111/sji.13409. Epub 2024 Oct
+ 2.
+
+Impact of gluten intake on clinical outcomes in patients with chronic 
+inflammatory diseases initiating biologics: Secondary analysis of the 
+prospective multicentre BELIEVE cohort study.
+
+Gregersen L(1)(2), Jessen PD(1)(2), Lund HW(1)(2), Overgaard SH(1)(2), Hikmat 
+Z(1)(2), Ellingsen T(3), Kjeldsen J(4), Pedersen AK(5)(6), Petersen SR(5), 
+Jawhara M(7), Nexøe AB(2), Bygum A(8), Hvas CL(9)(10), Dahlerup JF(10)(11), 
+Bergenheim FO(11), Glerup H(12), Henriksen RH(12), Guldmann T(12), Hvid L(13), 
+Brodersen J(2)(14), Munk HL(15)(16), Pedersen N(17), Saboori S(17), Nielsen 
+OH(18), Heitmann BL(19), Haldorsson TI(1)(20), Christensen R(3)(21), Andersen 
+V(6)(22).
+
+Author information:
+(1)Molecular Diagnostics and Clinical Research Unit, University Hospital of 
+Southern Denmark, Aabenraa, Denmark.
+(2)The Faculty of Health Sciences, Institute of Regional Health Research, 
+University of Southern Denmark, Odense, Denmark.
+(3)Research Unit of Rheumatology, Department of Clinical Research, University of 
+Southern Denmark, Odense University Hospital, Odense, Denmark.
+(4)Research Unit of Gastroenterology, Department of Clinical Research, 
+University of Southern Denmark, Odense University Hospital, Odense, Denmark.
+(5)Department of Clinical Research, University Hospital of Southern Denmark, 
+Aabenraa, Denmark.
+(6)Open Patient Data Exploration Network (OPEN), Odense, Denmark.
+(7)Section of Upper Benign and Hernia Surgery (G3), Department of Surgery, 
+Odense University Hospital, Svendborg, Denmark.
+(8)Research Unit of Human Genetics, Department of Clinical Research, University 
+of Southern Denmark, Odense University Hospital, Odense, Denmark.
+(9)Institute of Clinical Medicine, Aarhus University, Aarhus, Denmark.
+(10)Department of Hepatology and Gastroenterology, Aarhus University Hospital, 
+Aarhus, Denmark.
+(11)The Abdominal Center, Medical Section, Bispebjerg University Hospital, 
+Copenhagen, Denmark.
+(12)University Research Clinic for Innovative Patient Pathways, Silkeborg 
+Regional Hospital, Silkeborg, Denmark.
+(13)Department of Dermatology and Allergy Centre, Odense University Hospital, 
+Odense, Denmark.
+(14)Department of Internal Medicine-Gastroenterology, Esbjerg & Grindsted 
+Hospital, University Hospital of Southern Denmark, Esbjerg, Denmark.
+(15)Department of Rheumatology, Odense University Hospital, Odense, Denmark.
+(16)Center for Rheumatology and Spine Diseases, Rigshospitalet, Copenhagen, 
+Denmark.
+(17)Department of Gastroenterology, Slagelse Regional Hospital, Slagelse, 
+Denmark.
+(18)Department of Gastroenterology, Herlev Hospital, Herlev, Denmark.
+(19)Research Unit for Dietary Studies, The Parker Institute, Bispebjerg and 
+Frederiksberg Hospital, Copenhagen, Denmark.
+(20)Faculty of Food Science and Nutrition, University of Iceland, Reykjavik, 
+Iceland.
+(21)Section for Biostatistics and Evidence-Based Research, The Parker Institute, 
+Bispebjerg and Frederiksberg Hospital, Copenhagen, Denmark.
+(22)Institute of Molecular Medicine, University of Southern Denmark, Odense, 
+Denmark.
+
+Chronic inflammatory diseases (CIDs) pose a growing healthcare challenge, with a 
+substantial proportion of patients showing inadequate response to biological 
+treatment. There is renewed interest in dietary changes to optimize treatment 
+regimens, with a growing body of evidence suggesting beneficial effects with 
+adherence to a gluten-free diet. This study compared the likelihood of achieving 
+clinical response to biological treatment after 14-16 weeks in patients with CID 
+with high versus low-to-medium gluten intake. Secondary outcomes of interest 
+included changes in disease activity, health-related quality of life and 
+C-reactive protein. The study was a multicentre prospective cohort of 193 
+participants with a CID diagnosis (i.e. Crohn's Disease, Ulcerative Colitis, 
+Rheumatoid Arthritis, Axial Spondyloarthritis, Psoriatic Arthritis or Psoriasis) 
+who initiated biological treatment between 2017 and 2020. Participants were 
+stratified based on their habitual gluten intake: the upper 33.3% (high gluten 
+intake) and the remaining 66.6% (low-to-medium gluten intake). The proportion of 
+patients achieving clinical response to biological treatment after 14-16 weeks 
+was compared using logistic regression models. The median gluten intake differed 
+significantly between groups (12.5 g/day vs. 5.9 g/day, standardized mean 
+difference = 1.399). In total, 108 (56%) achieved clinical response to 
+treatment, with no difference between 35 (55%) in the high gluten group and 73 
+(57%) in the medium-to-low gluten group (OR = 0.96 [0.51-1.79], p = 0.897). No 
+differences were found with secondary outcomes. In conclusion, this study found 
+no association between gluten intake and response to biological treatment in 
+patients with CID.
+
+© 2024 The Author(s). Scandinavian Journal of Immunology published by John Wiley 
+& Sons Ltd on behalf of The Scandinavian Foundation for Immunology.
+
+DOI: 10.1111/sji.13409
+PMID: 39358910 [Indexed for MEDLINE]
+
+
+2. J Psoriasis Psoriatic Arthritis. 2024 Jul;9(3):108-114. doi: 
+10.1177/24755303241236386. Epub 2024 Feb 20.
+
+Review of Integrative Medical Therapies for Psoriasis: The Microbiome, 
+Probiotics, Diet, and Mindfulness.
+
+Min M(1)(2), Dulai AS(1), Ahmad N(1)(3), Sivamani RK(1)(2)(4)(5).
+
+Author information:
+(1)Integrative Skin Science and Research, Sacramento, CA, USA.
+(2)College of Medicine, California Northstate University, Elk Grove, CA, USA.
+(3)College of Medicine, University of Houston, Houston, TX, USA.
+(4)Department of Dermatology, University of California-Davis, CA, USA.
+(5)Pacific Skin Institute, Sacramento, CA, USA.
+
+BACKGROUND: Psoriasis is a chronic inflammatory condition with cutaneous and 
+systemic involvement. Although many efficacious treatment options are available, 
+concerns regarding costs and duration of treatment have expanded interest in the 
+role of integrative medical therapies for psoriasis.
+OBJECTIVE: In this review, we aim to provide evidence for the use of integrative 
+medical approaches in the management of psoriasis, namely approaches utilizing 
+the microbiome, probiotics, diet, and mindfulness.
+METHODS: PubMed/Medline and Google Scholar databases were searched from 
+inception up to 16 August 2023 to identify clinical studies that evaluated how 
+integrative medical therapies affect psoriasis severity. Search terms combined 
+"psoriasis" or "psoriatic arthritis" with terms related to the microbiome, diet, 
+and lifestyle.
+RESULTS: Multiple clinical studies have shown that integrative approaches can 
+reduce psoriasis severity. Probiotic supplementation in psoriatic patients 
+decreased PASI scores, decreased inflammatory markers, increased quality of 
+life, and reduced the risk of disease relapse. Intermittent fasting, in the 
+context of Ramadan, decreased PASI scores and plasma CRP levels. Low-calorie 
+diets and low-calorie ketogenic diets have been shown to reduce psoriasis 
+severity. Notably, combining low-calorie diets with biologics and cyclosporine 
+synergistically improved psoriasis to a greater extent than pharmaceutical 
+therapy alone. A gluten-free diet improved psoriasis and reduced antigliadin 
+antibodies in those with hypersensitivity. Mindfulness therapies also improved 
+psoriasis severity with and without phototherapy.
+CONCLUSION: Several studies show that integrative medicine can be used to manage 
+psoriasis. Specifically, probiotic supplementation, diets that promote weight 
+loss or modulate antigliadin antibodies, and mindfulness therapies may improve 
+disease severity.
+
+© The Author(s) 2024.
+
+DOI: 10.1177/24755303241236386
+PMCID: PMC11361491
+PMID: 39301214
+
+Conflict of interest statement: The author(s) declared the following potential 
+conflicts of interest with respect to the research, authorship, and/or 
+publication of this article: RKS serves as a scientific advisor for LearnHealth, 
+Codex Labs, and Arbonne and as a consultant to Burt’s Bees, Novozymes, Nutrafol, 
+Novartis, Pfizer, Bristol Myers Squibb, Abbvie, Leo, Biogena, UCB, Incyte, 
+Pfizer, Sanofi, Novartis, Sun, and Regeneron Pharmaceuticals.
+
+
+3. Acta Dermatovenerol Alp Pannonica Adriat. 2023 Sep;32(3):87-92.
+
+Positivity of celiac disease-specific antibodies and non-celiac hypersensitivity 
+in psoriasis.
+
+Vekić-Mužević M(1)(2), Tomić L(3), Pondeljak N(3), Lazić Mosler E(3)(4).
+
+Author information:
+(1)Department of Dermatology and Venereology, Osijek University Hospital, 
+Osijek, Croatia.
+(2)School of Medicine, Josip Juraj Strossmayer University of Osijek, Osijek, 
+Croatia.
+(3)Department of Dermatology and Venereology, Sisak General Hospital, Sisak, 
+Croatia.
+(4)School of Medicine, Catholic University of Croatia, Zagreb, Croatia.
+
+INTRODUCTION: Plaque psoriasis and celiac disease are multisystemic diseases. 
+The association of psoriasis and enteropathy with histological changes similar 
+to celiac disease has already been described, and it has also been found that a 
+gluten-free diet improves psoriatic changes. This study assesses the 
+relationship between celiac disease antibodies and psoriasis.
+METHODS: The study included 112 participants: 60 with psoriasis in a test group 
+and 52 healthy subjects in a control group. Within the psoriasis group, 
+participants were further divided into two subgroups: one consisting of patients 
+with both psoriasis and psoriatic arthritis (n = 17) and another comprising 
+patients with psoriasis alone (n = 43). After informed consent was obtained, the 
+Dermatology Life Quality Index (DLQI) score and Psoriasis Area and Severity 
+Index (PASI) score were evaluated. Laboratory tests included assessment of 
+anti-deaminated gliadin peptide antibodies (DGP), anti-gliadin antibodies (AGA), 
+and anti-tissue transglutaminase antibodies (tTG).
+RESULTS: Immunoglobulin G (IgG) and immunoglobulin A (IgA) DGP antibodies were 
+detected more frequently and at higher serum concentrations in patients with 
+psoriasis compared to healthy controls (p = 0.03, p = 0.04, respectively). 
+Similarly, elevated levels of IgG-tTG antibodies (p = 0.003) and IgA-DGP 
+antibodies (p = 0.02) were observed in the same test group.
+CONCLUSIONS: A relationship between positivity to celiac disease antibodies and 
+psoriasis, particularly with regard to AGA, has been identified. Further studies 
+are required to elucidate the nature, pathophysiology, and significance of these 
+findings.
+
+PMID: 37749968 [Indexed for MEDLINE]
+
+
+4. Fac Rev. 2021 Jul 27;10:62. doi: 10.12703/r/10-62. eCollection 2021.
+
+Recent advances in palmoplantar pustulosis.
+
+Brunasso AMG(1), Massone C(1).
+
+Author information:
+(1)Dermatology Unit, Galliera Hospital, Genoa, Italy.
+
+Palmoplantar pustulosis (PPP) is a chronic inflammatory condition where crops of 
+sterile pustules with erythematous keratotic lesions causing bleeding and pain 
+appear on the palms and soles. Recently, the European Rare and Severe Expert 
+Network considered PPP as a variant of pustular psoriasis with or without 
+psoriasis vulgaris. The prevalence of PPP varies from 0.050 to 0.12%. PPP occurs 
+more frequently in women and the highest prevalence occurred between the ages of 
+50 and 69 years. Nail psoriasis seems to be frequent in PPP, ranging from 30 to 
+76%, and psoriatic arthritis in 8.6 to 26% of PPP patients. Synovitis, acne, 
+pustulosis, hyperostosis, osteitis (SAPHO) syndrome and pustulotic 
+arthro-osteitis are considered PPP-associated disorders. PPP has been reported 
+with other co-morbidities such as psychiatric disorders, thyroid-associated 
+disease, altered calcium homeostasis, gluten sensitivity diabetes, obesity, and 
+dyslipidemia, but larger studies are required to prove such associations. 
+Environmental exacerbating factors might contribute to the onset or worsening of 
+PPP such as cigarette smoking, stress, focal infections, metal allergies, and 
+drug intake. Genetic predisposition plays an important role in PPP. In PPP, both 
+the innate and the adaptive immune systems are activated. The acrosyringeal 
+expression of IL-17 has been demonstrated, indicating that the eccrine sweat 
+gland is an active component of the skin barrier and an immune-competent 
+structure. Increased levels of several inflammatory molecules, including IL-8, 
+IL-1α, IL-1β, IL-17A, IL-17C, IL-17D, IL-17F, IL-22, IL-23A, and IL-23 receptor, 
+have been detected in PPP biopsies. Increased serum levels of TNF-α, IL-17, 
+IL-22, and IFN-γ have been detected in patients with PPP in comparison to 
+healthy subjects, suggesting a similar inflammatory pattern to psoriasis 
+vulgaris. Oral and tonsillar infections serve as trigger factors for PPP. 
+Long-term therapy is required for many patients, but high-quality data are 
+limited, contributing to uncertainty about the ideal approach to treatment.
+
+Copyright: © 2021 Massone C et al.
+
+DOI: 10.12703/r/10-62
+PMCID: PMC8361749
+PMID: 34409425
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.No competing interests were disclosed.No competing interests were 
+disclosed.
+
+
+5. J Am Acad Dermatol. 2020 Mar;82(3):661-665. doi: 10.1016/j.jaad.2019.08.007. 
+Epub 2019 Aug 9.
+
+Gluten intake and risk of psoriasis, psoriatic arthritis, and atopic dermatitis 
+among United States women.
+
+Drucker AM(1), Qureshi AA(2), Thompson JM(3), Li T(4), Cho E(5).
+
+Author information:
+(1)Division of Dermatology, Department of Medicine, University of Toronto, 
+Toronto, Canada; Women's College Research Institute and Division of Dermatology, 
+Department of Medicine, Women's College Hospital, Toronto, Canada; Department of 
+Dermatology, Warren Alpert Medical School of Brown University, Providence, Rhode 
+Island. Electronic address: aaron.drucker@wchospital.ca.
+(2)Department of Dermatology, Warren Alpert Medical School of Brown University, 
+Providence, Rhode Island; Department of Dermatology, Rhode Island Hospital, 
+Providence, Rhode Island; Department of Epidemiology, School of Public Health, 
+Brown University, Providence, Rhode Island; Channing Division of Network 
+Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, 
+Massachusetts.
+(3)Department of Dermatology, Warren Alpert Medical School of Brown University, 
+Providence, Rhode Island.
+(4)Department of Dermatology, Warren Alpert Medical School of Brown University, 
+Providence, Rhode Island; Channing Division of Network Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+(5)Department of Dermatology, Warren Alpert Medical School of Brown University, 
+Providence, Rhode Island; Department of Epidemiology, School of Public Health, 
+Brown University, Providence, Rhode Island; Channing Division of Network 
+Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, 
+Massachusetts.
+
+BACKGROUND: Associations between gluten intake and psoriasis, psoriatic 
+arthritis, and atopic dermatitis are poorly understood.
+OBJECTIVE: To determine whether increased gluten intake is associated with 
+incident psoriasis, psoriatic arthritis, and atopic dermatitis.
+METHODS: Cohort studies among women in Nurses' Health Study II. Food frequency 
+questionnaires were used to calculate gluten content of participants' diet every 
+4 years (1991-2015 for psoriatic disease, 1995-2013 for atopic dermatitis). 
+Disease outcomes were assessed by self-report and subsequently validated. 
+Multivariable-adjusted Cox proportional hazards models were used to calculate 
+hazard ratios and 95% confidence intervals for the association between gluten 
+intake (quintiles) and psoriasis, psoriatic arthritis, and atopic dermatitis.
+RESULTS: We included 85,185 participants in the psoriasis analysis, 85,324 in 
+the psoriatic arthritis analysis, and 63,443 in the atopic dermatitis analysis. 
+Increased gluten intake was not associated with any of the outcomes (all P for 
+trend >.05). Comparing highest and lowest gluten intake quintiles, the 
+multivariable hazard ratios (95% confidence intervals) were 1.15 (0.98-1.36) for 
+psoriasis, 1.12 (0.78-1.62) for psoriatic arthritis, and 0.91 (0.66-1.25) for 
+atopic dermatitis.
+LIMITATIONS: No assessment of a strictly gluten-free diet.
+CONCLUSIONS: Our findings do not support the amount of dietary gluten intake as 
+a risk factor for psoriasis, psoriatic arthritis, or atopic dermatitis in adult 
+women.
+
+Copyright © 2019 American Academy of Dermatology, Inc. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jaad.2019.08.007
+PMCID: PMC7007848
+PMID: 31404570 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: In the last three years, 
+Dr. Drucker has served as an investigator and has received research funding from 
+Sanofi and Regeneron and has been a consultant for Sanofi, RTI Health Solutions, 
+Eczema Society of Canada and Canadian Agency for Drugs and Technology in Health. 
+He has received honoraria from Prime Inc, Spire Learning, CME Outfitters, Eczema 
+Society of Canada and the Canadian Dermatology Association. His institution has 
+received educational grants from Sanofi and Abbvie. Dr. Qureshi reports personal 
+fees from AbbVie, Amgen, CDC, Janssen, Pfizer, Novartis as a Consultant, 
+personal fees from Regeneron and Sanofi as an Investigator. All honoraria are 
+donated to charity. The other authors do not report any recent or relevant 
+disclosures.
+
+
+6. Dig Dis Sci. 2019 Jul;64(7):1740-1747. doi: 10.1007/s10620-019-05663-x.
+
+Going Against the Grains: Gluten-Free Diets in Patients Without Celiac 
+Disease-Worthwhile or Not?
+
+Lerner BA(1), Green PHR(1), Lebwohl B(2)(3).
+
+Author information:
+(1)Department of Medicine, Celiac Disease Center, Columbia University Medical 
+Center, New York, NY, 10032, USA.
+(2)Department of Medicine, Celiac Disease Center, Columbia University Medical 
+Center, New York, NY, 10032, USA. BL114@columbia.edu.
+(3)Department of Epidemiology, Mailman School of Public Health, Columbia 
+University Medical Center, New York, NY, 10032, USA. BL114@columbia.edu.
+
+While the gluten-free diet (GFD) is the only known effective therapy for celiac 
+disease, in recent years it has become increasingly popular in the USA and 
+worldwide, with many believing it to be more "healthful" and others claiming 
+that it has beneficial effects for health conditions, many extraintestinal, 
+other than celiac disease. This review examines the evidence for use of the GFD 
+in patients without celiac disease who self-report intestinal and/or 
+extraintestinal symptoms (non-celiac gluten sensitivity), as well as for 
+enhancement of athletic performance and treatment of autism, rheumatoid 
+arthritis, and psychiatric disorders. Overall, the evidence for use of GFDs in 
+conditions other than celiac disease is poor. Though non-celiac gluten 
+sensitivity may ultimately emerge as a biomarker-defined condition, a large 
+proportion of patients with apparent non-celiac gluten sensitivity have, after 
+careful investigation, an alternative diagnosis. In light of this, and coupled 
+with the potential physical and psychological harms associated with the 
+avoidance of gluten, initiating a GFD should not be encouraged for people who 
+have these other conditions or are seeking physical/athletic enhancement.
+
+DOI: 10.1007/s10620-019-05663-x
+PMID: 31102129 [Indexed for MEDLINE]
+
+
+7. Rev Assoc Med Bras (1992). 2018 Apr;64(4):311-314. doi: 
+10.1590/1806-9282.64.04.311.
+
+Gluten and Neuroimmunology. Rare association with Myasthenia Gravis and 
+Literature Review.
+
+Oliveira F(1), Schoeps V(1), Sanvito W(1), Valerio B(2).
+
+Author information:
+(1)Department of Neurology, Santa Casa at São Paulo-SP, Brasil. Ambulatory of 
+Neurological manifestations of systemic diseases.
+(2)Ambulatory of neuromuscular diseases.
+
+As the celiac disease (CD), the non-celiac gluten sensitivity (NCGS) has also 
+been associated with several autoimmune manifestations. It is rarely associated 
+with myasthenia gravis (MG). This paper shall introduce the case of a young 
+female patient, initially presenting a peripheral neuropathy framework. During 
+clinical and neurological follow-up, she began to present symptoms of various 
+immune-mediated morbidities. Diseases related to gluten represent a clinical 
+spectrum of manifestations with a trigger in common, the ingestion of gluten. CD 
+is the most well-known and serious disease of the spectrum, also called 
+gluten-sensitive enteropathy. The NCGS is diagnosed from clinical evidence of 
+improvement in symptoms followed by a Gluten Free Diet (GFD) in patients without 
+signs of enteropathy in duodenal biopsy. There are indications that, although 
+rare, with a prevalence of 1 in 5000, myasthenia gravis (MG) may occur more 
+often when CD is also present. Between 13 to 22% of the patients with MG have a 
+second autoimmune disorder. However, it is often associated with dermatomyositis 
+or polymyositis, lupus erythematosussystemic lupus erythematosus, Addison's 
+disease, Guillain-Barré syndrome and juvenile rheumatoid arthritis. Thus, the 
+symptoms of neuromuscular junction involvement may give a diagnostic evidence of 
+this rare association.
+
+DOI: 10.1590/1806-9282.64.04.311
+PMID: 30133608 [Indexed for MEDLINE]
+
+
+8. Joint Bone Spine. 2017 Oct;84(5):647-648. doi: 10.1016/j.jbspin.2017.03.007. 
+Epub 2017 Mar 24.
+
+Reply to the comment of Daron et al. entitled "Occurrence of rheumatic symptoms 
+in celiac disease: A meta-analysis".
+
+Dos Santos S(1), Lioté F(2).
+
+Author information:
+(1)Université Paris Diderot, Sorbonne Paris Cité, 75005 Paris, France; Service 
+de rhumatologie, hôpital Lariboisière, Assistance publique-Hôpitaux de Paris 
+(AP-HP), 2, rue Ambroise-Paré, 75010 Paris, France. Electronic address: 
+stephanie.dossantos@aphp.fr.
+(2)Université Paris Diderot, Sorbonne Paris Cité, 75005 Paris, France; Service 
+de rhumatologie, hôpital Lariboisière, Assistance publique-Hôpitaux de Paris 
+(AP-HP), 2, rue Ambroise-Paré, 75010 Paris, France; Inserm, UMR 1132, centre 
+Viggo-Petersen, hôpital Lariboisière, 75010 Paris, France.
+
+Comment on
+    Joint Bone Spine. 2017 May;84(3):263-266. doi: 10.1016/j.jbspin.2016.09.007.
+    Joint Bone Spine. 2017 Oct;84(5):645-646. doi: 10.1016/j.jbspin.2017.03.006.
+
+DOI: 10.1016/j.jbspin.2017.03.007
+PMID: 28347709 [Indexed for MEDLINE]
+
+
+9. Turk J Gastroenterol. 2016 Nov;27(6):521-524. doi: 10.5152/tjg.2016.16354.
+
+Screening of patients with juvenile idiopathic arthritis and those with 
+rheumatoid arthritis for celiac disease in southwestern Iran.
+
+Moghtaderi M(1), Farjadian S, Aflaki E, Honar N, Alyasin S, Babaei M.
+
+Author information:
+(1)Allergy Research Center, Shiraz University of Medical Sciences, Shiraz, Iran. 
+farjadsh@sums.ac.ir.
+
+Comment in
+    Turk J Gastroenterol. 2017 May;28(3):227-228. doi: 10.5152/tjg.2017.16681.
+
+BACKGROUND/AIMS: Celiac disease (CD) is a common enteropathy triggered by the 
+ingestion of gluten in genetically susceptible individuals. It is frequently 
+found in conjunction with other autoimmune diseases. The purpose of this study 
+was to investigate the prevalence of CD in patients with juvenile idiopathic 
+arthritis (JIA) and those with rheumatoid arthritis (RA) in southwestern Iran.
+MATERIALS AND METHODS: A total of 53 children with JIA and 55 adults with RA 
+were enrolled. Anti-tissue transglutaminase (tTG) immunoglobulin (Ig) A serum 
+levels were measured by performing an enzyme-linked immunosorbent assay. 
+Patients with anti-tTG IgA serum levels of >15 U/mL were considered seropositive 
+and subjected to upper gastrointestinal endoscopy. Duodenal biopsies were 
+histopathologically evaluated based on the modified Marsh classification.
+RESULTS: One child with JIA (1.8%) and six adults with RA (11.3%) were positive 
+for the anti-tTG IgA antibody, but the histopathological evaluations of the 
+duodenal biopsies in these patients revealed no evidence of CD-related 
+enteropathy.
+CONCLUSION: Although the investigation of anti-tTG antibodies is widely used as 
+a noninvasive serologic test for the initial diagnosis of CD, because of the 
+high positive predictive value, the clinical utility of this test alone for 
+making a diagnosis is doubtful. We found no cases of CD among our patients with 
+JIA and RA. The periodic screening of rheumatologic patients with positive 
+anti-tTG IgA for CD can be helpful in making an early diagnosis of CD in these 
+patients.
+
+DOI: 10.5152/tjg.2016.16354
+PMID: 27852543 [Indexed for MEDLINE]
+
+
+10. Joint Bone Spine. 2017 May;84(3):263-266. doi: 10.1016/j.jbspin.2016.09.007. 
+Epub 2016 Nov 4.
+
+Osteoarticular manifestations of celiac disease and non-celiac gluten 
+hypersensitivity.
+
+Dos Santos S(1), Lioté F(2).
+
+Author information:
+(1)Université Paris Diderot, Sorbonne Paris Cité, 75005 Paris, France; Service 
+de rhumatologie, Assistance Publique-Hôpitaux de Paris (AP-HP), Hôpital 
+Lariboisière, 2, rue Ambroise Paré, 75010 Paris, France. Electronic address: 
+stephanie.dossantos@aphp.fr.
+(2)Université Paris Diderot, Sorbonne Paris Cité, 75005 Paris, France; Service 
+de rhumatologie, Assistance Publique-Hôpitaux de Paris (AP-HP), Hôpital 
+Lariboisière, 2, rue Ambroise Paré, 75010 Paris, France; Inserm, UMR 1132, 
+centre Viggo-Petersen, Hôpital Lariboisière, 75010 Paris, France.
+
+Comment in
+    Joint Bone Spine. 2017 Oct;84(5):645-646. doi: 10.1016/j.jbspin.2017.03.006.
+    Joint Bone Spine. 2017 Oct;84(5):647-648. doi: 10.1016/j.jbspin.2017.03.007.
+
+Celiac disease is a chronic inflammatory autoimmune enteropathy based disorder 
+that is triggered by the ingestion of gluten in genetically susceptible 
+individuals. The global prevalence of 1% to 2% represents only the tip of the 
+iceberg. The diagnosis is confirmed by positive specific antibody, 
+anti-transglutaminase or anti-endomysium, specific lesions of the small 
+intestine and a response to strict gluten-free diet. The diagnosis is difficult 
+and often delayed because the clinical variability is very large, ranging from 
+digestive clinical presentation "classic" to "atypical" symptoms, often 
+extra-intestinal, that are sometimes attributed to a concomitant disease or a 
+complication. Among them, there are frequent musculoskeletal manifestations such 
+as osteoporosis and osteomalacia. In the absence of risk factor, osteoporosis, 
+in a premenopausal women or in a man less than 55 years, more is if it is severe 
+and refractory to medications, need to rheumatologists on the track of celiac 
+disease in the absence of digestive symptoms. Osteomalacia is related to 
+secondary hypovitaminosis D malabsorption. Supplementation by calcifediol, 
+water-soluble vitamin D, may be indicated. Celiac disease is associated with an 
+autoimmune disease in almost 1/3 of the cases. Knowing these potential 
+associations allows earlier diagnosis in patients whose only manifestation, a 
+concomitant disease. Anemia, chronic fatigue or unexplained polyarthralgia are 
+symptoms associated with celiac disease to look for specific antibodies. The aim 
+of early diagnosis is to prevent the emergence of other systemic disorders and 
+avoid complications such as bone fractures and cancer, especially intestinal 
+lymphoma. Non-celiac gluten intolerance is a new entity defined by 
+symptomatology similar to that of celiac disease induced by the ingestion of 
+gluten and disappearing after crowding-out, among patients without specific 
+antibodies and without intestinal lesion of celiac disease. This entity is a 
+cause, at least in part, of increasing interest in gluten-free diet in the 
+general population.
+
+Copyright © 2016. Published by Elsevier SAS.
+
+DOI: 10.1016/j.jbspin.2016.09.007
+PMID: 27825568 [Indexed for MEDLINE]

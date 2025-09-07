@@ -1,0 +1,289 @@
+1. Medicine (Baltimore). 2019 Feb;98(6):e14421. doi: 10.1097/MD.0000000000014421.
+
+Association between food allergy and ankylosing spondylitis: An observational 
+study.
+
+Niu Q(1), Wei W(2), Huang Z(1), Zhang J(1), Yang B(1), Wang L(1).
+
+Author information:
+(1)Department of Laboratory Medicine, West China Hospital.
+(2)West China Medical School, Sichuan University, Chengdu, China.
+
+Food allergies can alter the gut microbiome composition, increasing the risk of 
+conditions such as ankylosing spondylitis (AS).To identify the association 
+between specific allergens and AS, we investigated the differences in the serum 
+levels of 14 food antigen-specific immunoglobulin (Ig) G between AS patients and 
+healthy participants. The association between the levels of these antibodies and 
+disease activity was assessed by measuring the inflammatory marker C-reactive 
+protein (CRP).We enrolled 75 AS patients and 78 healthy controls who had 
+undergone antigen-specific IgG tests in West China Hospital between January 2015 
+and October 2017, and performed enzyme-linked immunosorbent assays for specific 
+IgG against 14 food allergens: rice, egg, mushroom, milk, pork, chicken, beef, 
+crab, codfish, corn, soybean, tomato, shrimp, and wheat. The following tests 
+were used to analyze differences between AS patients and healthy controls: χ 
+test for sex, and a 2-tailed Student t-test or Mann-Whitney U test based on the 
+results of Levene test for age and IgG levels. Correlations between IgG and CRP 
+levels were calculated using a Spearman's correlation.AS patients had 
+significantly higher serum levels of beef-, crab-, and pork-specific IgG than 
+did healthy participants. In addition, the serum levels of pork-specific IgG 
+were significantly and positively correlated with CRP.These results suggest that 
+α-Gal, the predominant natural antigen in mammalian red meat, might play a 
+potential role in the pathogenesis of AS, and therefore, AS patients should 
+exclude such allergenic foods, including beef, crab and pork, from their daily 
+diet.
+
+DOI: 10.1097/MD.0000000000014421
+PMCID: PMC6380781
+PMID: 30732197 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+2. Rheumatol Int. 2006 Apr;26(6):556-60. doi: 10.1007/s00296-005-0018-y. Epub
+2005  Jul 16.
+
+General or personal diet: the individualized model for diet challenges in 
+patients with rheumatoid arthritis.
+
+Karatay S(1), Erdem T, Kiziltunc A, Melikoglu MA, Yildirim K, Cakir E, Ugur M, 
+Aktas A, Senel K.
+
+Author information:
+(1)Department of Physical Medicine, Atatürk Universitesi Tip Fakültesi Fiziksel 
+Tip ve Rehabilitasyon Anabilim Dali, 25240, Erzurum, Turkey. 
+skaratay73@hotmail.com
+
+This study was performed to evaluate the effect of individualized diet 
+challenges consisting of allergen foods on disease activity in rheumatoid 
+arthritis (RA) patients. Twenty patients with positive skin prick test (SPT) 
+response for food extracts and 20 with negative SPT response were included. All 
+patients were instructed to restrict the most common allergen foods during 12 
+days and then assigned into two groups according to SPT results. Food challenges 
+were performed with all of the allergen foods in prick test positive group 
+(PTPG) and with corn and rice in prick test negative group (PTNG) during 12 
+days. Allergen foods were then eliminated from PTPG patients' diet, while corn 
+and rice were removed in PTNG. Clinical evaluations were performed after fasting 
+(baseline), at the end of the challenge phase and reelimination phase. 
+Stiffness, pain, physician's and patient's global assessment of disease 
+activity, health assessment questionnaire (HAQ), Ritchie's index, serum amyloid 
+A protein, erythrocyte sedimentation rate and C-reactive protein were 
+determined. All of the disease variables, except HAQ, were increased with food 
+challenges in PTPG. In PTNG, no significant change was observed in any of the 
+variables except pain (P<0.05) and patient's global assessment (P<0.05). Our 
+results showed that the individualized dietary manipulations may effect the 
+disease activity for selected RA patients.
+
+DOI: 10.1007/s00296-005-0018-y
+PMID: 16025333 [Indexed for MEDLINE]
+
+
+3. Rheumatology (Oxford). 2004 Nov;43(11):1429-33. doi: 
+10.1093/rheumatology/keh366. Epub 2004 Aug 10.
+
+The effect of individualized diet challenges consisting of allergenic foods on 
+TNF-alpha and IL-1beta levels in patients with rheumatoid arthritis.
+
+Karatay S(1), Erdem T, Yildirim K, Melikoglu MA, Ugur M, Cakir E, Akcay F, Senel 
+K.
+
+Author information:
+(1)Department of Physical Medicine and Rehabilitation, Atatürk University, 
+Erzurum, Turkey. skaratay73@hotmail.com
+
+OBJECTIVE: To investigate the effect of individualized diet challenges 
+consisting of allergenic foods, defined by the skin prick test (SPT), on tumour 
+necrosis factor-alpha (TNF-alpha) and interleukin-1beta (IL-1beta) levels in 
+patients with rheumatoid arthritis (RA).
+METHODS: Twenty patients with a positive SPT response for food extracts and 20 
+with a negative SPT response were enrolled. None of the patients had active 
+disease. All patients were fasted for the most common allergenic foods for 12 
+days and then allocated to two groups according to SPT results. Food challenges 
+were performed with allergenic foods in the prick-positive group (PPG) and with 
+corn and rice in the prick-negative group (PNG) for a period of 12 days. Then, 
+allergenic foods were excluded from the PPG patients' diet and corn and rice 
+were removed from the PNG patients' diet. Clinical examinations were performed 
+after fasting (baseline), at the end of the challenge phase and at the end of 
+the re-elimination phase. Stiffness, pain, tender and swollen joint counts, 
+health assessment questionnaire (HAQ), Ritchie's articular index, erythrocyte 
+sedimentation rate (ESR), C-reactive protein (CRP) and serum TNF-alpha and 
+IL-1beta levels were measured.
+RESULTS: TNF-alpha (P < 0.01), IL-1beta (P < 0.05), ESR (P < 0.05) and CRP (P = 
+0.001) levels and all of the clinical variables, except HAQ, were increased with 
+food challenges in the PPG. These increases were also recorded after the 
+re-elimination phase. In the PNG, no significant change was seen in any of the 
+variables, except pain (P < 0.05). During the study, important differences were 
+observed for most of the variables between the two groups. Thirteen (72%) 
+patients in the PPG and three (18%) in the PNG experienced disease exacerbation 
+with challenges. This aggravation continued after elimination.
+CONCLUSIONS: Our results suggest that individualized dietary revisions may 
+regulate TNF-alpha and IL-1beta levels in selected patients with RA.
+
+DOI: 10.1093/rheumatology/keh366
+PMID: 15304675 [Indexed for MEDLINE]
+
+
+4. Clin Dev Immunol. 2004 Mar;11(1):13-21. doi: 10.1080/10446670410001670445.
+
+Suppression of leukotriene B4 generation by ex-vivo neutrophils isolated from 
+asthma patients on dietary supplementation with gammalinolenic acid-containing 
+borage oil: possible implication in asthma.
+
+Ziboh VA(1), Naguwa S, Vang K, Wineinger J, Morrissey BM, Watnik M, Gershwin ME.
+
+Author information:
+(1)Division of Rheumatology, Allergy and Clinical Immunology, Department of 
+Dermatology, University of California at Davis School of Medicine, TB 192, 
+Davis, CA 95616, USA.
+
+Dietary gammalinolenic acid (GLA), a potent inhibitor of 5-lipoxygenase (5-LOX) 
+and suppressor of leukotriene B4 (LTB4), can attenuate the clinical course of 
+rheumatoid arthritics, with negligible side effects. Since Zileuton, also an 
+inhibitor of 5-LOX, attenuates asthma but with an undesirable side effect, we 
+investigated whether dietary GLA would suppress biosynthesis of PMN-LTB4 
+isolated from asthma patients and attenuate asthma. Twenty-four mild-moderate 
+asthma patients (16-75 years) were randomized to receive either 2.0 g daily GLA 
+(borage oil) or corn oil (placebo) for 12 months. Blood drawn at 3 months 
+intervals was used to prepare sera for fatty acid analysis, PMNs for determining 
+phospholipid fatty acids and for LTB4 generation. Patients were monitored by 
+daily asthma scores, pulmonary function, and exhaled NO. Ingestion of daily GLA 
+(i) increased DGLA (GLA metabolite) in PMN-phospholipids; (ii) increased 
+generation of PMN-15-HETrE (5-LOX metabolite of DGLA). Increased 
+PMN-DGLA/15-HETrE paralleled the decreased PMN generation of proinflammatory 
+LTB4. However, the suppression of PMN-LTB4 did not reveal statistically 
+significant suppression of the asthma scores evaluated. Nonetheless, the study 
+demonstrated dietary fatty acid modulation of endogenous inflammatory mediators 
+without side effects and thus warrant further explorations into the roles of GLA 
+at higher doses, leukotrienes and asthma.
+
+DOI: 10.1080/10446670410001670445
+PMCID: PMC2275406
+PMID: 15154607 [Indexed for MEDLINE]
+
+
+5. Int Arch Allergy Immunol. 1996 Nov;111(3):284-90. doi: 10.1159/000237379.
+
+Anti-inflammatory properties of docosahexaenoic and eicosapentaenoic acids in 
+phorbol-ester-induced mouse ear inflammation.
+
+Raederstorff D(1), Pantze M, Bachmann H, Moser U.
+
+Author information:
+(1)Department of Vitamin and Nutrition Research, F.Hoffmann-La Roche Ltd, Basel, 
+Switzerland.
+
+Laboratory animal models and clinical studies suggest that dietary n-3 fatty 
+acids are beneficial in diseases with an inflammatory component such as 
+rheumatoid arthritis or psoriasis. In the present study we investigated the 
+effect of purified docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) on 
+phorbol ester (TPA)-induced acute inflammation. Mice were fed for 6 weeks a diet 
+containing 5% corn oil enriched with either 1% DHA or 1% EPA and compared with a 
+group receiving 6% corn oil only. The dietary treatment with DHA or EPA elevated 
+the n-3 polyunsaturated fatty acids as expected in the spleen and ear 
+phospholipids, associated with a reduction in arachidonic acid levels. The 
+degree of ear inflammation was quantified by measuring the four parameters 
+including (1) edema as the increase in ear biopsy weight, (2) polymorphonuclear 
+cell infiltration as myeloperoxidase activity (MPO) at the site of inflammation, 
+(3) prostaglandin E2 (PGE2) and (4) leukotriene B4 (LTB4) concentrations in ear 
+edema. The addition of DHA to the diet reduced significantly the edema formation 
+and the MPO activity 24 h after TPA challenge. Both DHA and EPA significantly 
+reduced the PGE2 and LTB4 levels compared with animals fed corn oil. This result 
+suggests that DHA rather than EPA may be useful in the adjuvant treatment of 
+diseases where acute inflammatory processes play a role.
+
+DOI: 10.1159/000237379
+PMID: 8917124 [Indexed for MEDLINE]
+
+
+6. Clin Exp Rheumatol. 1994 May-Jun;12(3):275-9.
+
+A pilot study of the effect of an elemental diet in the management of rheumatoid 
+arthritis.
+
+Haugen MA(1), Kjeldsen-Kragh J, Førre O.
+
+Author information:
+(1)Oslo Sanitetsforening Rheumatism Hospital, Norway.
+
+Comment in
+    Clin Exp Rheumatol. 1994 May-Jun;12(3):235-9.
+
+To evaluate the extent of food allergy/intolerance in rheumatoid arthritis, an 
+elemental (hypoallergenic) diet was studied in a controlled, double-blind pilot 
+study. Ten patients were allocated to an experimental group and 7 to a control 
+group. The patients in the experimental group received an elemental diet for 3 
+weeks, whereas the patients in the control group received a control soup 
+consisting of milk, meat, fish, shellfish, orange, pineapples, tomatoes, peas 
+and flour of wheat and corn. During the 4th week of the study the patients in 
+both groups resumed their regular diet. A significant improvement was found in 
+the number of tender joints (p = 0.04) in the experimental group, whereas 
+improvement was found in the erythrocyte sedimentation rate (ESR) (p = 0.03) and 
+in the thrombocyte count (p = 0.02) in the control group. Three patients in the 
+elemental diet group and 2 patients in the control group improved in all of the 
+measured disease variables during the dietary treatment period. There was no 
+significant difference in disease activity variables between the two groups. 
+These results suggest that some RA patients may respond to the elimination of 
+offending food items. However, the results do not encourage treatment with an 
+elemental diet in unselected RA patients.
+
+PMID: 8070160 [Indexed for MEDLINE]
+
+
+7. Br J Rheumatol. 1991 Apr;30(2):125-34. doi: 10.1093/rheumatology/30.2.125.
+
+Is diet important in rheumatoid arthritis?
+
+Buchanan HM(1), Preston SJ, Brooks PM, Buchanan WW.
+
+Author information:
+(1)Department of Dietetics, University of Sydney, Royal North Shore Hospital, St 
+Leonards, New South Wales, Australia.
+
+Comment in
+    Br J Rheumatol. 1991 Aug;30(4):315-6. doi: 10.1093/rheumatology/30.4.315.
+
+There is evidence from several well documented case reports that occasional 
+patients with rheumatoid arthritis (RA) may develop aggravation of their 
+arthritis as a result of allergy to some ingredient in the diet. A variety of 
+foodstuffs have been implicated including milk and milk products, corn and 
+cereals. Total fasting results in improvement in rheumatoid arthritis, but 
+appears to be mediated by diminution in production of chemical mediators of 
+inflammation, rather than by elimination of a dietary allergen. There is 
+conflicting evidence from studies using various intestinal probes that patients 
+with rheumatoid arthritis may have a 'leaky' intestinal mucosa allowing food 
+allergens to be more easily absorbed. Clinical therapeutic trials of exclusion 
+diets have employed the standard strategy of the double-blind randomized method. 
+However, this presupposes that patients entered into such a study are capable of 
+improvement with dietary manipulation. Since this is often not the case, a more 
+appropriate method would be to employ the 'intensive research design' also known 
+as 'single case experiment' and 'N of 1' study. 'Masked food intolerance' is an 
+attractive hypothesis, but extremely difficult to prove. It is doubtful whether 
+fish oils and/or evening primrose oil will be of significant long term benefit 
+for patients with RA. However, they do provide for the possibility that a fatty 
+acid-like substance may be found which may be incorporated into cell membranes, 
+thereby preventing production of mediators of inflammation, such as 
+prostaglandin E2 and leukotriene B4.
+
+DOI: 10.1093/rheumatology/30.2.125
+PMID: 2012942 [Indexed for MEDLINE]
+
+
+8. Br Med J (Clin Res Ed). 1981 Aug 22;283(6290):563. doi: 
+10.1136/bmj.283.6290.563.
+
+Rheumatoid arthritis and food: a case study.
+
+Williams R.
+
+DOI: 10.1136/bmj.283.6290.563
+PMCID: PMC1507909
+PMID: 6790079 [Indexed for MEDLINE]
+
+
+9. Acta Allergol. 1948;1(2):227.
+
+Corn sugar as an allergen.
+
+RANDOLPH TG, YEAGER LB.
+
+PMID: 18878627 [Indexed for MEDLINE]

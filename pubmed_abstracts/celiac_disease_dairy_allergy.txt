@@ -1,0 +1,530 @@
+1. Clin Gastroenterol Hepatol. 2025 May 19:S1542-3565(25)00318-0. doi: 
+10.1016/j.cgh.2025.02.015. Online ahead of print.
+
+Clinical Practice Updates: AGA Clinical Practice Update on GI Manifestations and 
+Autonomic or Immune Dysfunction in Hypermobile Ehlers-Danlos Syndrome: Expert 
+Review.
+
+Aziz Q(1), Harris LA(2), Goodman BP(3), Simrén M(4), Shin A(5).
+
+Author information:
+(1)Blizard Institute, Wingate Institute of Neurogastroenterology, Centre for 
+Neuroscience, Surgery and Trauma, Barts and the London School of Medicine and 
+Dentistry, Queen Mary University, London, United Kingdom.
+(2)Division of Gastroenterology and Hepatology, Mayo Clinic, Scottsdale, 
+Arizona. Electronic address: harris.lucinda@mayo.edu.
+(3)Department of Neurology, Mayo Clinic, Scottsdale, Arizona.
+(4)Department of Molecular and Clinical Medicine, Institute of Medicine, 
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(5)Vatche and Tamar Manoukian Division of Digestive Diseases, University of 
+California, Los Angeles, Los Angeles, California.
+
+DESCRIPTION: The purpose of this Clinical Practice Update Expert Review is to 
+describe key principles in the evaluation and management of patients with 
+disorders of gut-brain interaction (DGBI) and hypermobile Ehlers-Danlos syndrome 
+(hEDS) or hypermobility spectrum disorders (HSDs) with coexisting postural 
+orthostatic tachycardia syndrome (POTS) and/or mast cell activation syndrome 
+(MCAS).
+METHODS: This expert review/commentary was commissioned and approved by the 
+American Gastroenterological Association (AGA) Institute Clinical Practice 
+Updates Committee and the AGA Governing Board to provide timely guidance on a 
+topic of high clinical importance to the AGA membership, and underwent internal 
+peer review by the Clinical Practice Updates Committee and external peer review 
+through standard procedures of Clinical Gastroenterology and Hepatology. These 
+Best Practice Advice statements were drawn from a review of the published 
+literature and from expert opinion. Because systematic reviews were not 
+performed, these Best Practice Advice statements do not carry formal ratings 
+regarding the quality of evidence or strength of the presented considerations. 
+BEST PRACTICE ADVICE 1: Clinicians should be aware of the observed associations 
+between hEDS or HSDs and POTS and/or MCAS and their overlapping gastrointestinal 
+(GI) manifestations; while theoretical explanations exist, experimental evidence 
+of the biological mechanisms that explain relationships is limited and evolving. 
+BEST PRACTICE ADVICE 2: Testing for POTS/MCAS should be targeted to patients 
+presenting with clinical manifestations of POTS/MCAS, but universal testing for 
+POTS/MCAS in all patients with hEDS/HSDs is not supported by the current 
+evidence. BEST PRACTICE ADVICE 3: Gastroenterologists seeing patients with DGBI 
+should inquire about joint hypermobility and strongly consider incorporating the 
+Beighton score for assessing joint hypermobility into their practice as a 
+screening tool; if the screen is positive, gastroenterologists may consider 
+applying 2017 diagnostic criteria to diagnose hEDS 
+(https://www.ehlers-danlos.com/wp-content/uploads/2017/05/hEDS-Dx-Criteria-checklist-1.pdf) 
+or offer appropriate referral to a specialist where resources are available. 
+BEST PRACTICE ADVICE 4: Testing for POTS through postural vital signs (eg, 
+symptomatic increase in heart rate of 30 beats/min or more with 10 minutes of 
+standing during an active stand or head-up tilt table test in the absence of 
+orthostasis) and referral to specialty practices (eg, cardiology or neurology) 
+for autonomic testing should be considered in patients with hEDS/HSDs and 
+refractory GI symptoms who also report orthostatic intolerance after exclusion 
+of medication side effects and appropriate lifestyle or behavioral modifications 
+(eg, adequate hydration and physical exercise) have been attempted but is not 
+required for all patients with hEDS/HSDs who report GI symptoms alone. BEST 
+PRACTICE ADVICE 5: In patients presenting to gastroenterology providers, testing 
+for mast cell disorders including MCAS should be considered in patients with 
+hEDS/HSDs and DGBI who also present with episodic symptoms that suggest a more 
+generalized mast cell disorder (eg, visceral and somatic pain, pruritus, 
+flushing, sweating, urticaria, angioedema, wheezing, tachycardia, abdominal 
+cramping, vomiting, nausea, diarrhea, urogynecological and neurological 
+complaints) involving 2 or more physiological systems (eg, cutaneous, GI, 
+cardiac, respiratory, and neuropsychiatric), but current data do not support the 
+use of these tests for routine evaluation of GI symptoms in all patients with 
+hEDS/HSDs without clinical or laboratory evidence of a primary or secondary mast 
+cell disorder. BEST PRACTICE ADVICE 6: If MCAS is suspected, diagnostic testing 
+with serum tryptase levels collected at baseline and 1-4 hours following symptom 
+flares may be considered by the gastroenterologist; increases of 20% above 
+baseline plus 2 ng/mL are necessary to demonstrate evidence of mast cell 
+activation. BEST PRACTICE ADVICE 7: If a diagnosis of MCAS is supported through 
+clinical and/or laboratory features, patients should be referred to an allergy 
+specialist or mast cell disease research center where additional testing (eg, 
+urinary N-methylhistamine, leukotriene E4, 11β-prostaglandin F2) may be 
+performed. BEST PRACTICE ADVICE 8: Diagnostic evaluation of GI symptoms 
+consistent with DGBI in patients with hEDS/HSDs and comorbid POTS and/or MCAS 
+should follow a similar approach to the evaluation of DGBI as in the general 
+population including the use of a positive symptom-based diagnostic strategy and 
+limited noninvasive testing. BEST PRACTICE ADVICE 9: Testing for celiac disease 
+may be considered earlier in the diagnostic evaluation of patients with 
+hEDS/HSDs who report a variety of GI symptoms and not only limited to those with 
+diarrhea. There is insufficient research to support routine testing for 
+disaccharidase deficiencies or other diet-mediated mechanisms as causes of GI 
+symptoms in hEDS/HSDs. BEST PRACTICE ADVICE 10: Diagnostic testing for 
+functional defecation disorders with anorectal manometry, balloon expulsion 
+test, or defecography should be considered in patients with hEDS/HSDs and lower 
+GI symptoms such as incomplete evacuation given the high prevalence of pelvic 
+floor dysfunction, especially rectal hyposensitivity, in this population. BEST 
+PRACTICE ADVICE 11: In patients with hEDS/HSDs and comorbid POTS who report 
+chronic upper GI symptoms, timely diagnostic testing of gastric motor functions 
+(eg, measurement of gastric emptying and/or accommodation) should be considered 
+after appropriate exclusion of anatomical and structural diseases, as abnormal 
+gastric emptying may be more common than in the general population. BEST 
+PRACTICE ADVICE 12: Medical management of GI symptoms in hEDS/HSDs and POTS/MCAS 
+should focus on treating the most prominent GI symptoms and abnormal GI function 
+test results. In addition to general DGBIs and GI motility disorder treatment, 
+management should also include treating any symptoms attributable to POTS and/or 
+MCAS. BEST PRACTICE ADVICE 13: Treatment of POTS may include increasing fluid 
+and salt intake, exercise training, and use of compression garments. Special 
+pharmacological treatments for volume expansion, heart rate control, and 
+vasoconstriction with integrated care from multiple specialties (eg, cardiology, 
+neurology) should be considered in patients who do not respond to conservative 
+lifestyle measures. BEST PRACTICE ADVICE 14: When MCAS is suspected, patients 
+can benefit from treatment with histamine receptor antagonists and/or mast cell 
+stabilizers, in addition to avoiding triggers such as certain foods, alcohol, 
+strong smells, temperature changes, mechanical stimuli (eg, friction), emotional 
+distress (eg, pollen, mold), or specific medications (eg, opioids, nonsteroidal 
+anti-inflammatory agents, iodinated contrast). BEST PRACTICE ADVICE 15: Besides 
+general nutritional support, special diets including a gastroparesis diet (ie, 
+small particle diet) and various elimination diets (eg, low fermentable 
+carbohydrates, gluten- or dairy-free, low-histamine diets) can be considered for 
+improving GI symptoms. Dietary interventions should be delivered with 
+appropriate nutritional counseling or guidance to avoid the pitfalls of 
+restrictive eating. BEST PRACTICE ADVICE 16: Management of chronic GI symptoms 
+in patients with hEDS/HSDs who do not exhibit symptoms consistent with POTS or 
+MCAS should align with existing approaches to management of DGBI and GI motility 
+disorders in the general population, including integrated multidisciplinary care 
+involving multiple specialties, where appropriate (eg, cardiology, rheumatology, 
+dietician, psychology).
+
+Copyright © 2025. Published by Elsevier Inc.
+
+DOI: 10.1016/j.cgh.2025.02.015
+PMID: 40387691
+
+
+2. Crit Rev Food Sci Nutr. 2024;64(17):5793-5817. doi: 
+10.1080/10408398.2022.2158451. Epub 2022 Dec 20.
+
+Early life gut microbiota: Consequences for health and opportunities for 
+prevention.
+
+Wang S(1)(2), Cui J(3), Jiang S(4)(5), Zheng C(4)(5), Zhao J(1)(2), Zhang 
+H(3)(6), Zhai Q(1)(2).
+
+Author information:
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University, 
+Wuxi, Jiangsu, China.
+(2)School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu, 
+China.
+(3)Wuxi School of Medicine, Jiangnan University, Wuxi, China.
+(4)Nutrition and Metabolism Research Division, Innovation Center, Heilongjiang 
+Feihe Dairy Co., Ltd, Beijing, China.
+(5)PKUHSC-China Feihe Joint Research Institute of Nutrition and Healthy Lifespan 
+Development, Beijing, China.
+(6)Department of Child Health Care, Wuxi Maternity and Child Health Care 
+Hospital, Wuxi, Jiangsu, China.
+
+The gut microbiota influences many aspects of the host, including immune system 
+maturation, nutrient absorption and metabolism, and protection from pathogens. 
+Increasing evidences from cohort and animal studies indicate that changes in the 
+gut microbiota early in life increases the risk of developing specific diseases 
+early and later in life. Therefore, it is becoming increasingly important to 
+identify specific disease prevention or therapeutic solutions targeting the gut 
+microbiota, especially during infancy, which is the window of the human gut 
+microbiota establishment process. In this review, we provide an overview of 
+current knowledge concerning the relationship between disturbances in the gut 
+microbiota early in life and health consequences later in life (e.g., 
+necrotizing enterocolitis, celiac disease, asthma, allergies, autism spectrum 
+disorders, overweight/obesity, diabetes and growth retardation), with a focus on 
+changes in the gut microbiota prior to disease onset. In addition, we summarize 
+and discuss potential microbiota-based interventions early in life (e.g., diet 
+adjustments, probiotics, prebiotics, fecal microbiota transplantation, 
+environmental changes) to promote health or prevent the development of specific 
+diseases. This knowledge should aid the understanding of early life microbiology 
+and inform the development of prediction and prevention measures for short- and 
+long-term health disorders based on the gut microbiota.
+
+DOI: 10.1080/10408398.2022.2158451
+PMID: 36537331 [Indexed for MEDLINE]
+
+
+3. Neuromuscul Disord. 2022 Dec;32(11-12):903-907. doi:
+10.1016/j.nmd.2022.06.007.  Epub 2022 Jun 26.
+
+Novel association of gluten sensitivity with immune-mediated neuromuscular 
+syndrome in a dog.
+
+Kolb N(1), Alf V(1), Cappello R(2), Matiasek K(1), Rosati M(3).
+
+Author information:
+(1)Section of Clinical and Comparative Neuropathology, Centre for Clinical 
+Veterinary Medicine, Ludwig-Maximilians Universität München, Munich, Germany.
+(2)North Downs Specialist Referrals, The Brewerstreet Dairy Business Park, 
+Bletchingley, United Kingdom.
+(3)Section of Clinical and Comparative Neuropathology, Centre for Clinical 
+Veterinary Medicine, Ludwig-Maximilians Universität München, Munich, Germany. 
+Electronic address: marco.rosati@outlook.de.
+
+Gluten-related disorders in humans comprise different entities, including 
+coeliac disease. Patients typically have measurable titers of anti-gliadin IgG 
+or IgA (AGAs) and anti-transglutaminase-2 IgA (TG2). In addition to intestinal 
+symptoms, human patients often show various neurological complications. In dogs, 
+the neurological manifestation is rarely reported. Here we describe the muscle 
+and nerve biopsies of an 11-year-old, male Border Terrier presenting with lower 
+motor neuron signs submitted for histological examination. Examination of the 
+biopsies showed an oligofocal lymphohistiocytic and plasmocytic myositis and a 
+diffuse neuropathy of mixed nodo-paranodal and demyelinating type. Suspecting a 
+neuromuscular form of breed-related gluten hypersensitivity, measurements of 
+AGAs and TG2 antibodies were performed. Both titers ranged above control values. 
+Hence, a gluten-related neuromyopathy was diagnosed. A gluten-free diet was 
+prescribed and a complete disappearance of clinical signs was observed. 
+Gluten-related disorders should be considered as a differential diagnosis in 
+dogs with intestinal and neuromuscular signs.
+
+Copyright © 2022. Published by Elsevier B.V.
+
+DOI: 10.1016/j.nmd.2022.06.007
+PMID: 36418199 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no conflict of interest.
+
+
+4. J Pediatr Gastroenterol Nutr. 2019 Aug;69(2):e43-e48. doi: 
+10.1097/MPG.0000000000002343.
+
+Pediatric Celiac Disease and Eosinophilic Esophagitis: Outcome of Dietary 
+Therapy.
+
+Patton T(1), Chugh A(2), Padhye L(3), DeGeeter C(4), Guandalini S(1).
+
+Author information:
+(1)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Comer 
+Children's Hospital, University of Chicago Medical Center, Chicago, IL.
+(2)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Medical 
+College of Wisconsin, Milwaukee, WI.
+(3)Division of Allergy and Immunology, Rush University Medical Center, Chicago, 
+IL.
+(4)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Stead 
+Family Children's Hospital, University of Iowa, Iowa City, IA.
+
+OBJECTIVE: The coexistence of celiac disease (CeD) and eosinophilic esophagitis 
+(EoE) in pediatric patients has been increasingly recognized. In the current 
+study, we have aimed to assess the outcomes of therapeutic dietary interventions 
+in a cohort of pediatric patients with CeD and EoE.
+METHODS: Pediatric patient records obtained from the University of Chicago 
+Celiac Center Database from August 2008 to July 2013 were reviewed. Information 
+was collected on patients with concomitant CeD and EoE regarding age, sex, dates 
+of diagnoses, presenting symptoms, length of symptoms before diagnosis, familial 
+and personal atopic history, dietary therapy, and esophageal histologic response 
+to dietary therapy.
+RESULTS: A total of 350 records of patients with CeD were reviewed. Twenty-two 
+(6.3%) had a confirmed diagnosis of CeD and EoE, 17 had repeat biopsies. Four of 
+17 (23.5%) had resolution of esophageal eosinophilia on an exclusive gluten-free 
+diet, 10 of 17 (59%) required additional eliminations to show histologic 
+resolution, 1 of 17 (6%) had not reached histological remission, and 2 of 17 
+(12%) were lost to follow-up. Success rates of single food reintroductions were: 
+soy 5 of 5 (100%), eggs 3 of 5 (60%), dairy 3 of 7 (43%), nuts 2 of 4 (50%), and 
+fish 2 of 4 (50%).
+CONCLUSIONS: To our knowledge, this is the largest pediatric study to assess the 
+histologic outcome of EoE-associated esophageal eosinophilia in response to 
+dietary management of pediatric patients with concomitant CeD and EoE. We 
+demonstrate that soy is well tolerated in this cohort, and suggest that 
+reintroducing this food first, or trialing a soy-inclusive elimination diet is a 
+viable strategy.
+
+DOI: 10.1097/MPG.0000000000002343
+PMID: 30921260 [Indexed for MEDLINE]
+
+
+5. Nutr Diet. 2019 Jul;76(3):305-312. doi: 10.1111/1747-0080.12521. Epub 2019 Mar
+ 14.
+
+Thinking about going wheat-free? Evidence of nutritional inadequacies in the 
+dietary practices of wheat avoiders.
+
+Golley S(1), Baird D(1), Hendrie GA(1), Mohr P(2).
+
+Author information:
+(1)CSIRO Health and Biosecurity, Adelaide, South Australia, Australia.
+(2)School of Psychology, Faculty of Health Sciences, University of Adelaide, 
+Adelaide, South Australia, Australia.
+
+AIM: To assess dietary intake and nutritional adequacy amongst self-identified 
+symptomatic wheat-avoiders.
+METHODS: Thirty-four self-identified symptomatic avoiders of wheat-based 
+products without a diagnosis of coeliac disease or wheat allergy were recruited 
+to participate in a dietary assessment study. Dietary intake was assessed via a 
+three-day weighed food record. Participants were aged 33 to 83 years, were 
+predominantly women (n = 30) and had been avoiding wheat for a mean of six 
+years. Nutrient intakes were compared with Nutrient Reference Values. Food group 
+intakes were assessed and consumption of wheat-containing and wheat-free 
+cereal-based foods described.
+RESULTS: Inadequate intakes of key protective nutrients such as fibre and 
+calcium were common; many participants reported avoiding dairy as well as wheat. 
+Intakes of total and saturated fat exceeded recommendations. Although 85% of the 
+sample reported avoiding all wheat products, at least one third of cereal 
+products and dishes consumed in this group, comprising mostly discretionary-type 
+foods, were wheat based.
+CONCLUSIONS: Dietary intake patterns and resulting nutrient imbalances in 
+individuals restricting or eliminating wheat to manage symptoms are cause for 
+concern. The situation is likely exacerbated by the tendency for many wheat 
+avoiders to report also avoiding other foods, especially dairy products. A 
+bi-disciplinary approach from medical practitioners and dietitians to 
+individuals experiencing unexplained gastro-intestinal symptoms and strategies 
+to support informed food choice is needed to combat longer-term health 
+consequences of a diet with this nutritional profile.
+
+© 2019 Dietitians Association of Australia.
+
+DOI: 10.1111/1747-0080.12521
+PMID: 30873744 [Indexed for MEDLINE]
+
+
+6. Pediatr Allergy Immunol Pulmonol. 2018 Sep 1;31(3):158-165. doi: 
+10.1089/ped.2018.0888. Epub 2018 Sep 17.
+
+Allergic Diseases and Immune-Mediated Food Disorders in Pediatric Acute-Onset 
+Neuropsychiatric Syndrome.
+
+Rosa JS(1)(2), Hernandez JD(1)(2), Sherr JA(1)(2), Smith BM(3)(4), Brown KD(2), 
+Farhadian B(2), Mahony T(2), McGhee SA(1), Lewis DB(1)(2), Thienemann M(2), 
+Frankovich JD(1)(2).
+
+Author information:
+(1)Division of Immunology, Allergy and Rheumatology, Department of Pediatrics, 
+Stanford University School of Medicine, Stanford, California.
+(2)PANS Clinic and Research Program, Stanford Children's Health, Palo Alto, 
+California.
+(3)Mary Ann and J. Milburn Smith Child Health Research Program, Department of 
+Pediatrics, Northwestern University Feinberg School of Medicine and Stanley 
+Manne Children's Research Institute, Ann and Robert H. Lurie Children's Hospital 
+of Chicago, Chicago, Illinois.
+(4)Center of Innovation for Complex Chronic Healthcare, Hines Veterans Affairs 
+Hospital, Hines, Illinois.
+
+Background: The prevalence and impact of allergic and immune-mediated food 
+disorders in pediatric acute-onset neuropsychiatric syndrome (PANS) are mostly 
+unknown. Objective: We sought to explore the prevalence of atopic dermatitis 
+(AD), asthma, allergic rhinitis (AR), IgE-mediated food allergies (FAs), and 
+other immune-mediated food disorders requiring food avoidance in patients with 
+PANS. In addition, to further understand the extent of food restriction in this 
+population, we investigated the empiric use of dietary measures to improve PANS 
+symptoms. Methods: Pediatric patients in a PANS Clinic and Research Program were 
+given surveys regarding their caregiver burdens, allergic and food-related 
+medical history, and whether food elimination resulted in perception of 
+improvement of PANS symptoms. A review of health records was conducted to 
+confirm that all responses in the survey were concordant with documentation of 
+each patient's medical chart. Results: Sixty-nine (ages 4-20 years) of 80 
+subjects who fulfilled PANS criteria completed the surveys. Thirteen (18.8%) had 
+AD, 11 (15.9%) asthma, 33 (47.8%) AR, 11 (15.9%) FA, 1 (1.4%) eosinophilic 
+gastrointestinal disorders, 1 (1.4%) food protein-induced enterocolitis 
+syndrome, 3 (4.3%) milk protein-induced proctocolitis syndrome, and 3 (4.3%) 
+celiac disease. Thirty subjects (43.5%) avoided foods due to PANS; elimination 
+of gluten and dairy was most common and was associated with perceived 
+improvement of PANS symptoms (by parents). This perceived improvement was not 
+confirmed with objective data. Conclusions: The prevalence of allergic and 
+immune-mediated food disorders in PANS is similar to the general population as 
+reported in the literature, with the exception of AR that appears to be more 
+prevalent in our PANS cohort. More research will be required to establish 
+whether diet or allergies influence PANS symptoms.
+
+DOI: 10.1089/ped.2018.0888
+PMCID: PMC6154445
+PMID: 30283713
+
+Conflict of interest statement: No competing financial interests exist.
+
+
+7. Gac Med Mex. 2016 Sep;152 Suppl 1:74-83.
+
+[Gastrointestinal and hepatic diseases].
+
+[Article in Spanish]
+
+Moctezuma-Velázquez C(1), Aguirre-Valadez J(1).
+
+Author information:
+(1)Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Ciudad 
+de México, México.
+
+Diet is considered an important triggering factor for gastrointestinal symptoms 
+whose physiopathology includes not only measurable, inflammatory reactions, but 
+also functional disorders, where no organic effects may be measured or 
+demonstrated. Moreover, the prevalence of the perceived intolerance to certain 
+foods ranges from 20-25% (within the general population) to 50-70% in diseases 
+like irritable bowel syndrome. This intolerance has been observed particularly 
+after the consumption of milk and dairy products, which are frequently 
+considered as causative of gastrointestinal symptoms, thus limiting their 
+ingestion. However, this behavior reduces the dietary sources of calcium and 
+consequently may lead to malnutrition and bone decalcification, amongst other 
+complications. The true dairy intolerance (intestinal lactase deficiency) 
+explains most of the symptoms ensuing their consumption, but the frequency of 
+such alteration on the different gastrointestinal diseases has not been 
+determined. This review focuses on the most frequent gastrointestinal diseases 
+and the existing evidence regarding the alterations and symptoms related to the 
+consumption of milk or dairy products.
+
+PMID: 27603892 [Indexed for MEDLINE]
+
+
+8. Clin Gastroenterol Hepatol. 2017 Jan;15(1):63-68.e2. doi: 
+10.1016/j.cgh.2016.08.017. Epub 2016 Aug 21.
+
+Alterations in Diets of Patients With Nonceliac Gluten Sensitivity Compared With 
+Healthy Individuals.
+
+Zingone F(1), Bartalini C(1), Siniscalchi M(1), Ruotolo M(1), Bucci C(1), Morra 
+I(1), Iovino P(1), Ciacci C(2).
+
+Author information:
+(1)Celiac Center at Gastrointestinal Unit, AOU S. Giovanni di Dio e Ruggi 
+d'Aragona, University of Salerno, Salerno, Italy.
+(2)Celiac Center at Gastrointestinal Unit, AOU S. Giovanni di Dio e Ruggi 
+d'Aragona, University of Salerno, Salerno, Italy. Electronic address: 
+cciacci@unisa.it.
+
+BACKGROUND & AIMS: There is evidence that food components beyond gluten cause 
+symptoms in patients with gluten sensitivity without celiac disease (nonceliac 
+gluten sensitivity [NCGS]). We investigated the diets and nutritional 
+characteristics of patients with NCGS.
+METHODS: We performed a prospective observational study of 29 patients with NCGS 
+seen at the outpatient clinic for celiac disease and other food intolerances of 
+the University of Salerno in Italy from September 2015 through April 2016. Our 
+study also included 37 control subjects. An experienced dietitian administered a 
+validated food frequency questionnaire (from the European Prospective 
+Investigation into Cancer and Nutrition) to collect information on amounts of 
+common foods consumed. Patients and control subjects also completed the Eating 
+Attitudes Test for diet-related disorders. Patients with NCGS completed the 
+Minnesota Multiphasic Personality Inventory 2-I questionnaire. Differences in 
+frequencies between patients and control subjects were calculated using 
+chi-square test, whereas differences between continuous variables were 
+calculated using Student t test. All tests were 2-tailed with significance level 
+set at P < .05.
+RESULTS: Comparing the mean value of food daily eaten, we found that patients 
+with NCGS ate smaller amounts of bread, rice, pasta, and cheese than control 
+subjects. The patients ingested lower mean amounts of carbohydrates (P < .001), 
+proteins (P = .001), fiber (P = .002), and polyunsaturated fatty acids (P = 
+.01). More patients with NCGS than control subjects reported avoiding fruit, 
+vegetables, milk, and dairy products, as well as snacks and mixed spices that 
+are traditionally considered unsafe for people with gastrointestinal symptoms. 
+Seven patients and 3 control subjects with scores ≥20 on the Eating Attitudes 
+Test were invited for a psychological consultation; it did not confirm the 
+presence of altered eating behaviors. Patients with NCGS had scores >65 from the 
+Minnesota Multiphasic Personality Inventory, indicating a high level of concern 
+for their health.
+CONCLUSIONS: In an observational study, we found that patients with NCGS eat 
+different foods than healthy individuals; patients consume lower levels of 
+proteins, carbohydrates, fiber, and polyunsaturated fatty acids. Their diets 
+should be routinely analyzed and possibly corrected to avoid nutritional 
+deficiencies.
+
+Copyright © 2017 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cgh.2016.08.017
+PMID: 27552857 [Indexed for MEDLINE]
+
+
+9. Asia Pac J Clin Nutr. 2015;24 Suppl 1:S9-13. doi: 10.6133/apjcn.2015.24.s1.02.
+
+Lactose intolerance.
+
+Vandenplas Y(1).
+
+Author information:
+(1)Department of Pediatric Gastroenterology, Universitair Ziekenhuis Brussel, 
+Brussels, Belgium. Email: yvan.vandenplas@uzbrussel.be.
+
+Lactose is the main carbohydrate in infant feeding, but its impact decreases as 
+the child gets older and consumes less milk and dairy products. Congenital 
+lactose intolerance is a very rare condition. However, lactase activity may be 
+low and need to mature during the first weeks of life in many infants. However, 
+the evidence that unabsorbed lactose is causing infantile crying and colic is 
+contradictory. Unabsorbed lactose has a bifidogenic effect and improves calcium 
+absorption. Lactose malabsorption may occur secondary and thus temporally to 
+other etiologies such as infectious gastroenteritis, cow's milk allergy and 
+celiac disease. One the cause is treated, lactase activity will gradually return 
+to normal. The vast majority of Asian children will develop late onset 
+congenital lactase deficiency. However, this entity only exceptionally causes 
+symptoms before the age of 4-5 years. Symptoms are abdominal cramps, flatulence 
+and watery, acid stools, and decrease the quality of life but lactose 
+intolerance is not associated with "true disease". The diagnosis is made on 
+clinical grounds and confirmed with a lactose breath test, if needed. These 
+patients need to have a lifetime long reduced lactose intake to improve their 
+quality of life.
+
+Publisher: 乳糖是嬰兒主要的醣類來源，它的影響會隨著兒童年紀增長與牛奶及乳製品攝 取降低而遞減。先天性乳糖不耐症是一種很罕見的情形。許多嬰兒出生的第一 
+週，其乳糖酶活性可能較低，並需要時間逐漸成熟。然而，未被吸收的乳糖是 否是引起嬰兒哭鬧及絞痛的證據仍是矛盾的。未被吸收的乳糖可作為雙岐桿菌 
+生長之用，及促進鈣吸收。乳糖吸收不良也可能是次發性的，起因於其他暫時 的病因，如腸胃道感染、對牛奶過敏或乳糜瀉。一旦疾病被治癒，乳糖酶活性 
+會逐漸回復正常。亞洲兒童絕大多數為晚發型先天性乳糖酶缺乏症。但是，只 有少部分在4-5 歲前就有症狀。症狀為腹部絞痛、脹氣、水便或酸便及降低生 
+活品質，但乳糖不耐症與真正的疾病並無相關。如果需要，可經臨床表現及乳 糖呼吸測試確診。這些病人需要終身降低乳糖攝取，以改善他們的生活品質。.
+
+DOI: 10.6133/apjcn.2015.24.s1.02
+PMID: 26715083 [Indexed for MEDLINE]
+
+
+10. Pediatr Res. 2015 Jan;77(1-2):252-5. doi: 10.1038/pr.2014.159. Epub 2014 Oct
+13.
+
+Effects of gluten-free, dairy-free diet on childhood nephrotic syndrome and gut 
+microbiota.
+
+Uy N(1), Graf L(1), Lemley KV(2), Kaskel F(1).
+
+Author information:
+(1)Division of Pediatric Nephrology, Children's Hospital at Montefiore, Albert 
+Einstein College of Medicine, Bronx, New York.
+(2)Division of Pediatric Nephrology, Children's Hospital Los Angeles, Keck 
+School of Medicine, University of Southern California, Los Angeles, California.
+
+Emerging evidence suggests an association between food sensitivity and gut 
+microbiota in children with nephrotic syndrome. Diminished proteinuria resulted 
+from eliminating cow's milk and the use of an oligoantigenic diet which excluded 
+gluten, especially in patients with immune-related conditions, i.e., celiac 
+disease and nephrotic syndrome. The mechanisms underlying the association of 
+diet, gut microbiota, and dysregulation of the immune system are unknown. Gut 
+microbiota is influenced by a number of factors including diet composition and 
+other environmental epigenetic exposures. The imbalance in gut microbiota may be 
+ameliorated by gluten-free and dairy-free diets. Gluten-free diet increased the 
+number of unhealthy bacteria while reducing bacterial-induced cytokine 
+production of IL-10. Thus, gluten-free diet may influence the composition and 
+immune function of gut microbiota and should be considered a possible 
+environmental factor associated with immune-related disease, including nephrotic 
+syndrome. Furthermore, the imbalance of gut microbiota may be related to the 
+development of cow's milk protein allergy. Investigations are needed to fill the 
+gaps in our knowledge concerning the associations between the gut microbiome, 
+environmental exposures, epigenetics, racial influences, and the propensity for 
+immune dysregulation with its inherent risk to the developing individual.
+
+DOI: 10.1038/pr.2014.159
+PMCID: PMC4827614
+PMID: 25310757 [Indexed for MEDLINE]
+
+Conflict of interest statement: There are no financial ties or conflicts of 
+interest to disclose.

@@ -1,0 +1,516 @@
+1. FASEB J. 2025 Feb 28;39(4):e70412. doi: 10.1096/fj.202402531R.
+
+Fructose induces inflammatory activation in macrophages and microglia through 
+the nutrient-sensing ghrelin receptor.
+
+Shen Z(1), Liu Z(1), Wang H(1), Landrock D(1), Noh JY(1), Zang QS(2), Lee CH(3), 
+Farnell YZ(4), Chen Z(5), Sun Y(1)(6).
+
+Author information:
+(1)Department of Nutrition, Texas A&M University, College Station, Texas, USA.
+(2)Department of Surgery, Loyola University Chicago Health Science Campus, 
+Maywood, Illinois, USA.
+(3)Genomics Research Center, Academia Sinica, Taipei, Taiwan.
+(4)Department of Poultry Science, Texas A&M University, College Station, Texas, 
+USA.
+(5)Department of Biochemistry and Molecular Biology, The University of Texas 
+Health Science Center at Houston, Houston, Texas, USA.
+(6)Department of Biochemistry & Biophysics, Texas A&M University, College 
+Station, Texas, USA.
+
+High fructose corn syrup (HFCS) is a commonly used sweetener in soft drinks and 
+processed foods, and HFCS exacerbates inflammation when consumed in excess. 
+Fructose, a primary component of HFCS; however, it is unclear whether fructose 
+directly activates inflammatory signaling. Growth hormone secretagogue receptor 
+(GHSR) is a receptor of the nutrient-sensing hormone ghrelin. We previously 
+reported that GHSR ablation mitigates HFCS-induced inflammation in adipose 
+tissue and liver, shifting macrophages toward an anti-inflammatory spectrum. 
+Since inflammation is primarily governed by innate immune cells, such as 
+macrophages in the peripheral tissues and microglia in the brain, this study 
+aims to investigate whether GHSR autonomously regulates pro-inflammatory 
+activation in macrophages and microglia upon fructose exposure. GHSR deletion 
+mutants of RAW 264.7 macrophages and the immortalized microglial cell line (IMG) 
+were generated using CRISPR-Cas9 gene editing. After treating the cells with 
+equimolar concentrations of fructose or glucose for 24 h, fructose increased 
+mRNA and protein expression of GHSR and pro-inflammatory cytokines (Il1β, Il6, 
+and Tnfα) in both macrophages and microglia, suggesting that fructose activates 
+Ghsr and induces inflammation directly in macrophages and microglia. Remarkably, 
+GHSR deletion mutants (Ghsrmutant) of macrophages and microglia exhibited 
+reduced inflammatory responses to fructose, indicating that GHSR mediates 
+fructose-induced inflammation. Furthermore, we found that GHSR regulates 
+fructose transport and fructose metabolism and mediates fructose-induced 
+inflammatory activation through CREB-AKT-NF-κB and p38 MAPK signaling pathways. 
+Our results underscore that fructose triggers inflammation, and reducing HFCS 
+consumption would reduce disease risk. Moreover, these findings reveal for the 
+first time that the nutrient-sensing receptor GHSR plays a crucial role in 
+fructose-mediated inflammatory activation, suggesting that targeting GHSR may be 
+a promising therapeutic approach to combat the immunotoxicity of foods that 
+contain fructose.
+
+© 2025 The Author(s). The FASEB Journal published by Wiley Periodicals LLC on 
+behalf of Federation of American Societies for Experimental Biology.
+
+DOI: 10.1096/fj.202402531R
+PMCID: PMC11846021
+PMID: 39985299 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. bioRxiv [Preprint]. 2025 Jan 14:2024.08.30.610436. doi: 
+10.1101/2024.08.30.610436.
+
+Cis-Regulatory Element and Transcription Factor Circuitry Required for Cell-Type 
+Specific Expression of FOXP3.
+
+Umhoefer JM(1)(2)(3), Arce MM(1)(2)(3), Whalen S(4), Dajani R(1), Goudy 
+L(1)(2)(3), Kasinathan S(1)(5), Belk JA(6), Zhang W(7)(8), Zhou R(1)(7), 
+Subramanya S(1), Hernandez R(1), Tran C(1), Kirthivasan N(1)(3), Freimer 
+JW(1)(2)(9), Mowery CT(1)(2)(3), Nguyen V(1)(2)(10)(11)(12), Ota M(1)(2)(9), 
+Gowen BG(13)(14), Simeonov DR(2)(3), Curie GL(13)(14), Li Z(1)(2), Corn JE(15), 
+Chang HY(6)(16), Gilbert LA(17)(18), Satpathy AT(1)(7)(19), Pollard 
+KS(4)(20)(21)(22), Marson A(1)(2)(13)(19)(20)(23)(24).
+
+Author information:
+(1)Gladstone-UCSF Institute of Genomic Immunology, San Francisco, CA, USA.
+(2)Department of Medicine, University of California, San Francisco, CA, USA.
+(3)Biomedical Sciences Graduate Program, University of California, San 
+Francisco, CA, USA.
+(4)Gladstone Institute of Data Science and Biotechnology, San Francisco, CA, 
+USA.
+(5)Division of Allergy, Immunology, and Rheumatology, Department of Pediatrics, 
+Stanford University School of Medicine, Stanford, CA, USA.
+(6)Center for Personal Dynamic Regulomes, Stanford University School of 
+Medicine, Stanford, CA, USA.
+(7)Department of Pathology, Stanford University School of Medicine, Stanford, 
+CA, USA.
+(8)Tetrad Graduate Program, University of California, San Francisco, CA, USA.
+(9)Department of Genetics, Stanford University, Stanford, CA, USA.
+(10)Diabetes Center, University of California, San Francisco, CA, USA.
+(11)UCSF CoLabs, University of California, San Francisco, CA, USA.
+(12)Department of Surgery, University of California, San Francisco, CA, USA.
+(13)Innovative Genomics Institute, University of California, Berkeley, CA, USA.
+(14)Department of Molecular and Cell Biology, University of California, 
+Berkeley, CA, USA.
+(15)Department of Biology, Institute of Molecular Health Sciences, ETH Zürich, 
+Switzerland.
+(16)Howard Hughes Medical Institute, Stanford University, Stanford, CA, USA.
+(17)Arc Institute, Palo Alto, CA, USA.
+(18)Department of Urology, University of California, San Francisco, CA, USA.
+(19)Parker Institute for Cancer Immunotherapy, San Francisco, CA, USA.
+(20)Institute for Human Genetics, University of California, San Francisco, CA, 
+USA.
+(21)Department of Epidemiology and Biostatistics, University of California, San 
+Francisco, CA, USA.
+(22)Chan Zuckerberg Biohub SF, San Francisco, CA, USA.
+(23)UCSF Helen Diller Family Comprehensive Cancer Center, University of 
+California, San Francisco, CA, USA.
+(24)Department of Microbiology and Immunology, University of California, San 
+Francisco, CA, USA.
+
+FOXP3 is a lineage-defining transcription factor (TF) for immune-suppressive 
+regulatory T cells (Tregs). While mice exclusively express FOXP3 in Tregs, 
+humans also transiently express FOXP3 in stimulated conventional CD4+ T cells 
+(Tconvs). Mechanisms governing these distinct expression patterns remain 
+unknown. Here, we performed CRISPR screens tiling the FOXP3 locus and targeting 
+TFs in human Tregs and Tconvs to discover cis-regulatory elements (CREs) and 
+trans-regulators of FOXP3. Tconv FOXP3 expression depended on a subset of Treg 
+CREs and Tconv-selective positive (TcNS+) and negative (TcNS-) CREs. The CREs 
+are occupied and regulated by TFs we identified as critical regulators of FOXP3. 
+Finally, mutagenesis of murine TcNS- revealed that it is critical for 
+restriction of FOXP3 expression to Tregs. We discover CRE and TF circuitry 
+controlling FOXP3 expression and reveal evolution of mechanisms regulating a 
+gene indispensable to immune homeostasis.
+
+DOI: 10.1101/2024.08.30.610436
+PMCID: PMC11398386
+PMID: 39282425
+
+Conflict of interest statement: A.M. is a cofounder of Site Tx, Arsenal 
+Biosciences, Spotlight Therapeutics and Survey Genomics, serves on the boards of 
+directors at Site Tx, Spotlight Therapeutics and Survey Genomics, is a member of 
+the scientific advisory boards of Site Tx, Arsenal Biosciences, Cellanome, 
+Spotlight Therapeutics, Survey Genomics, NewLimit, Amgen, and Tenaya, owns stock 
+in Arsenal Biosciences, Site Tx, Cellanome, Spotlight Therapeutics, NewLimit, 
+Survey Genomics, Tenaya and Lightcast and has received fees from Site Tx, 
+Arsenal Biosciences, Cellanome, Spotlight Therapeutics, NewLimit, Abbvie, 
+Gilead, Pfizer, 23andMe, PACT Pharma, Juno Therapeutics, Tenaya, Lightcast, 
+Trizell, Vertex, Merck, Amgen, Genentech, GLG, ClearView Healthcare, 
+AlphaSights, Rupert Case Management, Bernstein and ALDA. A.M. is an investor in 
+and informal advisor to Offline Ventures and a client of EPIQ. The Marson 
+laboratory has received research support from the Parker Institute for Cancer 
+Immunotherapy, the Emerson Collective, Arc Institute, Juno Therapeutics, 
+Epinomics, Sanofi, GlaxoSmithKline, Gilead and Anthem and reagents from 
+Genscript and Illumina. C.T.M. is a Bio+Health Venture Fellow at Andreessen 
+Horowitz. J.E.C. is a co-founder and SAB member of Serac Biosciences and an SAB 
+member of Mission Therapeutics, Relation Therapeutics, Hornet Bio, and Kano 
+Therapeutics. The lab of J.E.C. has funded collaborations with Allogene, Cimeio, 
+and Serac. H.Y.C. is a co-founder of Accent Therapeutics, Boundless Bio, 
+Cartography Biosciences, and Orbital Therapeutics, and is an advisor of 10x 
+Genomics and Exai Bio. H.Y.C. was an advisor of Arsenal Bio and Chroma Medicine 
+up to Dec. 15, 2024. H.Y.C. is an employee and stockholder of Amgen as of Dec. 
+16, 2024. J.W.F. was a consultant for NewLimit, is an employee of Genentech, and 
+has equity in Roche. A.T.S. is a founder of Immunai, Cartography Biosciences, 
+Santa Ana Bio, and Prox Biosciences, an advisor to 10x Genomics and Wing Venture 
+Capital, and receives research funding from Astellas. J.M.U., A.M., M.A., L.G, 
+and L.A.G. have filed patents related to this work.
+
+
+3. Recent Pat Inflamm Allergy Drug Discov. 2019;13(2):115-123. doi: 
+10.2174/1872213X13666190621125048.
+
+Ferulic Acid: A Promising Therapeutic Phytochemical and Recent Patents Advances.
+
+Chaudhary A(1), Jaswal VS(1), Choudhary S(2), Sonika(1), Sharma A(3), Beniwal 
+V(1), Tuli HS(1), Sharma S(3).
+
+Author information:
+(1)Department of Biotechnology, Maharishi Markandeshwar (Deemed to be 
+University), Mullana-Ambala-133207, Haryana, India.
+(2)Government Senior School Kanol, Shahpur, Kangra, Himachal Pradesh Board of 
+School Education - 176215, Himachal Pradesh, India.
+(3)Department of Chemistry, Career Point University, Tikker-Kharwarian, 
+Hamirpur, Himachal Pradesh 176041, India.
+
+BACKGROUND: Among the various phenolics metabolites, ferulic acid is considered 
+as the promising mitigating, restorative and antioxidant agent. Ferulic acid is 
+one of the most commonly found natural products in vegetables, for example, 
+tomatoes, sweet corn, and in rice grain. Phytochemicals are utilized in the 
+treatment of human ailments and these are derived from the dietary compounds.
+OBJECTIVE: The present review widely argued the calming restorative capability 
+of ferulic acid alongside the scientific evidences and its proposed mechanism 
+for activity. Furthermore, we provided the main practical points for the use of 
+ferulic acid in oxidative damages during various diseases. Additionally, the 
+relevant patents on ferulic acid with various therapeutic potential has been 
+discussed.
+METHODS: The approach consisted of searching several resources, including 
+theses, technical reports, web-based scientific databases such as publications 
+on PubMed, ScienceDirect, Springer, PROTA, Google Scholar, and other allied 
+databases. Thus, recent patent regarding the role of ferulic acid therapeutic 
+potenitial has been discussed.
+RESULTS: One hundred and twenty references have been cited in the present review 
+article. The cited references were found to be suitable and described the 
+therapeutic application of ferulic acid thoroughly.
+CONCLUSION: Ferulic acids are known to contrarily down-manage an assortment of 
+extracellular and intrcelullular molecular targets related to infection 
+movement. Various patents on ferulic acid based moieties have been accounted for 
+from 2018. The ferulic acids have a wide scope of impacts against different 
+infections like malignant growth, diabetes, cardiovascular and neurodegenerative 
+diseases. The current review deals with the antioxidant property of ferulic acid 
+and the recent patent describes the role of ferulic acid against human diseases.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1872213X13666190621125048
+PMID: 31223096 [Indexed for MEDLINE]
+
+
+4. Br J Nutr. 2018 May;119(10):1157-1167. doi: 10.1017/S0007114518000417. Epub
+2018  Mar 28.
+
+Excess free fructose, high-fructose corn syrup and adult asthma: the Framingham 
+Offspring Cohort.
+
+DeChristopher LR(1), Tucker KL(2).
+
+Author information:
+(1)1Independent Researcher,Eugene, OR 97405,USA.
+(2)2Department of Biomedical and Nutritional Sciences,University of 
+Massachusetts Lowell,Lowell,MA 01854,USA.
+
+There is growing evidence that intakes of high-fructose corn syrup (HFCS), 
+HFCS-sweetened soda, fruit drinks and apple juice - a high-fructose 100 % juice 
+- are associated with asthma, possibly because of the high fructose:glucose 
+ratios and underlying fructose malabsorption, which may contribute to enteral 
+formation of pro-inflammatory advanced glycation end products, which bind 
+receptors that are mediators of asthma. Cox proportional hazards models were 
+used to assess associations between intakes of these beverages and asthma risk, 
+with data from the Framingham Offspring Cohort. Diet soda and orange juice - a 
+100 % juice with a 1:1 fructose:glucose ratio - were included for comparison. 
+Increasing intake of any combination of HFCS-sweetened soda, fruit drinks and 
+apple juice was significantly associated with progressively higher asthma risk, 
+plateauing at 5-7 times/week v. never/seldom, independent of potential 
+confounders (hazard ratio 1·91, P<0·001). About once a day consumers of 
+HFCS-sweetened soda had a 49 % higher risk (P<0·011), moderate apple juice 
+consumers (2-4 times/week) had a 61 % higher risk (P<0·007) and moderate fruit 
+drink consumers had a 58 % higher risk (P<0·009), as compared with never/seldom 
+consumers. There were no associations with diet soda/orange juice. These 
+associations are possibly because of the high fructose:glucose ratios, and 
+fructose malabsorption. Recommendations to reduce consumption may be inadequate 
+to address asthma risk, as associations are evident even with moderate intake of 
+these beverages, including apple juice - a 100 % juice. The juice reductions in 
+the US Special Supplemental Nutrition Program for Women, Infants, and Children 
+in 2009, and the plateauing/decreasing asthma prevalence (2010-2013), 
+particularly among non-Hispanic black children, may be related. Further research 
+regarding the consequences of fructose malabsorption is needed.
+
+DOI: 10.1017/S0007114518000417
+PMID: 29587887 [Indexed for MEDLINE]
+
+
+5. Nutr Diabetes. 2016 Nov 28;6(11):e234. doi: 10.1038/nutd.2016.46.
+
+The link between soda intake and asthma: science points to the high-fructose 
+corn syrup, not the preservatives: a commentary.
+
+DeChristopher LR(1), Uribarri J(2), Tucker KL(3).
+
+Author information:
+(1)NY Medical College, Valhalla, NY, USA.
+(2)Department of Medicine, the Icahn School of Medicine at Mount Sinai, New 
+York, USA.
+(3)Department of Clinical Laboratory and Nutritional Sciences, University of 
+Massachusetts, Lowell, MA, USA.
+
+Recent research conducted by investigators at the National Center for Chronic 
+Disease Prevention and Health Promotion-a division of the US Centers for Disease 
+Control and Prevention (CDC)-found that 'Regular-Soda Intake, Independent of 
+Weight Status, is Associated with Asthma among US High School Students.' On the 
+basis of their review of prior studies, researchers hypothesized that the 
+association may be due to high intake of sodium benzoate, a commonly used 
+preservative in US soft drinks. But a closer look at these prior research 
+studies suggests that there is no strong scientific evidence that the 
+preservatives in US soft drinks are associated with asthma. Importantly, other 
+recent research suggests that the association may be with the unpaired (excess 
+free) fructose in high fructose corn syrup.
+
+DOI: 10.1038/nutd.2016.46
+PMCID: PMC5133361
+PMID: 27892935 [Indexed for MEDLINE]
+
+
+6. Front Plant Sci. 2014 Sep 8;5:440. doi: 10.3389/fpls.2014.00440. eCollection 
+2014.
+
+Flavone-rich maize: an opportunity to improve the nutritional value of an 
+important commodity crop.
+
+Casas MI(1), Duarte S(2), Doseff AI(2), Grotewold E(3).
+
+Author information:
+(1)Center for Applied Plant Sciences, The Ohio State University Columbus, OH, 
+USA ; Molecular Cellular and Developmental Biology Graduate Program, The Ohio 
+State University Columbus, OH, USA ; Department of Molecular Genetics, The Ohio 
+State University Columbus, OH, USA.
+(2)Department of Molecular Genetics, The Ohio State University Columbus, OH, USA 
+; Division of Pulmonary, Allergy, Critical Care, and Sleep, Department of 
+Internal Medicine, Heart and Lung Research Institute, The Ohio State University 
+Columbus, OH, USA.
+(3)Center for Applied Plant Sciences, The Ohio State University Columbus, OH, 
+USA ; Department of Molecular Genetics, The Ohio State University Columbus, OH, 
+USA.
+
+Agricultural outputs have resulted in food production continuously expanding. To 
+satisfy the needs of a fast growing human population, higher yields, more 
+efficient food processing, and food esthetic value, new crop varieties with 
+higher caloric intake have and continue to be developed, but which lack many 
+phytochemicals important for plant protection and adequate human nutrition. The 
+increasing incidence of chronic diseases such as obesity, diabetes and 
+cardiovascular diseases, combined with social disparity worldwide prompted the 
+interest in developing enhanced crops that can simultaneously address the two 
+sides of the current malnutrition sword, increasing yield while providing added 
+nutritional value. Flavones, phytochemicals associated with the beneficial 
+effects of the Mediterranean diet, have potent anti-inflammatory and 
+anti-carcinogenic activities. However, many Mediterranean diet-associated 
+vegetables are inaccessible, or lowly consumed, in many parts of the world. 
+Maize is the most widely grown cereal crop, yet most lines used for hybrid maize 
+production lack flavones. As a first step toward a sustainable strategy to 
+increasing the nutritional value of maize-based diets, we investigated the 
+accumulation and chemical properties of flavones in maize seeds of defined 
+genotypes. We show that the pericarps of the P1-rr genotype accumulate flavones 
+at levels comparable to those present in some flavone-rich vegetables, and are 
+mostly present in their C- and O-glycosylated forms. Some of these glycosides 
+can be readily converted into the corresponding more active health beneficial 
+aglycones during food processing. Our results provide evidence that 
+nutritionally beneficial flavones could be re-introduced into elite lines to 
+increase the dietary benefits of maize.
+
+DOI: 10.3389/fpls.2014.00440
+PMCID: PMC4157551
+PMID: 25250036
+
+
+7. Allergol Immunopathol (Madr). 2015 Mar-Apr;43(2):157-61. doi: 
+10.1016/j.aller.2013.11.009. Epub 2014 Aug 2.
+
+Prevalence of allergic diseases and/or allergic sensitisation in children and 
+adolescents with type 1 diabetes mellitus.
+
+Villa-Nova H(1), Spinola-Castro AM(2), Garcia FE(2), Solé D(3).
+
+Author information:
+(1)Division of Allergy, Clinical Immunology and Rheumatology, Department of 
+Pediatrics, Federal University of São Paulo-Escola Paulista de Medicina 
+(UNIFESP-EPM), São Paulo, SP, Brazil.
+(2)Division of Endocrinology, Department of Pediatrics, Federal University of 
+São Paulo-Escola Paulista de Medicina (UNIFESP-EPM), São Paulo, SP, Brazil.
+(3)Division of Allergy, Clinical Immunology and Rheumatology, Department of 
+Pediatrics, Federal University of São Paulo-Escola Paulista de Medicina 
+(UNIFESP-EPM), São Paulo, SP, Brazil. Electronic address: 
+dirceu.sole@unifesp.br.
+
+BACKGROUND: The prevalence of atopic diseases in children with type 1 diabetes 
+mellitus (DM1) has been reported as lower. The aim of this study was to evaluate 
+the prevalence of allergic diseases and allergic sensitisation in Brazilian 
+children and adolescents with DM1.
+PATIENTS AND METHODS: 96 patients with DM1 (aged 4-18 years, 45 boys) followed 
+for at least one year were evaluated for allergic disease through a detailed 
+allergological anamnesis and skin prick tests (SPT) to inhalant allergens 
+(Dermatophagoides pteronyssinus, D. farinae, Blomia tropicalis, Blattella 
+germanica, Periplaneta americana, dog epithelium, cat epithelium, mix fungi), 
+foods (cow's milk, egg-white, yolk, soy, wheat, corn), and positive (histamine 1 
+mg/ml) and negative (saline) controls. Wheals with a mean diameter of induration 
+equal to or greater than 3mm identified a positive SPT.
+RESULTS: The prevalence values of rhinitis, asthma and atopic eczema (isolated 
+or associated) were 68.0%, 59.1% and 44.4%, respectively. 20.6% of the patients 
+had no allergic disease. 46.8% of the patients had been diagnosed with DM1 for 
+at least four years and there was no relationship between the period of DM1 and 
+the presence of allergic disease, nor of the gender. 48.0% patients were 
+sensitised with predominance of D. pteronyssinus, B. topicalis and D. farinae. 
+The frequency of positive SPT was significantly higher among patients with 
+history of allergic disease (OR=6.98, 95%CI: 2.60-18.74, p<0.001).
+CONCLUSION: The prevalence of allergic diseases and sensitisation in patients 
+with DM1 was higher than usually expected and deserves further investigation to 
+identify possible causes for these findings and to evaluate their importance and 
+influence on the metabolic control.
+
+Copyright © 2013 SEICAP. Published by Elsevier Espana. All rights reserved.
+
+DOI: 10.1016/j.aller.2013.11.009
+PMID: 25092354 [Indexed for MEDLINE]
+
+
+8. Expert Rev Clin Immunol. 2013 Jun;9(6):577-87. doi: 10.1586/eci.13.39.
+
+Improving patient tolerability in immunoglobulin treatment: focus on stabilizer 
+effects.
+
+Sun A(1), Teschner W, Yel L.
+
+Author information:
+(1)Baxter Biosciences, 4501 Colorado Blvd, Los Angeles, CA 90039, USA.
+
+Various types of excipients are added to immunoglobulin preparations to 
+stabilize the product and prevent aggregation and dimer formation. These 
+excipients, which are also called stabilizers or additives, are not inert 
+chemicals and may have clinical implications. This is one reason why 
+immunoglobulin products are not interchangeable. Herein, immunoglobulin 
+preparation, excipient types and the differences among sugar stabilizers and the 
+amino acids, glycine and proline as excipients, are presented. Preclinical 
+studies that unravel the complexities of dimer reduction are summarized. Details 
+of patient considerations with respect to excipient content are outlined 
+focusing on patients with renal insufficiency, diabetes, corn allergy, 
+hereditary fructose intolerance, inborn errors of proline metabolism, DiGeorge 
+Syndrome and neuropsychiatric disorders associated with hyperprolinemia. 
+Excipients are essential components of immunoglobulin preparations and their 
+presence should be a consideration when matching patient needs to product 
+characteristics.
+
+DOI: 10.1586/eci.13.39
+PMID: 23730887 [Indexed for MEDLINE]
+
+
+9. Int J Dermatol. 2007 Jan;46(1):77-9. doi: 10.1111/j.1365-4632.2006.02948.x.
+
+Multiple keratoacanthomas in a young woman: report of a case emphasizing medical 
+management and a review of the spectrum of multiple keratoacanthomas.
+
+Feldman RJ(1), Maize JC.
+
+Author information:
+(1)Department of Dermatology, Medical University of South Carolina, Charleston, 
+South Carolina, USA.
+
+Comment in
+    Int J Dermatol. 2007 Oct;46(10):1105. doi: 10.1111/j.1365-4632.2007.03328.x.
+
+A 27-year-old white woman was referred for consultation with regard to the 
+presence of extensive multiple keratotic lesions. She began to develop these 
+lesions at the age of 9 years, with healing of the lesions resulting in scar 
+formation. A biopsy was performed at the age of 16 years, but the patient was 
+unsure of the results. Since then, she had not had any treatment or biopsies, 
+and stated that she had not suffered from any health problems during the 
+intervening period. She was most concerned about the tumors on her heels and 
+soles, which caused difficulty with ambulation. The family history was negative 
+for skin diseases, including melanoma, nonmelanoma skin cancer, psoriasis, and 
+eczema, and positive for Type II diabetes mellitus. A relative reported that the 
+patient's grandfather had similar lesions, but the patient's parents and 
+siblings were healthy. She was married and had one child, a 9-year-old daughter. 
+Her child had no skin lesions. The patient's only medication was 
+Ortho-Tricyclene birth control pills. She had no known drug allergies. Physical 
+examination revealed the presence of multiple lesions on her body (Fig. 1). Her 
+left superior helix contained a well-demarcated, dome-shaped nodule with a 
+rolled, mildly erythematous border with a central hyperkeratotic plug. A similar 
+lesion was present in the scaphoid fossa of the left ear and smaller lesions 
+were scattered on her face. Numerous lesions were present on the arms and legs 
+bilaterally, with the majority of lesions being located on the anterior lower 
+legs. There were also lesions present on the palms and soles. The lesions ranged 
+in size from 5 mm to 3 cm, the largest being a verrucous exophytic nodule on the 
+anterior aspect of her left leg. Overall, there appeared to be two distinct 
+types of lesion. One type appeared round, oval, and symmetric with a central 
+keratotic plug, similar to that on the ear. The other type was larger, more 
+exophytic, and verrucous, including the lesions on the volar surfaces. Also 
+present were numerous, irregularly shaped atrophic scars where previous lesions 
+had healed spontaneously. There were no oral lesions or lesions on her 
+fingernails or toenails, and her teeth and hair were normal. A biopsy was 
+obtained from an early lesion on the right dorsal forearm. Histology revealed an 
+exo-/endophytic growth having a central crater containing keratinous material 
+(Fig. 2). The crater was surrounded by markedly hyperplastic squamous epithelium 
+with large squamous epithelial cells having abundant glassy cytoplasm. Some 
+cells were dyskeratotic. Within the dermis was a dense, chiefly mononuclear 
+inflammatory infiltrate. A buttress of epidermis surrounded the crater. The 
+clinical and pathologic data were consistent with keratoacanthomas. Initial 
+laboratory screenings revealed elevated triglycerides and total cholesterol, 537 
+mg/dL (normal, < 150 mg/dL) and 225 mg/dL (normal, < 200 mg/dL), respectively, 
+with all other laboratory results within normal limits. In anticipation of 
+starting oral retinoid therapy for her multiple keratoacanthomas, she was 
+referred to her primary care physician for control of hyperlipidemia. After her 
+lipids had been controlled, she was placed on isotretinoin (Accutane) 40 mg/day. 
+There was some interval improvement with regression of some lesions leaving 
+atrophic scars. She was also started on topical application of tazarotene 
+(Tazorac) for all nonresolving lesions. Possible side-effects from the 
+isotretinoin occurred, including dry mouth and eyes. After 8 months of 
+isotretinoin, the patient was switched to acitretin (Soriatane) 25 mg to 
+determine whether it might have a more beneficial effect on the resistant 
+lesions. Many of the larger lesions regressed leaving atrophic scars. The dose 
+of acitretin was subsequently increased to 35 mg because the lesions on her heel 
+and the ball of her foot persisted. Almost all of the lesions resolved, except 
+those on her feet, which are slowly regressing. Currently, the patient is on a 
+regimen of acitretin 25 mg once a day with tazarotene 0.1% gel applied directly 
+to the few residual keratoacanthomas on her feet, which are slowly improving.
+
+DOI: 10.1111/j.1365-4632.2006.02948.x
+PMID: 17214727 [Indexed for MEDLINE]
+
+
+10. Rev Invest Clin. 2005 May-Jun;57(3):457-72.
+
+[Molecular mechanisms of action and health benefits of polyunsaturated fatty 
+acids].
+
+[Article in Spanish]
+
+Rodríguez-Cruz M(1), Tovar AR, del Prado M, Torres N.
+
+Author information:
+(1)Uniddad de Investigación Médica en Nutrición, Centro Médico Nacional Siglo 
+XXI, IMSS.
+
+Essential polyunsaturated fatty acids (PUFAs), linoleic acid n6 (LA) and 
+linolenic acid (ALA) n3 obtained from the diet are precursors of the long-chain 
+polyunsaturated fatty acids (Lc-PUFAs) arachidonic acid (AA) and docosahexaenoic 
+acid (DHA) respectively. Consumption of PUFAs is related with a better 
+neurological and cognitive development in newborns. It has been demonstrated 
+that consumption of n-6 and n-3 PUFAs decreases blood triglycerides by 
+increasing fatty acid oxidation through activation of PPARalpha or by reducing 
+the activation of SREBP-1 inhibiting lipogenesis. Dietary PUFAs activate 
+PPARalpha and PPARgamma increasing lipid oxidation, and decreasing insulin 
+resistance leading in a reduction of hepatic steatosis. Beneficial effects of 
+PUFAs have been observed in humans and in animals models of diabetes, obesity, 
+cancer, and cardiovascular diseases. It is important to promote the consumption 
+of PUFAs. Main food sources of PUFAs n-6 are corn, soy and safflower oil, and 
+for PUFAs n-3 are fish, soy, canola oil and, flaxseed. Finally FAO/WHO 
+recommends an optimal daily intake of n6/n3 of 5-10:1.
+
+PMID: 16187707 [Indexed for MEDLINE]

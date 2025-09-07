@@ -1,0 +1,639 @@
+1. Clin Gastroenterol Hepatol. 2025 May 19:S1542-3565(25)00318-0. doi: 
+10.1016/j.cgh.2025.02.015. Online ahead of print.
+
+Clinical Practice Updates: AGA Clinical Practice Update on GI Manifestations and 
+Autonomic or Immune Dysfunction in Hypermobile Ehlers-Danlos Syndrome: Expert 
+Review.
+
+Aziz Q(1), Harris LA(2), Goodman BP(3), Simrén M(4), Shin A(5).
+
+Author information:
+(1)Blizard Institute, Wingate Institute of Neurogastroenterology, Centre for 
+Neuroscience, Surgery and Trauma, Barts and the London School of Medicine and 
+Dentistry, Queen Mary University, London, United Kingdom.
+(2)Division of Gastroenterology and Hepatology, Mayo Clinic, Scottsdale, 
+Arizona. Electronic address: harris.lucinda@mayo.edu.
+(3)Department of Neurology, Mayo Clinic, Scottsdale, Arizona.
+(4)Department of Molecular and Clinical Medicine, Institute of Medicine, 
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(5)Vatche and Tamar Manoukian Division of Digestive Diseases, University of 
+California, Los Angeles, Los Angeles, California.
+
+DESCRIPTION: The purpose of this Clinical Practice Update Expert Review is to 
+describe key principles in the evaluation and management of patients with 
+disorders of gut-brain interaction (DGBI) and hypermobile Ehlers-Danlos syndrome 
+(hEDS) or hypermobility spectrum disorders (HSDs) with coexisting postural 
+orthostatic tachycardia syndrome (POTS) and/or mast cell activation syndrome 
+(MCAS).
+METHODS: This expert review/commentary was commissioned and approved by the 
+American Gastroenterological Association (AGA) Institute Clinical Practice 
+Updates Committee and the AGA Governing Board to provide timely guidance on a 
+topic of high clinical importance to the AGA membership, and underwent internal 
+peer review by the Clinical Practice Updates Committee and external peer review 
+through standard procedures of Clinical Gastroenterology and Hepatology. These 
+Best Practice Advice statements were drawn from a review of the published 
+literature and from expert opinion. Because systematic reviews were not 
+performed, these Best Practice Advice statements do not carry formal ratings 
+regarding the quality of evidence or strength of the presented considerations. 
+BEST PRACTICE ADVICE 1: Clinicians should be aware of the observed associations 
+between hEDS or HSDs and POTS and/or MCAS and their overlapping gastrointestinal 
+(GI) manifestations; while theoretical explanations exist, experimental evidence 
+of the biological mechanisms that explain relationships is limited and evolving. 
+BEST PRACTICE ADVICE 2: Testing for POTS/MCAS should be targeted to patients 
+presenting with clinical manifestations of POTS/MCAS, but universal testing for 
+POTS/MCAS in all patients with hEDS/HSDs is not supported by the current 
+evidence. BEST PRACTICE ADVICE 3: Gastroenterologists seeing patients with DGBI 
+should inquire about joint hypermobility and strongly consider incorporating the 
+Beighton score for assessing joint hypermobility into their practice as a 
+screening tool; if the screen is positive, gastroenterologists may consider 
+applying 2017 diagnostic criteria to diagnose hEDS 
+(https://www.ehlers-danlos.com/wp-content/uploads/2017/05/hEDS-Dx-Criteria-checklist-1.pdf) 
+or offer appropriate referral to a specialist where resources are available. 
+BEST PRACTICE ADVICE 4: Testing for POTS through postural vital signs (eg, 
+symptomatic increase in heart rate of 30 beats/min or more with 10 minutes of 
+standing during an active stand or head-up tilt table test in the absence of 
+orthostasis) and referral to specialty practices (eg, cardiology or neurology) 
+for autonomic testing should be considered in patients with hEDS/HSDs and 
+refractory GI symptoms who also report orthostatic intolerance after exclusion 
+of medication side effects and appropriate lifestyle or behavioral modifications 
+(eg, adequate hydration and physical exercise) have been attempted but is not 
+required for all patients with hEDS/HSDs who report GI symptoms alone. BEST 
+PRACTICE ADVICE 5: In patients presenting to gastroenterology providers, testing 
+for mast cell disorders including MCAS should be considered in patients with 
+hEDS/HSDs and DGBI who also present with episodic symptoms that suggest a more 
+generalized mast cell disorder (eg, visceral and somatic pain, pruritus, 
+flushing, sweating, urticaria, angioedema, wheezing, tachycardia, abdominal 
+cramping, vomiting, nausea, diarrhea, urogynecological and neurological 
+complaints) involving 2 or more physiological systems (eg, cutaneous, GI, 
+cardiac, respiratory, and neuropsychiatric), but current data do not support the 
+use of these tests for routine evaluation of GI symptoms in all patients with 
+hEDS/HSDs without clinical or laboratory evidence of a primary or secondary mast 
+cell disorder. BEST PRACTICE ADVICE 6: If MCAS is suspected, diagnostic testing 
+with serum tryptase levels collected at baseline and 1-4 hours following symptom 
+flares may be considered by the gastroenterologist; increases of 20% above 
+baseline plus 2 ng/mL are necessary to demonstrate evidence of mast cell 
+activation. BEST PRACTICE ADVICE 7: If a diagnosis of MCAS is supported through 
+clinical and/or laboratory features, patients should be referred to an allergy 
+specialist or mast cell disease research center where additional testing (eg, 
+urinary N-methylhistamine, leukotriene E4, 11β-prostaglandin F2) may be 
+performed. BEST PRACTICE ADVICE 8: Diagnostic evaluation of GI symptoms 
+consistent with DGBI in patients with hEDS/HSDs and comorbid POTS and/or MCAS 
+should follow a similar approach to the evaluation of DGBI as in the general 
+population including the use of a positive symptom-based diagnostic strategy and 
+limited noninvasive testing. BEST PRACTICE ADVICE 9: Testing for celiac disease 
+may be considered earlier in the diagnostic evaluation of patients with 
+hEDS/HSDs who report a variety of GI symptoms and not only limited to those with 
+diarrhea. There is insufficient research to support routine testing for 
+disaccharidase deficiencies or other diet-mediated mechanisms as causes of GI 
+symptoms in hEDS/HSDs. BEST PRACTICE ADVICE 10: Diagnostic testing for 
+functional defecation disorders with anorectal manometry, balloon expulsion 
+test, or defecography should be considered in patients with hEDS/HSDs and lower 
+GI symptoms such as incomplete evacuation given the high prevalence of pelvic 
+floor dysfunction, especially rectal hyposensitivity, in this population. BEST 
+PRACTICE ADVICE 11: In patients with hEDS/HSDs and comorbid POTS who report 
+chronic upper GI symptoms, timely diagnostic testing of gastric motor functions 
+(eg, measurement of gastric emptying and/or accommodation) should be considered 
+after appropriate exclusion of anatomical and structural diseases, as abnormal 
+gastric emptying may be more common than in the general population. BEST 
+PRACTICE ADVICE 12: Medical management of GI symptoms in hEDS/HSDs and POTS/MCAS 
+should focus on treating the most prominent GI symptoms and abnormal GI function 
+test results. In addition to general DGBIs and GI motility disorder treatment, 
+management should also include treating any symptoms attributable to POTS and/or 
+MCAS. BEST PRACTICE ADVICE 13: Treatment of POTS may include increasing fluid 
+and salt intake, exercise training, and use of compression garments. Special 
+pharmacological treatments for volume expansion, heart rate control, and 
+vasoconstriction with integrated care from multiple specialties (eg, cardiology, 
+neurology) should be considered in patients who do not respond to conservative 
+lifestyle measures. BEST PRACTICE ADVICE 14: When MCAS is suspected, patients 
+can benefit from treatment with histamine receptor antagonists and/or mast cell 
+stabilizers, in addition to avoiding triggers such as certain foods, alcohol, 
+strong smells, temperature changes, mechanical stimuli (eg, friction), emotional 
+distress (eg, pollen, mold), or specific medications (eg, opioids, nonsteroidal 
+anti-inflammatory agents, iodinated contrast). BEST PRACTICE ADVICE 15: Besides 
+general nutritional support, special diets including a gastroparesis diet (ie, 
+small particle diet) and various elimination diets (eg, low fermentable 
+carbohydrates, gluten- or dairy-free, low-histamine diets) can be considered for 
+improving GI symptoms. Dietary interventions should be delivered with 
+appropriate nutritional counseling or guidance to avoid the pitfalls of 
+restrictive eating. BEST PRACTICE ADVICE 16: Management of chronic GI symptoms 
+in patients with hEDS/HSDs who do not exhibit symptoms consistent with POTS or 
+MCAS should align with existing approaches to management of DGBI and GI motility 
+disorders in the general population, including integrated multidisciplinary care 
+involving multiple specialties, where appropriate (eg, cardiology, rheumatology, 
+dietician, psychology).
+
+Copyright © 2025. Published by Elsevier Inc.
+
+DOI: 10.1016/j.cgh.2025.02.015
+PMID: 40387691
+
+
+2. J Food Prot. 2025 May 12;88(7):100533. doi: 10.1016/j.jfp.2025.100533. Online 
+ahead of print.
+
+Food Allergy Labeling and Disclosure Practices on Restaurants' Online Menus in 
+Toronto, Canada.
+
+Nahle R(1), Thaivalappil A(2), Young I(2).
+
+Author information:
+(1)School of Occupational and Public Health, Toronto Metropolitan University, 
+350 Victoria St, Toronto, Ontario M5B 2K3, Canada. Electronic address: 
+rawan.nahle@torontomu.ca.
+(2)School of Occupational and Public Health, Toronto Metropolitan University, 
+350 Victoria St, Toronto, Ontario M5B 2K3, Canada.
+
+Restaurants have a responsibility to mitigate food-allergic reactions by 
+nonverbally disclosing allergens on their menus and websites. In Canada, there 
+are no laws requiring allergen labeling on non-pre-packaged food, leaving it up 
+to restaurant managers to decide how to accommodate allergic customers. A 
+cross-sectional study was conducted to assess allergen disclosure and labeling 
+on online menus in Toronto, Canada. A random sample of 1,000 nonchain 
+restaurants was sourced from DineSafe, Toronto's food inspection system. The 
+online menus of each restaurant were accessed and assessed using a checklist in 
+2023-2024 to determine the presence of allergen menus, statements, or symbols. 
+Mixed-effect logistic regression models were developed to assess the 
+relationship between restaurant characteristics (cuisine type, Google review 
+rating, cost indicator, and number of locations) and two outcomes: (1) presence 
+of at least one allergen symbol on the menu, and (2) presence of an allergen 
+statement on the menu. Only 16% (n = 159) of restaurants included allergen 
+statements, and only 10% (n = 100) used allergen symbols. Regression models 
+predicted that vegan and vegetarian restaurants were the most likely cuisine 
+type to have at least one allergen symbol on their menu (19%, 95% CI: 13-24%), 
+and Southeast Asian restaurants were the most likely to have an allergen 
+statement (28%, 95% CI: 20-36%). Additionally, higher restaurant costs and 
+multiple locations were linked to more allergen disclosures. This study 
+highlights the need for improved allergen labeling in nonchain restaurants. 
+Policies requiring allergen disclosures can improve menu transparency and 
+encourage proactive customer-waiter interactions, preventing allergic reactions 
+in restaurants.
+
+Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jfp.2025.100533
+PMID: 40368007
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Am J Gastroenterol. 2025 May 14. doi: 10.14309/ajg.0000000000003537. Online 
+ahead of print.
+
+Hereditary Alpha-Tryptasemia is Associated with Ongoing Symptoms in Individuals 
+with Celiac Disease Despite Following a Gluten-Free Diet.
+
+Therrien A(1), Akula S(1), Galeas-Pena M(2), Frank E(1), Gillette L(3), 
+Silvester JA(1)(3), Leffler DA(1), Galvez JV(1), Kelly CP(1), Pozdnyakova 
+O(4)(5), Glover S(2)(6), Lyons JJ(7)(8)(9).
+
+Author information:
+(1)Celiac Center, Department of Gastroenterology, Beth Israel Deaconess Medical 
+Center, Harvard Medical School, Boston, MA USA.
+(2)Department of Medicine. Section of, Gastroenterology, Tulane University, LA, 
+USA.
+(3)Division of Gastroenterology, Hepatology and Nutrition, Boston Children 
+Hospital, Boston, MA USA.
+(4)Department of Pathology, University of Pennsylvania, Philadelphia, PA USA.
+(5)Department of Pathology, Brigham's and Women Hospital, Boston, MA, USA.
+(6)Division of Gastroenterology, University of Mississippi, Jackson, MS, USA.
+(7)Division of Allergy & Immunology, Department of Medicine, University of 
+California San Diego, La Jolla, CA, USA.
+(8)Veterans Affairs San Diego Healthcare System, La Jolla, CA, USA.
+(9)Translational Allergic Immunopathology Unit, NIAID, Bethesda, MD, USA.
+
+BACKGROUND: Hereditary alpha-tryptasemia (HαT) is caused by increased copy 
+number of TPSAB1 when encoding for alpha-tryptase, resulting in elevated basal 
+serum tryptase (BST). Many affected individuals report irritable bowel 
+syndrome-like and reflux symptoms. We aimed to assess the prevalence of HαT in 
+celiac disease (CeD) and whether this genetic trait modifies disease course. 
+Methods: Prospective cohort of subjects with CeD or non-celiac gluten 
+sensitivity (NCGS) either at diagnosis (Dx), with persisting symptoms on a 
+gluten-free diet (GFD), or in clinical remission. BST levels were determined by 
+immunoassay and tryptase genotyping was performed on gDNA using ddPCR. Duodenal 
+and gastric biopsies were stained for c-KIT, and mast cell (MC) counts were 
+averaged over 5 hpf.
+RESULTS: There were 153 eligible subjects; 13 NCGS and 140 CeD (8 newly Dx 
+patients, 66 with persisting symptoms, 66 in remission). HαT was found in 9 
+subjects, all symptomatic with CeD (6.4%). One was newly Dx, and the others had 
+persisting symptoms (12.3% of subgroup). Excluding HαT, BST levels were higher 
+among CeD vs NCGS (median 5.4 vs 3.9 mcg/L p<0.05). Duodenal MC counts were 
+higher in CeD vs controls (p<0.05), and 24% higher in those with HαT (median HαT 
+CeD 27.3/hpf, non-HαT CeD 22.0 /hpf, controls 18.4/hpf). MC counts did not 
+differ based on villous atrophy or clinical presentation.
+CONCLUSION: The prevalence of HαT in CeD is similar to the general population, 
+however, all participants with CeD and HαT had ongoing GI symptoms. Evaluation 
+for HαT should be considered in the management of CeD patients with persisting 
+symptoms.
+
+Copyright © 2025 by The American College of Gastroenterology.
+
+DOI: 10.14309/ajg.0000000000003537
+PMID: 40367491
+
+
+4. Semin Immunol. 2025 Apr 23;78:101960. doi: 10.1016/j.smim.2025.101960. Online 
+ahead of print.
+
+Immune therapies in coeliac disease and food allergies: Advances, challenges, 
+and opportunities.
+
+Campbell DE(1), Mehr S(2), Moscatelli OG(3), Anderson RP(4), Tye-Din JA(5).
+
+Author information:
+(1)Children's Hospital at Westmead, Sydney, New South Wales, Australia; 
+University of Sydney, Sydney, New South Wales, Australia; National Allergy 
+Centre of Excellence, Murdoch Children's Research Institute, Parkville, Victora, 
+Australia.
+(2)Royal Children's Hospital, Melbourne, Victoria, Australia.
+(3)Immunology Division, Walter and Eliza Hall Institute, Parkville, Victoria, 
+Australia.
+(4)Gastroenterology Service, Mackay Base Hospital, West Mackay, Queensland, 
+Australia.
+(5)Immunology Division, Walter and Eliza Hall Institute, Parkville, Victoria, 
+Australia; Department of Gastroenterology, the Royal Melbourne Hospital, 
+Parkville, Victoria, Australia; The Murdoch Children's Research Institute, 
+Parkville, Victoria, Australia. Electronic address: tyedin@wehi.edu.au.
+
+Coeliac disease and food allergy management primarily relies on the strict 
+avoidance of dietary antigens. This approach is challenging to maintain in 
+real-world settings and in food allergy carries the risk of life-threatening 
+anaphylaxis. Despite their distinct pathogenesis, both disorders are driven by 
+maladaptive responses to dietary proteins, creating opportunities for shared 
+treatment strategies. In food allergy, desensitisation therapies such as oral, 
+sublingual, and epicutaneous immunotherapy are well-established, complemented by 
+biologics like omalizumab and dupilumab. However, the induction of sustained 
+tolerance remains challenging. In contrast, therapeutic advancements for coeliac 
+disease are still in their early stages. Current efforts focus on gluten 
+detoxification or modification, immune blockade or modulation, tolerogenic 
+approaches, and barrier restoration. Emerging therapies, including JAK and BTK 
+inhibitors and microbiome-targeted interventions, support further targeted 
+treatment options for both conditions. Biomarkers tracking gluten-specific T 
+cells have emerged as valuable tools for immunomonitoring and symptom assessment 
+in coeliac disease, although standardisation of patient-reported outcome 
+measures and gluten challenge protocols is still needed. Food allergy trials are 
+reliant on double-blind placebo-controlled food challenges to measure allergen 
+reactivity, but these are time-consuming, carry risks, and underscore the need 
+for surrogate biomarkers. The successful development of immune-targeted 
+therapies will require building an immune toolset to optimally assess systemic 
+responses to antigens in both conditions. Clinically, this could lead to better 
+outcomes for patients who might otherwise remain undiagnosed or untreated due to 
+the absence of significant enteropathy or allergen-specific symptoms.
+
+Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.smim.2025.101960
+PMID: 40273881
+
+Conflict of interest statement: Declaration of Competing Interest SM and OM 
+declare no competing interests. DEC: reports personal fees from DBV Technologies 
+and Westmead Fertility Centre and grants from National Health and Medical 
+Research Council of Australia and FARE (Food Allergy Research & Education) US. 
+RA: is an advisor to Takeda Pharmaceutical, AMYRA Biotech, DBV Technologies, 
+Barinthus Biotherapeutics, EVOQ Therapeutics, Immunic, Pecigen ActoBio, Allero 
+Therapeutics, Kanyos Bio, GSK, TregTherapeutics, Bioniz Therapeutics, AdAlta, 
+Universal Cells, Bristol-Myers Squibb Australia; is a director and shareholder 
+of Novoviah Pharmaceuticals; and is inventor of patents relating to diagnosis 
+and treatment of coeliac disease. JT-D: consultant or advisory board member for 
+Anatara, Anokion, Barinthus Biotherapeutics, Chugai Pharmaceuticals, DBV 
+Technologies, Dr Falk, Forte Biosciences, IM Therapeutics, Janssen, Kallyope, 
+Mozart Therapeutics, Takeda, TEVA and Topas, and has received research funding 
+from Barinthus Biotherapeutics, Chugai Pharmaceuticals, Codexis, DBV 
+Technologies, Kallyope, Novoviah Pharmaceuticals, Topas and Tillotts 
+Pharmaceuticals. He is an inventor on patents relating to the use of gluten 
+peptides in coeliac disease diagnosis and treatment.
+
+
+5. J Proteome Res. 2025 May 2;24(5):2336-2348. doi:
+10.1021/acs.jproteome.3c00456.  Epub 2025 Apr 15.
+
+Proteomic Profiling of Celiac-Toxic Motifs and Allergens in Cereals Containing 
+Gluten.
+
+Daly ME(1), Huang X(2), Nitride C(3), Hughes C(4), Tanskanen J(5), Shewry PR(6), 
+Gethings LA(1)(4)(7), Mills ENC(1)(7).
+
+Author information:
+(1)Manchester Institute of Biotechnology, School of Biological Sciences, 
+Manchester Academic Health Sciences Centre, The University of Manchester, 
+Princess Street, Manchester M1 7DN, U.K.
+(2)Department of Food and Nutrition, University of Helsinki, Agnes Sjöberginkatu 
+2, PL 66, Helsinki FI-00014, Finland.
+(3)Department of Agricultural Sciences, University of Naples Federico II, 
+Portici 80055, Italy.
+(4)Waters Corporation, Stamford Avenue, Wilmslow SK9 4AX, U.K.
+(5)Natural Resources Institute (LUKE), Viikinkaari 1, Helsinki 00710, Finland.
+(6)Rothamsted Research, Harpenden, Herts AL5 2JQ, U.K.
+(7)School of School of Biosciences and Medicine, The University of Surrey, 
+Guildford GU2 7XH, U.K.
+
+Cereal-based foods can cause immune-mediated adverse reactions, including celiac 
+disease and IgE-mediated allergies, but the potency of different cereal species 
+to cause such reactions appears to vary, with oats being less celiac-toxic and 
+allergenic than wheat. In order to define differences in the immunological 
+potential of wheat, barley, rye, and oats, proteomic profiling of proteins 
+carrying celiac-toxic motifs and allergens has been undertaken. Total protein 
+extracts were subjected to chymotryptic digestion and analyzed using 
+data-independent ion mobility mass spectrometry and a pipeline employing a 
+curated gluten protein sequence database. Depending on the cereal species, 
+376-2769 proteins were identified, the majority being grain storage proteins. 
+Relative quantitation of proteins containing celiac-toxic motifs showed that 
+they were most abundant and diverse in wheat, with only a limited number, at 
+much lower abundance, identified in oats. Allergens belonging to the seed 
+storage prolamins were the most abundant, while allergens belonging to the 
+α-amylase/trypsin inhibitor family associated with respiratory allergy were of 
+only moderate abundance in comparison. Wheat allergen homologues were identified 
+in other cereal species but at a very low level in oats. These data suggest that 
+the relative risk of oats in the context of both celiac disease and IgE-mediated 
+allergy is low.
+
+DOI: 10.1021/acs.jproteome.3c00456
+PMCID: PMC12053943
+PMID: 40234187 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare the following competing 
+financial interest(s): MD and LG are employees of Waters Corporation, a 
+manufacturer of chromatographic and mass spectrometry equipment. MD completed 
+this work prior to being employed by Waters Corporation, whilst studying for a 
+PhD degree at the University of Manchester.
+
+
+6. Sci Rep. 2025 Mar 31;15(1):10976. doi: 10.1038/s41598-025-95525-6.
+
+Presence of gluten and soy derived excipients in medicinal products and their 
+implications on allergen safety and labeling.
+
+Figueiredo A(1), Auxtero MD(2), Brás A(3), Casimiro A(3), Costa IM(2).
+
+Author information:
+(1)Egas Moniz Center for Interdisciplinary Research (CiiEM), Egas Moniz School 
+of Health & Science, Caparica, 2829-511, Almada, Portugal. 
+afigueiredo@egasmoniz.edu.pt.
+(2)Egas Moniz Center for Interdisciplinary Research (CiiEM), Egas Moniz School 
+of Health & Science, Caparica, 2829-511, Almada, Portugal.
+(3)Egas Moniz School of Health & Science, Caparica, 2829-511, Almada, Portugal.
+
+Gluten and soy allergies are significant health concerns, particularly in 
+individuals with celiac disease or soy sensitivity. While dietary sources of 
+these allergens are well-studied, their presence in medicinal products remains 
+under-explored. This study assessed the prevalence of gluten and soy-derived 
+excipients in 308 medicinal products authorized for marketing in Portugal. A 
+systematic search of the Summary of Product Characteristics (SmPC) database was 
+conducted for 108 analgesics and antipyretics containing paracetamol, 85 NSAIDs 
+containing ibuprofen, and 115 antiasthmatic and bronchodilator medicinal 
+products. The study found significant associations between pharmacotherapeutic 
+groups and the presence of these allergens (p < 0.001). Gluten was more 
+prevalent in the group of analgesics and antipyretics (44.4%) than in NSAIDs 
+(8.2%), whereas soy-derived excipients were more frequent in NSAIDs (14%) than 
+in analgesics and antipyretics (6.5%). No excipients containing gluten or soy 
+were identified in antiasthmatic and bronchodilator medicinal products. In 
+analgesics and antipyretics, 51.2% of solid oral dosage forms and 40% of liquid 
+oral formulations contained gluten. Within the NSAIDs group, gluten was mainly 
+present in liquid oral dosage forms (26.7%). Soy-derived excipients were found 
+in 30% of liquid oral formulations and in 33.3% of rectal dosage forms of 
+analgesics and antipyretics. In the NSAIDs group, soy was more prevalent in 
+liquid oral formulations (26.7%). These findings highlight the need for clearer 
+labeling of allergens in medicinal products and underscore the importance of 
+vigilance for patients with gluten or soy allergies. Further research is 
+required to address gaps in allergen disclosure by pharmaceutical manufacturers 
+and to promote safer medicinal product use for sensitive populations. Enhanced 
+awareness among healthcare providers and patients is essential to mitigate the 
+risk of allergic reactions associated with hidden excipients in medicinal 
+products.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-95525-6
+PMCID: PMC11958770
+PMID: 40164820 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+
+7. BMC Gastroenterol. 2025 Mar 25;25(1):199. doi: 10.1186/s12876-025-03799-x.
+
+Prevalence and characteristics of adults avoiding gluten without celiac disease: 
+a long-term population-based follow-up study.
+
+Tiainen M(1), Kurppa K(1)(2)(3), Jääskeläinen T(4), Kaartinen N(4), Huhtala 
+H(5), Kaukinen K(1)(6), Taavela J(7)(8).
+
+Author information:
+(1)Celiac Disease Research Center, Faculty of Medicine and Health Technology, 
+Tampere University and Tampere University Hospital, Elämänaukio 2, Tampere, 
+Finland.
+(2)Tampere Center for Child, Adolescent, and Maternal Health Research, 
+Department of Pediatrics, Tampere University, Tampere University Hospital, 
+Tampere, Finland.
+(3)University Consortium of Seinäjoki, Seinäjoki, Finland.
+(4)Finnish Institute for Health and Welfare, Helsinki, Finland.
+(5)Faculty of Social Sciences, Tampere University, Tampere, Finland.
+(6)Department of Internal Medicine, Tampere University Hospital, Tampere, 
+Finland.
+(7)Celiac Disease Research Center, Faculty of Medicine and Health Technology, 
+Tampere University and Tampere University Hospital, Elämänaukio 2, Tampere, 
+Finland. juha.taavela@tuni.fi.
+(8)Department of Gastroenterology, Tampere University Hospital, Tampere, 
+Finland. juha.taavela@tuni.fi.
+
+OBJECTIVE: Nationwide prevalence studies on people avoiding gluten without 
+celiac disease (PWAG) are lacking, and in particular, long-term follow-up 
+studies are unavailable. We aimed to evaluate the prevalence, incidence, and 
+characteristics of PWAG in a population-based cohort in 2000 and 2011.
+METHODS: Health and diet-related data were collected in nationwide Health 2000 
+and 2011 surveys, which comprised 5,777 and 3,866 individuals, respectively, 
+representing 2,682,733 and 1,967,876 Finnish adults. Serum samples were taken 
+for the measurement of transglutaminase autoantibodies. In total 3,296 
+individuals participated in both surveys, forming a prospective cohort. PWAG 
+refers to subjects avoiding gluten without celiac disease or positive 
+autoantibodies. Psychological health was assessed with General Health 
+Questionnaire and the Beck Depression Inventory.
+RESULTS: The prevalence of PWAG increased significantly from 0.2% (2000) to 0.7% 
+(2011) (p < 0.001), with the highest prevalence (1.3%) detected in 
+individuals > 70 years old. An annual incidence rate of 42 (95% confidence 
+interval 25-71) per 100,000 persons was noted. The PWAG group was more likely to 
+maintain additional special diets than those not avoiding gluten, including e.g. 
+lactose-free diet (41.7% vs. 12.0% in 2011, p < 0.001) and food restriction for 
+allergy (12.5% vs. 3.0%, p = 0.007). Beck Depression Inventory indicated more 
+depression (p = 0.023) among PWAG in 2000, while no difference was seen in 2011 
+or in General Health Questionnaire. Celiac disease-related risk factors, 
+including female gender, anemia, autoimmune diseases or antibody levels near the 
+upper limit of normal in 2000, did not predict later gluten avoidance.
+CONCLUSIONS: The prevalence of PWAG multiplied over a decade, reaching 0.7% in 
+2011 in Finland. The PWAG group maintained more likely additional dietary 
+restrictions than those not avoiding gluten and had signs of psychosocial 
+burden. No predicting factors for the condition were identified.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12876-025-03799-x
+PMCID: PMC11938570
+PMID: 40133823 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: All procedures performed in this study were in accordance with the 
+1964 Helsinki Declaration and its later amendments. The Health 2000 survey was 
+approved by the Ethics Committee for Research in Epidemiology and Public Health 
+in May 2000, while the Health 2011 survey received approval from the 
+Coordinating Ethics Committee in March 2011, which were part of the Hospital 
+District of Helsinki and Uusimaa at that time. Written informed consent was 
+obtained from all participants. All study data were analyzed anonymized without 
+personal information by which the participants could be identified. Consent for 
+publication: Not applicable. Competing interests: The authors declare no 
+competing interests.
+
+
+8. Sci Transl Med. 2025 Mar 19;17(790):eadr8941. doi:
+10.1126/scitranslmed.adr8941.  Epub 2025 Mar 19.
+
+T cell receptor precision editing of regulatory T cells for celiac disease.
+
+Porret R(1), Alcaraz-Serna A(1), Peter B(2), Bernier-Latmani J(3), Cecchin R(1), 
+Alfageme-Abello O(1), Ermellino L(1), Hafezi M(3), Pace E(1), du Pré MF(4), Lana 
+E(1), Golshayan D(5), Velin D(6), Eyquem J(7), Tang Q(8), Petrova TV(3), Coukos 
+G(3)(9), Irving M(3)(9), Pot C(2), Pantaleo G(1), Sollid LM(4), Muller 
+YD(1)(10).
+
+Author information:
+(1)Division of Immunology and Allergy, Lausanne University Hospital and 
+University of Lausanne, Lausanne CH-1005, Switzerland.
+(2)Laboratories of Neuroimmunology, Service of Neurology and Neuroscience 
+Research Center, Department of Clinical Neurosciences, Lausanne University 
+Hospital and University of Lausanne, Lausanne CH-1005, Switzerland.
+(3)Department of Oncology, Lausanne University Hospital and University of 
+Lausanne, 1005 Lausanne, Switzerland.
+(4)Norwegian Coeliac Disease Research Centre, Institute of Clinical Medicine, 
+University of Oslo and Department of Immunology, Oslo University Hospital, Oslo 
+NO-0424, Norway.
+(5)Transplantation Center, Department of Medicine, Lausanne University Hospital 
+and University of Lausanne, Lausanne CH-1005, Switzerland.
+(6)Service of Gastroenterology and Hepatology, Lausanne University Hospital and 
+University of Lausanne, Lausanne CH-1005, Switzerland.
+(7)Department of Medicine, University of California San Francisco, San 
+Francisco, CA 94143, USA.
+(8)Diabetes Center, University of California San Francisco, San Francisco, CA 
+94143, USA.
+(9)Ludwig Institute for Cancer Research Lausanne Branch, 1066 Lausanne, 
+Switzerland.
+(10)Centre for Human Immunology Lausanne, Lausanne CH-1005, Switzerland.
+
+Celiac disease, a gluten-sensitive enteropathy, demonstrates a strong human 
+leukocyte antigen (HLA) association, with more than 90% of patients carrying the 
+HLA-DQ2.5 allotype. No therapy is available for the condition except for a 
+lifelong gluten-free diet. To address this gap, we explored the therapeutic 
+potential of regulatory T cells (Tregs). By orthotopic replacement of T cell 
+receptors (TCRs) through homology-directed repair, we generated gluten-reactive 
+HLA-DQ2.5-restricted CD4+ engineered (e) T effector cells (Teffs) and eTregs and 
+performed in vivo experiments in HLA-DQ2.5 transgenic mice. Of five validated 
+TCRs, TCRs specific for two immunodominant and deamidated gluten epitopes 
+(DQ2.5-glia-α1a and DQ2.5-glia-α2) were selected for further evaluation. CD4+ 
+eTeffs exposed to deamidated gluten through oral gavage colocalized with 
+dendritic and B cells in the Peyer's patches and gut-draining lymph nodes and 
+specifically migrated to the intestine. The suppressive function of human eTregs 
+correlated with high TCR functional activity. eTregs specific for one epitope 
+suppressed the proliferation and gut migration of CD4+ eTeffs specific for the 
+same and the other gluten epitope, demonstrating bystander suppression. The 
+suppression requires an antigen-specific activation of eTregs given that 
+polyclonal Tregs failed to suppress CD4+ eTeffs. These findings highlight the 
+potential of gluten-reactive eTregs as a therapeutic for celiac disease.
+
+DOI: 10.1126/scitranslmed.adr8941
+PMID: 40106579 [Indexed for MEDLINE]
+
+
+9. Pediatr Allergy Immunol. 2025 Mar;36(3):e70061. doi: 10.1111/pai.70061.
+
+Gluten-free diet management and well-being in children with celiac disease: A 
+qualitative study.
+
+Maddison-Roberts H(1)(2), Jones C(1), Satherley RM(1).
+
+Author information:
+(1)School of Psychology, Department of Psychological Interventions, Faculty of 
+Health and Medical Sciences, University of Surrey, Guildford, UK.
+(2)South West London and St George's Mental Health NHS Trust, London, UK.
+
+BACKGROUND: Management of celiac disease (CD) requires adherence to a strict 
+gluten-free diet (GFD). However, little is known about how children with CD 
+manage the GFD. This qualitative study sought to gain a comprehensive 
+understanding of how children with CD experience and navigate the GFD, focusing 
+on their dietary preferences, perceptions, and challenges, as well as the impact 
+of these experiences.
+METHODS: Fifteen children with CD, aged 8-13 years, who had been following the 
+GFD for a minimum of one year, were interviewed with their parents about their 
+management of the GFD. Reflexive thematic analysis was used to analyze the data.
+RESULTS: Children described a range of strategies for managing the GFD. While 
+some adopt problem-focused strategies such as planning ahead and carrying 
+gluten-free foods on their person, others exhibit heightened anxiety and 
+persistent doubts, indicating the need for tailored healthcare support. 
+Importantly, the study uncovers socioecological influences, including social 
+roles, communication patterns, and environmental factors, which shape children's 
+beliefs and coping strategies.
+CONCLUSIONS: The study underscores the importance of monitoring gluten-related 
+distress, beliefs, and behaviors in children with CD, as well as the broader 
+context of children's lives. To better support children with CD, holistic 
+support may target anxiety to support well-being alongside GFD management.
+
+© 2025 The Author(s). Pediatric Allergy and Immunology published by European 
+Academy of Allergy and Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/pai.70061
+PMCID: PMC11916637
+PMID: 40099805 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest 
+related to this study.
+
+
+10. Food Funct. 2025 Mar 17;16(6):2461-2473. doi: 10.1039/d4fo05757k.
+
+Dietary methionine restriction restores wheat gluten-induced celiac-associated 
+small intestine damage in association with affecting butyric acid production by 
+intestinal flora.
+
+Yu T(1)(2)(3)(4), Gao J(3)(4), Yuan J(1)(5)(4), Yin Z(1)(2)(3)(4), Chen 
+X(1)(2)(3)(4), Wu Y(1)(2)(3)(4), Dai R(1)(2)(3)(4), Yan D(1)(2)(3)(4), Chen 
+H(1)(2)(4), Wu Y(1)(2)(4).
+
+Author information:
+(1)State Key Laboratory of Food Science and Resources, Nanchang University, 
+Nanchang 330047, Jiangxi, China. ericyo918@hotmail.com.
+(2)Sino-German Joint Research Institute, Nanchang University, Nanchang 330047, 
+Jiangxi, China.
+(3)School of Food Science and Technology, Nanchang University, Nanchang 330031, 
+Jiangxi, China.
+(4)Jiangxi Province Key Laboratory of Food Allergy, Nanchang University, 
+Nanchang, 330047, Jiangxi, China.
+(5)School of Pharmaceutical Science, Nanchang University, Nanchang 330006, 
+Jiangxi, China.
+
+Methionine restriction has received some attention in recent years as a novel 
+mode of dietary intervention. Our previous study found that methionine 
+restriction could inhibit the celiac toxic effects of wheat gluten in an in 
+vitro model. However, the role of methionine restriction in gluten-induced 
+celiac intestinal damage remains unclear. The aim of this study was to explore 
+whether dietary methionine restriction could suppress the celiac toxic effects 
+of gluten in an in vivo model, thereby mitigating intestine damage. This study 
+systematically investigated the effects of dietary methionine restriction on 
+celiac characteristic indicators such as symptoms, small intestine damage, and 
+intestinal TG2 and IL-15 expression in a gluten-induced C57BL/6 mouse model. The 
+availability of dietary methionine restriction in different ages (adolescent and 
+adult) was also evaluated. Moreover, mouse cecum contents were assayed and 
+co-analyzed for the metagenome of intestinal flora and target short-chain fatty 
+acid metabolomics, with the goal of further exploring and elucidating critical 
+pathways by which dietary methionine restriction plays a role. We discovered 
+that dietary methionine restriction could effectively ameliorate the 
+gluten-induced celiac-associated small intestine damage by modulating intestinal 
+flora to inhibit butyric acid production. Specifically, dietary methionine 
+restriction could inhibit butyric acid production with the help of s_CAG-485 
+sp002493045 and s_CAG-475 sp910577815, which in turn affected the mitochondrial 
+function within the intestinal epithelial cells to assist in the repair of 
+intestine damage. This study might provide new insights into modulating dietary 
+patterns to mitigate intestinal damage in celiac disease and the production of 
+novel gluten-free products.
+
+DOI: 10.1039/d4fo05757k
+PMID: 40018976 [Indexed for MEDLINE]

@@ -1,0 +1,498 @@
+1. J Proteome Res. 2025 May 2;24(5):2336-2348. doi:
+10.1021/acs.jproteome.3c00456.  Epub 2025 Apr 15.
+
+Proteomic Profiling of Celiac-Toxic Motifs and Allergens in Cereals Containing 
+Gluten.
+
+Daly ME(1), Huang X(2), Nitride C(3), Hughes C(4), Tanskanen J(5), Shewry PR(6), 
+Gethings LA(1)(4)(7), Mills ENC(1)(7).
+
+Author information:
+(1)Manchester Institute of Biotechnology, School of Biological Sciences, 
+Manchester Academic Health Sciences Centre, The University of Manchester, 
+Princess Street, Manchester M1 7DN, U.K.
+(2)Department of Food and Nutrition, University of Helsinki, Agnes Sjöberginkatu 
+2, PL 66, Helsinki FI-00014, Finland.
+(3)Department of Agricultural Sciences, University of Naples Federico II, 
+Portici 80055, Italy.
+(4)Waters Corporation, Stamford Avenue, Wilmslow SK9 4AX, U.K.
+(5)Natural Resources Institute (LUKE), Viikinkaari 1, Helsinki 00710, Finland.
+(6)Rothamsted Research, Harpenden, Herts AL5 2JQ, U.K.
+(7)School of School of Biosciences and Medicine, The University of Surrey, 
+Guildford GU2 7XH, U.K.
+
+Cereal-based foods can cause immune-mediated adverse reactions, including celiac 
+disease and IgE-mediated allergies, but the potency of different cereal species 
+to cause such reactions appears to vary, with oats being less celiac-toxic and 
+allergenic than wheat. In order to define differences in the immunological 
+potential of wheat, barley, rye, and oats, proteomic profiling of proteins 
+carrying celiac-toxic motifs and allergens has been undertaken. Total protein 
+extracts were subjected to chymotryptic digestion and analyzed using 
+data-independent ion mobility mass spectrometry and a pipeline employing a 
+curated gluten protein sequence database. Depending on the cereal species, 
+376-2769 proteins were identified, the majority being grain storage proteins. 
+Relative quantitation of proteins containing celiac-toxic motifs showed that 
+they were most abundant and diverse in wheat, with only a limited number, at 
+much lower abundance, identified in oats. Allergens belonging to the seed 
+storage prolamins were the most abundant, while allergens belonging to the 
+α-amylase/trypsin inhibitor family associated with respiratory allergy were of 
+only moderate abundance in comparison. Wheat allergen homologues were identified 
+in other cereal species but at a very low level in oats. These data suggest that 
+the relative risk of oats in the context of both celiac disease and IgE-mediated 
+allergy is low.
+
+DOI: 10.1021/acs.jproteome.3c00456
+PMCID: PMC12053943
+PMID: 40234187 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare the following competing 
+financial interest(s): MD and LG are employees of Waters Corporation, a 
+manufacturer of chromatographic and mass spectrometry equipment. MD completed 
+this work prior to being employed by Waters Corporation, whilst studying for a 
+PhD degree at the University of Manchester.
+
+
+2. Food Funct. 2025 Mar 17;16(6):2461-2473. doi: 10.1039/d4fo05757k.
+
+Dietary methionine restriction restores wheat gluten-induced celiac-associated 
+small intestine damage in association with affecting butyric acid production by 
+intestinal flora.
+
+Yu T(1)(2)(3)(4), Gao J(3)(4), Yuan J(1)(5)(4), Yin Z(1)(2)(3)(4), Chen 
+X(1)(2)(3)(4), Wu Y(1)(2)(3)(4), Dai R(1)(2)(3)(4), Yan D(1)(2)(3)(4), Chen 
+H(1)(2)(4), Wu Y(1)(2)(4).
+
+Author information:
+(1)State Key Laboratory of Food Science and Resources, Nanchang University, 
+Nanchang 330047, Jiangxi, China. ericyo918@hotmail.com.
+(2)Sino-German Joint Research Institute, Nanchang University, Nanchang 330047, 
+Jiangxi, China.
+(3)School of Food Science and Technology, Nanchang University, Nanchang 330031, 
+Jiangxi, China.
+(4)Jiangxi Province Key Laboratory of Food Allergy, Nanchang University, 
+Nanchang, 330047, Jiangxi, China.
+(5)School of Pharmaceutical Science, Nanchang University, Nanchang 330006, 
+Jiangxi, China.
+
+Methionine restriction has received some attention in recent years as a novel 
+mode of dietary intervention. Our previous study found that methionine 
+restriction could inhibit the celiac toxic effects of wheat gluten in an in 
+vitro model. However, the role of methionine restriction in gluten-induced 
+celiac intestinal damage remains unclear. The aim of this study was to explore 
+whether dietary methionine restriction could suppress the celiac toxic effects 
+of gluten in an in vivo model, thereby mitigating intestine damage. This study 
+systematically investigated the effects of dietary methionine restriction on 
+celiac characteristic indicators such as symptoms, small intestine damage, and 
+intestinal TG2 and IL-15 expression in a gluten-induced C57BL/6 mouse model. The 
+availability of dietary methionine restriction in different ages (adolescent and 
+adult) was also evaluated. Moreover, mouse cecum contents were assayed and 
+co-analyzed for the metagenome of intestinal flora and target short-chain fatty 
+acid metabolomics, with the goal of further exploring and elucidating critical 
+pathways by which dietary methionine restriction plays a role. We discovered 
+that dietary methionine restriction could effectively ameliorate the 
+gluten-induced celiac-associated small intestine damage by modulating intestinal 
+flora to inhibit butyric acid production. Specifically, dietary methionine 
+restriction could inhibit butyric acid production with the help of s_CAG-485 
+sp002493045 and s_CAG-475 sp910577815, which in turn affected the mitochondrial 
+function within the intestinal epithelial cells to assist in the repair of 
+intestine damage. This study might provide new insights into modulating dietary 
+patterns to mitigate intestinal damage in celiac disease and the production of 
+novel gluten-free products.
+
+DOI: 10.1039/d4fo05757k
+PMID: 40018976 [Indexed for MEDLINE]
+
+
+3. Am J Gastroenterol. 2025 Jan 16. doi: 10.14309/ajg.0000000000003318. Online 
+ahead of print.
+
+Molecular Triggers of Non-celiac Wheat Sensitivity: A Scoping Review and 
+Analysis.
+
+An C(1)(2), Yang J(3), Pinto-Sanchez MI(4), Verdu EF(4), Lebwohl B(2)(5), Green 
+PH(2)(5), Alaedini A(1)(2)(5)(6).
+
+Author information:
+(1)Institute of Human Nutrition, Columbia University, New York, New York, USA.
+(2)Division of Digestive & Liver Diseases, Department of Medicine, Columbia 
+University, New York, New York, USA.
+(3)Health Informatics Institute, University of South Florida, Tampa, Florida, 
+USA.
+(4)Department of Medicine, Farncombe Family Digestive Health Research Institute, 
+McMaster University, Hamilton, Ontario, Canada.
+(5)Celiac Disease Center, Columbia University, New York, New York, USA.
+(6)Division of Infectious Diseases, Department of Medicine, New York Medical 
+College, Valhalla, New York, USA.
+
+INTRODUCTION: Nonceliac wheat sensitivity (NCWS) is characterized by a 
+symptomatic response to the ingestion of foods containing wheat and related 
+cereal grains in the absence of celiac disease or wheat allergy. Despite efforts 
+to identify the constituent component(s) of wheat responsible for triggering 
+NCWS, no consensus has emerged, leading to competing claims. We aimed to 
+systematically evaluate the literature and provide an evidence-based conclusion 
+on the contribution of specific wheat components to NCWS.
+METHODS: A comprehensive search of multiple bibliographic databases was 
+conducted, focusing on primary research. Data were systematically analyzed, and 
+methodological gaps were identified.
+RESULTS: The search identified 175 unique citations, revealing 3 categories of 
+compounds frequently considered as potential triggers of NCWS: gluten, 
+fermentable carbohydrates, and amylase/trypsin inhibitors (ATIs). Among 16 
+double-blind placebo-controlled studies, 8 reported a greater symptomatic 
+response to gluten than the control. Only 1 controlled study examined 
+fermentable carbohydrates, finding a modest effect, but the tested carbohydrates 
+were not derived from wheat. No eligible studies assessed ATIs or other 
+wheat-related compounds as potential NCWS triggers. Across studies, significant 
+limitations and methodological inconsistencies were noted, particularly in 
+participant selection, challenge protocols, and data reporting.
+DISCUSSION: Gluten is the most extensively investigated wheat component linked 
+to NCWS, but evidence for its role is inconsistent and undermined by 
+methodological limitations. No direct evidence currently links wheat fermentable 
+carbohydrates, ATIs, or other components to NCWS symptoms. The existing evidence 
+is insufficient to justify restricting specific components of wheat in the 
+management of NCWS. Future studies must overcome the identified gaps to 
+rigorously investigate the role of wheat and related cereals in NCWS, with the 
+potential to advance diagnosis and treatment.
+
+Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+behalf of The American College of Gastroenterology.
+
+DOI: 10.14309/ajg.0000000000003318
+PMID: 39951359
+
+
+4. Nutrients. 2025 Jan 8;17(2):220. doi: 10.3390/nu17020220.
+
+Non-Celiac Gluten/Wheat Sensitivity-State of the Art: A Five-Year Narrative 
+Review.
+
+Manza F(1)(2), Lungaro L(1), Costanzini A(1), Caputo F(1), Carroccio A(3)(4), 
+Mansueto P(4), Seidita A(3)(4)(5), Raju SA(2), Volta U(6), De Giorgio R(1), 
+Sanders DS(2), Caio G(1)(7).
+
+Author information:
+(1)Department of Translational Medicine, University of Ferrara, 44121 Ferrara, 
+Italy.
+(2)Academic Unit of Gastroenterology, Sheffield Teaching Hospitals NHS 
+Foundation Trust, Sheffield S5 7AT, UK.
+(3)Unit of Internal Medicine, "V. Cervello" Hospital, Ospedali Riuniti "Villa 
+Sofia-Cervello", 90146 Palermo, Italy.
+(4)Department of Health Promotion Sciences, Maternal and Infant Care, Internal 
+Medicine and Medical Specialties (PROMISE), University of Palermo, 90127 
+Palermo, Italy.
+(5)Institute for Biomedical Research and Innovation (IRIB), National Research 
+Council (CNR), 90146 Palermo, Italy.
+(6)Department of Medical and Surgical Sciences, University of Bologna, 40138 
+Bologna, Italy.
+(7)Mucosal Immunology and Biology Research Center, Massachusetts General 
+Hospital-Harvard Medical School, Boston, MA 02114, USA.
+
+Background: Non-celiac gluten/wheat sensitivity (NCGWS) is a syndrome for which 
+pathogenesis and management remain debated. It is described as a condition 
+characterized by gastrointestinal and extra-intestinal symptoms rapidly 
+occurring after gluten ingestion in subjects who have had celiac disease or 
+wheat allergy excluded. To date, the diagnosis of NCGWS is challenging as no 
+universally recognized biomarkers have been yet identified, nor has a 
+predisposing genetic profile been described. However, the research is moving 
+fast, and new data regarding pathogenic pathways, patients' classification, 
+potential candidate biomarkers, and dietary interventions are emerging. Methods: 
+This literature review aims to address the state of the art and summarize the 
+latest updates in this field from 2019 to date. Results and Conclusions: 
+Clinical studies regarding NCGWS in the last five years are reported to shed 
+light on this complex condition and to guide specialists towards a more 
+in-depth, prompt, and objective diagnosis.
+
+DOI: 10.3390/nu17020220
+PMCID: PMC11767908
+PMID: 39861350 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+5. Front Allergy. 2025 Jan 9;5:1505834. doi: 10.3389/falgy.2024.1505834. 
+eCollection 2024.
+
+Intestinal permeability, food antigens and the microbiome: a multifaceted 
+perspective.
+
+Valitutti F(1)(2), Mennini M(3), Monacelli G(1), Fagiolari G(1), Piccirillo 
+M(3), Di Nardo G(3), Di Cara G(1).
+
+Author information:
+(1)Department of Medicine and Surgery, Pediatric Unit, University of Perugia, 
+Perugia, Italy.
+(2)European Biomedical Research Institute of Salerno (EBRIS), Salerno, Italy.
+(3)Department of Neurosciences, Mental Health and Sensory Organs (NESMOS), 
+Faculty of Medicine and Psychology, Sapienza University of Rome, Pediatric Unit, 
+Sant'Andrea University Hospital, Rome, Italy.
+
+The gut barrier encompasses several interactive, physical, and functional 
+components, such as the gut microbiota, the mucus layer, the epithelial layer 
+and the gut mucosal immunity. All these contribute to homeostasis in a 
+well-regulated manner. Nevertheless, this frail balance might be disrupted for 
+instance by westernized dietary habits, infections, pollution or exposure to 
+antibiotics, thus diminishing protective immunity and leading to the onset of 
+chronic diseases. Several gaps of knowledge still exist as regards this 
+multi-level interaction. In this review we aim to summarize current evidence 
+linking food antigens, microbiota and gut permeability interference in diverse 
+disease conditions such as celiac disease (CeD), non-celiac wheat sensitivity 
+(NCWS), food allergies (FA), eosinophilic gastrointestinal disorder (EOGID) and 
+irritable bowel syndrome (IBS). Specific food elimination diets are recommended 
+for CeD, NCWS, FA and in some cases for EOGID. Undoubtfully, each of these 
+conditions is very different and quite unique, albeit food antigens/compounds, 
+intestinal permeability and specific microbiota signatures orchestrate immune 
+response and decide clinical outcomes for all of them.
+
+© 2025 Valitutti, Mennini, Monacelli, Fagiolari, Piccirillo, Di Nardo and Di 
+Cara.
+
+DOI: 10.3389/falgy.2024.1505834
+PMCID: PMC11754301
+PMID: 39850945
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The author(s) declared that 
+they were an editorial board member of Frontiers, at the time of submission. 
+This had no impact on the peer review process and the final decision.
+
+
+6. Semin Immunol. 2025 Mar;77:101930. doi: 10.1016/j.smim.2025.101930. Epub 2025 
+Jan 9.
+
+Celiac disease, non-celiac wheat sensitivity, wheat allergy - clinical and 
+diagnostic aspects.
+
+Størdal K(1), Kurppa K(2).
+
+Author information:
+(1)Department of Paediatric Research, Institute of Clinical Medicine, Faculty of 
+Medicine, University of Oslo, Oslo, Norway; Department of Paediatrics, Oslo 
+University Hospital, Oslo, Norway. Electronic address: 
+Ketil.stordal@medisin.uio.no.
+(2)Celiac Disease Research Centre, Faculty of Medicine and Health Technology, 
+Tampere University, Tampere, Finland; Tampere Centre for Child, Adolescent and 
+Maternal Health Research, Tampere University and Tampere University Hospital, 
+Tampere, Finland; The Wellbeing Services County of Pirkanmaa, Finland; The 
+University Consortium of Seinäjoki, Seinäjoki, Finland. Electronic address: 
+kalle.kurppa@tuni.fi.
+
+In recent years, wheat- and gluten-free diets have increased in demand due to 
+reported increases in various conditions reported to be driven by ingredients of 
+these food products. Celiac disease, wheat allergy and non-celiac wheat 
+sensitivity constitute the three main categories of wheat-related disorders. 
+Celiac disease is a well-characterized immune-mediated disease caused by immune 
+reaction against specific gliadin epitopes, the main protein in wheat. Screening 
+studies of samples collected over time bring evidence that there is a true 
+increase in prevalence not only driven by increased testing activity. Clinical 
+presentation of CeD is diverse and there is an increased risk of autoimmune 
+co-morbidities. Wheat allergy consists of IgE- and non-IgE-mediated reactions, 
+driven by Th2-cells directing eosinophil and basophil responses. Rapid 
+IgE-mediated reactions are characterized by specific IgE antibodies in 
+conjunction with symptoms originating especially from the respiratory and 
+gastrointestinal tract. There is an increased risk of other allergies and the 
+majority recover during adolescence. Non-IgE-mediated wheat allergy is a 
+less-well defined condition, which is often diagnostically challenging due to a 
+longer interval between exposure and symptoms and lack of non-invasive 
+biomarkers. In this condition, wheat as a trigger needs to be established by 
+exclusion followed by dietary challenge. Non-celiac wheat sensitivity, despite 
+being the most recently recognized, has the highest reported prevalence among 
+the three wheat-related entities. It remains, however, particularly poorly 
+characterized due to unclear pathophysiology and lack of diagnostic markers. 
+This narrative review will scrutinize the shared and distinct clinical features 
+of the three wheat-related conditions, focusing on epidemiology, clinical 
+presentation, co-morbidities, diagnosis, treatment and prognosis.
+
+Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.smim.2025.101930
+PMID: 39793259 [Indexed for MEDLINE]
+
+
+7. Nutrition. 2025 Mar;131:112642. doi: 10.1016/j.nut.2024.112642. Epub 2024 Nov 
+28.
+
+Food protein-induced enterocolitis syndrome after involuntary gluten 
+transgression in celiac children: A new increasingly common complication?
+
+Trillo Belizón C(1), García Barrionuevo C(1), Muñoz-Cruzado Rosete A(2), Ramos 
+Rodríguez A(1), Lozano Sánchez G(1), Ramón Salguero JM(1).
+
+Author information:
+(1)UGC Pediatrics, Hospital de la Axarquía, Vélez-Málaga, Málaga, Spain.
+(2)UGC Pediatrics, Hospital de la Axarquía, Vélez-Málaga, Málaga, Spain. 
+Electronic address: adrianmcr1992@gmail.com.
+
+Among the possible adverse reactions to gluten, celiac disease, non-celiac 
+gluten sensitivity, and IgE-mediated wheat allergy have been classically 
+described. A non-IgE-mediated reaction similar to food protein-induced 
+enterocolitis syndrome (FPIES) after inadvertent gluten ingestion in a celiac 
+patient was recently reported. We present three children affected by celiac 
+disease with exquisite control, including appropriate adherence to an exclusion 
+diet, who suffered a severe adverse food reaction after unappreciated outdoor 
+ingestion of gluten, meeting the criteria for a definitive diagnosis of FPIES. 
+The strict and prolonged exclusion of gluten from the diet is postulated as the 
+possible trigger for this serious entity after an involuntary transgression. 
+Although the first published cases are recent, we might be witnessing an 
+increase in the frequency of presentation. Therefore, we believe emergency 
+services must be alert to the possibility of diagnosis of FPIES in celiac 
+patients due to involuntary transgressions. The determination of gluten 
+glycoimmunopeptides in urine or stool samples may be useful for certifying the 
+inadvertent consumption of wheat as the cause of FPIES.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nut.2024.112642
+PMID: 39740282 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+8. ACS Omega. 2024 Dec 3;9(50):49767-49777. doi: 10.1021/acsomega.4c08411. 
+eCollection 2024 Dec 17.
+
+Rapid Gluten Allergen Detection Using an Integrated Photoimaging Assay and Ionic 
+Liquid Extraction Sensor.
+
+Chen WH(1)(2), Hsu CC(3)(4), Ho HJ(5), Smith J(1), Smith S(1), Huang HY(1), 
+Chang HC(6), Hsiao YC(7)(8)(2).
+
+Author information:
+(1)Research and Development Group, Leo Verification Systems Inc., Powell, 
+Wyoming 82435, United States.
+(2)School of Biological Sciences, Nanyang Technological University, 639798 
+Singapore.
+(3)Department of Surgery, College of Medicine, Taipei Medical University, Taipei 
+110, Taiwan.
+(4)Department of Surgery, Taipei Medical University Hospital, Taipei 110, 
+Taiwan.
+(5)Technology Commercialization Center, Taipei Medical University, Taipei 110, 
+Taiwan.
+(6)uMeal Co., Ltd., Taipei 110, Taiwan.
+(7)Graduate Institute of Biomedical Optomechatronics, Taipei Medical University, 
+Taipei 110, Taiwan.
+(8)Cell Physiology and Molecular Image Research Center, Taipei Medical 
+University, Taipei 110, Taiwan.
+
+In recent years, food allergies and food sensitivities have remained critical 
+public health problems that affect approximately 15% of the global population. 
+Wheat is a major food source worldwide, but it is also a common food allergen. 
+Celiac disease is chronic immune-mediated enteropathy triggered by exposure to 
+dietary gluten in genetically predisposed individuals; it can be treated only 
+through strict gluten avoidance. Therefore, rapid gluten detection is crucial 
+for protecting the health of patients. Gluten contains two primary 
+water-insoluble proteins: gliadin and glutenin. Gliadin is a key contributor to 
+celiac disease and poses challenges for sample pretreatment owing to its 
+insolubility, thereby reducing the accuracy and sensitivity of detection 
+systems. Rapid sample processing is a critical problem in gliadin detection. In 
+this report, we developed a gliadin sensor system called the integrated food 
+allergy and microorganism sensor (iFAMs). The iFAMs comprises a gliadin lateral 
+flow chip, a one-pot extraction solution, and an image assay app. The iFAMs 
+enables gliadin extraction and detection in under 2 min with high sensitivity 
+(0.04 mg/kg for gliadin, lower than the regulatory limit of 20 mg/kg). Users can 
+easily measure gluten concentrations in samples and quantify gliadin levels 
+using the smartphone-based image assay app. In samples collected from 
+restaurants, the iFAMs successfully detected hidden gluten within "gluten-free" 
+food items. The compact size and user-friendly design of the iFAMs render it 
+suitable for not only consumers but also clinicians, food industries, and 
+regulators to enhance food safety.
+
+© 2024 The Authors. Published by American Chemical Society.
+
+DOI: 10.1021/acsomega.4c08411
+PMCID: PMC11656241
+PMID: 39713688
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.
+
+
+9. Probiotics Antimicrob Proteins. 2025 Jun;17(3):1513-1522. doi: 
+10.1007/s12602-024-10416-y. Epub 2024 Dec 14.
+
+Postbiotics: As a Promising Tools in the Treatment of Celiac Disease.
+
+Khani N(1)(2), Bonyadi M(3), Soleimani RA(2), Raziabad RH(4), Ahmadi M(4), 
+Homayouni-Rad A(5).
+
+Author information:
+(1)Student Research Committee, Tabriz University of Medical Sciences, Tabriz, 
+Iran.
+(2)Department of Food Science and Technology, Faculty of Nutrition & Food 
+Sciences, Nutrition Research Center, Tabriz University of Medical Sciences, 
+Tabriz, Iran.
+(3)Department of Food Hygiene and Quality Control, Faculty of Veterinary 
+Medicine, University of Tehran, Tehran, Iran.
+(4)Student Research Committee, Department of Food Science and Technology, 
+National Nutrition and Food Technology Research Institute, Faculty of Nutrition 
+Science and Food Technology, Shahid Beheshti University of Medical Sciences, 
+Tehran, Iran.
+(5)Department of Food Science and Technology, Faculty of Nutrition & Food 
+Sciences, Nutrition Research Center, Tabriz University of Medical Sciences, 
+Tabriz, Iran. homayounia@tbzmed.ac.ir.
+
+Celiac disease (CD) can be considered an autoimmune problem, a disease caused by 
+gluten sensitivity in the body. Gluten is found in foods such as barley, wheat, 
+and rye. This ailment manifests in individuals with hereditary susceptibility 
+and under the sway of environmental stimulants, counting, in addition to gluten 
+and intestinal microbiota dysbiosis. Currently, the only recommended treatment 
+for this condition is to follow a gluten-free diet for life. In this review, we 
+scrutinized the studies of recent years that focused on the use of postbiotics 
+in vitro and in vivo in CD. The investigation of postbiotics in CD could be 
+intriguing to observe their diverse effects on several pathways. This study 
+highlights the definitions, characteristics, and safety issues of postbiotics 
+and their possible biological role in the prevention and treatment of CD, as 
+well as their application in the food and drug industry.
+
+© 2024. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12602-024-10416-y
+PMID: 39673575 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of Interest: The authors 
+declare no competing interests.
+
+
+10. Plant Foods Hum Nutr. 2024 Dec 12;80(1):8. doi: 10.1007/s11130-024-01264-w.
+
+Gluten-free Diet, a Friend or a Foe, an American Perspective.
+
+Alam T(1), Saripalli G(1), Rustgi S(2)(3)(4).
+
+Author information:
+(1)Department of Plant and Environmental Sciences, Clemson University Pee Dee 
+Research and Education Center, Florence, SC, 29506, USA.
+(2)Department of Plant and Environmental Sciences, Clemson University Pee Dee 
+Research and Education Center, Florence, SC, 29506, USA. srustgi@clemson.edu.
+(3)School of Health Research, Clemson University, Clemson, SC, 29634, USA. 
+srustgi@clemson.edu.
+(4)Center for Human Genetics, Clemson University, Greenwood, SC, 29646, USA. 
+srustgi@clemson.edu.
+
+Gluten proteins in cereal grains are often considered unsafe for health. Indeed, 
+the dissemination of misinformation through various sources has led to a 
+widespread misconception that the consumption of gluten by healthy individuals 
+results in adverse health consequences and contributes to obesity. In recent 
+years, many health-conscious consumers have started reducing or avoiding gluten 
+consumption without a medical recommendation. Consequently, the adoption of 
+gluten-free diets has expanded significantly. This study compared 39 gluten-free 
+products and their gluten-containing counterparts for energy, sugar, dietary 
+fiber content, and price. We found that, on average, gluten-free products 
+available to United States consumers contained significantly less protein and 
+more sugar and calories. Furthermore, on average, gluten-free products are more 
+expensive than gluten-containing products. Our finding may serve as a guide for 
+dietitians, nutritionists, and legislators in introducing a gluten-free 
+prescription list for individuals with celiac disease, wheat allergy, and 
+non-celiac wheat sensitivity.
+
+© 2024. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11130-024-01264-w
+PMID: 39666134 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics Approval: Not applicable. 
+Competing Interests: The authors declare no competing interests.

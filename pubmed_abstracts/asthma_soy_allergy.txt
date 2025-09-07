@@ -1,0 +1,1157 @@
+1. Clin Nutr. 2025 May;48:134-143. doi: 10.1016/j.clnu.2025.03.026. Epub 2025 Apr
+ 5.
+
+Long term impact of formula choice in children with cow milk protein allergy: 
+6-year follow-up of the Atopic March Cohort Study.
+
+Nocerino R(1), Bedogni G(2), Carucci L(3), Aquilone G(4), Oglio F(3), Coppola 
+S(3), Masino A(3), Berni Canani R(5).
+
+Author information:
+(1)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy; ImmunoNutritionLab at CEINGE Advanced Biotechnologies, 
+University of Naples "Federico II", Naples, Italy; Department of Biomedicine and 
+Prevention, University of Rome "Tor Vergata", Rome, Italy. Electronic address: 
+rita.nocerino@unina.it.
+(2)Department of Medical and Surgical Sciences, Alma Mater Studiorum-University 
+of Bologna, Bologna, Italy; Department of Primary Health Care, Internal Medicine 
+Unit addressed to Frailty and Aging, "S. Maria delle Croci" Hospital, AUSL 
+Romagna, Ravenna, Italy.
+(3)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy; ImmunoNutritionLab at CEINGE Advanced Biotechnologies, 
+University of Naples "Federico II", Naples, Italy.
+(4)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy.
+(5)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy; ImmunoNutritionLab at CEINGE Advanced Biotechnologies, 
+University of Naples "Federico II", Naples, Italy; European Laboratory for the 
+Investigation of Food-Induced Diseases, University of Naples "Federico II", 
+Naples, Italy; Task Force for Microbiome Studies, University of Naples "Federico 
+II", Naples, Italy.
+
+BACKGROUND AND AIMS: Cow's milk protein allergy (CMPA) is a significant health 
+issue in the pediatric age, carrying lifelong health implications. To compare 
+the impact of different formulas on the occurrence of other atopic 
+manifestations (AMs), autoimmune disorders (ADs) and the time of immune 
+tolerance acquisition in a population of children with immunoglobulin E 
+(IgE)-mediated cow CMPA.
+METHODS: In a 72-month prospective cohort study the occurrence of other AMs 
+(i.e., eczema, urticaria, asthma, and rhinoconjunctivitis), ADs (i.e., celiac 
+disease, thyroiditis, type 1 diabetes, inflammatory bowel diseases, idiopathic 
+juvenile arthritis) and the time of immune tolerance acquisition were 
+comparatively evaluated in IgE-mediated CMPA children treated with different 
+formulas: extensively hydrolyzed casein formula containing the probiotic 
+L. rhamnosus G (EHCF + LGG), rice hydrolyzed formula (RHF), soy formula (SF), 
+extensively hydrolyzed whey formula (EHWF), or amino-acid based formula (AAF).
+RESULTS: 313 subjects were evaluated: EHCF + LGG (n = 64), RHF(n = 62), 
+SF(n = 63), EHWF(n = 60) and AAF (n = 64). The incidence of AMs was: 
+0.30(Bonferroni-corrected 95%CI 0.15 to 0.44) for EHCF + LGG cohort, 0.68 
+(0.52-0.83) for RHF cohort, 0.73 (0.59-0.87) for SF cohort, 0.70 (0.55-0.85) for 
+EHWF cohort and 0.83 (0.71-0.95) for AAF cohort. The corresponding risk ratios 
+are 2.28 (1.51-3.45) for RHF vs. EHCF + LGG (p < 0.001), 2.46 (1.64-3.69) for SF 
+vs. EHCF + LGG (p < 0.001), 2.36 (1.56-3.56) for EHWF vs. EHCF + LGG 
+(p < 0.001), and 2.79 (1.88-4.13) for AAF vs. EHCF + LGG (p < 0.001). The 
+72-month immune tolerance acquisition rate was higher in the EHCF + LGG cohort. 
+The incidence of celiac disease was 2/313 (0.006, binomial exact 95%CI 0.0007 to 
+0.023). No cases of other ADs were reported.
+CONCLUSION: The dietary treatment with EHCF + LGG is associated with lower 
+incidence of AMs and higher rate of immune tolerance acquisition in children 
+with CMPA.
+
+Copyright © 2025 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.clnu.2025.03.026
+PMID: 40209535 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest Roberto Berni Canani have 
+had the following relevant financial relationships with the following 
+manufacturers: Biostime (research grant), Ch. Hansen (research grant, speaker), 
+DBV (research grant), Dr. Schar (research grant), Humana (research grant), 
+iHealth (research grant), Kraft-Heinz (research grant, speaker), Mead Johnson 
+Nutrition (research grant, speaker), Nestlè (research grant, speaker), Novalac 
+(research grant, speaker), Nutricia (research grant, speaker), Sanofi (research 
+grant, speaker) as part of publicly funded research projects with the support of 
+the Italian Ministry of Health, the Italian Ministry of the University and 
+Research, and the EU. The other authors declared that they have no conflicts of 
+interest.
+
+
+2. J Allergy Clin Immunol. 2025 Feb;155(2):421-422. doi: 
+10.1016/j.jaci.2024.11.017. Epub 2024 Nov 19.
+
+Food elimination in EoE: Milk before wheat, egg, and soy.
+
+Crawford RJ(1), Wright BL(2).
+
+Author information:
+(1)Division of Allergy, Asthma, and Clinical Immunology, Department of Medicine, 
+Mayo Clinic Arizona, Scottsdale, Ariz; Division of Allergy and Immunology, 
+Phoenix Children's Hospital, Phoenix, Ariz.
+(2)Division of Allergy, Asthma, and Clinical Immunology, Department of Medicine, 
+Mayo Clinic Arizona, Scottsdale, Ariz; Division of Allergy and Immunology, 
+Phoenix Children's Hospital, Phoenix, Ariz. Electronic address: 
+wright.benjamin@mayo.edu.
+
+DOI: 10.1016/j.jaci.2024.11.017
+PMCID: PMC12040323
+PMID: 39571913
+
+Conflict of interest statement: Disclosure statement Supported by the National 
+Institutes of Health/National Insitute of Allergy and Infectious Diseases (grant 
+K23AI158813 [to B.L.W.]). Disclosure of potential conflict of interest: The 
+authors declare that they have no relevant conflicts of interest.
+
+
+3. Nutrients. 2024 Sep 22;16(18):3201. doi: 10.3390/nu16183201.
+
+Transplant-Acquired Food Allergy in Children.
+
+Indolfi C(1), Klain A(1), Dinardo G(1), Grella C(1), Perrotta A(1), Colosimo 
+S(1), Decimo F(1), Miraglia Del Giudice M(1).
+
+Author information:
+(1)Department of Woman, Child and of General and Specialized Surgery, University 
+of Campania Luigi, Vanvitelli, 80138 Naples, Italy.
+
+BACKGROUND: Organ transplantation in children is a vital procedure for those 
+with end-stage organ failure, but it has been linked to the development of 
+post-transplant allergies, especially food allergies. This phenomenon, known as 
+transplant-acquired food allergy (TAFA), is becoming increasingly recognized, 
+though its mechanisms remain under investigation. Pediatric transplant 
+recipients often require lifelong immunosuppressive therapy to prevent graft 
+rejection, which can alter immune function and heighten the risk of allergic 
+reactions. Our review aimed to gather the latest evidence on TAFA.
+METHODS: We conducted a PubMed search from 25 June to 5 July 2024, using 
+specific search terms, identifying 143 articles. After screening, 36 studies 
+were included: 24 retrospective studies, 1 prospective study, 2 cross-sectional 
+researches, and 9 case reports/series.
+RESULTS: Most studies focused on liver transplants in children. The prevalence 
+of food allergies ranged from 3.3% to 54.3%. Tacrolimus, alongside 
+corticosteroids, was the most commonly used immunosuppressive therapy. In 
+addition to food allergies, some patients developed atopic dermatitis, asthma, 
+and rhinitis. Allergic symptoms typically emerged within a year post-transplant, 
+with common allergens including milk, eggs, fish, nuts, soy, wheat, and 
+shellfish. Both IgE-mediated and non-IgE-mediated reactions were observed, with 
+treatment often involving the removal of offending foods and the use of 
+adrenaline when necessary.
+CONCLUSIONS: Consistent immunological monitoring, such as skin prick tests and 
+IgE level assessments, is essential for early detection and management of 
+allergies in these patients. Understanding the link between transplantation and 
+allergy development is crucial for improving long-term outcomes for pediatric 
+transplant recipients.
+
+DOI: 10.3390/nu16183201
+PMCID: PMC11434934
+PMID: 39339801 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+4. World Allergy Organ J. 2024 Sep 10;17(9):100947. doi: 
+10.1016/j.waojou.2024.100947. eCollection 2024 Sep.
+
+World Allergy Organization (WAO) Diagnosis and Rationale for Action against 
+Cow's Milk Allergy (DRACMA) guideline update - XI - Milk supplement/replacement 
+formulas for infants and toddlers with CMA - Systematic review.
+
+Bognanni A(1)(2)(3), Firmino RT(4), Arasi S(5), Chu DK(1)(3)(6), Chu AWL(3)(7), 
+Waffenschmidt S(8), Agarwal A(9), Dziechciarz P(10), Horvath A(10), Mihara 
+H(11), Roldan Y(12), Terracciano L(13)(14), Martelli A(15), Starok A(16), Said 
+M(17), Shamir R(18), Ansotegui IJ(19), Dahdah L(5), Ebisawa M(20), Galli E(21), 
+Kamenwa R(22), Lack G(23)(24), Li H(25), Pawankar R(26), Warner A(27), Wong 
+GWK(28), Bozzola M(29), Assa'Ad A(30), Dupont C(31), Bahna S(32), Spergel 
+J(33)(34), Venter C(35)(36), Szajewska H(37), Nowak-Wegrzyn AH(38)(39), 
+Vandenplas Y(40)(41), Papadopoulos NG(42)(43), Waserman S(6), Fiocchi A(5), 
+Schünemann HJ(2), Brożek JL(1)(6).
+
+Author information:
+(1)Department of Health Research Methods, Evidence & Impact, McMaster 
+University, Hamilton, Ontario, Canada.
+(2)Clinical Epidemiology and Research Center (CERC), Humanitas University & 
+Humanitas Research Hospital, Pieve Emanuele, Milano, Italy.
+(3)Department of Medicine, Evidence in Allergy Group, McMaster University, 
+Hamilton, Ontario, Canada.
+(4)Academic Unit of Biological Sciences, Federal University of Campina Grande, 
+Patos, Paraíba, Brazil.
+(5)Translational Research in Pediatric Specialties Area, Division of Allergy, 
+Bambino Gesù Children's Hospital, IRCCS, Rome, Italy.
+(6)Department of Medicine, Division of Clinical Immunology and Allergy, McMaster 
+University, Hamilton, Ontario, Canada.
+(7)Department of Medicine, McMaster University, Hamilton, Ontario, Canada.
+(8)Institute for Quality and Efficiency in Health Care, Cologne, Germany.
+(9)Department of Medicine, Division of Internal Medicine, McMaster University, 
+Hamilton, Ontario, Canada.
+(10)Medical University of Warsaw, Warsaw, Poland.
+(11)Clinical Development Infectious Disease, Moderna Japan Co., Ltd., Japan.
+(12)McMaster University, Hamilton, Ontario, Canada.
+(13)Pediatric Primary Care, National Pediatric Health Care System, Milan, Italy.
+(14)Italian Society of Preventive and Social Pediatrics (SIPPS), Italy.
+(15)Italian Society of Allergy and Pediatric Immunology (SIAIP), Italy.
+(16)Evidence Prime Inc., Krakow, Poland.
+(17)Allergy & Anaphylaxis Australia, Sydney, Australia.
+(18)Institute for Gastroenterology, Nutrition and Liver Diseases, Schneider 
+Children's Medical Center of Israel, Faculty of Medical and Health Sciences, Tel 
+Aviv University, Israel.
+(19)Department of Allergy & Immunology, Hospital Quironsalud Bizkaia, Erandio, 
+Bilbao, Spain.
+(20)Clinical Research Center for Allergy and Rheumatology, NHO Sagamihara 
+National Hospital, Kanagawa, Japan.
+(21)Pediatric Allergy Unit, Research Center, San Pietro Hospital - 
+Fatebenefratelli, Rome, Italy.
+(22)Department of Pediatrics and Child Health, Aga Khan University Hospital, 
+Nairobi, Kenya.
+(23)Department of Women and Children's Health/Peter Gorer Department of 
+Immunobiology, School of Life Course Sciences, Faculty of Life Sciences & 
+Medicine, King's College London, United Kingdom.
+(24)Evelina London Children's Hospital, Guy's and St Thomas' Hospital NHS 
+Foundation Trust, United Kingdom.
+(25)Department of Primary Child Care, Children's Hospital, Chongqing Medical 
+University, China.
+(26)Department of Pediatrics. Nippon Medical School, Tokyo, Japan.
+(27)Allergy UK, Crayford, Kingdom, United Kingdom.
+(28)Department of Paediatrics, Faculty of Medicine, The Chinese University of 
+Hong Kong, Hong Kong.
+(29)Pediatric Allergy and Immunology Section, Dept of Pediatrics, Hospital 
+Británico de Buenos Aires, Buenos Aires, Argentina.
+(30)Division of Allergy and Immunology, Cincinnati Children's Hospital Medical 
+Center, and the University of Cincinnati College of Medicine, Cincinnati, OH, 
+USA.
+(31)Clinique Marcel Sembat, Ramsay Group, Boulogne-Billancourt, France.
+(32)Louisiana State University Health Sciences Center - Shreveport, Shreveport, 
+LA, USA.
+(33)Division of Allergy and Immunology, Children's Hospital of Philadelphia, 
+USA.
+(34)Perelman School of Medicine at University of Pennsylvania, Philadelphia, PA, 
+USA.
+(35)Section of Allergy and Clinical Immunology, University of Colorado, USA.
+(36)Children's Hospital Colorado. Denver, Colorado, USA.
+(37)Department of Paediatrics, The Medical University of Warsaw, Warsaw, Poland.
+(38)Department of Pediatrics, Hassenfeld Children's Hospital, New York 
+University, Grossman School of Medicine, New York, NY, USA.
+(39)Department of Pediatrics, Gastroenterology and Nutrition, Collegium Medicum, 
+University of Warmia and Mazury, Olsztyn, Poland.
+(40)Vrije Universiteit Brussel (VUB), UZ Brussel, Belgium.
+(41)KidZ Health Castle, Brussels, Belgium.
+(42)Allergy Department, 2nd Pediatric Clinic, University of Athens, Athens, 
+Greece.
+(43)Lydia Becker Institute, University of Manchester, Manchester, United 
+Kingdom.
+
+BACKGROUND: Cow's milk allergy (CMA) is the most complex and common food allergy 
+in infants. Elimination of cow's milk from the diet and replacement with a 
+specialized formula for infants with cow's milk allergy who cannot be breastfed 
+is an established approach to minimize the risk of severe allergic reactions 
+while avoiding nutritional deficiencies. Given the availability of multiple 
+options, such as extensively hydrolyzed cow's milk-based formula (eHF-CM), 
+aminoacid formula (AAF), hydrolyzed rice formula (HRF), and soy formula (SF), 
+there is some uncertainty regarding which formula might represent the most 
+suitable choice with respect to health outcomes. The addition of probiotics to a 
+specialized formula has also been proposed as a potential approach to possibly 
+increase the benefit. We systematically reviewed specialized formulas for 
+infants with CMA to inform the updated World Allergy Organization (WAO) DRACMA 
+guidelines.
+OBJECTIVE: To systematically review and synthesize the available evidence about 
+the use of specialized formulas for the management of individuals with CMA.
+METHODS: We searched from inception PubMed, Medline, Embase, the Cochrane 
+Central Register of Controlled Trials (CENTRAL), and the websites of selected 
+allergy organizations, for randomized and non-randomized trials of any language 
+investigating specialized formulas with or without probiotics. We included all 
+studies irrespective of the language of the original publication. The last 
+search was conducted in January 2024. We synthesized the identified evidence 
+quantitatively or narratively as appropriate and summarized it in the evidence 
+profiles. We conducted this review following the PRISMA, Cochrane methods, and 
+the GRADE approach.
+RESULTS: We identified 3558 records including 14 randomized trials and 7 
+observational studies. Very low certainty evidence suggested that in infants 
+with IgE-mediated CMA, eHF-CM, compared with AAF, might have higher probability 
+of outgrowing CMA (risk ratio (RR) 2.32; risk difference (RD) 25 more per 100), 
+while showing potentially lower probability of severe vomiting (RR 0.12, 95% CI 
+0.02 to 0.88; RD 23 fewer per 100, 95% CI 3 to 26) and developing food 
+protein-induced enterocolitis syndrome (FPIES) (RR 0.15, 95% CI 0.03 to 0.82; RD 
+34 fewer per 100, 95% CI 7 to 39). We also found, however, that eHF-CM might be 
+inferior to AAF in supporting a physiological growth, with respect to both 
+weight (-5.5% from baseline, 95%CI -9.5% to -1.5%) and length (-0.7 z-score 
+change, 95%CI -1.15 to -0.25) (very low certainty). We found similar effects for 
+eHF-CM, compared with AAF, also in non-IgE CMA. When compared with SF, eHF-CM 
+might favor weight gain for IgE CMA infants (0.23 z-score change, 95%CI 0.01 to 
+0.45), and tolerance acquisition (RR 1.86, 95%CI 1.03 to 3.37; RD 27%, 95%CI 
+1%-74%) for non-IgE CMA (both at very low certainty of the evidence (CoE)). The 
+comparison of eHF-CM vs. HRF, and HRF vs. SF, showed no difference in effect 
+(very low certainty). For IgE CMA patients, low certainty evidence suggested 
+that adding probiotics (L. rhamnosus GG, L. casei CRL431 and B. lactis Bb-12) 
+might increase the probability of developing CMA tolerance (RR 2.47, 95%CI 1.03 
+to 5.93; RD 27%, 95%CI 1%-91%), and reduce the risk of severe wheezing (RR 0.12, 
+95%CI 0.02 to 0.95; RD -23%, 95%CI -8% to -0.4%). However, in non-IgE CMA 
+infants, the addition of probiotics (L. rhamnosus GG) showed no significant 
+effect, as supported by low to very low CoE.
+CONCLUSIONS: Currently available studies comparing eHF-CM, AAF, HRF, and SF 
+provide very low certainty evidence about their effects in infants with 
+IgE-mediated and non-IgE-mediated CMA. Our review revealed several limitations 
+in the current body of evidence, primarily arising from concerns related to the 
+quality of studies, the limited size of the participant populations and most 
+importantly the lack of diversity and standardization in the compared 
+interventions. It is therefore imperative for future studies to be 
+methodologically rigorous and investigate a broader spectrum of available 
+interventions. We encourage clinicians and researchers to review current World 
+Allergy Organization (WAO) Diagnosis and Rationale for Action against Cow's Milk 
+Allergy (DRACMA) Guidelines for suggestions on how to use milk replacement 
+formulas in clinical practice and what additional research would be the most 
+beneficial.
+
+© 2024 The Author(s).
+
+DOI: 10.1016/j.waojou.2024.100947
+PMCID: PMC11415968
+PMID: 39310372
+
+Conflict of interest statement: HJS and JLB, on behalf of McMaster University, 
+received a research grant from the World Allergy Organization to conduct this 
+review that was deposited into the university research account. RS participated 
+as a clinical investigator, and/or advisory board member, and/or consultant, 
+and/or speaker for Abbott, Else, and Nestlé. HS serves as a board member of the 
+International Scientific Association for Probiotics and Prebiotics (ISAPP), an 
+unpaid and voluntary role. They have participated as a clinical investigator, 
+advisory board member, consultant, and speaker for several companies, including 
+Arla, BioGaia, Biocodex, Danone, Dicofarm, Nestlé, NNI, Nutricia, Mead Johnson, 
+and Novalac. YV has participated as a clinical investigator, and/or advisory 
+board member, and/or consultant, and/or speaker for Abbott Nutrition, Alba 
+Health, Arla, Ausnutria, Biogaia, By Heart, CHR Hansen, Danone, ELSE Nutrition, 
+Friesland Campina, Nestle Health Science, Nestle Nutrition Institute, Nutricia, 
+Mead Johnson Nutrition, Pileje, Sanulac, United Pharmaceuticals (Novalac), 
+Yakult, Wyeth. SW is the president of the Canadian Allergy Asthma and Immunology 
+Foundation, and participated as a clinical investigator, and/or advisory board 
+member, and/or consultant, and/or speaker for Pfizer, Kaleo, Bausch Health, GSK, 
+AZ, Sanofi, CSL Behring, Leo, AbbVie, Takeda, Medexus Pharma, MiravoHealth, 
+BioCryst, ALK, Novartis. They also covered the positions of: BOD Asthma Canada, 
+CHAEN. MS works for Allergy & Anaphylaxis Australis, which receives unrestricted 
+educational grants from infant formula companies. AW works for Allergy UK works 
+with corporate partners including those providing foods for special medical 
+purposes, such as Nutricia/Danone, Abbott, Reckitt Benckiser/Mead Johnson. They 
+have been a speakers for 2 Nutricia symposia, with honoraria being paid to the 
+charity. All other authors declare that they have no relevant conflicts of 
+interest to disclose.
+
+
+5. Curr Opin Allergy Clin Immunol. 2024 Oct 1;24(5):341-348. doi: 
+10.1097/ACI.0000000000001008. Epub 2024 Jul 22.
+
+Food-triggered anaphylaxis in adults.
+
+Chong T(1), Olivieri B(2), Skypala IJ(3)(4).
+
+Author information:
+(1)National Skin Centre, Singapore, Singapore.
+(2)Department of Medicine, Asthma, Allergy and Clinical Immunology Section, 
+University of Verona, Verona, Italy.
+(3)Royal Brompton & Harefield Hospitals, part of Guys & St Thomas NHS Foundation 
+Trust.
+(4)Department of Inflammation & Repair, Imperial College, London, UK.
+
+PURPOSE OF REVIEW: Adult food allergy, either unresolved from childhood, or 
+new-onset in adult-life, is known to be increasingly prevalent. Although much of 
+the reported anaphylaxis in adults is due to drug reactions, foods are becoming 
+an increasingly important trigger, affecting adults of all ages, with a wide 
+variation in food triggers which are often quite different to those reported in 
+children.
+RECENT FINDINGS: Peanuts are well known to cause anaphylaxis in some adult 
+populations, but other legumes such as soy may be more relevant in others. 
+Reactions to natto, fermented soybeans, are currently mainly reported in Japan, 
+but changing dietary practices and an increase in plant-based eating mean natto, 
+other forms of soy and other legumes are increasingly linked to anaphylaxis in 
+Western countries. Anaphylaxis to red meat, caused by sensitization to 
+galactose-α-1,3-galactose and first reported in North America, is now a more 
+world-wide concern. Co-factor induced anaphylaxis is increasingly associated 
+with both wheat allergy and lipid transfer protein allergy.
+SUMMARY: More research is urgently needed to characterize adult food allergy, 
+its triggers and symptom severity. Unusual food triggers and potential 
+co-factors should be considered, so that anaphylaxis in adults can be correctly 
+managed, not merely labelled as idiopathic.
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/ACI.0000000000001008
+PMID: 39079158 [Indexed for MEDLINE]
+
+
+6. Curr Allergy Asthma Rep. 2024 Sep;24(9):527-548. doi: 
+10.1007/s11882-024-01165-7. Epub 2024 Jul 11.
+
+Legume Allergens Pea, Chickpea, Lentil, Lupine and Beyond.
+
+Abu Risha M(1)(2), Rick EM(1)(2), Plum M(1)(2), Jappe U(3)(4)(5).
+
+Author information:
+(1)Clinical and Molecular Allergology, Priority Research Area Chronic Lung 
+Diseases, Research Center Borstel, Borstel, Germany.
+(2)German Center for Lung Research (DZL), Airway Research Center North (ARCN), 
+Borstel, Germany.
+(3)Clinical and Molecular Allergology, Priority Research Area Chronic Lung 
+Diseases, Research Center Borstel, Borstel, Germany. ujappe@fz-borstel.de.
+(4)German Center for Lung Research (DZL), Airway Research Center North (ARCN), 
+Borstel, Germany. ujappe@fz-borstel.de.
+(5)Interdisciplinary Allergy Outpatient Clinic, Department of Pneumology, 
+University of Lübeck, Lübeck, Germany. ujappe@fz-borstel.de.
+
+PURPOSE OF THE REVIEW: In the last decade, an increasing trend towards a 
+supposedly healthier vegan diet could be observed. However, recently, more cases 
+of allergic reactions to plants and plant-based products such as 
+meat-substitution products, which are often prepared with legumes, were 
+reported. Here, we provide the current knowledge on legume allergen sources and 
+the respective single allergens. We answer the question of which legumes beside 
+the well-known food allergen sources peanut and soybean should be considered for 
+diagnostic and therapeutic measures.
+RECENT FINDINGS: These "non-priority" legumes, including beans, pea, lentils, 
+chickpea, lupine, cowpea, pigeon pea, and fenugreek, are potentially new 
+important allergen sources, causing mild-to-severe allergic reactions. Severe 
+reactions have been described particularly for peas and lupine. An interesting 
+aspect is the connection between anaphylactic reactions and exercise 
+(food-dependent exercise-induced anaphylaxis), which has only recently been 
+highlighted for legumes such as soybean, lentils and chickpea. Most allergic 
+reactions derive from IgE cross-reactions to homologous proteins, for example 
+between peanut and lupine, which is of particular importance for peanut-allergic 
+individuals ignorant to these cross-reactions. From our findings we conclude 
+that there is a need for large-scale studies that are geographically distinctive 
+because most studies are case reports, and geographic differences of allergic 
+diseases towards these legumes have already been discovered for well-known "Big 
+9" allergen sources such as peanut and soybean. Furthermore, the review 
+illustrates the need for a better molecular diagnostic for these emerging 
+non-priority allergen sources to evaluate IgE cross-reactivities to known 
+allergens and identify true allergic reactions.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s11882-024-01165-7
+PMCID: PMC11364600
+PMID: 38990406 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+graphical abstract in Fig. 1 was created with biorender.com.
+
+
+7. Allergol Select. 2024 May 3;8:90-198. doi: 10.5414/ALX02444E. eCollection
+2024.
+
+AWMF mold guideline "Medical clinical diagnostics for indoor mold exposure" - 
+Update 2023 AWMF Register No. 161/001.
+
+Hurraß J(1)(2)(3), Heinzow B(4)(2), Walser-Reichenbach S(4)(2)(3), Aurbach 
+U(5)(6)(2), Becker S(7)(2), Bellmann R(8)(2), Bergmann KC(9)(2)(3), Cornely 
+OA(10)(2), Engelhart S(11)(2)(3), Fischer G(12)(2), Gabrio T(13)(2), Herr 
+CEW(14)(15)(2)(3), Joest M(16)(2), Karagiannidis C(17)(18)(2), Klimek 
+L(19)(2)(3), Köberle M(20)(2)(3), Kolk A(21)(2), Lichtnecker H(22)(2), 
+Lob-Corzilius T(23)(2)(3), Mülleneisen N(24)(2)(3), Nowak D(25)(2)(3), Rabe 
+U(26)(2)(3), Raulf M(27)(2)(3), Steinmann J(28)(2), Steiß JO(29)(30)(2)(3), 
+Stemler J(10)(2), Umpfenbach U(31)(2), Valtanen K(32)(2), Werchan B(33)(2), 
+Willinger B(34)(2)(3), Wiesmüller GA(5)(6)(35)(2)(3).
+
+Author information:
+(1)Section for Hygiene in Healthcare Facilities, Division of Infection Control 
+and Environmental Hygiene, Cologne Health Department, Cologne.
+(2)Co-author.
+(3)Member of a scientific medical society, a society or a medical association 
+with voting rights.
+(4)Formerly: State Agency for Social Services (LAsD) Schleswig-Holstein, Kiel.
+(5)Laboratory Dr. Wisplinghoff.
+(6)ZfMK - Center for Environment, Hygiene and Mycology Cologne, Cologne.
+(7)Department for Otorhinolaryngology, Head and Neck Surgery, University Medical 
+Center Tübingen, Tübingen, Germany.
+(8)Department of Internal Medicine I, Medical University of Innsbruck, 
+Innsbruck, Austria.
+(9)Institute of Allergology Charité, Charité - University Medicine Berlin, 
+Berlin.
+(10)Institute for Translational Research, CECAD Cluster of Excellence, 
+University of Cologne, Cologne, Germany and Department I for Internal Medicine, 
+Cologne University Hospital, Cologne.
+(11)Institute for Hygiene and Public Health, University Hospital Bonn, Bonn.
+(12)Baden-Württemberg State Health Office in the Stuttgart Regional Council, 
+Stuttgart.
+(13)Formerly: Baden-Württemberg State Health Office in the Stuttgart Regional 
+Council, Stuttgart.
+(14)Bavarian Health and Food Safety Authority, Munich.
+(15)Environmental Health and Prevention, Institute and Polyclinic for 
+Occupational, Social and Environmental Medicine, University of Munich Hospital 
+Ludwig-Maximilians-University, Munich.
+(16)Allergological-Immunological Laboratory, Helios Lung and Allergy Center 
+Bonn, Bonn.
+(17)Faculty of Health, Professorship for Extracorporeal Lung Replacement 
+Procedures, University of Witten/Herdecke, Witten/Herdecke.
+(18)Lung Clinic Cologne Merheim, Clinics of the City of Cologne, Cologne.
+(19)Center for Rhinology and Allergology, Wiesbaden.
+(20)Department of Dermatology and Allergy Biederstein, School of Medicine, 
+Technical University of Munich, Munich.
+(21)Institute for Occupational Safety and Health (IFA) of the German Social 
+Accident Insurance (DGUV), Unit Biological Agents, Sankt Augustin.
+(22)Medical Institute for Environmental and Occupational Medicine MIU GmbH 
+Erkrath, Erkrath.
+(23)Scientific working group of environmental medicine of the German Society of 
+Pediatric Allergology (GPAU).
+(24)Asthma and Allergy Center Leverkusen, Leverkusen.
+(25)Institute and Polyclinic for Occupational, Social and Environmental 
+Medicine, member of the German Center for Lung Research, Hospital of the 
+University of Munich, Munich.
+(26)Center for Allergology and Asthma, Johanniter Hospital Treuenbrietzen, 
+Treuenbrietzen.
+(27)Institute for Prevention and Occupational Medicine of the German Statutory 
+Accident Insurance, Institute of the Ruhr University Bochum (IPA), Bochum.
+(28)Center for Pediatrics and Adolescent Medicine, University Hospital Giessen 
+and Marburg GmbH, Giessen.
+(29)Specialized Practice in Allergology and Pediatric Pulmonology in Fulda, 
+Fulda.
+(30)Institute for Clinical Hygiene, Medical Microbiology and Clinical 
+Infectiology, Paracelsus Private Medical University Nuremberg Clinic, Nuremberg.
+(31)Doctor for Pediatrics and Adolescent Medicine, Pediatric Pulmonology, 
+Environmental Medicine, Classical Homeopathy, Asthma Trainer, Neurodermatitis 
+Trainer, Viersen.
+(32)FG II 1.4 Microbiological Risks, German Environment Agency, Berlin.
+(33)German Pollen Information Service Foundation (PID), Berlin, Germany.
+(34)Department of Laboratory Medicine, Division of Clinical Microbiology - 
+Medical University of Vienna, Vienna, Austria, and.
+(35)Institute for Occupational, Social and Environmental Medicine, Uniclinic 
+RWTH Aachen, Aachen, Germany.
+
+None.
+
+© Dustri-Verlag Dr. K. Feistle.
+
+DOI: 10.5414/ALX02444E
+PMCID: PMC11097193
+PMID: 38756207
+
+Conflict of interest statement: See Table 14. Figure 1Incubation period [775, 
+778].Figure 2Temporal relationship between sensitization and first allergic 
+reaction [775, 778].Figure 3Latency period [775, 778]. Figure 4Annual course of 
+the occurrence of mold spores in the outdoor air, spore concentrations as weekly 
+values in spores/m3 air, pollen trap in Leverkusen. Source: Mülleneisen 2023, 
+unpublished data. A volumetric spore trap based on the Hirst principle was used 
+to determine the concentration [269] with associated microscopic analysis of the 
+samples. The measurement method is standardized [738].Figure 5Monthly course of 
+spore concentrations (in spores/m3 of air) in the outdoor air for several mold 
+genera as an example for one year and one measuring station in Germany: a) 
+Pleospora 2021 – Berlin measuring station, b) Cladosporium 2021 – Chemnitz 
+measuring station, c) Alternaria 2021 – Berlin measuring station, d) Epicoccum 
+2021 – Berlin measuring station. Missing data at the Chemnitz station in the 
+periods: February 24, 2021 to March 1, 2021 and April 1, 2021 to April 6, 2021. 
+The figure was provided by the German Pollen Information Service Foundation 
+(Stiftung Deutscher Polleninformationsdienst). The concentration was determined 
+using volumetric spore traps based on the Hirst principle [269] followed by 
+microscopic analysis of the samples. The measurement procedure is standardized 
+[738].Risk matrix 1. Risk of infection by mold (The darker a box, the greater 
+the possible health risk.). Risk matrix 2.Risk of sensitization/risk of allergy 
+caused by mold (the darker the color, the greater the possible health risk). 
+*Proof of the clinical relevance of a sensitization determined in the allergy 
+test required! Table 2.Important sources of frequently occurring mold species 
+and genera (examples from practical investigations). Species or genusImportant 
+sourcesCladosporium herbarum, Alternaria alternata, Botrytis cinereaVegetation, 
+outdoor air-associatedAspergillus versicolor complex and Scopulariopsis 
+brevicaulisDamp plasterXerophilic Aspergillus species of the Restrictus complex 
+(esp. A. penicillioides and A. restrictus) as well as Aspergillus 
+glaucus/pseudoglaucus and A. montevidensis, Wallemia sebiCellulose-containing 
+materials with only slightly increased moistureAspergillus fumigatusComposting, 
+rotting of plant material, indicator for thermotolerant processesChaetomium 
+spp., Trichoderma spp., Phialophora spp.Colonizer of damp wood and cellulose 
+materials such as cardboardPenicillium speciesPerishable food, waste, organic 
+waste and wallpaper, house dustSarocladium strictum, Parengyodontium album, 
+Lecanicillium psalliotae and Simplicillium spp.Polystyrene floor insulation with 
+prolonged moisture penetrationStachybotrys chartarum, Acremonium spp, Chaetomium 
+spp.Very moist, cellulose-containing building materialsWallemia sebi, 
+Aspergillus restrictus complexKeeping caged animals with bedding Table 
+3.Examples of species complexes based on molecular analyses (modified according 
+to [297]). Complex or groupSelected speciesMolecular markers for 
+differentiationAspergillus versicolor complexA. versicolor, A. amoenus, A. 
+creber, A. jensenii, A. protuberus, et al.CaM, β-TubAspergillus niger complexA. 
+niger, A. acidus, A. aculeatus, A. brasiliensis, A. tubingensis, et al.CaM, 
+β-TubAspergillus fumigatus complexA. fumigatus, A. lentulus, A. novofumigatus, 
+A. fumigatiaffinis, et al.CaM, β-Tub (Note: Cultivation at 37 °C; 
+Differentiation A. lentulus)Fusarium solani complexF. solani, F. 
+keratoplasticum, F. petroliphilum, F. lichenicola, et al.EF-1α, RPB-1 and/or 
+RPB-2 Table 4.Evidence for the relationship between indoor moisture/mold 
+exposure and disease (in alphabetical order), modified from [7, 39, 45, 58, 59, 
+74, 78, 79, 80, 101, 108,111, 116, 119, 131, 133, 162, 169, 175, 181, 182, 183, 
+201, 202, 204, 211, 212, 245, 263, 273, 275, 287, 289, 291, 298, 303, 316, 319, 
+322, 338, 363, 370, 394, 437, 442, 444, 445, 449, 450, 451, 462, 465, 466, 467, 
+490, 499, 501, 504, 509, 514, 520, 521, 522, 525, 526, 528, 532, 534, 537, 540, 
+546, 547, 552, 553, 568, 569, 596, 598, 632, 635, 642, 643, 644, 645, 652, 655, 
+694, 698, 717, 722, 742, 746, 754, 756, 757, 777, 783, 790, 791, 794, 797]. 
+Causal relationship Sufficient evidence for an association1Allergic 
+bronchopulmonary aspergillosis (ABPA) Allergic bronchopulmonary mycoses (ABPM) 
+Allergic respiratory diseases Allergic rhinitis Allergic rhinoconjunctivitis 
+Aspergilloma Aspergillosis Aspergillus bronchitis Asthma (manifestation, 
+progression, exacerbation) Bronchitis (acute, chronic) Community-acquired 
+aspergillus pneumonia Favoring respiratory infections Hypersensitivity 
+pneumonitis (HP); extrinsic allergic alveolitis (EAA) Invasive aspergillosis 
+Mycoses Organic dust toxic syndrome (ODTS) (workplace) Pulmonary aspergillosis 
+(subacute, chronic) Rhinosinusitis (acute, chronic invasive or granulomatous, 
+allergic)Limited or suspected evidence of an associationAtopic eczema / atopic 
+dermatitis / neurodermatitis (manifestation) Chronic obstructive pulmonary 
+disease (COPD) Mood disorders Mucous membrane irritation (MMI) Odor effects 
+SarcoidosisInadequate or insufficient evidence for an associationAcute 
+idiopathic pulmonary hemorrhage in children Airborne mycotoxicosis Arthritis 
+Autoimmune diseases Cancer Chronic fatigue syndrome (CFS) Endocrinopathies 
+Gastrointestinal effects Multiple Chemical Sensitivity (MCS) Multiple sclerosis 
+Neuropsychological effects Neurotoxic effects Sudden infant death syndrome Renal 
+effects Reproductive disorders Rheumatism Sick building syndrome (SBS) 
+Teratogenicity Thyroid diseases Urticaria 1The diseases listed here can be 
+subsumed under the term Building Related Illness (BRI), even though BRI requires 
+that the etiology, pathology, pathophysiology, diagnosis, treatment, prevention 
+and prognosis are clearly known [429, 663]. Table 5.Examples of typical antigens 
+and antigen sources for hypersensitivity pneumonitis (HP; extrinsic allergic 
+alveolitis (EAA) (mod. after Costabel et al. 2020 [113]). AntigenAntigen 
+sourceHP typeBacteria   Thermophilic actinomycetesMoldy hay and straw Farmer’s 
+lungSugar cane dustBagassosis   Klebsiella oxytocaHumidifierHumidifier lung 
+Mycobacteria   Mycobacterium avium complexWhirlpoolsWhirlpool lung (hot tub 
+lung)   Mycobacterium immunogenumCooling lubricantsMachinist’s 
+lungMushrooms   Absidia corymbiferaMoldy hay and straw Farmer’s 
+lung   Trichosporon cutaneumInteriorsSummer-type alveolitis   Penicillium 
+roquefortiCheese production/industrial sourcesCheese washer lung 
+   Purpureocillium lilacinum, Aspergillus spp. Wind instrumentsWind instrument 
+alveolitisAnimal proteins   Feathers and excrementBirdsBird keeper lung   Serum 
+and urineRatsRat protein alveolitisPlant proteins   Nut dustTiger nutsTigernut 
+alveolitis   Soy dustSoy productsSoy dust alveolitis   Wood dustVarious wood 
+dustsWoodworker’s alveolitisEnzymes   PhytaseAnimal feed productionPhytase 
+alveolitis   Enzymes from Bacillus subtilisBiological cleaning agentDetergent 
+lung Table 6.Diagnostic criteria for allergic bronchopulmonary aspergillosis. a) 
+Diagnostic criteria for allergic bronchopulmonary aspergillosis according to 
+Rosenberg et al. [586]:Main criteria:   1. Bronchial asthma    2. Positive 
+immediate reaction in the skin test for Aspergillus fumigatus   3. Total IgE > 
+417 IU/mL   4. Positive specific IgE against Aspergillus fumigatus   5. IgG 
+antibodies against Aspergillus fumigatus   6. Blood eosinophilia (> 1,000 
+Eos/µL)   7. Central bronchiectasis   8. Radiological volatile or permanent 
+pulmonary infiltratesSecondary criteria   Tough mucus plugs   Positive sputum 
+culture for Aspergillus fumigatus   Late reaction in the intradermal test for 
+Aspergillus fumigatusb) Modified ISHAM diagnostic criteria for allergic 
+bronchopulmonary aspergillosis 2021 [616]:Combination of criteria with best 
+sensitivity/specificity:   1. Bronchial asthma   2. Aspergillus 
+fumigatus-specific IgE > 0.35 kU/L   3. Total IgE > 500 IU/mLand at least two of 
+the following criteria:   1. Aspergillus fumigatus-specific IgG > 27 mgA/dL   2. 
+Bronchiectasis in CT thorax   3. Eosinophilia in the blood count > 500/µL Table 
+7.Mold mycoses and their pathogens [712]. Infectious disease (invasive 
+mycosis)Pathogen (risk group according. TRBA 460 (2016) [712]AspergillosisA. 
+fumigatus (2)A. flavus (2)A. niger (complex) (1, 2)A. terreus (2)A. nidulans 
+(1)MucormycosisRhizopus oryzae (2)Mucor sp. (1)Rhizomucor 
+(1)PhaeohyphomycosesCurvularia sp. (1)Bipolaris sp. (1)Alternaria sp. 
+(1)HyalohyphomycosesFusarium sp. (1, 2)Pseudallescheria sp.= Scedosporium sp. 
+(2)PenicilliosesTalaromyces (formerly Penicillium) marneffei (2) Table 
+8.Differential diagnosis of extrinsic allergic alveolitis (EAA) and organic dust 
+toxic syndrome (ODTS) [354]. FeaturesEAAODTSExposureVarious allergensEndotoxins, 
+high exposureIncidence2 – 30 / 10,00010 – 100 / 10,000Latency4 – 8 hours4 – 12 
+hoursAuscultationEnd-expiratory rales on both sides basalNormal, possibly 
+rattling noisesLung functionRestriction (rarely obstruction, DLCO reducedNormal 
+(possible restriction)PrecipitinsOften specific IgGMostly negative Table 
+9.Immunosuppression risk groups of the Commission for Hospital Hygiene and 
+Infection Prevention (KRINKO) at the Robert Koch Institute [349]. Risk group 1 
+(moderate immunosuppression/deficiency)– Granulocytopenia < 0.5 × 109 /L; (< 
+500/µL) probably up to 10 days (analogous to leukopenia < 1 × 109 /L; < 
+1,000/µL), – Autologous stem cell transplantation up to 3 months after day 0 
+(day of stem cell return) – Lack of CD4-positive T helper cells < 200/µL 
+(Caveat: age-appropriate normal values in children) – Autologous stem cell 
+transplantation up to 3 months after intensive therapy phase Patients who have 
+more than one characteristic of the immunosuppression/deficiency listed under 
+risk group 1 are assigned to risk group 2.Risk group 2 (severe 
+immunosuppression/deficiency)– Granulocytopenia < 0.5 × 109 /L (< 500/μL) for 
+more than 10 days (analogous to leukopenia < 1× 109 /L; < 1,000/μL) – Severe 
+aplastic anemia or macrophage activation syndrome during intensive 
+immunosuppressive therapy – Allogeneic bone marrow or stem cell transplantation 
+up to 6 months after completion of the intensive therapy phase (important: 
+extent of GVHD and ongoing iatrogenic immunosuppression) – Acute inpatient 
+treatment phase for autologous stem cell transplantation or after solid organ 
+transplantation (until discharge)Risk group 3 (very severe 
+immunosuppression/deficiency)– Allogeneic BMT/PBSCT in intensive therapy phase 
+(until engraftment = regeneration of granulopoiesis) – Severe GVHD grade III or 
+IV under intensive immunosuppression The decision to assign patients after 
+allogeneic stem cell transplantation to group 3 is ultimately made by the 
+treating hematologist-oncologist after reviewing all findings.GVHD = 
+graft-versus-host-disease = graft-versus-host-reaction; BMT = mone marrow 
+transplantation; PBSCT = peripheral blood stem cell transplantation. Table 
+1.Medline search on the topic of the guideline (as of 12-2014 and 6-2022). 
+KeywordsNumber of publications found Status 12-2014 [777]Number of publications 
+found Status 6-2022Indoor mo(u)ld or indoor dampness and human 
+health1,9493,145Indoor mo(u)ld or indoor dampness and human health and 
+allergy1,8753,126Indoor mo(u)ld asthma440805Indoor mo(u)ld health 
+asthma285564Indoor mo(u)ld human health asthma494Indoor mo(u)ld 
+allergy1,198Indoor mo(u)ld health allergy434774Indoor mo(u)ld human health 
+allergy689Indoor mo(u)ld atopy89Indoor mo(u)ld health atopy2459Indoor mo(u)ld 
+human health atopy55Indoor mo(u)ld arthritis8Indoor mo(u)ld health 
+arthritis4Indoor mo(u)ld human health arthritis3Indoor mo(u)ld rheumatism5Indoor 
+mo(u)ld health rheumatism4Indoor mo(u)ld human health rheumatism3Mo(u)ld 
+arthritis rheumatism4662Indoor mo(u)ld arthritis rheumatism2Indoor mo(u)ld 
+health arthritis rheumatism2Indoor mo(u)ld human health arthritis 
+rheumatism1Indoor mo(u)ld infection750Indoor mo(u)ld health infection74435Indoor 
+mo(u)ld human health infection357Indoor mo(u)ld irritation113Indoor mo(u)ld 
+health irritation4295Indoor mo(u)ld human health irritation85Indoor mo(u)ld 
+symptoms1,159Indoor mo(u)ld health symptoms449724Indoor mo(u)ld human health 
+symptoms594Indoor mo(u)ld ergosterol50Indoor mo(u)ld health ergosterol2436Indoor 
+mo(u)ld human health ergosterol27Indoor mo(u)ld review450Indoor mo(u)ld health 
+review301Indoor mo(u)ld human health review160266Indoor mo(u)ld trial67Indoor 
+mo(u)ld health trial40Indoor mo(u)ld human health trial1732Indoor mo(u)ld 
+clinical diagnosis89194Indoor mo(u)ld health clinical diagnosis113Indoor mo(u)ld 
+human health clinical diagnosis93Indoor mo(u)ld diagnostic / 
+diagnostics800Indoor mo(u)ld health diagnostic / diagnostics273449Indoor mo(u)ld 
+human health diagnostic / diagnostics353Indoor mo(u)ld prevention654Indoor 
+mo(u)ld health prevention216433Indoor mo(u)ld human health prevention358Indoor 
+mo(u)ld treatment650Indoor mo(u)ld health treatment229360Indoor mo(u)ld human 
+health treatment293Indoor mo(u)ld therapy507Indoor mo(u)ld health 
+therapy196291Indoor mo(u)ld human health therapy250Indoor mo(u)ld air 
+filter174Indoor mo(u)ld health air filter5494Indoor mo(u)ld human health air 
+filter55 Table 10.Stage I - IV after conjunctival provocation test (CPT) [235]. 
+Stage IForeign body sensation, reddening of the conjunctiva, onset of 
+itchingStage IIAs I, plus lacrimation, more intense itching, reddening of the 
+conjunctiva tarsi of the lower eyelidStage IIIAs II, additionally reddening of 
+the conjunctiva tarsi of the upper eyelid, severe itching, blepharospasmStage 
+IVAs III, additionally chemosis, eyelid swelling, irresistible itching Table 
+11.Selection of diagnostic methods without sufficient scientific evidence or 
+without a medical or scientific basis in environmental medicine [5, 73, 232, 
+283, 350, 351, 352, 353, 355, 357, 512, 535, 684]. Diagnostic methods without 
+sufficient scientific evidenceStress tests in body mediae.g., molds in the 
+bloodAllergological examinationse.g., serial dilution titration, cytotoxic blood 
+tests, determination of IgG and IgA antibodies directed against molds in type I 
+allergiesInvestigations into disorders of the immune systeme.g., lymphocyte 
+stimulation test, determination of lymphocyte subpopulations, determination of 
+cytokinesInvestigations of the oxidative systeme.g., determination of oxidative 
+stressOphthalmological examinationse.g., visual contrast sensitivity Test (VCS 
+test)Diagnostic methods without a medical or scientific basisHolistic or 
+bioenergetic diagnostic procedurese.g., electro-acupuncture according to Voll, 
+bioresonance procedures, pendulum, Vega test, decoder dermography, biotonometry, 
+biotensor, Kirlian photography (plasma print procedure, energetic terminal point 
+diagnosis), regulation thermography according to Rost, auriculodiagnostics, 
+kinesiology, aurascopy, iris diagnostics“Clinical ecology” proceduree.g., 
+cytotoxic blood tests, provocation and neutralization test (PN test) Table 
+12.Examples of treatment methods without sufficient scientific evidence or 
+without a medical or scientific basis in environmental medicine [5, 73, 160, 
+384, 512, 762]. Treatment methods without sufficient scientific evidence 
+Antifungal treatment not in line with guidelines Detoxification therapy, e.g., 
+with cholestyramine (CSM therapy) Dietary changes Homeopathic treatments 
+Symbiosis controlTreatment methods without a medical or scientific basis 
+Bioresonance therapy (Moratherapy) Autologous blood and urine treatment Holistic 
+intestinal cleansing Salt therapy Clinical ecology procedures (e.g., provocation 
+and neutralization test (PN test)) Table 13.Cochrane EBM Review by Sauni et al. 
+(2011) [614] on the success of remediation measures after moisture or mold 
+damage in relation to asthma and respiratory symptoms as well as the frequency 
+of colds in adults and children. MeasureEffect on adultsEffect on childrenHome 
+renovation (Evidence level: moderate)Wheezing (asthma): OR 0.64 (KI: 0.55 – 
+0.75) Rhinitis: OR 0.57 (CI: 0.55 – 0.66) Acute treatments (mean difference): MD 
+–0.45 (KI: –0.76 – –0.14) Table 14.The authors’ declarations of conflicts of 
+interest and their assessment are presented below: Consultant or expert 
+activityCollaboration in a scientific advisory boardPaid lecturing or training 
+activitiesPaid authors or co-author-shipResearch projects / conducting clinical 
+studiesProprietary interests (patent, copyright, share ownership)Indirect 
+interestsTopics of the guideline affected by COI; classification of the conflict 
+of interest (IC) with regard to relevance, consequenceDr. med. Ute 
+AurbachNoNoNoNoNoNoNoClassification: no IC Consequence: nonePriv.-Doz. Dr. med. 
+Sven BeckerNoYesYesNoYesNoBoard member AeDAClassification: moderate IC; 
+consequence: no voting authorization for allergological topicsProf. Dr. med. 
+Romuald BellmannYesYesYesNoNoNoMandate holder ÖGMMClassification: moderate IC; 
+consequence: no eligibility for antifungal therapyProf. Dr. med. Karl-Christian 
+BergmannYesYesYesNoNoNoMandate holder DGPClassification: moderate IC; 
+consequence: not eligible to vote on asthma-related issuesProf. Dr. med. Oliver 
+A. CornelyYesYesYesNoNoNoNoClassification: moderate IC; consequence: no voting 
+rights for mycosis-related topicsProf. Dr. med. Steffen 
+EngelhartNoNoNoNoNoNoMandate holder GHUP and DGKH, Member of the Board 
+GHUPClassification: no IC; Consequence: noneDr. rer. nat. Guido 
+FischerNoNoNoNoNoNoNoClassification: no IC; Consequence: noneDr. rer. nat. 
+Thomas GabrioNoNoNoNoNoNoNoClassification: no IC; Consequence: noneDr. med. 
+Birger HeinzowNoNoNoNoNoNoNoClassification: no IC; Consequence: noneProf. Dr. 
+med. Caroline E.W. HerrNoNoNoNoNoNoMandate holder and President of the 
+GHUPClassification: no IC; Consequence: noneDr. rer. nat. Julia 
+HurraßNoNoNoNoNoNoMandate holder and board member of the GHUPClassification: no 
+IC; Consequence: noneDr. med. Marcus JoestNoNoYesNoNoNoNoClassification: low IC; 
+consequence: no management function (coordination/AG management)Prof. Dr. med. 
+Christian KaragiannidisNot specifiedNot specifiedNot specifiedNot specifiedNot 
+specifiedNot specifiedNot specifiedClassification: not possible; consequence: 
+not entitled to voteProf. Dr. med. Ludger KlimekNoYesYesNoYesNoMandate holder 
+AeDAClassification: moderate IC; consequence: no voting rights for 
+immunotherapyDr. rer. nat. Martin KöberleNoNoYesNoNoNoMandate holder 
+DDGClassification: low IC; consequence: no management function (coordination/AG 
+management)Dr. rer. nat. Annette KolkNot specifiedNot specifiedNot specifiedNot 
+specifiedNot specifiedNot specifiedNot specifiedClassification: not possible; 
+consequence: not entitled to voteDr. med. Dipl.-Chem. Herbert LichtneckerNot 
+specifiedNot specifiedNot specifiedNot specifiedNot specifiedNot specifiedNot 
+specifiedClassification: not possible; consequence: not entitled to voteDr. med. 
+Thomas Lob-CorziliusNoNoNoNoNoNoMandate holder GPAUClassification: no IC; 
+Consequence: noneNorbert MülleneisenNoNoNoNoNoNoMandate holder 
+DGPClassification: no IC; Consequence: noneProf. Dr. med. Dennis 
+NowakNoNoYesNoNoNoDGAUM and DGP elected representativesClassification: low IC; 
+consequence: no management function (coordination/AG management)Dr. med. Uta 
+RabeNoNoYesNoNoNoMandate holder AeDAClassification: low IC; consequence: no 
+management function (coordination/AG management)Prof. Dr. rer. nat. Monika 
+RaulfNoNoYesNoNoNoMandate holder DGAKI and DGAUMClassification: low IC; 
+consequence: no management function (coordination/AG management)Prof. Dr. med. 
+Jörg SteinmannNoNoYesNoNoNoNoClassification: low IC; consequence: no management 
+function (coordination/AG management)Prof. Dr. med. Jens-Oliver 
+SteißNoNoYesNoNoNoMandate holder BAPPClassification: low IC; consequence: no 
+management function (coordination/AG management)Dr. med. Jannik 
+StemlerNoNoYesNoNoNoNoClassification: low IC; consequence: no management 
+function (coordination/AG management)Dr. med. Ulli UmpfenbachNoNoNoNoNoNoBoard 
+member BAPP, WAPPA, AGAS, FAAKClassification: no IC; Consequence: noneDr. rer. 
+nat. Kerttu ValtanenNot specifiedNot specifiedNot specifiedNot specifiedNot 
+specifiedNot specifiedNot specifiedClassification: not possible; consequence: 
+not entitled to voteDr. rer. nat. Sandra Walser-ReichenbachNoNoNoNoNoNoMandate 
+holder GHUPClassification: no IC; Consequence: noneDr. rer. medic. Barbora 
+WerchanNoNoNoNoNoNoNoClassification: no IC; Consequence: noneProf. Dr. med. 
+Gerhard A. WiesmüllerNoNoNoNoNoNoMandate holder and Board member 
+GHUPClassification: no IC; Consequence: noneProf. Dr. med. Birgit 
+WillingerNoYesYesNoNoNoMandate holder DMykGClassification: low IC; consequence: 
+no management function (coordination/AG management)
+
+
+8. World Allergy Organ J. 2024 Mar 26;17(4):100888. doi: 
+10.1016/j.waojou.2024.100888. eCollection 2024 Apr.
+
+World Allergy Organization (WAO) Diagnosis and Rationale for Action against 
+Cow's Milk Allergy (DRACMA) guideline update - XII - Recommendations on milk 
+formula supplements with and without probiotics for infants and toddlers with 
+CMA.
+
+Bognanni A(1)(2)(3), Fiocchi A(4), Arasi S(4), Chu DK(2)(5), Ansotegui I(6), 
+Assa'ad AH(7), Bahna SL(8), Berni Canani R(9), Bozzola M(5)(10), Dahdah L(4), 
+Dupont C(11)(12), Dziechciarz P(13), Ebisawa M(14), Firmino RT(15), Chu A(2)(5), 
+Galli E(16), Horvath A(13), Kamenwa R(17), Lack G(18), Li H(19), Martelli A(20), 
+Nowak-Węgrzyn A(21)(22), Papadopoulos NG(23)(24), Pawankar R(25), Roldan Y(1), 
+Said M(26), Sánchez-Borges M(27), Shamir R(28), Spergel JM(29), Szajewska H(13), 
+Terracciano L(30), Vandenplas Y(31), Venter C(32), Waffenschmidt S(1)(33), 
+Waserman S(5), Warner A(34), Wong GWK(35), Schünemann HJ(1)(3)(36), Brozek 
+JL(1)(5).
+
+Author information:
+(1)Department of Health Research Methods, Evidence & Impact, McMaster 
+University, Hamilton, Ontario, Canada.
+(2)Department of Medicine, Evidence in Allergy Group, McMaster University, 
+Hamilton, Ontario, Canada.
+(3)Department of Biomedical Sciences, Humanitas University, Milan, Italy.
+(4)Translational Research in Pediatric Specialties Area, Division of Allergy, 
+Bambino Gesù Children's Hospital, IRCCS, Piazza Sant'Onofrio, 4, Rome 00165, 
+Italy.
+(5)Department of Medicine, Division of Clinical Immunology and Allergy, McMaster 
+University, Hamilton, Ontario, Canada.
+(6)Hospital Quironsalud Bizkaia, Bilbao-Erandio, Spain.
+(7)Division of Allergy and Immunology, Cincinnati Children's Hospital Medical 
+Center, University of Cincinnati College of Medicine, Cincinnati, OH, USA.
+(8)Allergy and Immunology Section, Louisiana State University Health Sciences 
+Center, Shreveport, LA, USA.
+(9)Pediatric Allergy Program at the Department of Translational Medical Science, 
+and ImmunoNutritionLab at Ceinge Advanced Biotechnologies, University of Naples 
+Federico II, Naples, Italy.
+(10)Department of Pediatrics, British Hospital-Perdriel, Buenos Aires, 
+Argentina.
+(11)Paris Descartes University, Pediatric Gastroenterology, Necker Hospital, 
+Paris, France.
+(12)Clinique Marcel Sembat, Boulogne-Billancourt, France.
+(13)Department of Paediatrics, Medical University of Warsaw, Warsaw, Poland.
+(14)Clinical Research Center for Allergy and Rheumatology, National Hospital 
+Organization, Sagamihara National Hospital, Kanagawa, Japan.
+(15)Faculty of Medical Sciences of Campina Grande, UNIFACISA University Centre, 
+Campina Grande, Paraiba, Brazil.
+(16)Pediatric Allergy Unit, San Pietro Hospital - Fatebenefratelli, Rome, Italy.
+(17)Department of Paediatrics and Child Health, Aga Khan University Hospital, 
+Nairobi, Kenya.
+(18)King's College London, Asthma-UK Centre in Allergic Mechanisms of Asthma, 
+Department of Pediatric Allergy, St Thomas' Hospital, London, UK.
+(19)Department of Primary Child Care, Children's Hospital, Chongqing Medical 
+University, China.
+(20)Member of Italian Society of Allergy and Pediatric Immunology (SIAIP), 
+Italy.
+(21)Department of Pediatrics, NYU Grossman School of Medicine, Hassenfeld 
+Children's Hospital, New York, NY, USA.
+(22)Department of Pediatrics, Gastroenterology and Nutrition, Collegium Medicum, 
+University of Warmia and Mazury, Olsztyn, Poland.
+(23)Division of Infection, Immunity and Respiratory Medicine, School of 
+Biological Sciences, University of Manchester, Manchester, UK.
+(24)Allergy Department, 2nd Paediatric Clinic, National and Kapodistrian 
+University of Athens, Athens, Greece.
+(25)Division of Allergy, Department of Pediatrics, Nippon Medical School, Tokyo, 
+Japan.
+(26)Allergy & Anaphylaxis Australia, Castle Hill, New South Wales, Australia.
+(27)Allergy and Clinical Immunology Department, Centro Médico Docente La 
+Trinidad and Clínica El Avila, Caracas, Venezuela.
+(28)Institute for Gastroenterology, Nutrition and Liver Diseases, Schneider 
+Children's Medical Center of Israel, Faculty of Medicine, Tel Aviv University, 
+Tel Aviv, Israel.
+(29)Division of Allergy and Immunology, The Children's Hospital of Philadelphia, 
+University of Pennsylvania School of Medicine, Philadelphia, PA, USA.
+(30)Pediatric Primary Care, National Pediatric Health Care System, Milan, Italy.
+(31)Department of Pediatric Gastroenterology, Universitair Ziekenhuis Brussel, 
+Brussels, Belgium.
+(32)Section of Allergy and Immunology, Children's Hospital Colorado, University 
+of Colorado School of Medicine, Aurora, CO, USA.
+(33)Institute for Quality and Efficiency in Health Care, Cologne, Germany.
+(34)Allergy UK, London, England, UK.
+(35)Department of Paediatrics, Prince of Wales Hospital, Chinese University of 
+Hong Kong, Shatin, Hong Kong.
+(36)Department of Medicine, Division of Internal Medicine, McMaster University, 
+Hamilton, Ontario, Canada.
+
+BACKGROUND: Cow's milk allergy (CMA) is the most common food allergy in infants. 
+The replacement with specialized formulas is an established clinical approach to 
+ensure adequate growth and minimize the risk of severe allergic reactions when 
+breastfeeding is not possible. Still, given the availability of multiple 
+options, such as extensively hydrolyzed cow's milk protein formula (eHF-CM), 
+amino acid formula (AAF), hydrolyzed rice formula (HRF) and soy formulas (SF), 
+there is some uncertainty as to the most suitable choice with respect to health 
+outcomes. Furthermore, the addition of probiotics to a formula has been proposed 
+as a potential approach to maximize benefit.
+OBJECTIVE: These evidence-based guidelines from the World Allergy Organization 
+(WAO) intend to support patients, clinicians, and others in decisions about the 
+use of milk specialized formulas, with and without probiotics, for individuals 
+with CMA.
+METHODS: WAO formed a multidisciplinary guideline panel balanced to include the 
+views of all stakeholders and to minimize potential biases from competing 
+interests. The McMaster University GRADE Centre supported the 
+guideline-development process, including updating or performing systematic 
+evidence reviews. The panel prioritized clinical questions and outcomes 
+according to their importance for clinicians and patients. The Grading of 
+Recommendations Assessment, Development and Evaluation (GRADE) approach was 
+used, including GRADE Evidence-to-Decision frameworks, which were subject to 
+review by stakeholders.
+RESULTS: After reviewing the summarized evidence and thoroughly discussing the 
+different management options, the WAO guideline panel suggests: a) using an 
+extensively hydrolyzed (cow's milk) formula or a hydrolyzed rice formula as the 
+first option for managing infants with immunoglobulin E (IgE) and 
+non-IgE-mediated CMA who are not being breastfed. An amino-acid formula or a soy 
+formula could be regarded as second and third options respectively; b) using 
+either a formula without a probiotic or a casein-based extensively hydrolyzed 
+formula containing Lacticaseibacillus rhamnosus GG (LGG) for infants with either 
+IgE or non-IgE-mediated CMA.The issued recommendations are labeled as 
+"conditional" following the GRADE approach due to the very low certainty about 
+the health effects based on the available evidence.
+CONCLUSIONS: If breastfeeding is not available, clinicians, patients, and their 
+family members might want to discuss all the potential desirable and undesirable 
+consequences of each formula in infants with CMA, integrating them with the 
+patients' and caregivers' values and preferences, local availability, and cost, 
+before deciding on a treatment option. We also suggest what research is needed 
+to determine with greater certainty which formulas are likely to be the most 
+beneficial, cost-effective, and equitable.
+
+© 2024 The Author(s).
+
+DOI: 10.1016/j.waojou.2024.100888
+PMCID: PMC11068951
+PMID: 38706757
+
+Conflict of interest statement: The conduction of these guidelines was funded by 
+WAO and the McMaster University GRADE Centre. Direct funding by for-profit 
+companies was not accepted. The guideline panel members received travel 
+reimbursement for attendance at in-person meetings but received no other 
+payments. The funding was also used as salary support for the information 
+scientist running the original searches, and for research assistants and 
+students conducting the systematic reviews. Some members of the method team who 
+contributed to the systematic review conduction participated without 
+remuneration to fulfill requirements of an academic degree or program. COIs of 
+all participants were managed according to WAO policies based on guidance by the 
+National Academy of Medicine2 and GIN3. Before commencing the project, all the 
+participants were asked to disclose any financial and nonfinancial interests 
+relevant to the guidelines by completing the World Health Organization (WHO) 
+declaration of interest forms. An independent and anonymous WAO committee 
+revised the disclosed interests looking for COIs. The revision committee 
+reviewed the forms and deliberated on including panel members aiming to achieve 
+a diversity of expertise and perspectives, while minimizing the inclusion of 
+panel members with the same or similar conflicts. Specifically, the committee 
+placed a high value on addressing conflicts from direct financial interests from 
+for-profit companies related to the guidelines' field. Throughout the 
+guidelines’ development, the members of the panel and method team were asked to 
+update the interest disclosure forms, which were again revised by the WAO 
+committee. At the time of appointment, most of the guideline panel, including 
+one of the guideline panel co-chair (HJS), had no conflicts of interest. The 
+other co-chair (AF) was aware of economic support by for-profit entities 
+provided to WAO in the form of educational grants; therefore, he abstained from 
+voting on all recommendations in the DRACMA guidelines. The method team members 
+deemed to have a real, potential, or perceived conflict of interest related to 
+the topic of a systematic review were excluded from partaking in that review. 
+Likewise, guideline panel members with manageable real, potential, or perceived 
+conflict of interest abstained from voting on recommendations related to that 
+interest, while being still able to provide intellectual input and clinical 
+expertise. The Evidence-to-Decision (EtD) tables for each recommendation list 
+individuals who were excused from voting. One proposed panel member was found 
+with disqualifying competing interests and was excluded from the DRACMA project 
+entirely.S Arasi, S Bahna, A Bognanni, J Brozek, D Chu, L Dahdah, P Dziechciarz, 
+E Galli, R Kamenwa, H Li, A Martelli, R Pawankar, H Schunemann, R Targino, L 
+Terracciano, and A Warner have no conflicts to disclose. Relationships reported 
+related to the submitted work: IJ Anstotegui – Abbott, Amgen, Astra Zeneca, 
+Bayer, Bial, Faes Farma, Hikma, Menarini, Merck, Mundipharma, Roxall, Sanofi, 
+Stallergenes, UCB. A Assa'ad – Aimmune Therapeutics, DBV Technologies, Astella, 
+ABBVIE, Novartis, Sanofi, FARE, NIH and an intellectual property patent licensed 
+to Hoth. R Berni Canani – Ch.Hansen, Danone, DVB, Humana, iHealth, Kraft Heinz, 
+Mead Johnson, Nestlè, Novalac, Nutricia, Sanofi. M Bozzola – Danone. C Dupont – 
+Nestle Health Science, Nestle France, Nutricia, Novalac, Sodilac, Abbott, 
+Danone, and stock ownership at DBV Technologies. M Ebisawa – DBV Technologies, 
+Mylan, ARS Pharmaceuticals, Novartis. A Fiocchi – Abbott, Danone. G Lack – FARE, 
+National Peanut Board (NPB), The Davis Foundation, Action Medical Research, UK 
+Food Standards Agency, Medical Research Council, DBV Technologies, Mission 
+Mighty Me, Novartis, Sanofi-Genyzme, Regeneron, ALK-Abello, Lurie Children's 
+Hospital. A Nowak-Wegrzyn – Nestle, Nutricia, Novartis, Gerber, Aimmune. N 
+Papadopoulos – Novartis, Nutricia, HAL Allergy, Menarini/Faes Farma, Sanofi, 
+Mylan/Meda, Biomay, AstraZeneca, GSK, MSD, ASIT Biotech, Boehringer Ingelheim, 
+Gerolymatos International SA, Capricare. M Said – Nestle, Nutricia, Abbott, 
+Bayer for Anaphylaxis Australia. R Shamir - Abbott, Else, Nestle. J Spergel – 
+DBV Technologies, Regeneron, Sanofi, and Aimmune. H Szajewska – Ausnutria, 
+Cargill, Danone, Else Nutrition, Hipp, Nestle, and Nestle Nutrition Institute. Y 
+Vandenplas – Abbott Nutrition, Biogaia, Biocodex, By Heart, CHR Hansen, Danone, 
+ELSE Nutrition, Friesland Campina, Hero, Hypocrata, Nestle Health Science, 
+Nestle Nutrition Institute, Nutricia, Mead Johnson Nutrition, Orafti, Phacobel, 
+Phathom Pharmaceuticals, Sari Husada, United Pharmaceuticals (Novalac), Wyeth, 
+Yakult. C Venter – Reckitt Benckiser, Nestle Nutrition Institute, Danone, Abbott 
+Nutrition, Else Nutrition, and Before Brands, DBV Technologies. A Warner - 
+Nutricia/Danone, Abbott, Reckitt Benckiser/Mead Johnson, Nutricia/Danone for 
+Allergy UK. S Waserman – Novartis-basic science work on peanut allergy, 
+Aimmune-peanut OIT trial, Medical Advisor to Food Allergy Canada, and Pfizer, 
+Bausch, Kaleoconsultant for epinephrine autoinjectors. GWK Wong – Nestle, 
+Danone.
+
+
+9. Curr Allergy Asthma Rep. 2024 Mar;24(3):121-131. doi: 
+10.1007/s11882-024-01131-3. Epub 2024 Feb 28.
+
+The Natural History and Risk Factors for the Development of Food Allergies in 
+Children and Adults.
+
+Lee ECK(#)(1), Trogen B(#)(2), Brady K(3), Ford LS(4)(5), Wang J(2).
+
+Author information:
+(1)The Children's Hospital at Westmead, Locked Bag 4001, Westmead, NSW, 2145, 
+Australia.
+(2)Jaffe Food Allergy Institute, Icahn School of Medicine at Mount Sinai, New 
+York, USA.
+(3)Department of Pediatrics, New York-Presbyterian Hospital/Weill Cornell 
+Medical Center, New York, USA.
+(4)The Children's Hospital at Westmead, Locked Bag 4001, Westmead, NSW, 2145, 
+Australia. lara.ford@health.nsw.gov.au.
+(5)Sydney Medical School, The University of Sydney, The University of Sydney, 
+NSW, 2006, Australia. lara.ford@health.nsw.gov.au.
+(#)Contributed equally
+
+PURPOSE OF REVIEW: This narrative review explores food allergy prevalence and 
+natural history stratified by life stages, especially in context of evolving 
+knowledge over the last few decades.
+RECENT FINDINGS: The prevalence of food allergy remains highest in early 
+childhood with common food triggers being cow's milk, soy, hen's egg, wheat, 
+peanut, tree nuts, sesame, fish, and shellfish. This correlates with certain 
+risk factors especially pertinent in the postnatal period which appear to 
+predispose an individual to developing a food allergy. Some allergies (such as 
+milk and egg) were previously thought to be easily outgrown in early life; 
+however, recent studies suggest increasing rates of persistence of these 
+allergies into young adulthood; the reason behind this is unknown. Despite this, 
+there is also evidence demonstrating that food allergies can be outgrown in 
+adolescents and adults. An understanding of the paradigm shifts in the natural 
+history of food allergy allows clinicians to provide updated, age-appropriate, 
+and tailored advice for patients on the management and prognosis of food 
+allergy.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s11882-024-01131-3
+PMCID: PMC10960768
+PMID: 38416390 [Indexed for MEDLINE]
+
+Conflict of interest statement: JW reports research support payments from the 
+National Institute of Allergy and Infectious Diseases, FARE, Aimmune, DBV 
+Technologies, and Siolta; consultancy fees from ALK Abello and Jubilant 
+HollisterStier; and royalty payments from UpToDate. Other authors declare that 
+they have no conflict of interest.
+
+
+10. J Allergy Clin Immunol Glob. 2023 Aug;2(3):100124. doi: 
+10.1016/j.jacig.2023.100124. Epub 2023 Jun 3.
+
+The SunBEAm birth cohort: Protocol design.
+
+Keet C(1), Sicherer SH(2), Bunyavanich S(2), Visness C(3), Fulkerson PC(4), 
+Togias A(4), Davidson W(4), Perry S(4), Hamrah S(4), Calatroni A(3), Robinson 
+K(3), Dunaway L(3), Davis CM(5), Anvari S(5), Leong-Kee SM(6), Hershey GK(7), 
+DeFranco E(8), Devonshire A(7), Kim H(9), Joseph C(9), Davidson B(9), Strong 
+NK(2), Tsuang AJ(2), Groetch M(2), Wang J(2), Dantzer J(10), Mudd K(10), Aina 
+A(11), Shreffler W(12), Yuan Q(13), Simmons V(13), Leung DYM(14), Hui-Beckman 
+J(14), Ramos JA(15), Chinthrajah S(16), Winn V(17), Sindher T(16), Jones SM(18), 
+Manning NA(19), Scurlock AM(18), Kim E(1), Stuebe A(20), Gern JE(21), Singh 
+AM(21), Krupp J(22), Wood RA(10).
+
+Author information:
+(1)Department of Pediatrics, University of North Carolina, Chapel Hill.
+(2)Icahn School of Medicine at Mount Sinai, New York.
+(3)Rho Inc, Federal Research Operations, Durham.
+(4)Division of Allergy, Immunology and Transplantation, National Institute of 
+Allergy and Infectious Diseases, National Institutes of Health, Bethesda.
+(5)Department of Pediatrics, Baylor College of Medicine, Houston.
+(6)Department of Obstetrics and Gynecology, Baylor College of Medicine, Houston.
+(7)Cincinnati Children's Hospital Medical Center, Cincinnati.
+(8)University of Cincinnati, Cincinnati.
+(9)Henry Ford Health, Detroit.
+(10)Department of Pediatrics, Division of Pediatric Allergy, Immunology and 
+Rheumatology, Johns Hopkins University School of Medicine, Baltimore.
+(11)Department of Obstetrics and Gynecology, Johns Hopkins University School of 
+Medicine, Baltimore.
+(12)Massachusetts General Hospital, Boston.
+(13)Massachusetts General Hospital, Newton-Wellesley Hospital, Newton.
+(14)National Jewish Health, Denver.
+(15)Saint Joseph Hospital of Obstetrics and Gynecology, Denver.
+(16)Sean N. Parker Center for Allergy and Asthma Research, Stanford University, 
+Palo Alto.
+(17)Division Maternal Fetal Medicine and Obstetrics, Stanford University, Palo 
+Alto.
+(18)University of Arkansas for Medical Sciences and Arkansas Children's 
+Hospital, Little Rock.
+(19)University of Arkansas for Medical Sciences, Little Rock.
+(20)Department of Obstetrics and Gynecology, University of North Carolina, 
+Chapel Hill.
+(21)Department of Pediatrics, University of Wisconsin, Madison.
+(22)Maternal and Fetal Medicine, Obstetrics and Gynecology, SSM Health, Madison.
+
+BACKGROUND: Food allergy (FA) and atopic dermatitis (AD) are common conditions 
+that often present in the first year of life. Identification of underlying 
+mechanisms and environmental determinants of FA and AD is essential to develop 
+and implement effective prevention and treatment strategies. Objectives: We 
+sought to describe the design of the Systems Biology of Early Atopy (SunBEAm) 
+birth cohort.
+METHODS: Funded by the National Institute of Allergy and Infectious Diseases 
+(NIAID) and administered through the Consortium for Food Allergy Research 
+(CoFAR), SunBEAm is a US population-based, multicenter birth cohort that enrolls 
+pregnant mothers, fathers, and their newborns and follows them to 3 years. 
+Questionnaire and biosampling strategies were developed to apply a systems 
+biology approach to identify environmental, immunologic, and multiomic 
+determinants of AD, FA, and other allergic outcomes.
+RESULTS: Enrollment is currently underway. On the basis of an estimated FA 
+prevalence of 6%, the enrollment goal is 2500 infants. AD is defined on the 
+basis of questionnaire and assessment, and FA is defined by an algorithm 
+combining history and testing. Although any FA will be recorded, we focus on the 
+diagnosis of egg, milk, and peanut at 5 months, adding wheat, soy, cashew, 
+hazelnut, walnut, codfish, shrimp, and sesame starting at 12 months. Sampling 
+includes blood, hair, stool, dust, water, tape strips, skin swabs, nasal 
+secretions, nasal swabs, saliva, urine, functional aspects of the skin, and 
+maternal breast milk and vaginal swabs.
+CONCLUSIONS: The SunBEAm birth cohort will provide a rich repository of data and 
+specimens to interrogate mechanisms and determinants of early allergic outcomes, 
+with an emphasis on FA, AD, and systems biology.
+
+DOI: 10.1016/j.jacig.2023.100124
+PMCID: PMC10509956
+PMID: 37771674
+
+Conflict of interest statement: DISCLOSURE STATEMENT Funded by the following 
+grants from NIAID/National Institutes of Health (NIH): UM2AI130836, UM1AI130838, 
+UM1AI130839, UM1AI130781, UM1AI130936, UM1AI130936, UM1AI130780, UM1AI130934, 
+UM1AI130570, UM1AI173380, UM1AI151958, and UM1AI109565. The authorships of 
+P.C.F., A.T., W.D., S.H., and S.P. do not constitute endorsement by the National 
+Institute of Allergy and Infection Diseases, the National Institutes of Health, 
+or any other agency of the United States government. Disclosure of potential 
+conflict of interest: C. Keet reports royalties from UpToDate. S. H. Sicherer 
+reports royalty payments from UpToDate and Johns Hopkins University Press; 
+grants to his institution from NIAID, Food Allergy Research and Education, and 
+Pfizer; personal fees from the American Academy of Allergy, Asthma & Immunology; 
+and deputy editorship of the Journal of Allergy and Clinical Immunology: In 
+Practice, outside of the submitted work. C. M. Davis reports grant support from 
+NIAID/NIH, Immune Tolerance Network, DBV Technologies, Regeneronm Pfizer, and 
+Allergenis; and consultant for Aimmune. S. Anvari reports research support from 
+NIAID/NIH and DBV Technologies; and serves on the advisory board for Sanofi. M. 
+Groetch receives royalties from UpToDate, FARE, and the Academy of Nutrition and 
+Dietetics; serves on the medical advisory board of IFPIES, as senior advisor to 
+FARE, and as health sciences advisor for APFED; and sits on the editorial board 
+of Journal of Food Allergy. W. Shreffler reports royalty payments from UpToDate; 
+grants to his institution from NIAID and Food Allergy Research and Education; 
+sponsored research funds from Aimune, Angany Therapeutics, Moderna, Regeneron, 
+Vedanta Biosciences and consultant fees from Aimmune, ALK, Allergy Therapeutics, 
+Novartis, Regeneron, and Sanofi. Dr. Leung reports support from Sanofi, 
+Genentech, Leo Pharma, and Incyte. H. Kim reports advisory board for ALK, Kenota 
+Health, and Ukko Inc; consultant for Allergy Therapeutics Ltd, Belhaven 
+Biopharma, Duke Clinical Research Institute, Genentech, and Nutricia. J. Wang 
+receives research support from NIAID, Aimmune, DBV Technologies, and Regeneron; 
+and consultancy fees from ALK Abello and Jubilant HollisterStier. R. A. Wood 
+reports research support from NIAID, Aimmune, Astellas, DBV, FARE, Genentech, 
+HAL-Allergy, Novartis, and Regeneron; and royalties from UpToDate. The rest of 
+the authors declare that they have no relevant conflicts of interest.

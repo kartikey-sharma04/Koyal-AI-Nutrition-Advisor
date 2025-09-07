@@ -1,0 +1,857 @@
+1. Breastfeed Med. 2025 Apr;20(4):201-204. doi: 10.1089/bfm.2024.0302. Epub 2025 
+Feb 5.
+
+Effect of Feeding Human Milk on Development of the Infant Immune System and 
+Allergic Outcomes-An Area of Research Challenge and Need.
+
+Järvinen-Seppo KM(1)(2)(3).
+
+Author information:
+(1)University of Rochester School of Medicine and Dentistry, Rochester, New 
+York, USA.
+(2)Pediatric Allergy and Immunology, Rochester, New York, USA.
+(3)Center for Food Allergy, Golisano Children's Hospital, Rochester, New York, 
+USA.
+
+Surprisingly little is known about the effect of breastfeeding on the infant's 
+immune system development. Systematic reviews have suggested the role of 
+breastfeeding in the prevention against asthma, autoimmune diseases, 
+inflammatory bowel disease, and childhood leukemia. However, studies on atopic 
+disease suffer from reverse causation, small size, and those assessing food 
+allergy (FA) have often relied on parent-reported outcomes. Randomized 
+controlled trials (RCTs) are not possible for ethical reasons. In addition, 
+epidemiological studies have not considered that there is a large 
+interindividual variation in human milk (HM) composition and feeding at the 
+breast versus pumped HM potentially impacting the effect of breastfeeding 
+between mothers. While prevention strategies such as early introduction of 
+highly allergenic food are impactful in preventing peanut and egg allergies, 
+implementation of early introduction guidelines has been slow, and many infants 
+are already sensitized by 4-6 months of age. To be more effective, primary 
+prevention strategies must commence much earlier, during breastfeeding. There 
+are studies that imply a definitive effect of breastfeeding on the gut 
+microbiome and regulatory T cells (Tregs) as well as a higher rate of FA in 
+populations with historically low rates of breastfeeding. These provide a strong 
+rationale for assessing the effect of feeding HM in the context of HM 
+composition and mode of feeding on immune development. The lack of 
+well-conducted, large studies assessing the role of breastfeeding and HM 
+composition in the development of immune system development is a significant gap 
+when designing prevention strategies.
+
+DOI: 10.1089/bfm.2024.0302
+PMID: 39905904 [Indexed for MEDLINE]
+
+
+2. Curr Allergy Asthma Rep. 2025 Jan 13;25(1):9. doi: 10.1007/s11882-024-01191-5.
+
+Effects of Food Processing on Allergenicity.
+
+Gonzalez PM(1), Cassin AM(2), Durban R(3), Upton JEM(4)(5).
+
+Author information:
+(1)Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada.
+(2)Division of Nutrition Therapy, Cincinnati Children's Hospital Medical Center, 
+Cincinnati, OH, USA.
+(3)Carolina Asthma & Allergy Center, Charlotte, NC, USA.
+(4)Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada. 
+julia.upton@sickkids.ca.
+(5)Division of Immunology and Allergy, Department of Paediatrics, The Hospital 
+for Sick Children, SickKids Food Allergy and Anaphylaxis Program, University of 
+Toronto, Toronto, ON, Canada. julia.upton@sickkids.ca.
+
+PURPOSE OF REVIEW: There is an increasing awareness among clinicians that 
+industrial and household food processing methods can increase or decrease the 
+allergenicity of foods. Modification to allergen properties through processing 
+can enable dietary liberations. Reduced allergenicity may also allow for lower 
+risk immunotherapy approaches. This review will equip physicians, nurses, 
+dieticians and other health care providers with an updated overview of the most 
+clinically oriented research in this field. We summarize studies assessing the 
+allergenicity of processed foods through clinically accessible means, such as 
+oral food challenges, skin prick tests, and sIgE levels.
+RECENT FINDINGS: Baking, boiling, canning, fermenting, pasteurizing, peeling, 
+powdering, and roasting heterogenously impact the likelihood of reactivity in 
+egg-, milk-, peanut- and other legume-, tree nut-, fruit-, and seafood-allergic 
+patients. These variations may be due to the use of different temperatures, 
+duration of processing, presence of a matrix, and the specific allergens 
+involved, among other factors. Accurate prediction of tolerance to processed 
+allergens with skin prick tests and sIgE levels remains largely elusive. Food 
+allergy management strategies, especially with milk and egg, have capitalized on 
+the decreased allergenicity of baking. Many milk- and egg-allergic patients 
+tolerate baked and heated forms of these allergens, and the use of these 
+processed foods in oral immunotherapy (OIT) continues to be extensively 
+investigated. Heat is also well recognized to reduce allergic symptoms from some 
+fruits and vegetables in food-pollen syndrome. Other forms of processing such as 
+boiling, fermenting, and canning can reduce allergenicity to a diverse array of 
+foods. Roasting, on the other hand, may increase allergenicity. The application 
+of food processing to food allergy treatments remains largely unexplored by 
+large clinical studies and provides a key avenue for future research. The 
+recognition that food allergy represents a spectrum of hypersensitivity, rather 
+than an all-or-nothing phenomenon, has led to approaches to enable dietary 
+liberation with processed, less-allergenic foods and their use in food allergy 
+immunotherapies.
+
+© 2025. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11882-024-01191-5
+PMID: 39804418 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Human and Animal Rights and 
+Informed Consent: This article does not contain any studies with human or animal 
+subjects performed by any of the authors. Competing Interests: Dr. Upton reports 
+grants from DBV Therapeutics, ALK Abello, Sanofi/Regeneron, non-financial 
+clinical trial support from Novartis, and personal fees from Viatris, Pfizer, 
+Astra Zeneca, Bausch Health, all outside the submitted work; the remaining 
+authors declare that they have no conflict of interest.
+
+
+3. Zhonghua Yu Fang Yi Xue Za Zhi. 2024 Dec 6;58(12):1894-1901. doi: 
+10.3760/cma.j.cn112150-20240701-00524.
+
+[Analysis of the sensitization characteristics and changes trend of common 
+allergens in a hospital of pediatric in Beijing City from 2019 to 2023].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Zhang XD(1), Li QL(2), Xiang L(1), Jiang NN(1), Li Z(1), Huang HJ(1).
+
+Author information:
+(1)Department of Allergy, National Clinical Research Center for Respiratory 
+Diseases, Key Laboratory of Major Diseases in Children, Ministry of Education, 
+Beijing Children's Hospital, Capital Medical University, National Center for 
+Children's Health, Beijing100045, China.
+(2)Department of Clinical Laboratory Center, Beijing Children's Hospital, 
+Capital Medical University, National Center for Children's Health, 
+Beijing100045, China.
+
+Objective: This study aimed to analyze the test results and changing trend of 
+specific IgE (sIgE) for common allergens in children in the hospital from 2019 
+to 2023, so as to provide a basis for the diagnosis and treatment of allergic 
+diseases in children. Methods: The test results of children who were admitted to 
+Beijing Children's Hospital, Capital Medical University and underwent serum 
+allergen sIgE quantitative detection (Immuno CAP system) from January 1, 2019 to 
+December 31, 2023 were retrospectively included. According to the allergen type, 
+the allergens were divided into food allergens and inhaled allergens (dust mite 
+group, mold group, animal dander group and pollen group). The trends in sIgE 
+positive rates across different years, age-related differences, and monthly 
+distribution characteristics were analyzed. Results: A total of 44 633 allergen 
+sIgE quantitative test results were included in the study. Among them, 23 024 
+samples were tested for food allergen sIgE and 21 609 samples were tested for 
+inhaled allergen sIgE. The positive rates of food allergens (egg white, milk, 
+wheat, peanut, soybean, shrimp) sIgE increased year by year, and the differences 
+were statistically significant (χ2=97.3, 78.9, 95.6, 122.4, 84.7, 24.5, 
+P<0.001). The positive rate of inhaled allergen sIgE also increased year by 
+year, and the difference was statistically significant (χ2=36.2, 326.2, 432.2, 
+973.2, P<0.001). There were significant differences in the sensitization 
+patterns of food and inhaled allergens among different age groups. The most 
+common food allergen was egg white in infant group (<1 year old) (23.0%), milk 
+in young children group (1-2 years old) (40.7%), and egg white in preschool 
+group (3-6 years old) (28.8%). Peanut was the most common allergen in school-age 
+group (7-12 years old) and adolescent group (13-18 years old) (16.9% and 14.1%, 
+respectively). Among the inhaled allergens, animal dander (3.6%) was the most 
+common allergen in the infant group (<1 year old), and mold (15.3%) was the most 
+common allergen in the young child group (1-2 years old). The most common 
+allergens in preschool group (3-6 years old), school-age group (7-12 years old) 
+and adolescent group (13-18 years old) were pollen (39.7%, 53.0%, 53.5%). There 
+were significant differences in the positive rates of inhaled allergens (dust 
+mite, mold, animal dander, pollen) sIgE in the 12 months of 2023 (χ2=26.9, 26.7, 
+56.7, 55.5, P=0.005, 0.005,<0.001,<0.001). The positive rate of pollen sIgE was 
+the highest, with peaks in April (54.8%) and September (60.5%). The positive 
+rate of sIgE for molds peaks in June (46.4%). Conclusion: The trends in sIgE 
+levels among children visiting Beijing Children's Hospital, Capital Medical 
+University, from 2019 to 2023, suggests to a certain extent that the prevalence 
+of allergic diseases among children in Beijing City is increasing annually. 
+There were significant age differences in sIgE sensitization patterns among 
+children of different ages, and the distribution of sIgE positive rates for 
+inhaled allergens was also different in different months. In clinical practice, 
+the allergen test report is interpreted comprehensively according to the 
+patient's medical history, age, visit month and other factors.
+
+Publisher: 目的： 分析2019—2023年医院就诊儿童常见过敏原特异性IgE（specific 
+IgE，sIgE）检测结果及变化趋势，旨在为儿童过敏性疾病诊疗提供依据和参考。 方法： 
+回顾性纳入2019年1月1日至2023年12月31日在首都医科大学附属北京儿童医院就诊并进行血清过敏原sIgE定量检测（Immuno 
+CAP系统）的患儿的检测结果，按照过敏原类型将过敏原分为食物过敏原和吸入过敏原（尘螨组、霉菌组、动物皮屑组和花粉组）。分析过敏原sIgE阳性率在不同年份的变化趋势，年龄差异性及月份分布特征。统计学方法组间比较采用χ2检验或Fisher确切概率法。 
+结果： 研究共纳入44 633例次过敏原sIgE定量检测结果。其中食物过敏原sIgE定量检测23 024例次，吸入过敏原sIgE定量检测21 
+609例次。食物过敏原（鸡蛋白、牛奶、小麦、花生、大豆、虾）过敏原sIgE阳性率均呈逐年上升趋势，差异有统计学意义（χ2=97.3、78.9、95.6、122.4、84.7、24.5，P<0.001）。吸入过敏原sIgE阳性率亦呈逐年上升趋势，差异有统计学意义（χ2=36.2、326.2、432.2、973.2，P<0.001）。不同年龄组间食物和吸入过敏原致敏模式存在明显差异。食物过敏原中，婴儿组（<1岁）首位致敏过敏原为鸡蛋白（23.0%），幼儿组（1~2岁）首位致敏过敏原为牛奶（40.7%），学龄前组（3~6岁）首位致敏过敏原为鸡蛋白（28.8%），学龄组（7~12岁）和青春期组（13~18岁）首位致敏过敏原为花生（16.9%、14.1%）。吸入过敏原中，婴儿组（<1岁）最常见致敏过敏原为动物皮屑（3.6%），幼儿组（1~2岁）最常见致敏过敏原为霉菌（15.3%），学龄前组（3~6岁）、学龄组（7~12岁）、青春期组（13~18岁）最常见致敏过敏原为花粉（39.7%、53.0%、53.5%）。2023年12个月份吸入过敏原（尘螨、霉菌、动物皮屑、花粉）sIgE阳性率差异均有统计学意义（χ2=26.9、26.7、56.7、55.5，P=0.005、0.005、<0.001、<0.001）。花粉sIgE阳性率最高，在4月份（54.8%）和9月份（60.5%）存在高峰。霉菌sIgE阳性率在6月份（46.4%）存在高峰。 
+结论： 
+2019—2023年首都医科大学附属北京儿童医院就诊儿童的过敏原sIgE变化趋势在一定程度上提示北京地区儿童过敏性疾病患病率呈逐年升高趋势。不同年龄儿童的过敏原sIgE致敏模式存在显著年龄差异，不同月份的吸入过敏原sIgE阳性率分布亦有不同。临床实践中应根据病史结合患者年龄、就诊月份等因素，综合解读过敏原检测报告。.
+
+DOI: 10.3760/cma.j.cn112150-20240701-00524
+PMID: 39710467 [Indexed for MEDLINE]
+
+
+4. Pediatr Allergy Immunol. 2024 Nov;35(11):e14276. doi: 10.1111/pai.14276.
+
+AAAAI-EAACI PRACTALL: Standardizing oral food challenges-2024 Update.
+
+Sampson HA(1), Arasi S(2), Bahnson HT(3), Ballmer-Weber B(4)(5), Beyer K(6), 
+Bindslev-Jensen C(7), Bird JA(8), Blumchen K(9), Davis C(10), Ebisawa M(11), 
+Nowak-Wegrzyn A(12)(13), Patel N(14), Peters RL(15)(16), Sicherer S(1), Spergel 
+J(17), Turner PJ(14), Yanagida N(11), Eigenmann PA(18).
+
+Author information:
+(1)Division of Pediatric Allergy and Immunology, Department of Pediatrics, Jaffe 
+Food Allergy Institute, Icahn School of Medicine at Mount Sinai, New York, New 
+York, USA.
+(2)Translational Research in Pediatric Specialties Area, Division of Allergy, 
+Bambino Gesù Children's Hospital, IRCCS, Rome, Italy.
+(3)The Immune Tolerance Network, Seattle & Benaroya Research Institute at 
+Virginia Mason, Seattle, Washington, USA.
+(4)Allergy Unit, Department of Dermatology, University Hospital Zurich, Zurich, 
+Switzerland.
+(5)Clinic for Dermatology and Allergology, Kantonsspital St Gallen, St Gallen, 
+Switzerland.
+(6)Department of Pediatric Respiratory Medicine, Immunology and Critical Care 
+Medicine, Charité - Universitätsmedizin Berlin, Corporate Member of Freie 
+Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.
+(7)Department of Dermatology and Allergy Centre, Odense Research Centre for 
+Anaphylaxis (ORCA), Odense University Hospital, University of Southern Denmark, 
+Odense, Denmark.
+(8)Department of Pediatrics, University of Texas Southwestern Medical Center, 
+Dallas, Texas, USA.
+(9)Division of Pneumology, Allergology and Cystic Fibrosis, Department of 
+Paediatric and Adolescent Medicine, University Hospital Frankfurt, Goethe 
+University, Frankfurt, Germany.
+(10)Department of Pediatrics, Baylor College of Medicine, Houston, Texas, USA.
+(11)Department of Allergy, Clinical Research Center for Allergy and 
+Rheumatology, NHO Sagamihara National Hospital, Kanagawa, Japan.
+(12)Department of Pediatrics, Hassenfeld Children's Hospital, NYU Grossman 
+School of Medicine, New York, New York, USA.
+(13)Department of Pediatrics, Gastroenterology and Nutrition, Collegium Medicum, 
+University of Warmia and Mazury, Olsztyn, Poland.
+(14)National Heart & Lung Institute, Imperial College London, London, UK.
+(15)Murdoch Children's Research Institute, Parkville, Victoria, Australia.
+(16)Department of Paediatrics, University of Melbourne, Melbourne, Victoria, 
+Australia.
+(17)Division of Allergy and Immunology, Children's Hospital of Philadelphia, 
+Philadelphia, Pennsylvania, USA.
+(18)Pediatric Allergy Unit, University Hospitals of Geneva, Geneva, Switzerland.
+
+This common statement of the American Academy of Allergy, Asthma and Immunology 
+(AAAAI) and The European Academy of Allergy and Clinical Immunology (EAACI) 
+provides an update of the 2012 published guidelines on food challenges. The 
+guidelines equally address food challenges in the research and the clinical 
+settings. They first address the diagnostic tests which can guide the decision 
+to conduct a challenge. Safety of food challenges is prime, and the various 
+procedures and safety issues as well as medications potentially involved in 
+challenges are extensively discussed. Challenges are suggested to be conducted 
+with semi-logarithmic incremental doses based on the protein content, typically 
+for IgE-mediated food allergy with intervals of 20-30 min between doses. 
+Specific protocols for other types of reactions such atopic dermatitis or 
+gastrointestinal food allergy are detailed separately. Proper stopping criteria 
+are essential in order to reduce the risk of false-positive diagnoses, but also 
+severe reactions. The guidelines recommend criteria based on "go on," "stop," or 
+"observation." These revised guidelines will clearly provide much needed 
+guidance for food challenges in the research and clinical settings. They will 
+continue to evolve with new diagnostic tests or new needs in the field of food 
+allergy.
+
+© 2024 European Academy of Allergy and Clinical Immunology and John Wiley & Sons 
+Ltd.
+
+DOI: 10.1111/pai.14276
+PMID: 39560049 [Indexed for MEDLINE]
+
+
+5. Allergol Immunopathol (Madr). 2024 Nov 1;52(6):85-90. doi: 
+10.15586/aei.v52i6.1173. eCollection 2024.
+
+Exploring food-specific IgG responses in pediatric allergic disorders: A 
+retrospective cross-sectional study.
+
+Atwah AF(1), Koshak EA(2).
+
+Author information:
+(1)Department of Pediatrics, Faculty of Medicine, King Abdulaziz University, 
+Rabigh, Saudi Arabia; latwah@kau.edu.sa.
+(2)Department of Internal Medicine, Faculty of Medicine. King Abdulaziz 
+University, Jeddah, Saudi Arabia.
+
+BACKGROUND: The role of immunoglobulin G (IgG) responses to food as potential 
+triggering factors in allergic disorders continues to be debatable, and is not 
+endorsed by most allergy societies.
+OBJECTIVE: To explore the prevalence of specific IgG immune responses to common 
+foods in pediatric allergic disorders and any potential relationship between 
+them.
+METHODS: A retrospective study was conducted on children and adolescents 
+diagnosed with allergic disorders at the Ekthar Clinic in Jeddah City. 
+Food-specific IgG (FS-IgG) antibody test results were collected from their 
+medical records.
+RESULTS: Seventy-five children with a mean age of 8.5 years (SD = 5.3) were 
+included. The overall allergic diagnosis determined atopic dermatitis as the 
+most common (57.3%, 43 participants), followed by food allergy and allergic 
+rhinitis (each 40%, 30 participants), and bronchial asthma (29.3%, 22 
+participants). Food-specific IgG levels were elevated in all participants. The 
+foods with the highest levels of FS-IgG were dairy products (88%: cow's milk 
+[86.6%], sour milk [81.3%], sheep's milk [74.7%], cheese [72%], and goat's milk 
+[70.7%]), followed by gluten-containing products (81.3%: wheat [70.7%], gluten 
+[69.3%], and spelt [66.6%]), and eggs (66.6%). Significant correlations (P < 
+0.05) were found between atopic dermatitis and several foods; chronic urticaria 
+and chicken and lamb; asthma and ocean perch; allergic rhinitis and rennet 
+cheese; and allergic conjunctivitis and potato, pollock, and lamb.
+CONCLUSION: Among pediatric allergic disorders, dairy, gluten, and eggs were the 
+most detected foods in FS-IgG tests, with some notable correlations with other 
+foods. FS-IgG testing may help identify potential triggers in refractory 
+allergic disorders.
+
+DOI: 10.15586/aei.v52i6.1173
+PMID: 39515801 [Indexed for MEDLINE]
+
+
+6. Allergy. 2025 Jan;80(1):14-36. doi: 10.1111/all.16345. Epub 2024 Oct 30.
+
+EAACI guidelines on the management of IgE-mediated food allergy.
+
+Santos AF(1)(2)(3), Riggioni C(4)(5), Agache I(6), Akdis CA(7), Akdis M(7), 
+Alvarez-Perea A(8)(9), Alvaro-Lozano M(10)(11), Ballmer-Weber B(12)(13), Barni 
+S(14), Beyer K(15), Bindslev-Jensen C(16), Brough HA(1)(3), Buyuktiryaki B(17), 
+Chu D(18), Del Giacco S(19), Dunn-Galvin A(20)(21), Eberlein B(22), Ebisawa 
+M(23), Eigenmann P(24), Eiwegger T(25)(26)(27)(28), Feeney M(1), Fernandez-Rivas 
+M(29)(30), Fiocchi A(31), Fisher HR(1), Fleischer DM(32), Giovannini M(14)(33), 
+Gray C(34)(35), Hoffmann-Sommergruber K(36), Halken S(37), O'B Hourihane J(38), 
+Jones CJ(39), Jutel M(40), Knol EF(41), Konstantinou GN(42), Lack G(1)(2)(3), 
+Lau S(15), Mejias AM(1)(3), Marchisotto MJ(43)(44), Meyer R(45)(46), Mortz 
+CG(16), Moya B(47)(48), Muraro A(49), Nilsson C(50)(51), de Oliveira LCL(52), 
+O'Mahony L(53), Papadopoulos NG(54)(55), Perrett KP(56)(57)(58), Peters 
+R(59)(60), Podesta M(61), Poulsen LK(62), Roberts G(63), Sampson H(64), Schwarze 
+J(65), Smith P(66)(67), Tham E(68)(69)(70), Untersmayr E(71), Van Ree R(72), 
+Venter C(73), Vickery B(74), Vlieg-Boerstra B(75)(76)(77), Werfel T(78), Worm 
+M(15), Du Toit G(1)(3), Skypala I(79)(80).
+
+Author information:
+(1)Department of Women and Children's Health (Pediatric Allergy), School of Life 
+Course Sciences, Faculty of Life Sciences and Medicine, King's College London, 
+London, UK.
+(2)Peter Gorer Department of Immunobiology, School of Immunology and Microbial 
+Sciences, King's College London, London, UK.
+(3)Children's Allergy Service, Evelina London Children's Hospital, Guy's and St 
+Thomas' Hospital, London, UK.
+(4)Division of Immunology and Allergy, The Hospital for Sick Children and the 
+SickKids Food Allergy and Anaphylaxis Program, Toronto, Ontario, Canada.
+(5)Department of Paediatrics, Temerty Faculty of Medicine, University of 
+Toronto, Toronto, Ontario, Canada.
+(6)Faculty of Medicine, Transylvania University, Brasov, Romania.
+(7)Swiss Institute of Allergy and Asthma Research (SIAF), University Zurich, 
+Davos, Switzerland.
+(8)Hospital General Universitario Gregorio Marañón, Madrid, Spain.
+(9)Gregorio Marañón Health Research Institute, Madrid, Spain.
+(10)Pediatric Allergy and Clinical Immunology Department, Hospital Sant Joan de 
+Déu, Barcelona, Spain.
+(11)Institut de Recerca Sant Joan de Déu, Universitat de Barcelona, Barcelona, 
+Spain.
+(12)Clinic for Dermatology and Allergology, Kantonsspital St. Gallen, St. 
+Gallen, Switzerland.
+(13)Department of Dermatology, University Hospital Zurich, Zurich, Switzerland.
+(14)Allergy Unit, Meyer Children's Hospital IRCCS, Florence, Italy.
+(15)Department of Pediatric Respiratory Medicine, Immunology and Critical Care 
+Medicine, Charité Universitätsmedizin Berlin, Berlin, Germany.
+(16)Department of Dermatology and Allergy Centre, Odense Research Centre for 
+Anaphylaxis (ORCA), Odense University Hospital, University of Southern Denmark, 
+Odense, Denmark.
+(17)Department of Pediatrics, Division of Pediatric Allergy, Koc University 
+School of Medicine, Istanbul, Türkiye.
+(18)McMaster University, Hamilton, Canada.
+(19)Department of Medical Sciences and Public Health and Unit of Allergy and 
+Clinical Immunology, University Hospital "Duilio Casula", University of 
+Cagliari, Cagliari, Italy.
+(20)Paediatrics and Child Health, INFANT Centre, HRB-CRF, University College 
+Cork, Cork, Ireland.
+(21)Paediatrics and Child Health, Royal College of Surgeons in Ireland, 
+Children's Health Ireland, Dublin, Ireland.
+(22)Department of Dermatology and Allergy, Technical University of Munich, 
+School of Medicine, Munich, Germany.
+(23)Clinical Research Center for Allergy and Rheumatology, NHO Sagamihara 
+National Hospital, Kanagawa, Japan.
+(24)Department of Pediatrics, Gynecology and Obstetrics, University Hospitals of 
+Geneva, Geneva, Switzerland.
+(25)Karl Landsteiner University of Health Sciences, Krems an der Donau, Austria.
+(26)Department of Pediatric and Adolescent Medicine, University Hospital St. 
+Pölten, St.Pölten, Austria.
+(27)Translational Medicine Program, Research Institute, Hospital for Sick 
+Children, Toronto, Ontario, Canada.
+(28)Department of Immunology, Temerty Faculty of Medicine, University of 
+Toronto, Toronto, Ontario, Canada.
+(29)Allergy Department, Hospital Clinico San Carlos, Madrid, Spain.
+(30)Facultad de Medicina, Universidad Complutense, IdISSC, ARADyAL, Madrid, 
+Spain.
+(31)Allergy Department, Pediatric Hospital Bambino Gesù IRCCS, Rome, Italy.
+(32)University of Colorado School of Medicine and Children's Hospital Colorado, 
+Aurora, Colorado, USA.
+(33)Department of Health Sciences, University of Florence, Florence, Italy.
+(34)Red Cross Children's Hospital and Kidsallergy Centre, Cape Town, South 
+Africa.
+(35)Department of Paediatrics, University of Cape Town, Cape Town, South Africa.
+(36)Dept. of pathophysiology and Allergy Research, Medical University of Vienna, 
+Vienna, Austria.
+(37)Hans Christian Andersen Children's Hospital, Odense University Hospital, 
+Odense, Denmark.
+(38)Royal College of Surgeons in Ireland and Childrens Health Ireland, Dublin, 
+Ireland.
+(39)School of Psychology, Faculty of Health and Medical Sciences, University of 
+Surrey, Guildford, UK.
+(40)Department of Clinical Immunology, Faculty of Medicine, Wrocław Medical 
+University; and ALL-MED Medical Research Institute, Wroclaw, Poland.
+(41)Department Center of Translational Immunology and Department 
+Dermatology/Allergology, University Medical Center Utrecht, Utrecht, The 
+Netherlands.
+(42)Department of Allergy and Clinical Immunology, 424 General Military Training 
+Hospital, Thessaloniki, Greece.
+(43)EAACI Patient Organisation Committee, Zurich, Switzerland.
+(44)MJM Advisory, New York, New York, USA.
+(45)Dept. Nutrition and Dietetics, Winchester University, Winchester, UK.
+(46)Department of Medicine, KU Leuven, Leuven, Belgium.
+(47)Department of Allergy, Hospital Universitario 12 de Octubre, Madrid, Spain.
+(48)Instituto de Investigación Sanitaria, Hospital 12 de Octubre (imas12), 
+Madrid, Spain.
+(49)Food Allergy Referral Centre, Padua University Hospital, Padua, Italy.
+(50)Department of Clinical Science and Education, Karolinska Institutet, Solna, 
+Sweden.
+(51)Sachs Children and Youth Hospital, South Hospital, Stockholm, Sweden.
+(52)Division of Allergy and Clinical Immunology, Department of Paediatrics, 
+Federal University of São Paulo, São Paulo, Brazil.
+(53)Department of Medicine, School of Microbiology, APC Microbiome Ireland, 
+University College Cork, Cork, Ireland.
+(54)Allergy Dpt, 2nd Pediatric Clinic, University of Athens, Athens, Greece.
+(55)Lydia Becker Institute, University of Manchester, Manchester, UK.
+(56)Population Allergy, Murdoch Children's Research Institute, Parkville, 
+Australia.
+(57)Department of Paediatrics, University of Melbourne, Parkville, Victoria, 
+Australia.
+(58)Department of Allergy and Immunology, Royal Children's Hospital, Parkville, 
+Australia.
+(59)Murdoch Children's Research Institute, Parkville, Victoria, Australia.
+(60)Department of Paediatrics, the University of Melbourne, Parkville, Victoria, 
+Australia.
+(61)European Federation of Allergy and Airways Diseases Patients' Associations 
+and the EAACI Patient Organisation Committee, Zurich, Switzerland.
+(62)Allergy Clinic, Copenhagen University Hospital at Herlev-Gentofte, 
+Copenhagen, Denmark.
+(63)Paediatric Allergy and Respiratory Medicine, University of Southampton, NIHR 
+Southampton Biomedical Research Centre and David Hide Asthma and Allergy Centre, 
+St Mary Hospital, Isle of Wight, UK.
+(64)Department of Pediatrics, Division of Allergy and Immunology, Jaffe Food 
+Allergy Institute, Icahn School of Medicine at Mount Sinai, New York, New York, 
+USA.
+(65)Child Life and Health, Centre for Inflammation Research, Institute for 
+Regeneration and Repair, The University of Edinburgh, Edinburgh, UK.
+(66)Clinical Medicine, Griffith University, Southport, Queensland, Australia.
+(67)Queensland Allergy Services Private Practice, Southport, Queensland, 
+Australia.
+(68)Yong Loo Lin School of Medicine, National University of Singapore, 
+Singapore, Singapore.
+(69)Khoo Teck Puat-National University Children's Medical Institute, National 
+University Health System (NUHS), Singapore, Singapore.
+(70)Human Potential Translational Research Programme, Yong Loo Lin School of 
+Medicine, National University of Singapore, Singapore, Singapore.
+(71)Institute of Pathophysiology and Allergy Research, Center of 
+Pathophysiology, Infectiology and Immunology, Medical University of Vienna, 
+Vienna, Austria.
+(72)Department of Experimental Immunology and of Otorhinolaryngology, Amsterdam 
+University Medical Centers, Amsterdam, The Netherlands.
+(73)Section of Allergy and Clinical Immunology, Children's Hospital Colorado, 
+University of Colorado, Boulder, Colorado, USA.
+(74)Emory University School of Medicine and Children's Healthcare of Atlanta, 
+Atlanta, Georgia, USA.
+(75)Department of Paediatrics, OLVG Hospital, Amsterdam, the Netherlands.
+(76)Rijnstate Allergy Centre, Rijnstate Hospital, Arnhem, The Netherlands.
+(77)Vlieg Dieticians, Private Practice for dietary management of food allergy, 
+Arnhem, the Netherlands.
+(78)Department of Dermatology and Allergy, Hannover Medical School, Hannover, 
+Germany.
+(79)Part of Guys and St Thomas NHS Foundation Trust, Royal Brompton and 
+Harefield Hospitals, London, UK.
+(80)Department of Inflammation and Repair, Imperial College, London, UK.
+
+This European Academy of Allergy and Clinical Immunology (EAACI) guideline 
+provides recommendations for the management of IgE-mediated food allergy and was 
+developed using the Grading of Recommendations, Assessment, Development and 
+Evaluations (GRADE) approach. Following the confirmation of IgE-mediated food 
+allergy diagnosis, allergen avoidance and dietary advice (with support of a 
+specialised dietitian, if possible) together with the provision of a written 
+treatment plan, education on the recognition of allergic symptoms and 
+prescription of medication including adrenaline using an auto-injector are 
+essential. Patients with significant anxiety and requirement for coping 
+strategies may benefit from support from a clinical psychologist. As 
+immunomodulatory interventions, omalizumab is suggested for treatment of 
+IgE-mediated food allergy in children from the age of 1 and adults; and oral 
+allergen-specific immunotherapy is recommended for children and adolescents with 
+peanut allergy and suggested for milk and egg allergies (generally after 4 years 
+of age for milk and egg). Sublingual and epicutaneous immunotherapy are 
+suggested for peanut allergy but are not yet available at the point of care. 
+Future research into disease modifying treatments for IgE-mediated food allergy 
+are highly needed, with standardised and patient-focused protocols and outcomes.
+
+© 2024 The Author(s). Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.16345
+PMCID: PMC11724237
+PMID: 39473345 [Indexed for MEDLINE]
+
+Conflict of interest statement: The EAACI Food Allergy Guidelines were 
+commissioned and funded by EAACI to support the effort towards the systematic 
+review of the literature and meta‐analyses. All members of the steering 
+committee and of the expert group worked voluntarily without compensation and 
+filled in a declaration of conflicts ahead of the start of the project, which 
+were reviewed by EAACI. A.F. Santos reports grants from Medical Research Council 
+(MR/M008517/1; MC/PC/18052; MR/T032081/1), Food Allergy Research and Education 
+(FARE), the Immune Tolerance Network/National Institute of Allergy and 
+Infectious Diseases (NIAID, NIH), Asthma UK (AUK‐BC‐2015‐01), BBSRC, Rosetrees 
+Trust and the NIHR through the Biomedical Research Centre (BRC) award to Guy's 
+and St Thomas' NHS Foundation Trust, during the conduct of the study; personal 
+fees from Thermo Scientific, Nutricia, Infomed, Novartis, Allergy Therapeutics, 
+Buhlmann, as well as research support from Buhlmann and Thermo Fisher Scientific 
+through a collaboration agreement with King's College London. C. Riggioni 
+reports academic grants for the study of immunotherapy in food allergic children 
+from the Spanish Society of Paediatric Allergy (SEICAP) and the National 
+University of Singapore. H. A. Brough reports research grants from NIH (NAIAD), 
+Aimmune and DBV Technologies, and speaker honoraria fees from DBV Technologies, 
+GSK and Sanofi outside of the submitted work. I. Agache reports Deputy Editor 
+Allergy and Associate Editor Clinical and Translational Allergy. A. Fiocchi 
+reports research grants from Ferrero, Hipp, Sanofi, Novartis, Astrazeneca and 
+DBV, fees for presentations and advisory boards for Danone, Abbott, Ferrero, 
+Stallergenes and Novartis. H. Fisher reports employment at Sanofi, outside of 
+the submitted work. D. Fleischer reports research grants to institution from ARS 
+Pharmaceuticals and DBV Technologies; unpaid advisory board member for Food 
+Allergy & Anaphylaxis Connection Team and the National Peanut Board; royalties 
+from UpToDate; consultation fees as a member of physician/medical advisory 
+boards to Aquestive, ARS Pharmaceuticals, Bryn Pharma, DBV Technologies, 
+Genentech, and Nasus; and speaker fees from Genentech, outside the submitted 
+work. B. Ballmer‐Weber reports personal fees for presentations and advisory 
+boards from Thermo Fisher Scientific, Novartis, ALK, Allergopharma, Menarini, 
+Sanofi, MSD, Aiummune. S. Halken reports personal fees from ALK, personal fees 
+from Mead Johnson, personal fees from Viatris, personal fees from GSK, outside 
+the submitted work. S. Lau receives grants from Novartis, DBV, Infectopharm as 
+deputy PI and a grant from the German Research Foundation (DFG). SL received 
+personal fees from Allergopharma, ALK, Viatris, Lilly, DBV, GSK, Leo Pharma and 
+Sanofi‐Aventis. P. Smith has received investigator initiated funding from GSK, 
+Hyloris and Sanofi. C. G Mortz report research grant from Novartis and Thermo 
+Fisher Scientific. B. Eberlein reports research support from Bühlmann. D. 
+Fleisher reports Grant/research support: Aimmune Therapeutics, DBV Technolgies. 
+Consultant: Aquestive Therapeutics, ARS Pharma, DBV Technologies, Nasus Pharma 
+Genentech’ Royalties: UpToDate. M. Jutel reports: Personal fees form 
+Allergopharma, ALK‐Abello, Stallergenes, Anergis, Allergy Therapeutics, Leti, 
+HAL, GSK, Novartis, Teva, Takeda, Chiesi, Pfizer, Regeneron, Astra‐Zeneka, 
+Lallemand, Shire, Celltrion Inc., Genentech, Roche, Verona, Lek Pharmaceuticals, 
+Arcutis Biotherapeutics, FAES FARMA outside of submitted work. Deputy Editor in 
+chief Allergy, Associate Editor CTA. C. Bindslev‐Jensen reports material for IgE 
+analyzes from Thermofisher; Lecture fee from Alk‐Abello; advisory board fees 
+from ALK and Novartis research grants from Ionis, Allakos, Novartis. E. F. Knol 
+reports Research grants from Stichting Astma Bestrijding and European Union. 
+Research support from Euroimmune, speakers fee from Thermo Fisher Scientific, 
+Hycor, Sanofi and GSK. C. Jones reports Research grants from the National 
+Institute for Health and Care Research, Food Standards Agency and honoraria from 
+National Institute for Health and Care Research, Allergy UK and Danone/Nutricia. 
+C. Gray reports speaker or advisory board fees from Nutricia, Thermofisher, 
+Kenvue, Viatris and Sanofi. G. Du Toit reports grants and personal fees from 
+Aimmune, grants and personal fees from DBV, personal fees from FARE, grants from 
+NIH‐NIAID, grants and personal fees from Novartis, outside the submitted work. 
+G. Roberts reports Research funding from National Institute of Health and Food 
+Standards Agency. President of British Society of Allergy and Clinical 
+Immunology. H. Sampson reports funding to his institution for grants from 
+NIH/NIAID and has received consulting fees from DBV Technologies, S. A., N‐Fold 
+Therapeutics, LLC, and Siolta, Inc., and stock options from DBV Technologies and 
+N‐Fold Therapeutics. S. Del Giacco has received speaker and consultancy fees 
+from AstraZeneca, Chiesi, CSL‐Behring, GSK, Novartis, Sanofi, Stallergenes and 
+unrestricted research grants from Novartis and GSK, all outside this work. G. N. 
+Konstantinou is or recently was a speaker and/or advisor for and/or has received 
+research funding from AstraZeneca, Chiesi, GSK, Menarini, Novartis, Nutricia, 
+Pfizer, Sanofi, Takeda, TEVA and Vianex. C. Nilsson reports grants to 
+institution from Aimmune Therapeutics a Nestlé Company, Lecture fees from ALK, 
+Themofisher, GSK. A. Muraro declared the receipt of consultation or speakers' 
+fees for Viatris, Aimmune, DVB Technologies, Nestlè Health Sciences, ALK, 
+Stallergenes, Novartis, Sanofi. Regeneron. E. Untersmayr reports grants from 
+Desentum Oy; and received personal speaker fees from Nutrica, AllergoPharma, 
+MacroArray Diagnostics. B. P. Vickery reports grants from Abbott, grants and 
+personal fees from Aimmune, grants from Alladapt, personal fees from AllerGenis, 
+personal fees from Aravax, grants and personal fees from DBV, grants and 
+personal fees from FARE, grants from Genentech, stock options from Moonlight 
+Therapeutics, grants from NIH‐NIAID, grants and personal fees from Novartis, 
+personal fees from Reacta Biosciences, grants and personal fees from Regeneron, 
+personal fees from Sanofi, grants from Siolta, outside the submitted work. M. 
+Worm declares the receipt of honoraria or consultation fees by the following 
+companies: Novartis Pharma GmbH, Sanofi‐Aventis Deutschland GmbH, DBV 
+Technologies S.A, Aimmune Therapeutics UK Limited, Regeneron Pharmaceuticals, 
+Inc., Leo Pharma GmbH, Boehringer Ingelheim Pharma GmbH &Co.KG, ALK‐Abelló 
+Arzneimittel GmbH, Lilly Deutschland GmbH, Kymab Limited, Amgen GmbH, Abbvie 
+Deutschland GmbH & Co. KG, Pfizer Pharma GmbH, Mylan Germany GmbH (A Viatris 
+Company), AstraZeneca GmbH, Lilly Deutschland GmbH and GlaxoSmithKline GmbH & 
+Co. KG. B. Vlieg–Boerstra received research funding from Nutricia, consulting or 
+speaker's fees from Marfo Food groups, Nestlé, Abbott, Nutricia and Vinimini. J. 
+Schwarze reports personal consulting fees from Aimmune and Sanofi, congress 
+sponsorship from ALK, research grants from NIHR and UKRI‐MRC. K. 
+Hoffmann‐Sommergruber reports grant support from Government of Lower Austria 
+(DARC) and consultancy fees from COMPARE Database. K. Beyer reports grants from 
+the German Research Foundation, the Federal Ministry of Education and Research, 
+the Federal Ministry of Food and Agriculture as well as from Aimmune, 
+Danone/Nutricia, DBV, Hipp, Hycor, Infectopharm and Novartis; she received 
+personal fees from Aimmune, Akademie Fresenius, Allergy Therapeutics, ALK, 
+Danone/Nutricia, Hipp, Hycor, Infectopharm, Kantar Health, Limbach Gruppe, 
+Mylan/Meda/Mice, Nestle, Novartis, Sonic Health Care and ThermoFisher. K. P. 
+Perrett has received research grants from National Health & Medical Research 
+Council of Australia, Immune Tolerance Network (NIH), Aravax, DBV Technologies, 
+Novartis and Siolta and consultant fees from Aravax, paid to their institution, 
+outside the submitted work. L. O'Mahony reports Consultancy with Precision 
+BioticsAlimentary Health, grants from GlaxoSmithKline and Chiesi, and 
+participation in speaker bureau for Nestle, Yakult, Reckitt and Abbott. L. 
+Oliveira reports Speakers fee from Thermo Fisher Scientific, Nutricia, Sanofi 
+and Takeda. Dunn‐Galvin declares the receipt of honoraria or consultation fees 
+from Novartis, DBV, Aimmune, Nestle. M. Alvaro‐Lozano reports Honoraria or 
+consultation fees from ALK‐Abello, FAES Pharma, LETI Pharma, Merck, Aimmune, DBV 
+Technologies, Allergy Therapeutics, Stallergenes, Diater, Novartis, Uriach, 
+Nestle and Sanofi Genzyme. Grants from SEICAP, SCAIC. M. Fernandez‐Rivas reports 
+research support from Instituto de Salud Carlos III, Spanish Government, Aimmune 
+Therapeutics, Diater and Novartis; Speaker and Advisory Board honoraria from 
+Aimmune Therapeutics, DBV, Diater, Ediciones Mayo, EPG Health, GSK, HAL Allergy, 
+MEDSCAPE; Novartis, Reacta Healthcare, SPRIM. M. Ebisawa reports Speaker and 
+Advisory Board honoraria from Viatris, Novartis, Sanofi, and 
+ARS‐Pharmaceuticals. M. Marshisotto reports advisory roles to IFPIES, National 
+Peanut Board, Novartis Patient Advisory Board, GA2LEN ANACare and University of 
+Michigan. N. Papadoupoulos reports Research Support from Capricare, Nestle, 
+Numil, REG, Vianex. Speaker and Advisory Board honoraria from Abbott, Abbvie, 
+Astra Zeneca, GSK, HAL, Medscape, Menarini/Faes Farma, Mylan, Novartis, 
+Nutricia, OM Pharma, Regeneron/Sanofi. P. Smith reports Speaker and advisory 
+board honoraria from Nestle Nutrition Institute. Investigator initiated research 
+funding from GSK and Sanofi. Vitaris advisory board honoraria. P. Eigenmann 
+reports Speaker and advisory board honoraria: DBV technologies, Novartis, 
+ThermoFisher Scientific, Nestlé Health Sciences, Synlab, GSK; Stocks and Stock 
+options: DBV technologies. R. Peters reports research grants from the National 
+Health & Medical Research Council of Australia, and research support from 
+ThermoFisher, paid to their institution, outside the submitted work. R. van Ree 
+reports Consultancies for HAL Allergy, Citeq, Angany, Reacta Helathcare, Mission 
+MightMe, AB Enzymes, The Protein Brewery; speaker's fees from HAL Allergy, ALK 
+and Thermo Fisher Scientific; stock options from Angany. R. Meyer honoraria from 
+academic lectures and consultancy fees from Nutricia/Danone, Abbott 
+Laboratories, Nestle Clinical Nutrition, Reckitt Benckiser and Else Nutrition. 
+T. Eiwegger reports to act/recently acted as local PI for company sponsored 
+trials by DBV Therapeutics, Greer Stallergens, and sub‐investigator for 
+Regeneronand ALK‐Abelló. He/his lab received unconditional/in‐kind contributions 
+from Macro Array. Diagnostics and ALK‐Abelló and he is co‐I in an 
+investigator‐initiated trial with in‐kind support from Novartis. He holds 
+advisory board roles for ALK‐Abelló, and Nutricia/Danone. TE reports lecture 
+fees from Novartis, ThermoFisher, Nutricia/Danone, MADX, ALK‐Abelló. T. Werfel 
+has received institutional grants from LEO Pharma and Novartis, has performed 
+consultancies for Abbvie, Almirall, Janssen, Galderma, LEO, Lilly, Novartis, 
+Pfizer, Sanofi‐Regeneron and has lectured at events sponsored by Abbvie, 
+Janssen, Celgene, Galderma, LEO Pharma, Lilly, Sanofi and Novartis. I. 
+Skypala—honoraria from ThermoFisher, Royal College of General Practitioners and 
+Touch Independent Medical Education. JOBH declares research funding from DBV 
+Technologies, Johnson& Johnson, Consultancy with Camallergy, speaker fees from 
+Nutricia. A. Alvarez‐Perea declares the receipt of honoraria or consultation 
+fees from ALK‐Abelló, Organon, Immunotek, DBV‐technologies, GSK and PI and 
+sub‐investigator for company sponsored trials by Novartis, Leti, CEU‐San Pablo, 
+Aimmune. The other authors have nothing to disclose.
+
+
+7. Allergol Select. 2024 Oct 16;8:324-331. doi: 10.5414/ALX02517E. eCollection 
+2024.
+
+Hen's egg ladder: Therapy option for the gradual introduction of hen's eggs in 
+cases of hen's egg allergy.
+
+Brückner A(1), Funk-Wentzel P(2), Hompes S(3).
+
+Author information:
+(1)Elbe Klinikum Buxtehude, Clinic for Dermatology, Competence Center for 
+Chronic Skin Diseases, Buxtehude.
+(2)Practice for Nutrition Therapy, Stuttgart, and.
+(3)Altona Children's Hospital, Hamburg, Germany.
+
+More than 10 years ago, the British Society for Allergy and Clinical Immunology 
+(BSACI) published guidelines for the management of egg allergy [1]. For the 
+first time, these included a stepwise plan for the reintroduction of egg for 
+egg-allergic children who could already tolerate well-cooked egg, such as cakes 
+and cookies. Since then, various egg ladders have been developed [2, 3, 4, 5, 6, 
+7, 8, 9]. In the past 3 years, several studies have been published suggesting 
+that a gradual introduction of highly processed to less processed egg containing 
+foods contribute to the acceleration of tolerance development [2, 3, 4, 5]. 
+However, depending on the study and egg ladder, the egg products vary in their 
+level of processing (wheat matrix, degree, and location of heating (e.g., oven, 
+pan, pot), egg quantity, and egg protein). In the UK, the introduction of the 
+egg ladder is recommended at the age of 12 months or if the last reaction 
+occurred 6 months before. The benefits of introducing egg at home include an 
+early increase in the variety of foods, reduction of food fears, improved 
+nutrient intake, and the avoidance of hospitalization fears in children [10]. 
+Children with mild reactions in the past can start with small amounts of baked 
+goods at home. Food challenges in an inpatient setting to exclude or reconfirm 
+the allergy should be conducted if the patients have previously had severe 
+allergic reactions, i.e., anaphylaxis, or if the smallest amounts triggered an 
+allergic reaction or if existing asthma is poorly controlled [10, 11]. The 
+present work includes, in addition to the evaluation of study results, a 
+presentation of the recent studies regarding egg ladders. From these, a new egg 
+ladder as therapeutic option for the German-speaking region has been developed. 
+As already done for the milk ladder a detailed step-by-step plan, selection 
+criteria, a recipe collection, and also ideas for commercial prepackaged food 
+items can be found in the appendices [11].
+
+© Dustri-Verlag Dr. K. Feistle.
+
+DOI: 10.5414/ALX02517E
+PMCID: PMC11500597
+PMID: 39450207
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest with regards to this publication. Figure 1.Hen’s egg allergens in the 
+egg yolk (left) and in the egg white (right) [31, 32]. Graphic/Image: Amely 
+Brückner. Table.Checklist for food ladders.Which children are probably NOT 
+suitable for the milk or egg ladder? The 4 A’s□ Age: Children ≥ 6 years old□ 
+Asthma: Severe or poorly controlled asthma (≥1 criteria met): ○ Emergency 
+admission or hospitalization (for asthma) within the last 6 months ○ Need to 
+take oral corticosteroids in the last 6 months ○ Nocturnal symptoms, especially 
+use of salbutamol spray ○ Asthma symptoms on at least 3 days within 1 week ○ 
+Need for 3 or more doses of emergency (salbutamol) spray every week ○ Absence 
+from nursery or school due to asthma in the last 3 months ○ No usual sport or 
+age-appropriate everyday activity (“keeping up with peers”) due to asthma 
+symptoms□ Anaphylaxis: History of allergic reaction to very small amounts of the 
+relevant food, especially in the case of baked products□ Insufficient adherence: 
+The patient or caregivers are not able to adhere to the necessary instructions 
+and measures for the hen’s egg ladder (e.g., time management, language 
+barrier).If any of the above points apply, the hen’s egg ladder should not be 
+performed [33] (adapted from Chua et al. [41]).
+
+
+8. Nutrients. 2024 Sep 22;16(18):3201. doi: 10.3390/nu16183201.
+
+Transplant-Acquired Food Allergy in Children.
+
+Indolfi C(1), Klain A(1), Dinardo G(1), Grella C(1), Perrotta A(1), Colosimo 
+S(1), Decimo F(1), Miraglia Del Giudice M(1).
+
+Author information:
+(1)Department of Woman, Child and of General and Specialized Surgery, University 
+of Campania Luigi, Vanvitelli, 80138 Naples, Italy.
+
+BACKGROUND: Organ transplantation in children is a vital procedure for those 
+with end-stage organ failure, but it has been linked to the development of 
+post-transplant allergies, especially food allergies. This phenomenon, known as 
+transplant-acquired food allergy (TAFA), is becoming increasingly recognized, 
+though its mechanisms remain under investigation. Pediatric transplant 
+recipients often require lifelong immunosuppressive therapy to prevent graft 
+rejection, which can alter immune function and heighten the risk of allergic 
+reactions. Our review aimed to gather the latest evidence on TAFA.
+METHODS: We conducted a PubMed search from 25 June to 5 July 2024, using 
+specific search terms, identifying 143 articles. After screening, 36 studies 
+were included: 24 retrospective studies, 1 prospective study, 2 cross-sectional 
+researches, and 9 case reports/series.
+RESULTS: Most studies focused on liver transplants in children. The prevalence 
+of food allergies ranged from 3.3% to 54.3%. Tacrolimus, alongside 
+corticosteroids, was the most commonly used immunosuppressive therapy. In 
+addition to food allergies, some patients developed atopic dermatitis, asthma, 
+and rhinitis. Allergic symptoms typically emerged within a year post-transplant, 
+with common allergens including milk, eggs, fish, nuts, soy, wheat, and 
+shellfish. Both IgE-mediated and non-IgE-mediated reactions were observed, with 
+treatment often involving the removal of offending foods and the use of 
+adrenaline when necessary.
+CONCLUSIONS: Consistent immunological monitoring, such as skin prick tests and 
+IgE level assessments, is essential for early detection and management of 
+allergies in these patients. Understanding the link between transplantation and 
+allergy development is crucial for improving long-term outcomes for pediatric 
+transplant recipients.
+
+DOI: 10.3390/nu16183201
+PMCID: PMC11434934
+PMID: 39339801 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+9. Allergy. 2025 Apr;80(4):1074-1085. doi: 10.1111/all.16314. Epub 2024 Sep 16.
+
+Omalizumab reduces anaphylactic reactions and allows food introduction in 
+food-allergic in children with severe asthma: An observational study.
+
+Arasi S(1), Cafarotti A(1), Galletta F(1)(2), Panetta V(3), Riccardi C(1), 
+Calandrelli V(1), Fierro V(1), Dahdah L(1), Artesani MC(1), Valluzzi RL(1), 
+Pecora V(1), Tallarico V(1)(4), Dinardo G(1)(5), Lo Scalzo L(1)(6), Fiocchi 
+A(1).
+
+Author information:
+(1)Allergy Division, Pediatric Hospital Bambino Gesu IRCCS, Rome, Italy.
+(2)Department of Human Pathology of Adult and Childhood Gaetano Barresi, 
+Pediatric Unit, University of Messina, Messina, Italy.
+(3)L'altrastatistica S.r.l., for GB Pharma Services & Consulting S.r.l, Rome, 
+Italy.
+(4)Department of Medical and Surgical Sciences, Pediatric Unit, University 
+"Magna Graecia" of Catanzaro, Catanzaro, Italy.
+(5)Department of Woman, Child and of General and Specialized Surgery, University 
+of Campania Luigi Vanvitelli, Naples, Italy.
+(6)Department of Health Promotion, Mother and Child Care, Internal Medicine and 
+Medical Specialties "G. D'Alessandro" University of Palermo, Palermo, Italy.
+
+BACKGROUND: In Europe, Omalizumab (anti-IgE) is indicated for the treatment of 
+moderate to severe asthma, but not for IgE-mediated food allergy (FA).
+OBJECTIVE: We assessed the impact of Omalizumab on efficacy, safety, and quality 
+of life (FA-QoL) in patients with moderate to severe asthma and who have a 
+history of anaphylaxis to peanut, tree nuts, fish, egg, milk, and/or wheat.
+METHODS: Food-allergic children (6-18 years) with moderate to severe asthma 
+underwent oral food challenges (OFCs) to establish the threshold of reaction to 
+the culprit food(s) at baseline (T0) and at 4-month intervals (T1, T2, and T3) 
+during their first year of treatment with Omalizumab. We recorded the number and 
+severity of food-allergic reactions, Asthma Control Test (ACT) scores, FA-QoL, 
+and total IgE levels.
+RESULTS: In 65 patients allergic to 107 foods, the No Observed Adverse Events 
+Level (NOAEL) at T1 increased: 243- and 488-fold for fresh and baked milk, 
+respectively; 172- and 134-fold for raw and baked egg; 245-fold for hazelnut; 
+55-fold for peanut; 31-fold for wheat; and 10-fold for fish. Full tolerance was 
+achieved in 66.4% of OFCs at T1, 58.3% at T2, and 75% at T3. Ninety-five foods 
+were liberalized in the diet of 55 patients; the remaining 12 were introduced by 
+10 patients at least in traces. Throughout the study, 40 out of 65 were able to 
+get a free diet. ACT increased from 17 (Q1-Q3: 15-17) to 23.6 (Q1-Q3: 23-25). 
+The FA-QoL score in children ≤12 years decreased from 4.63 ± 0.74 to 
+2.02 ± 1.13, and in adolescents from 4.68 ± 0.92 to 1.90 ± 1.50.
+CONCLUSIONS: During Omalizumab therapy, a safe reintroduction of allergenic 
+foods is feasible.
+TRIAL REGISTRATION NUMBER: ClinicalTrials.gov, NCT06316414.
+
+© 2024 The Author(s). Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.16314
+PMCID: PMC11969307
+PMID: 39282750 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.A. has participated as an advisory board 
+member, and/or consultant, and/or speaker for Aimmune, D.B.V.‐, Novartis, 
+Ferrero and Ulrich outside the submitted work. AF has participated as an 
+advisory board member, and/or consultant, and/or speaker for Danone, Abbott, 
+Aimmune, Ferrero, Novartis, outside the submitted work. Other Authors declare no 
+conflict of interest related to this work.
+
+
+10. Dermatol Clin. 2024 Oct;42(4):591-600. doi: 10.1016/j.det.2024.04.003. Epub
+2024  Jul 25.
+
+Timing of Food Introduction and Allergy Prevention: An Update.
+
+Shah A(1), Sicherer SH(1), Tsuang A(2).
+
+Author information:
+(1)Division of Allergy and Immunology, Icahn School of Medicine at Mount Sinai, 
+One Gustave L Levy Place, New York, NY 10029, USA.
+(2)Division of Allergy and Immunology, Icahn School of Medicine at Mount Sinai, 
+One Gustave L Levy Place, New York, NY 10029, USA. Electronic address: 
+angela.tsuang@mountsinai.org.
+
+Recommendations about allergy prevention through diet are rapidly changing. In 
+just the past several years, multiple organizations have provided updated 
+guidance and recommendations about infant feeding based on recent studies and 
+meta-analyses. In addition to the increased number of studies supporting the 
+benefit of early introduction of allergenic foods, in particular peanut and egg, 
+recent studies demonstrate that infant and maternal diet diversity may also 
+reduce risk of food allergy and atopy. Skin emollients have not been found to be 
+helpful in prevention of food allergy, and more evidence is needed to determine 
+if emollients play a role in prevention of atopic dermatitis.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.det.2024.04.003
+PMID: 39278712 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure A. Shah has no financial conflict of 
+interest to disclose. S.H. Sicherer reports royalty payments from UpToDate, 
+Elsevier and from Johns Hopkins University Press; grants to his institution from 
+the National Institute of Allergy and Infectious Diseases, United States, from 
+Food Allergy Research and Education, United States, and from Pfizer, United 
+States; and personal fees from the American Academy of Allergy, Asthma and 
+Immunology as Deputy Editor of the Journal of Allergy and Clinical Immunology: 
+In Practice, outside of the submitted work. A. Tsuang has no financial conflict 
+of interest to disclose.

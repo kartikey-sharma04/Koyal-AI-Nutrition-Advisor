@@ -1,0 +1,577 @@
+1. Environ Res. 2025 Apr 10;277:121583. doi: 10.1016/j.envres.2025.121583. Online
+ ahead of print.
+
+Associations between agricultural use of pyrethroid insecticides and asthma: 
+AGRICAN cohort results.
+
+Baldi I(1), de Graaf L(2), Bureau M(2), Tual S(3), Douwes J(4), Lebailly P(5).
+
+Author information:
+(1)Univ. Bordeaux, Inserm, Bordeaux Population Health Research Centre, EPICENE 
+Team, UMR 1219, F-33000, Bordeaux, France; Service Santé Travail Environnement, 
+Pôle de Santé Publique, CHU de Bordeaux, 33000, Bordeaux, France. Electronic 
+address: Isabelle.Baldi@u-bordeaux.fr.
+(2)Univ. Bordeaux, Inserm, Bordeaux Population Health Research Centre, EPICENE 
+Team, UMR 1219, F-33000, Bordeaux, France.
+(3)INSERM, UMR1086 ANTICIPE, Cancers et Préventions, Centre François Baclesse, 
+Caen, France.
+(4)Research Centre for Hauora and Health, Massey University, Wellington, New 
+Zealand.
+(5)INSERM, UMR1086 ANTICIPE, Cancers et Préventions, Centre François Baclesse, 
+Caen, France; Université Caen Normandie, Caen, France.
+
+RATIONALE: Following the withdrawal of organochlorines and organophosphates, 
+pyrethroids have become the most used insecticides in both agricultural and 
+domestic settings.
+OBJECTIVES: We analyzed data from the French AGRICAN agricultural cohort to 
+assess associations of occupational pyrethroid exposures and 
+allergic/non-allergic asthma.
+METHODS: At enrollment, asthma diagnosed by a doctor was reported by 11 815 
+participants (7028 classified as non-allergic and 4458 as allergic based on the 
+presence of eczema and/or hay fever). Individual exposures to 17 pyrethroids 
+were defined in 124 992 participants, based on a combination of the history of 
+pesticide treatment of 11 crops (grassland, vineyard, wheat/barley, corn, field 
+peas, potatoes, tobacco, beets, sunflower, rape, fruits) and a crop-exposure 
+matrix.
+MEASUREMENTS AND MAIN RESULTS: In men, no association was observed for any of 
+the pyrethroids regardless of asthma phenotype. In contrast, in ever-exposed 
+women, asthma risk was increased with use of any pyrethroid, both for allergic 
+(+80 %) and non-allergic asthma (+40 %). Highest increases were observed for 
+allergic asthma with fenpropathrin (OR = 2.00; 95 %CI:1.38-2.90), tralomethrin 
+(OR = 1.81; 95 %CI:1.28-2.56), fenvalerate (OR = 1.81; 95 %CI:1.38-2.38), 
+permethrin (OR = 1.78; 95 %CI:1.26-2.50) and deltamethrin (OR = 1.76; 
+95 %CI:1.35-2.29). Stratified analyses on women who reported living on a farm in 
+early life showed stronger associations for non-allergic asthma. For women who 
+reported early life living on vineyards associations with pyrethroids were 
+stronger for both allergic and non-allergic asthma. Associations for women who 
+lived on cattle farms were reduced for some pyrethroids.
+CONCLUSION: Occupational pyrethroid exposure was positively associated with both 
+allergic and non-allergic asthma in women but not in men.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2025.121583
+PMID: 40220893
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Pediatr Dermatol. 2025 Mar-Apr;42(2):259-266. doi: 10.1111/pde.15807. Epub
+2024  Nov 11.
+
+Food Allergy Test-Guided Dietary Advice for Children With Atopic Dermatitis: A 
+Consensus Study.
+
+Garside L(1), Boyle R(2), Meyer R(3)(4), Skypala I(5), Allen H(6), Beattie P(7), 
+Dempsey J(8), Doyle M(9), Evans-Howells H(10), Feeney M(1)(11), Ludman S(12), 
+Marrs T(5), Ravenscroft J(13), Stiefel G(14), Umasunthar T(15), Vyas D(16), 
+Yerlett N(17), Walsh J(18), Brown SJ(19), Ridd MJ(1).
+
+Author information:
+(1)Centre for Applied Excellence in Skin & Allergy Research, University of 
+Bristol, Bristol, UK.
+(2)National Heart and Lung Institute, Imperial College London, London, UK.
+(3)Winchester University, Winchester, UK.
+(4)KU Leuven, Leuven, Belgium.
+(5)Guy's and St Thomas' NHS Foundation Trust, London, UK.
+(6)Imperial College London, London, UK.
+(7)Royal Hospital for Children, Glasgow, UK.
+(8)Imperial College Healthcare NHS Trust, London, UK.
+(9)Jersey Allergy Clinic, St Lawrence, Jersey, UK.
+(10)Dr Helen Allergy, Bournemouth, UK.
+(11)King's College London, London, UK.
+(12)Royal Devon University Healthcare NHS Foundation Trust, Exeter, UK.
+(13)Nottingham University Hospitals NHS Trust, Nottingham, UK.
+(14)University Hospitals of Leicester NHS Trust, Leicester, UK.
+(15)Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+(16)West Hertfordshire Hospitals NHS Trust, Watford, UK.
+(17)Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK.
+(18)Castle Partnership, Norwich, UK.
+(19)University of Edinburgh, Edinburgh, UK.
+
+BACKGROUND: The use of blood specific IgE or skin prick tests (SPT) to guide 
+dietary exclusions for disease control in children with atopic dermatitis (AD) 
+is controversial. We undertook a consensus exercise on how to interpret SPT 
+results and dietary history for cow's milk, hen's egg, wheat, and soy in 
+children < 2 years old with AD.
+METHODS: Fourteen clinicians from general practice, pediatrics, pediatric 
+dermatology, pediatric allergy, and pediatric dietetics from UK and Ireland took 
+part in an online modified Delphi study. Over three rounds, participants gave 
+their anonymous opinions and received individualized and group feedback, based 
+on the premise that all children had SPTs. The findings were discussed in an 
+online workshop.
+RESULTS: Of 18 symptoms, 12 were identified as relevant to immediate and 7 to 
+delayed allergy. Regarding SPTs, there was consensus over which allergens to use 
+for wheat and soy but not cow's milk or hen's egg; for all study foods, wheal 
+size was determined as 0-1 mm negative, ≥ 5 mm sensitized, but between 2 and 
+4 mm, categorization varied by food. During the final workshop, consensus was 
+reached on dietary advice for nine combinations of SPT results and dietary 
+history.
+CONCLUSION: We attained consensus on how SPTs and dietary history for four 
+common food allergens should be interpreted in young children under 2 years of 
+age with AD. These pragmatic recommendations may support clinician education, 
+consistency of decision-making, and future research.
+
+© 2024 The Author(s). Pediatric Dermatology published by Wiley Periodicals LLC.
+
+DOI: 10.1111/pde.15807
+PMCID: PMC11950804
+PMID: 39528241 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.W. has sat on clinical advisory panels to 
+Allergy UK and Anaphylaxis UK. G.S. acts as Trustee to Allergy UK, contributed 
+to an educational video on atopic dermatitis with Sanofi and is Principal 
+Investigator for NARF study. R.M. is on the advisory panel of CoMISS supported 
+by Nestle Health Science, has provided consultancy to Else Nutrition, and 
+received honoraria for lectures from Nutricia/Danone, Abbott, and Reckitt 
+Benckiser. I.S. has received honoraria for lectures from ThermoFisher, Royal 
+College of GPs, TouchiME. M.J.R. is chief investigator on the TIGER (Trial of 
+IgE food allergy tests for Eczema Relief) study (NIHR133464). S.J.B. has 
+received research funding (but no personal financial benefits) from the Wellcome 
+Trust (220875/Z/20/Z), UKRI, Medical Research Council, Rosetrees Trust, 
+Stoneygates Trust, British Skin Foundation, Charles Wolfson Charitable Trust, 
+anonymous donations from people with eczema, Unilever, Pfizer, Abbvie, 
+Sosei‐Heptares, Janssen, European Lead Factory (multiple industry partners) and 
+the BIOMAP consortium (EC‐IMI project ref. No 821511).
+
+
+3. Medicine (Baltimore). 2024 Sep 6;103(36):e39605. doi: 
+10.1097/MD.0000000000039605.
+
+A case report of diet elimination guided by food specific IgG4 achieved clinical 
+cure for eczematous external otitis with finger paronychia.
+
+Du Y(1)(2), Yang B(1), Yao W(1), Zhu Y(3), Tang X(4), Wang H(1).
+
+Author information:
+(1)Department of Allergy and Clinical Immunology, The Second Affiliated Hospital 
+Zhejiang University School of Medicine, Hangzhou, China.
+(2)Department of Emergency Medicine, Hangzhou Third People's Hospital, Hangzhou, 
+China.
+(3)Department of Otolaryngology, The Second Affiliated Hospital Zhejiang 
+University School of Medicine, Hangzhou, China.
+(4)Department of Otolaryngology, Zhejiang Provincial Hospital of Traditional 
+Chinese Medicine, Hangzhou, China.
+
+RATIONALE: Eczematous external otitis (EEO) is the most difficult-to-treat 
+otitis externa, and characterized by the symptoms of inflammation with 
+hypersensitivity of the external ear canal skin. It is acknowledged as a chronic 
+skin inflammation primarily caused by dermatological and allergic reactions. 
+Food allergens are also considered a cause to induce the inflammation. However, 
+the role of food specific IgG4 in this disease is unclear yet.
+PATIENT CONCERNS: A 54-year-old woman complained of recurrent itching of the 
+external auditory meatus for 3 years and nails chapping of hands for 2 years.
+DIAGNOSES AND INTERVENTIONS: She was diagnosed with EEO and underwent the 
+therapeutic strategy as food elimination of egg, milk and wheat, guided by the 
+result of food specific IgG4 together with probiotics on the basis of previous 
+symptom controlling therapy.
+OUTCOMES: After 17 months' treatment, she was finally free of all the symptoms 
+and the serum IgG4 specific to all foods are under normal limit.
+LESSONS: To the best of our knowledge, it is the first report revealing the 
+clinical significance of food specific IgG4 in EEO, and the successful treatment 
+with diet elimination guided by food specific IgG4 threw a new light on the 
+clinical management of refractory EEO.
+
+Copyright © 2024 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000039605
+PMCID: PMC11383262
+PMID: 39252262 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+4. J Food Allergy. 2021 Sep 1;3(2):56-58. doi: 10.2500/jfa.2021.3.210007. 
+eCollection 2021 Sep.
+
+The impact of food matrices on egg allergenicity.
+
+Kaman K(1), Leeds S(1).
+
+Author information:
+(1)From the Section of Allergy and Clinical Immunology, Department of 
+Pediatrics, Yale University School of Medicine, New Haven, Connecticut.
+
+BACKGROUND: Although many studies show the impact of high and prolonged heating 
+on allergenicity, scarce research exists that examined the impact of the food 
+matrix effect. We presented a case that demonstrates the need for further 
+investigation into this field.
+CASE: An 8-month-old breast-fed girl with a history of moderate eczema presented 
+with concern for food allergy. At 7 months old, she seemed to have difficulty 
+with nursing after consumption of peanut butter, and her pediatrician 
+recommended further avoidance. On presentation to allergy, she had not yet 
+consumed eggs; therefore, skin testing was obtained for both peanut and egg. Her 
+skin testing result to peanut was negative, whereas to egg was elevated at 5/20 
+mm. To further support clinical decision-making, blood work was obtained, and 
+the egg white specific immunoglobulin E (IgE) value was elevated to 1.33 kU/L. 
+It was recommended to the family to pursue home introduction of peanut and 
+return for oral challenge to baked egg. At 14 months old, the patient returned 
+for oral challenge and successfully tolerated one-half of a muffin. She was 
+discharged with instructions to continue consumption of one-half of a muffin 
+ideally three or more times a week, which the parents reported she continued to 
+tolerate.
+CONCLUSION: When the patient was 24 months old, the mother decided, without 
+consultation, to introduce banana-chocolate chip muffins. With the first two 
+ingestions, she developed immediate urticaria. On the third consumption, she 
+developed anaphylaxis, which required epinephrine, with rapid improvement. The 
+patient subsequently returned to regular consumption of standard egg muffins (as 
+well as bananas and chocolate individually), which she continued to tolerate. 
+Based on our patient's ability to tolerate baked egg muffins without banana but 
+significant reaction to baked egg muffins with banana, a potential explanation 
+is that the addition of banana disrupted the egg-wheat matrix. This report 
+points toward a continued need to investigate the role food matrices play on the 
+allergenicity of foods. Furthermore, this case demonstrated the importance of 
+adhering to allergist-prescribed recipes to prevent allergic reactions.
+
+Copyright © 2021, The Author(s). Published by OceanSide Publications, Inc., 
+U.S.A.
+
+DOI: 10.2500/jfa.2021.3.210007
+PMCID: PMC11250551
+PMID: 39022399
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare pertaining to this article
+
+
+5. Front Nutr. 2024 Jun 13;11:1373110. doi: 10.3389/fnut.2024.1373110.
+eCollection  2024.
+
+Food allergies around the world.
+
+Wong GW(1).
+
+Author information:
+(1)Department of Paediatrics, Faculty of Medicine, The Chinese University of 
+Hong Kong, Hong Kong SAR, China.
+
+The increase in the prevalence of food allergy has been considered as the second 
+wave in the allergy epidemic following the first wave of increase in asthma and 
+allergic rhinitis. It is well known that the prevalence of allergic conditions 
+would follow economic development and urbanization in many countries or regions. 
+In developed countries, one in three children suffered from at least one 
+allergic disorder and these conditions include food allergy, eczema, allergic 
+rhinitis and asthma. Food allergy is very often the first allergic manifestation 
+affecting infants and young children. The exact etiologies are not known. The 
+clinical manifestations ranged from a simple rash or an itch around the mouth, 
+to the more severe manifestations of angioedema and potentially fatal 
+anaphylaxis. Among all cases of childhood anaphylaxis, food is the most common 
+cause. The common allergens resulting in food allergies in developed countries 
+include egg, milk, fish, wheat, peanuts and tree nuts. However, there are marked 
+variations in the patterns of food allergens in developing countries. In line 
+with the epidemiology of asthma, food allergy is also much less common in rural 
+areas. Clear understanding of reasons explaining the disparity of food allergies 
+between urban and rural population would pave the way to the development of 
+effective primary prevention for food allergy.
+
+Copyright © 2024 Wong.
+
+DOI: 10.3389/fnut.2024.1373110
+PMCID: PMC11208673
+PMID: 38938666
+
+Conflict of interest statement: The author declares that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+6. Nutrients. 2024 May 23;16(11):1578. doi: 10.3390/nu16111578.
+
+Feasibility and Safety of the Early Introduction of Allergenic Foods in Asian 
+Infants with Eczema.
+
+Harama D(1), Saito-Abe M(1)(2), Hamaguchi S(1)(3), Fukuie T(1), Ohya Y(1)(2), 
+Yamamoto-Hanada K(1)(2).
+
+Author information:
+(1)Allergy Center, National Center for Child Health and Development, 2-10-1 
+Okura, Setagaya-ku, Tokyo 157-8535, Japan.
+(2)Medical Support Center for the Japan Environment and Children's Study, 
+National Research Institute for Child Health and Development, 2-10-1 Okura, 
+Setagaya-ku, Tokyo 157-8535, Japan.
+(3)Department of Pediatrics, Tokyo Metropolitan Hiroo Hospital, 2-34-10 Ebisu, 
+Shibuya-ku, Tokyo 150-0013, Japan.
+
+BACKGROUND: There is a lack of data regarding the early introduction of the 
+consumption of allergenic food among Asian infants.
+METHODS: We examined infants who had early-onset eczema before 6 months of age 
+and received instructions from certified allergists for the early introduction 
+of hen's eggs, milk, wheat, peanuts, and tree nuts.
+RESULTS: The consumption rates of hen's eggs were 100% at 24 months. For peanuts 
+and walnuts, the consumption rate was moderate at 12 months (48.5% and 30.3%, 
+respectively), but by 24 months, it had progressed to 78.8% and 81.3%, 
+respectively. In contrast, cashews remained at lower levels than other allergens 
+at 20.7% at 12 months and 41.4% at 24 months. No adverse events related to early 
+introductions occurred.
+CONCLUSIONS: In infants with eczema, allergenic foods could be introduced early 
+and well tolerated in Asian infants. However, having eczema may indicate a 
+predisposition to food allergies, so caution is necessary when introducing 
+allergenic foods. The early introduction of peanuts and tree nuts was still more 
+challenging in real-world practice in Asia as well as in Western countries.
+
+DOI: 10.3390/nu16111578
+PMCID: PMC11174384
+PMID: 38892510 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+7. BMJ Evid Based Med. 2024 Mar 21;29(2):104-113. doi:
+10.1136/bmjebm-2023-112445.
+
+Introduction of allergenic food to infants and allergic and autoimmune 
+conditions: a systematic review and meta-analysis.
+
+Tuballa A(1), Connell D(1), Smith M(1), Dowsett C(2), O'Neill H(1), Albarqouni 
+L(3).
+
+Author information:
+(1)Nutrition and Dietetics, Faculty of Health Sciences and Medicine, Bond 
+University, Robina, Queensland, Australia.
+(2)Institute of Evidence Based Health Care (IEBH), Faculty of Health Sciences 
+and Medicine, Bond University, Robina, Queensland, Australia.
+(3)Institute of Evidence Based Health Care (IEBH), Faculty of Health Sciences 
+and Medicine, Bond University, Robina, Queensland, Australia 
+lalbarqo@bond.edu.au.
+
+OBJECTIVES: To evaluate the effects of early introduction to allergenic foods 
+compared with late introduction and its impact on food allergy, food 
+sensitisation and autoimmune disease risk.
+DESIGN AND SETTING: The systematic review was reported in accordance with the 
+Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 
+guidelines. Four electronic databases (MEDLINE, CENTRAL, EMBASE and CINAHL) were 
+searched from inception till 24 October 2022 using keywords and MeSH without 
+limitations on publication's language or date. A forward and backwards citation 
+analysis was also conducted. Risk of bias was assessed by three authors 
+independently, in pairs using the Cochrane Risk of Bias Tool 2. Findings were 
+narratively and quantitatively synthesised. Certainty of evidence was assessed 
+using the Grading of Recommendations Assessment, Development and Evaluation 
+approach.
+PARTICIPANTS: Randomised controlled trials (RCTs) on allergenic food 
+introduction prior to 12 months of age that evaluated its effect on the 
+development of allergic and autoimmune conditions.
+INTERVENTION: Early introduction to allergenic foods to infants diet.
+MAIN OUTCOME MEASURES: (1) Food allergy and sensitisation with main measures 
+including oral food challenge, specific-IgE, skin prick testing, physician 
+assessment and parental reporting. (2) Allergic and autoimmune conditions such 
+as asthma and eczema.
+RESULTS: Of the 9060 identified records, we included 12 RCTs. We found high to 
+moderate certainty evidence suggested that early introduction of 
+allergen-containing foods reduces the risk of multiple food allergies (4 RCTs, 
+3854 participants, RR 0.49, 95% CI 0.33 to 0.74), egg (8 RCTs, 5193 
+participants, RR 0.58, 95% CI 0.44 to 0.78), peanut (3 RCTs, 4183 participants, 
+RR 0.31, 95% CI 0.17 to 0.54) and atopic dermatitis or eczema (4 RCTs, 3579 
+participants, RR 0.88, 95% CI 0.78 to 1.00). Effects on other food allergies 
+including milk, wheat, fish; autoimmune conditions, and food sensitisation are 
+very uncertain and informed by low and very-low certainty evidence. No important 
+subgroup differences were observed related to baseline risk of allergy and age 
+at introduction. Sensitivity analyses limited to low risk of bias RCTs showed 
+similar results.
+CONCLUSIONS: This systematic review and meta-analysis shows that early 
+introduction of allergen-containing food from 4 to 12 months of age, was 
+associated with lower risk of multiple food allergy and eczema. Further research 
+on other allergenic foods, and their long-term impact on food allergy and 
+autoimmune risk is essential for enhancing our understanding on development of 
+these conditions and guiding future clinical recommendations.
+PROSPERO REGISTRATION NUMBER: CRD42022375679.
+
+© Author(s) (or their employer(s)) 2024. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/bmjebm-2023-112445
+PMID: 38123975 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+8. J Allergy Clin Immunol Glob. 2023 Sep 14;2(4):100168. doi: 
+10.1016/j.jacig.2023.100168. eCollection 2023 Nov.
+
+Jug r 1 sensitization in 0- to 35-month-old children with egg, milk, or wheat 
+sensitization.
+
+Kitamura K(1), Matsui T(1), Takasato Y(1), Sugiura S(1), Ito K(1)(2).
+
+Author information:
+(1)Aichi Children's Health and Medical Center, Allergy and Immunology Center, 
+Obu, Japan.
+(2)Comprehensive Pediatric Medicine, Nagoya University Graduate School of 
+Medicine, Obu, Japan.
+
+BACKGROUND: The incidence of tree nut allergies in children is increasing, with 
+walnut allergy being the most common in the United States and Japan. Allergic 
+reactions, including anaphylaxis, frequently occur at the first intake of tree 
+nuts, suggesting prior sensitization.
+OBJECTIVE: Our aim was to identify which children should be considered for 
+workup for preexisting sensitization.
+METHODS: Juglans regia (Jug r) 1-specific IgE screening for 0- to 35-month-old 
+children who had a positive specific IgE result for egg white, milk, or wheat 
+and had never ingested walnuts was conducted at a food allergy referral hospital 
+between November 2018 and December 2022. Clinical data regarding age; sex; 
+allergic disease complications; and egg, milk, or wheat allergy were examined 
+retrospectively.
+RESULTS: The rate of Jug r 1-specific IgE positivity (level > 0.34 kUA/L) of 205 
+children (125 of whom were boys) was 9.8%, with a median Jug r 1-specific IgE 
+level of 12.5 kUA/L in patients with a positive test result. Eczema was observed 
+in 119 patients (58%). The rate of Jug r 1-specific IgE positivity was 
+significantly higher in the eczema-positive group (15.1% [18 of 119]) than in 
+the eczema-negative group (2.3% [2 of 86]) (P = .002). In the eczema-positive 
+group, the rates of Jug r 1-specific IgE positivity per sensitized antigen were 
+13.7% for egg, 17.0% for milk, and 17.1% for wheat. The rate of Jug r 1-specific 
+IgE positivity was significantly higher in the group with severe eczema (26.6% 
+[17 of 64]) than in the group with nonsevere eczema (1.8% [1 of 55]) (P < .001).
+CONCLUSION: Even in children younger than 3 years, 15% of children with eczema 
+and egg, milk, or wheat sensitization were sensitized to Jug r 1.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.jacig.2023.100168
+PMCID: PMC10679771
+PMID: 38024848
+
+
+9. J Allergy Clin Immunol Glob. 2023 Aug;2(3):100124. doi: 
+10.1016/j.jacig.2023.100124. Epub 2023 Jun 3.
+
+The SunBEAm birth cohort: Protocol design.
+
+Keet C(1), Sicherer SH(2), Bunyavanich S(2), Visness C(3), Fulkerson PC(4), 
+Togias A(4), Davidson W(4), Perry S(4), Hamrah S(4), Calatroni A(3), Robinson 
+K(3), Dunaway L(3), Davis CM(5), Anvari S(5), Leong-Kee SM(6), Hershey GK(7), 
+DeFranco E(8), Devonshire A(7), Kim H(9), Joseph C(9), Davidson B(9), Strong 
+NK(2), Tsuang AJ(2), Groetch M(2), Wang J(2), Dantzer J(10), Mudd K(10), Aina 
+A(11), Shreffler W(12), Yuan Q(13), Simmons V(13), Leung DYM(14), Hui-Beckman 
+J(14), Ramos JA(15), Chinthrajah S(16), Winn V(17), Sindher T(16), Jones SM(18), 
+Manning NA(19), Scurlock AM(18), Kim E(1), Stuebe A(20), Gern JE(21), Singh 
+AM(21), Krupp J(22), Wood RA(10).
+
+Author information:
+(1)Department of Pediatrics, University of North Carolina, Chapel Hill.
+(2)Icahn School of Medicine at Mount Sinai, New York.
+(3)Rho Inc, Federal Research Operations, Durham.
+(4)Division of Allergy, Immunology and Transplantation, National Institute of 
+Allergy and Infectious Diseases, National Institutes of Health, Bethesda.
+(5)Department of Pediatrics, Baylor College of Medicine, Houston.
+(6)Department of Obstetrics and Gynecology, Baylor College of Medicine, Houston.
+(7)Cincinnati Children's Hospital Medical Center, Cincinnati.
+(8)University of Cincinnati, Cincinnati.
+(9)Henry Ford Health, Detroit.
+(10)Department of Pediatrics, Division of Pediatric Allergy, Immunology and 
+Rheumatology, Johns Hopkins University School of Medicine, Baltimore.
+(11)Department of Obstetrics and Gynecology, Johns Hopkins University School of 
+Medicine, Baltimore.
+(12)Massachusetts General Hospital, Boston.
+(13)Massachusetts General Hospital, Newton-Wellesley Hospital, Newton.
+(14)National Jewish Health, Denver.
+(15)Saint Joseph Hospital of Obstetrics and Gynecology, Denver.
+(16)Sean N. Parker Center for Allergy and Asthma Research, Stanford University, 
+Palo Alto.
+(17)Division Maternal Fetal Medicine and Obstetrics, Stanford University, Palo 
+Alto.
+(18)University of Arkansas for Medical Sciences and Arkansas Children's 
+Hospital, Little Rock.
+(19)University of Arkansas for Medical Sciences, Little Rock.
+(20)Department of Obstetrics and Gynecology, University of North Carolina, 
+Chapel Hill.
+(21)Department of Pediatrics, University of Wisconsin, Madison.
+(22)Maternal and Fetal Medicine, Obstetrics and Gynecology, SSM Health, Madison.
+
+BACKGROUND: Food allergy (FA) and atopic dermatitis (AD) are common conditions 
+that often present in the first year of life. Identification of underlying 
+mechanisms and environmental determinants of FA and AD is essential to develop 
+and implement effective prevention and treatment strategies. Objectives: We 
+sought to describe the design of the Systems Biology of Early Atopy (SunBEAm) 
+birth cohort.
+METHODS: Funded by the National Institute of Allergy and Infectious Diseases 
+(NIAID) and administered through the Consortium for Food Allergy Research 
+(CoFAR), SunBEAm is a US population-based, multicenter birth cohort that enrolls 
+pregnant mothers, fathers, and their newborns and follows them to 3 years. 
+Questionnaire and biosampling strategies were developed to apply a systems 
+biology approach to identify environmental, immunologic, and multiomic 
+determinants of AD, FA, and other allergic outcomes.
+RESULTS: Enrollment is currently underway. On the basis of an estimated FA 
+prevalence of 6%, the enrollment goal is 2500 infants. AD is defined on the 
+basis of questionnaire and assessment, and FA is defined by an algorithm 
+combining history and testing. Although any FA will be recorded, we focus on the 
+diagnosis of egg, milk, and peanut at 5 months, adding wheat, soy, cashew, 
+hazelnut, walnut, codfish, shrimp, and sesame starting at 12 months. Sampling 
+includes blood, hair, stool, dust, water, tape strips, skin swabs, nasal 
+secretions, nasal swabs, saliva, urine, functional aspects of the skin, and 
+maternal breast milk and vaginal swabs.
+CONCLUSIONS: The SunBEAm birth cohort will provide a rich repository of data and 
+specimens to interrogate mechanisms and determinants of early allergic outcomes, 
+with an emphasis on FA, AD, and systems biology.
+
+DOI: 10.1016/j.jacig.2023.100124
+PMCID: PMC10509956
+PMID: 37771674
+
+Conflict of interest statement: DISCLOSURE STATEMENT Funded by the following 
+grants from NIAID/National Institutes of Health (NIH): UM2AI130836, UM1AI130838, 
+UM1AI130839, UM1AI130781, UM1AI130936, UM1AI130936, UM1AI130780, UM1AI130934, 
+UM1AI130570, UM1AI173380, UM1AI151958, and UM1AI109565. The authorships of 
+P.C.F., A.T., W.D., S.H., and S.P. do not constitute endorsement by the National 
+Institute of Allergy and Infection Diseases, the National Institutes of Health, 
+or any other agency of the United States government. Disclosure of potential 
+conflict of interest: C. Keet reports royalties from UpToDate. S. H. Sicherer 
+reports royalty payments from UpToDate and Johns Hopkins University Press; 
+grants to his institution from NIAID, Food Allergy Research and Education, and 
+Pfizer; personal fees from the American Academy of Allergy, Asthma & Immunology; 
+and deputy editorship of the Journal of Allergy and Clinical Immunology: In 
+Practice, outside of the submitted work. C. M. Davis reports grant support from 
+NIAID/NIH, Immune Tolerance Network, DBV Technologies, Regeneronm Pfizer, and 
+Allergenis; and consultant for Aimmune. S. Anvari reports research support from 
+NIAID/NIH and DBV Technologies; and serves on the advisory board for Sanofi. M. 
+Groetch receives royalties from UpToDate, FARE, and the Academy of Nutrition and 
+Dietetics; serves on the medical advisory board of IFPIES, as senior advisor to 
+FARE, and as health sciences advisor for APFED; and sits on the editorial board 
+of Journal of Food Allergy. W. Shreffler reports royalty payments from UpToDate; 
+grants to his institution from NIAID and Food Allergy Research and Education; 
+sponsored research funds from Aimune, Angany Therapeutics, Moderna, Regeneron, 
+Vedanta Biosciences and consultant fees from Aimmune, ALK, Allergy Therapeutics, 
+Novartis, Regeneron, and Sanofi. Dr. Leung reports support from Sanofi, 
+Genentech, Leo Pharma, and Incyte. H. Kim reports advisory board for ALK, Kenota 
+Health, and Ukko Inc; consultant for Allergy Therapeutics Ltd, Belhaven 
+Biopharma, Duke Clinical Research Institute, Genentech, and Nutricia. J. Wang 
+receives research support from NIAID, Aimmune, DBV Technologies, and Regeneron; 
+and consultancy fees from ALK Abello and Jubilant HollisterStier. R. A. Wood 
+reports research support from NIAID, Aimmune, Astellas, DBV, FARE, Genentech, 
+HAL-Allergy, Novartis, and Regeneron; and royalties from UpToDate. The rest of 
+the authors declare that they have no relevant conflicts of interest.
+
+
+10. Am Fam Physician. 2023 Aug;108(2):159-165.
+
+Food Allergies: Diagnosis, Treatment, and Prevention.
+
+Bright DM(1), Stegall HL(1), Slawson DC(1).
+
+Author information:
+(1)Atrium Health Carolinas Medical Center Family Medicine and Wake Forest School 
+of Medicine, Charlotte, North Carolina.
+
+In the United States, approximately 2% to 3% of adults and 8% of children have a 
+food allergy. Allergic reactions range from minor pruritus to life-threatening 
+anaphylaxis. These allergies often lead to significant anxiety and costs for 
+patients and caregivers. Common food allergies include peanuts, cow's milk, 
+shellfish, tree nuts, egg, fish, soy, and wheat. Peanut allergy, the most 
+common, is the leading cause of life-threatening anaphylaxis. Children with 
+asthma, allergic rhinitis, atopic dermatitis, or an allergy to insect venom, 
+medications, or latex are at an increased risk of developing food allergies. 
+Diagnosis of food allergy starts with a detailed, allergy-focused history. Serum 
+immunoglobulin E and skin prick testing provide reliable information regarding 
+food allergy diagnoses. Primary treatment involves elimination of the offending 
+food from the diet. Prevention strategies proven to decrease the risk of 
+developing a food allergy include restricting exposure to cow's milk in the 
+first three days of life and early sequential exposure to allergenic foods 
+starting between four and six months of age. Exclusive breastfeeding for three 
+to four months reduces the likelihood of developing eczema and asthma but does 
+not reduce development of food allergies. Most children eventually outgrow 
+allergies to cow's milk, egg, soy, and wheat. However, allergies to tree nuts, 
+peanuts, and shellfish are more likely to be lifelong.
+
+PMID: 37590855 [Indexed for MEDLINE]

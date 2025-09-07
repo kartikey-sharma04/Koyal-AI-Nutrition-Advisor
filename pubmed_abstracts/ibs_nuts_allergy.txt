@@ -1,0 +1,47 @@
+1. Nutrients. 2025 Apr 16;17(8):1359. doi: 10.3390/nu17081359.
+
+Food Hypersensitivity: Distinguishing Allergy from Intolerance, Main 
+Characteristics, and Symptoms-A Narrative Review.
+
+Hage G(1)(2), Sacre Y(1), Haddad J(2)(3), Hajj M(2), Sayegh LN(4), 
+Fakhoury-Sayegh N(1)(5).
+
+Author information:
+(1)Department of Nutrition and Food Science, Faculty of Arts and Sciences, Holy 
+Spirit University of Kaslik, Jounieh P.O. Box 446, Lebanon.
+(2)Hajj Medical Center-Medical & Dental Clinics, Green Zone A Building 71 Ground 
+Floor, Naccache P.O. Box 1201, Lebanon.
+(3)Faculty of Dental Medicine, Saint Joseph University of Beirut, Medical 
+Sciences Campus, Damascus Road, Riad Solh, Beirut P.O. Box 11-5076, Lebanon.
+(4)Yale New Haven Hospital, P.O. Box 1880, 20 York Street, New Haven, CT 06510, 
+USA.
+(5)Faculty of Pharmacy, Department of Nutrition, Saint Joseph University of 
+Beirut, Medical Sciences Campus, Damascus Road, Riad Solh, Beirut P.O. Box 
+11-5076, Lebanon.
+
+Background/Objectives: Food hypersensitivity remains an understudied and 
+overlooked subject globally. It is characterized by adverse reactions to dietary 
+substances, potentially triggered by various mechanisms. Food allergy, a subset 
+of food hypersensitivity, denotes an immune response to food proteins 
+categorized into immunoglobulin IgE-mediated or non-IgE-mediated reactions. 
+Conversely, food intolerance, another facet of food hypersensitivity, refers to 
+non-immunological reactions, in which the human body cannot properly digest 
+certain foods or components, leading to gastrointestinal discomfort and other 
+non-immune-related symptoms. The main objective of this study was to determine 
+and differentiate the differences, characteristics, and types of food 
+hypersensitivity. Methods: This study involved a comprehensive review of key 
+research from 1990 onward, including review articles, prospective studies, 
+nested case-control studies, and meta-analyses. Results: Recognizing these 
+differences is essential for healthcare professionals to ensure accurate 
+diagnosis, effective management, and improved patient outcomes, while also 
+aiding dietitians in providing optimal nutritional and dietary guidance. 
+Conclusions: there are big differences between the main characteristics, such as 
+symptoms, complications, and treatments between allergies, and food 
+intolerances. Commonly reported trigger foods include cow milk, gluten, eggs, 
+nuts, and seafood.
+
+DOI: 10.3390/nu17081359
+PMCID: PMC12029945
+PMID: 40284223 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

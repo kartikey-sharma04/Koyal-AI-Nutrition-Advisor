@@ -1,0 +1,155 @@
+1. J Clin Med. 2023 Jul 12;12(14):4639. doi: 10.3390/jcm12144639.
+
+Determinants of Severe Nocturnal Hypoxemia in Adults with Chronic Thromboembolic 
+Pulmonary Hypertension and Sleep-Related Breathing Disorders.
+
+Çınar C(1), Yıldızeli ŞO(1), Balcan B(2), Yıldızeli B(3), Mutlu B(4), Peker 
+Y(2)(5)(6)(7)(8).
+
+Author information:
+(1)Department of Pulmonary Medicine, School of Medicine, Marmara University, 
+Istanbul 34854, Turkey.
+(2)Department of Pulmonary Medicine, School of Medicine, Koç University, 
+Istanbul 34450, Turkey.
+(3)Department of Thoracic Surgery, School of Medicine, Marmara University, 
+Istanbul 34854, Turkey.
+(4)Department of Cardiology, School of Medicine, Marmara University, Istanbul 
+34854, Turkey.
+(5)Department of Molecular and Clinical Medicine, University of Gothenburg, 405 
+30 Gothenburg, Sweden.
+(6)Department of Respiratory Medicine and Allergology, Faculty of Medicine, Lund 
+University, 221 00 Lund, Sweden.
+(7)Division of Sleep and Circadian Disorders, Brigham and Women's Hospital, 
+Harvard Medical School, Boston, MA 02115, USA.
+(8)Division of Pulmonary, Allergy, and Critical Care Medicine, School of 
+Medicine, University of Pittsburgh, Pittsburgh, PA 15260, USA.
+
+OBJECTIVES: We aimed to investigate the occurrence of sleep-related breathing 
+disorders (SRBDs) in patients with chronic thromboembolic pulmonary hypertension 
+(CTEPH) and addressed the effect of pulmonary hemodynamics and SRBD indices on 
+the severity of nocturnal hypoxemia (NH).
+METHODS: An overnight polysomnography (PSG) was conducted in patients with 
+CTEPH, who were eligible for pulmonary endarterectomy. Pulmonary hemodynamics 
+(mean pulmonary arterial pressure (mPAP), pulmonary arterial wedge pressure 
+(PAWP), pulmonary vascular resistance (PVR) measured with right heart 
+catheterization (RHC)), PSG variables (apnea-hypopnea index (AHI)), lung 
+function and carbon monoxide diffusion capacity (DLCO) values, as well as 
+demographics and comorbidities were entered into a logistic regression model to 
+address the determinants of severe NH (nocturnal oxyhemoglobin saturation (SpO2) 
+< 90% under >20% of total sleep time (TST)). SRBDs were defined as obstructive 
+sleep apnea (OSA; as an AHI ≥ 15 events/h), central sleep apnea with 
+Cheyne-Stokes respiration (CSA-CSR; CSR pattern ≥ 50% of TST), obesity 
+hypoventilation syndrome (OHS), and isolated sleep-related hypoxemia (ISRH; SpO2 
+< 88% under >5 min without OSA, CSA, or OHS).
+RESULTS: In all, 50 consecutive patients (34 men and 16 women; mean age 54.0 (SD 
+15.1) years) were included. The average mPAP was 43.8 (SD 16.8) mmHg. SRBD was 
+observed in 40 (80%) patients, of whom 27 had OSA, 2 CSA-CSR, and 11 ISRH. None 
+had OHS. Severe NH was observed in 31 (62%) patients. Among the variables 
+tested, age (odds ratio (OR) 1.08, 95% confidence interval [CI] 1.01-1.15; p = 
+0.031), mPAP (OR 1.11 [95% CI 1.02-1.12; p = 0.012]), and AHI (OR 1.17 [95% CI 
+1.02-1.35; p = 0.031]) were independent determinants of severe NH.
+CONCLUSIONS: Severe NH is highly prevalent in patients with CTEPH. Early 
+screening for SRBDs and intervention with nocturnal supplemental oxygen and/or 
+positive airway pressure as well as pulmonary endarterectomy may reduce adverse 
+outcomes in patients with CTEPH.
+
+DOI: 10.3390/jcm12144639
+PMCID: PMC10380264
+PMID: 37510754
+
+Conflict of interest statement: Y.P. declares institutional grants from the 
+ResMed Foundation, outside the submitted work. C.Ç., Ş.O.Y., B.B., B.Y. and B.M. 
+report no disclosures.
+
+
+2. Climacteric. 2006 Aug;9(4):245-63. doi: 10.1080/13697130600736934.
+
+Soy and red clover for mid-life and aging.
+
+Geller SE(1), Studee L.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, College of Medicine, University of 
+Illinois, Chicago 60612, USA.
+
+INTRODUCTION: Menopause is associated with mid-life, a time when many women 
+begin to experience the signs and symptoms of aging, such as increases in blood 
+pressure, changes in lipid profiles, loss of bone mass density, and diminished 
+memory and cognition. Given the result of the Women's Health Initiative, many 
+women no longer consider hormone therapy the first option for promoting healthy 
+aging. Instead, they are turning to botanical and dietary supplement (BDS) 
+products in place of hormone therapy. This paper reviews the evidence available 
+for use of isoflavones from soy and red clover for the treatment or prevention 
+of these health issues.
+METHODS: The MEDLINE and EMBASE databases were searched for articles relating to 
+soy or red clover supplement use for prevention and/or treatment of heart 
+disease, hyperlipidemia, osteoporosis, mood disorders and cognitive abilities. 
+Studies were included if they were randomized, controlled trials and included 
+peri- or postmenopausal women.
+RESULTS: Isoflavone products appear to be the most useful for improving lipid 
+profiles; however, the evidence suggests that isoflavone extracts from soy are 
+less effective than products containing soy protein or red clover isoflavones. 
+Soy protein appears to reduce levels of total cholesterol and low density 
+lipoprotein cholesterol, while red clover reduces levels of triglycerides and 
+increases high density lipoprotein cholesterol. The data were somewhat less 
+convincing, although promising, for increasing bone mass density and improving 
+cognitive abilities.
+CONCLUSIONS: Research suggests that isoflavones found in soy foods and red 
+clover appear to have a small but positive health effect on plasma lipid 
+concentrations, bone mass density, and cognitive abilities. Given the lack of 
+serious safety concerns in the short term, it would appear that including soy 
+and red clover in the diet of postmenopausal women, not withstanding a soy 
+allergy, might be beneficial.
+
+DOI: 10.1080/13697130600736934
+PMCID: PMC1780039
+PMID: 16857655 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Statement: The authors have 
+no conflicts of interest to report.
+
+
+3. Arch Pediatr. 2005 Dec;12 Suppl 3:S145-65. doi: 10.1016/j.arcped.2005.10.006. 
+Epub 2005 Nov 21.
+
+[Breast feeding: health benefits for child and mother].
+
+[Article in French]
+
+Turck D(1); Comité de nutrition de la Société française de pédiatrie.
+
+Author information:
+(1)Unité de gastroentérologie, hépatologie et nutrition, CHRU de Lille, hôpital 
+Jeanne-de-Flandre, Lille, France.
+
+Comment in
+    Arch Pediatr. 2005 Dec;12 Suppl 3:S143-4. doi: 10.1016/j.arcped.2005.10.005.
+
+Breast milk contains hormones, growth factors, cytokines, cells, etc., and 
+offers many advantages over cow's milk or soy protein infant formulae. The 
+composition of breast milk is influenced by gestational and postnatal age. 
+Prevalence of breastfeeding in France is one of the lowest in Europe: in 2003, 
+only 58% of infants were breastfed when leaving the maternity ward, for a median 
+duration of 10 weeks. Breastfeeding allows normal growth until at least 6 months 
+of age, and can be prolonged until the age of 2 years or more, provided that 
+complementary feeding is started after 6 months. Breastfeeding is associated 
+with slightly enhanced performance on tests of cognitive development. Exclusive 
+breastfeeding for at least 3 months is associated with a lower incidence and 
+severity of diarrhoea, otitis media and respiratory infection. Exclusive 
+breastfeeding for at least 6 months is associated with a lower incidence of 
+allergic disease in at-risk infants (infants with at least one first-degree 
+relative presenting with allergy). Breastfeeding is also associated with a lower 
+incidence of obesity during childhood and adolescence, as well as with a lower 
+incidence of hypertension and hypercholesterolemia in adulthood. Maternal 
+infection with hepatitis B and C virus is not a contraindication to 
+breastfeeding, as opposed to HIV infection and galactosemia. A supplementation 
+with vitamin D and K is necessary in the breastfed infant. Very few medications 
+contraindicate breastfeeding. Premature babies can be breastfed and/or receive 
+mother's milk and/or bank milk, provided they receive energy, protein and 
+mineral supplements. Return to prepregnancy weight is earlier in breastfeeding 
+mothers. Breastfeeding is also associated with a decreased risk of breast and 
+ovarian cancer in the premenopausal period, and of hip fractures and 
+osteoporosis in the postmenopausal period.
+
+DOI: 10.1016/j.arcped.2005.10.006
+PMID: 16300936 [Indexed for MEDLINE]

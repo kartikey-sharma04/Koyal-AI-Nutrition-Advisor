@@ -1,0 +1,444 @@
+1. J Clin Med. 2023 Jul 12;12(14):4639. doi: 10.3390/jcm12144639.
+
+Determinants of Severe Nocturnal Hypoxemia in Adults with Chronic Thromboembolic 
+Pulmonary Hypertension and Sleep-Related Breathing Disorders.
+
+Çınar C(1), Yıldızeli ŞO(1), Balcan B(2), Yıldızeli B(3), Mutlu B(4), Peker 
+Y(2)(5)(6)(7)(8).
+
+Author information:
+(1)Department of Pulmonary Medicine, School of Medicine, Marmara University, 
+Istanbul 34854, Turkey.
+(2)Department of Pulmonary Medicine, School of Medicine, Koç University, 
+Istanbul 34450, Turkey.
+(3)Department of Thoracic Surgery, School of Medicine, Marmara University, 
+Istanbul 34854, Turkey.
+(4)Department of Cardiology, School of Medicine, Marmara University, Istanbul 
+34854, Turkey.
+(5)Department of Molecular and Clinical Medicine, University of Gothenburg, 405 
+30 Gothenburg, Sweden.
+(6)Department of Respiratory Medicine and Allergology, Faculty of Medicine, Lund 
+University, 221 00 Lund, Sweden.
+(7)Division of Sleep and Circadian Disorders, Brigham and Women's Hospital, 
+Harvard Medical School, Boston, MA 02115, USA.
+(8)Division of Pulmonary, Allergy, and Critical Care Medicine, School of 
+Medicine, University of Pittsburgh, Pittsburgh, PA 15260, USA.
+
+OBJECTIVES: We aimed to investigate the occurrence of sleep-related breathing 
+disorders (SRBDs) in patients with chronic thromboembolic pulmonary hypertension 
+(CTEPH) and addressed the effect of pulmonary hemodynamics and SRBD indices on 
+the severity of nocturnal hypoxemia (NH).
+METHODS: An overnight polysomnography (PSG) was conducted in patients with 
+CTEPH, who were eligible for pulmonary endarterectomy. Pulmonary hemodynamics 
+(mean pulmonary arterial pressure (mPAP), pulmonary arterial wedge pressure 
+(PAWP), pulmonary vascular resistance (PVR) measured with right heart 
+catheterization (RHC)), PSG variables (apnea-hypopnea index (AHI)), lung 
+function and carbon monoxide diffusion capacity (DLCO) values, as well as 
+demographics and comorbidities were entered into a logistic regression model to 
+address the determinants of severe NH (nocturnal oxyhemoglobin saturation (SpO2) 
+< 90% under >20% of total sleep time (TST)). SRBDs were defined as obstructive 
+sleep apnea (OSA; as an AHI ≥ 15 events/h), central sleep apnea with 
+Cheyne-Stokes respiration (CSA-CSR; CSR pattern ≥ 50% of TST), obesity 
+hypoventilation syndrome (OHS), and isolated sleep-related hypoxemia (ISRH; SpO2 
+< 88% under >5 min without OSA, CSA, or OHS).
+RESULTS: In all, 50 consecutive patients (34 men and 16 women; mean age 54.0 (SD 
+15.1) years) were included. The average mPAP was 43.8 (SD 16.8) mmHg. SRBD was 
+observed in 40 (80%) patients, of whom 27 had OSA, 2 CSA-CSR, and 11 ISRH. None 
+had OHS. Severe NH was observed in 31 (62%) patients. Among the variables 
+tested, age (odds ratio (OR) 1.08, 95% confidence interval [CI] 1.01-1.15; p = 
+0.031), mPAP (OR 1.11 [95% CI 1.02-1.12; p = 0.012]), and AHI (OR 1.17 [95% CI 
+1.02-1.35; p = 0.031]) were independent determinants of severe NH.
+CONCLUSIONS: Severe NH is highly prevalent in patients with CTEPH. Early 
+screening for SRBDs and intervention with nocturnal supplemental oxygen and/or 
+positive airway pressure as well as pulmonary endarterectomy may reduce adverse 
+outcomes in patients with CTEPH.
+
+DOI: 10.3390/jcm12144639
+PMCID: PMC10380264
+PMID: 37510754
+
+Conflict of interest statement: Y.P. declares institutional grants from the 
+ResMed Foundation, outside the submitted work. C.Ç., Ş.O.Y., B.B., B.Y. and B.M. 
+report no disclosures.
+
+
+2. Molecules. 2020 May 1;25(9):2129. doi: 10.3390/molecules25092129.
+
+Valorisation of By-Products from Soybean (Glycine max (L.) Merr.) Processing.
+
+Colletti A(1), Attrovio A(1), Boffa L(1), Mantegna S(1), Cravotto G(1)(2).
+
+Author information:
+(1)Department of Drug Science and Technology, University of Turin, Via P. Giuria 
+9, 10125 Turin, Italy.
+(2)Sechenov First Moscow State Medical University, Centre of Bioanalytical 
+Research and Molecular design, 8 Trubetskaya ul, 119991 Moscow, Russia.
+
+In recent years, increased awareness of the health benefits associated with 
+consuming soy-based foods, knowledge of milk-related allergies and a move 
+towards more sustainable food production have led to an increase in the number 
+of available soy-based products. The biggest producers in the world, the USA, 
+South America and China, are from the Pacific region. This enormous production 
+is accompanied by the accumulation of related by-products, in particular, a 
+substance that is known as okara. Okara is a paste that is rich in fibre (50%), 
+protein (25%), fat (10%), vitamins and trace elements. Its proper use would lead 
+to economic advantages and a reduction in the potential for polluting the 
+environment. Its high fibre content and low production costs mean that it could 
+also be used as a dietary supplement to prevent diabetes, obesity and 
+hyperlipidaemia. Chemical or enzymatic treatment, fermentation, extrusion, high 
+pressure and micronisation can all increase the soluble fibre content, and thus 
+improve nutritional quality and processing properties. However, the product also 
+degrades rapidly due to its high moisture content (70-80%), which makes it 
+difficult to handle and expensive to dry by conventional means. The aim of this 
+paper is therefore to thoroughly study the existing literature on this subject 
+in order to develop a general protocol for okara exploitation and valorisation. 
+A cost/benefit analysis could drive the design of eco-friendly, sustainable 
+protocols for the preparation of high-value nutritional products.
+
+DOI: 10.3390/molecules25092129
+PMCID: PMC7248727
+PMID: 32370073 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+3. Ann Am Thorac Soc. 2019 May;16(5):554-562. doi:
+10.1513/AnnalsATS.201807-446OC.
+
+Fish Oil Supplementation in Overweight/Obese Patients with Uncontrolled Asthma. 
+A Randomized Trial.
+
+Lang JE(1), Mougey EB(2), Hossain MJ(3), Livingston F(4), Balagopal PB(5), 
+Langdon S(6), Lima JJ(2).
+
+Author information:
+(1)1 Division of Allergy/Immunology and Pulmonary Medicine, Duke University, 
+Durham, North Carolina.
+(2)2 Center for Pharmacogenomics and Translational Research, Nemours Children's 
+Health System, Jacksonville, Florida.
+(3)3 Center for Pediatric Research, Alfred I. DuPont Hospital of Children, 
+Wilmington, Delaware.
+(4)4 Nemours Children's Hospital, Orlando, Florida.
+(5)5 Biomedical Analysis Laboratory, Nemours Children's Specialty Care, 
+Jacksonville, Florida; and.
+(6)6 Department of Immunology, Duke University School of Medicine, Durham, North 
+Carolina.
+
+Comment in
+    Ann Am Thorac Soc. 2019 May;16(5):542-544. doi: 
+10.1513/AnnalsATS.201901-049ED.
+
+Rationale: Omega-3 fatty acid (n3PUFA) supplementation has been proposed as a 
+promising antiasthma strategy. The rs59439148 ALOX5 polymorphism affects 
+leukotriene production and possibly inflammatory responses to n3PUFA. 
+Objectives: Assess the effects of n3PUFA supplementation and ALOX5 genotype on 
+asthma control in patients with obesity and uncontrolled asthma. Methods: This 
+multicenter trial among 12- to 25-year-olds with overweight/obesity and 
+uncontrolled asthma randomized subjects in a 3:1 allotment to n3PUFA (4 g/d) or 
+soy oil control for 24 weeks. Asthma Control Questionnaire was the primary 
+outcome; secondary outcomes included blood leukocyte n3PUFA levels, urinary 
+leukotriene-E4, spirometry, and asthma-related events. The number of SP1 tandem 
+repeats in rs59439148 determined ALOX5 genotype status. Simple and multivariable 
+generalized linear models assessed effects on outcomes. Results: Ninety-eight 
+participants were randomized (77 to PUFA, 21 to control), and more than 86% 
+completed all visits. Asthma and demographic characteristics were similar among 
+treatment groups. n3PUFA treatment increased the n3-to-n6 PUFA ratio in 
+circulating granulocytes (P = 0.029) and monocytes (P = 0.004) but did not 
+affect mean Asthma Control Questionnaire change at 6 months (n3PUFA: mean, 
+-0.09; 95% confidence interval [CI], 0.09 to 0.10; vs. control: mean, -0.18; 95% 
+CI, -0.42 to 0.06; P = 0.58). Changes in urinary leukotriene-E4 (P = 0.24), 
+forced expiratory volume in 1 second % predicted (P = 0.88), and exacerbations 
+(relative risk [RR], 0.92; 95% CI, 0.30-2.89) at 6 months were similar in both 
+groups. n3PUFA treatment was associated with reduced asthma-related phone 
+contacts (RR, 0.34; 95% CI, 0.13-0.86; P = 0.02). ALOX5 genotype did not affect 
+n3PUFA treatment responses. Conclusions: We did not find evidence that n3PUFA 
+use improves most asthma-related outcomes and cannot recommend it as a 
+prevention strategy for overweight/obese patients with asthma. Clinical trial 
+registered with www.clinicaltrials.gov (NCT01027143).
+
+DOI: 10.1513/AnnalsATS.201807-446OC
+PMCID: PMC6491059
+PMID: 30678465 [Indexed for MEDLINE]
+
+
+4. Recent Pat Food Nutr Agric. 2015;7(2):92-9. doi: 
+10.2174/2212798407666150629123957.
+
+Immunomodulatory Effects of Soybeans and Processed Soy Food Compounds.
+
+Tezuka H(1), Imai S.
+
+Author information:
+(1)Department of Biodefense Research, Medical Research Institute, Tokyo Medical 
+and Dental University, 1-5-45, Yushima, Bunkyo-ku, Tokyo 113-8510, Japan. 
+tezco.bre@mri.tmd.ac.jp.
+
+Inflammation is an immune response against both internal and external antigens 
+in organisms, particularly in mammals, and includes both uncontrolled chronic 
+and low-grade inflammations. Uncontrolled chronic inflammation often leads to 
+severe diseases such as vascular disease, arthritis, cancer, diabete, allergy, 
+and autoimmunity. On the other hand, low-grade inflammation is recognized as a 
+relationship between obesity and risk of metabolic syndrome. Elevated production 
+of pro-inflammatory cytokines and mediators is commonly observed in patients 
+with uncontrolled or low-grade inflammation-associated diseases. Plants have 
+been generated phytochemicals to overcome inflammations and infections through 
+evolution. Phytochemicals belong to alkaloids, polyphenols, flavonoids, 
+coumarins, and terpenoids. The consumption of soybeans plays a role in immune 
+modulation through their components such as isoflavones, saponins, and 
+anthocyanins. Recently, it was reported that the application of phytochemicals 
+into patients with inflammatory diseases improves their symptoms. Therefore, it 
+is important to identify novel phytochemicals with immunomodulatory activities. 
+This review introduces and discusses recent advances and patents regarding 
+soybean or processed soy food compounds which exhibit immunomodulatory activity 
+in immune diseases, particularly allergy, by mediating the suppression of 
+inflammatory pathways.
+
+DOI: 10.2174/2212798407666150629123957
+PMID: 26118769 [Indexed for MEDLINE]
+
+
+5. Contemp Clin Trials. 2013 Mar;34(2):326-35. doi: 10.1016/j.cct.2012.12.009.
+Epub  2013 Jan 6.
+
+Nutrigenetic response to omega-3 fatty acids in obese asthmatics (NOOA): 
+rationale and methods.
+
+Lang JE(1), Mougey EB, Allayee H, Blake KV, Lockey R, Gong Y, Hossain J, Killen 
+K, Lima JJ; Nemours Network for Asthma Research.
+
+Collaborators: Lang JE, Rutledge B, Schaeffer D, Leonard S, Socher R, Lang JE, 
+Livingston F, Lucas J, Kesser B, Price A, Lockey R, Grandstaff M, Croker S, 
+Smith L, Guilbert T, Garret-Mayer E, Duckworth L, Warde M.
+
+Author information:
+(1)Division of Pulmonary and Sleep Medicine, Nemours Children's Hospital, 
+Orlando, FL, USA. jelang@nemours.org
+
+Uncontrolled asthma is a major cause of hospitalizations and emergency room 
+visits. Factors including obesity, African ancestry and childhood are associated 
+with increased asthma severity. Considering the high morbidity caused by asthma, 
+relatively few classes of drugs exist to control this common disease. Therefore, 
+new therapeutic strategies may be needed to reduce asthma's impact on public 
+health. Data suggest that a high fat diet that is deficient in omega-3 fatty 
+acids could promote both obesity and excessive inflammation, resulting in 
+greater asthma severity. Small trials with supplemental omega-3 fatty acids have 
+been conducted with encouraging but inconsistent results. The variability in 
+response seen in past trials may be due to the past subjects' genetics 
+(specifically ALOX5 rs59439148) or their particular asthma phenotypes. 
+Therefore, the "Nutrigenetic response to Omega-3 Fatty acids in Obese Asthmatics 
+(NOOA)" trial is currently underway and was designed as a randomized, 
+double-blind, placebo controlled intervention study to determine if supplemental 
+omega-3 fatty acids improves symptoms among obese adolescents and young adults 
+with uncontrolled asthma. Here we report the design and rationale for the NOOA 
+trial. Participants were given either 3.18 g daily of eicosapentaenoic acid and 
+822 mg daily docosahexaenoic acid, or matched control soy oil, for 24 weeks. 
+Change in the asthma control questionnaire score was the primary outcome. 
+Secondary outcomes included spirometry, impulse oscillometry, exacerbation rate, 
+airway biomarkers, systemic inflammation, leukotriene biosynthesis and 
+T-lymphocyte function. NOOA may lead to a new therapeutic treatment strategy and 
+greater understanding of the mechanistic role of diet in the pathogenesis of 
+asthma.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cct.2012.12.009
+PMCID: PMC3638234
+PMID: 23298524 [Indexed for MEDLINE]
+
+Conflict of interest statement: COMPETING INTERESTS Disclosures: Dr. Lang has no 
+conflicts of interest in the subject matter of this manuscript Dr. Mougey has no 
+conflicts of interest in the subject matter of this manuscript Dr. Blake has no 
+conflicts of interest in the subject matter of this manuscript Dr. Yong as no 
+conflicts of interest in the subject matter of this manuscript Dr. Lockey has no 
+conflicts of interest in the subject matter of this manuscript Dr. Hossain has 
+no conflicts of interest in the subject matter of this manuscript Dr. Lima has 
+no conflicts of interest in the subject matter of this manuscript
+
+
+6. Bull Acad Natl Med. 2009 Feb;193(2):431-46.
+
+[Infant nutrition].
+
+[Article in French]
+
+Salle B.
+
+Nutritional quality during the first weeks of life can influence health during 
+both infancy and adulthood. Exclusive long-term breast feeding is strongly 
+recommended, particularly for infants at risk of allergy. It protects against 
+gastrointestinal and respiratory infections, and has been shown to enhance 
+cognitive and intellectual development. Breast-feeding is also associated with a 
+lower risk of obesity and type 1 diabetes in infants and of cardiovascular 
+disease in adults. Breast-feeding is rarely contraindicated. Multiple European 
+and French guidelines and regulations govern the composition of infant formulas, 
+which may be given during the first year of life when breast-feeding is 
+unavailable. Hypoallergenic and soy-based formulas are not recommended for 
+healthy infants.
+
+PMID: 19718896 [Indexed for MEDLINE]
+
+
+7. Int J Med Sci. 2007 Feb 26;4(2):72-82. doi: 10.7150/ijms.4.72.
+
+Role of dietary soy protein in obesity.
+
+Velasquez MT(1), Bhathena SJ.
+
+Author information:
+(1)Department of Medicine, George Washington University Medical Center, 
+Washington, DC, USA.
+
+Soy protein is an important component of soybeans and provides an abundant 
+source of dietary protein. Among the dietary proteins, soy protein is considered 
+a complete protein in that it contains ample amounts of all the essential amino 
+acids plus several other macronutrients with a nutritional value roughly 
+equivalent to that of animal protein of high biological value. Soy protein is 
+unique among the plant-based proteins because it is associated with isoflavones, 
+a group of compounds with a variety of biological properties that may 
+potentially benefit human health. An increasing body of literature suggests that 
+soy protein and its isoflavones may have a beneficial role in obesity. Several 
+nutritional intervention studies in animals and humans indicate that consumption 
+of soy protein reduces body weight and fat mass in addition to lowering plasma 
+cholesterol and triglycerides. In animal models of obesity, soy protein 
+ingestion limits or reduces body fat accumulation and improves insulin 
+resistance, the hallmark of human obesity. In obese humans, dietary soy protein 
+also reduces body weight and body fat mass in addition to reducing plasma 
+lipids. Several potential mechanisms whereby soy protein may improve insulin 
+resistance and lower body fat and blood lipids are discussed and include a wide 
+spectrum of biochemical and molecular activities that favorably affect fatty 
+acid metabolism and cholesterol homeostasis. The biologic actions of certain 
+constituents of soy protein, particularly conglycinin, soyasaponins, 
+phospholipids, and isoflavones, that relate to obesity are also discussed. In 
+addition, the potential of soy protein in causing food allergy in humans is 
+briefly discussed.
+
+DOI: 10.7150/ijms.4.72
+PMCID: PMC1838825
+PMID: 17396158 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: The authors have declared 
+that no conflict of interest exists.
+
+
+8. Arch Pediatr. 2005 Dec;12 Suppl 3:S145-65. doi: 10.1016/j.arcped.2005.10.006. 
+Epub 2005 Nov 21.
+
+[Breast feeding: health benefits for child and mother].
+
+[Article in French]
+
+Turck D(1); Comité de nutrition de la Société française de pédiatrie.
+
+Author information:
+(1)Unité de gastroentérologie, hépatologie et nutrition, CHRU de Lille, hôpital 
+Jeanne-de-Flandre, Lille, France.
+
+Comment in
+    Arch Pediatr. 2005 Dec;12 Suppl 3:S143-4. doi: 10.1016/j.arcped.2005.10.005.
+
+Breast milk contains hormones, growth factors, cytokines, cells, etc., and 
+offers many advantages over cow's milk or soy protein infant formulae. The 
+composition of breast milk is influenced by gestational and postnatal age. 
+Prevalence of breastfeeding in France is one of the lowest in Europe: in 2003, 
+only 58% of infants were breastfed when leaving the maternity ward, for a median 
+duration of 10 weeks. Breastfeeding allows normal growth until at least 6 months 
+of age, and can be prolonged until the age of 2 years or more, provided that 
+complementary feeding is started after 6 months. Breastfeeding is associated 
+with slightly enhanced performance on tests of cognitive development. Exclusive 
+breastfeeding for at least 3 months is associated with a lower incidence and 
+severity of diarrhoea, otitis media and respiratory infection. Exclusive 
+breastfeeding for at least 6 months is associated with a lower incidence of 
+allergic disease in at-risk infants (infants with at least one first-degree 
+relative presenting with allergy). Breastfeeding is also associated with a lower 
+incidence of obesity during childhood and adolescence, as well as with a lower 
+incidence of hypertension and hypercholesterolemia in adulthood. Maternal 
+infection with hepatitis B and C virus is not a contraindication to 
+breastfeeding, as opposed to HIV infection and galactosemia. A supplementation 
+with vitamin D and K is necessary in the breastfed infant. Very few medications 
+contraindicate breastfeeding. Premature babies can be breastfed and/or receive 
+mother's milk and/or bank milk, provided they receive energy, protein and 
+mineral supplements. Return to prepregnancy weight is earlier in breastfeeding 
+mothers. Breastfeeding is also associated with a decreased risk of breast and 
+ovarian cancer in the premenopausal period, and of hip fractures and 
+osteoporosis in the postmenopausal period.
+
+DOI: 10.1016/j.arcped.2005.10.006
+PMID: 16300936 [Indexed for MEDLINE]
+
+
+9. Rev Invest Clin. 2005 May-Jun;57(3):457-72.
+
+[Molecular mechanisms of action and health benefits of polyunsaturated fatty 
+acids].
+
+[Article in Spanish]
+
+Rodríguez-Cruz M(1), Tovar AR, del Prado M, Torres N.
+
+Author information:
+(1)Uniddad de Investigación Médica en Nutrición, Centro Médico Nacional Siglo 
+XXI, IMSS.
+
+Essential polyunsaturated fatty acids (PUFAs), linoleic acid n6 (LA) and 
+linolenic acid (ALA) n3 obtained from the diet are precursors of the long-chain 
+polyunsaturated fatty acids (Lc-PUFAs) arachidonic acid (AA) and docosahexaenoic 
+acid (DHA) respectively. Consumption of PUFAs is related with a better 
+neurological and cognitive development in newborns. It has been demonstrated 
+that consumption of n-6 and n-3 PUFAs decreases blood triglycerides by 
+increasing fatty acid oxidation through activation of PPARalpha or by reducing 
+the activation of SREBP-1 inhibiting lipogenesis. Dietary PUFAs activate 
+PPARalpha and PPARgamma increasing lipid oxidation, and decreasing insulin 
+resistance leading in a reduction of hepatic steatosis. Beneficial effects of 
+PUFAs have been observed in humans and in animals models of diabetes, obesity, 
+cancer, and cardiovascular diseases. It is important to promote the consumption 
+of PUFAs. Main food sources of PUFAs n-6 are corn, soy and safflower oil, and 
+for PUFAs n-3 are fish, soy, canola oil and, flaxseed. Finally FAO/WHO 
+recommends an optimal daily intake of n6/n3 of 5-10:1.
+
+PMID: 16187707 [Indexed for MEDLINE]
+
+
+10. J Agric Food Chem. 2001 Mar;49(3):1069-86. doi: 10.1021/jf0009246.
+
+Nutritional and health benefits of soy proteins.
+
+Friedman M(1), Brandon DL.
+
+Author information:
+(1)Western Regional Research Center, Agricultural Research Service, U.S. 
+Department of Agriculture, 800 Buchanan Street, Albany, CA 94710, USA.
+
+Soy protein is a major component of the diet of food-producing animals and is 
+increasingly important in the human diet. However, soy protein is not an ideal 
+protein because it is deficient in the essential amino acid methionine. 
+Methionine supplementation benefits soy infant formulas, but apparently not food 
+intended for adults with an adequate nitrogen intake. Soy protein content of 
+another essential amino acid, lysine, although higher than that of wheat 
+proteins, is still lower than that of the milk protein casein. Adverse 
+nutritional and other effects following consumption of raw soybean meal have 
+been attributed to the presence of endogenous inhibitors of digestive enzymes 
+and lectins and to poor digestibility. To improve the nutritional quality of soy 
+foods, inhibitors and lectins are generally inactivated by heat treatment or 
+eliminated by fractionation during food processing. Although lectins are 
+heat-labile, the inhibitors are more heat-stable than the lectins. Most 
+commercially heated meals retain up to 20% of the Bowman-Birk (BBI) inhibitor of 
+chymotrypsin and trypsin and the Kunitz inhibitor of trypsin (KTI). To enhance 
+the value of soybeans in human nutrition and health, a better understanding is 
+needed of the factors that impact the nutrition and health-promoting aspects of 
+soy proteins. This paper discusses the composition in relation to properties of 
+soy proteins. Also described are possible beneficial and adverse effects of 
+soy-containing diets. The former include soy-induced lowering of cholesterol, 
+anticarcinogenic effects of BBI, and protective effects against obesity, 
+diabetes, irritants of the digestive tract, bone, and kidney diseases, whereas 
+the latter include poor digestibility and allergy to soy proteins. Approaches to 
+reduce the concentration of soybean inhibitors by rearrangement of protein 
+disulfide bonds, immunoassays of inhibitors in processed soy foods and soybean 
+germplasm, the roles of phytoestrogenic isoflavones and lectins, and research 
+needs in all of these areas are also discussed. This integrated overview of the 
+widely scattered literature emphasizes general concepts based on our own studies 
+as well as recent studies by others. It is intended to stimulate interest in 
+further research to optimize beneficial effects of soy proteins. The payoff will 
+be healthier humans and improved animal feeds.
+
+DOI: 10.1021/jf0009246
+PMID: 11312815 [Indexed for MEDLINE]

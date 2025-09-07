@@ -1,0 +1,800 @@
+1. Zhongguo Dang Dai Er Ke Za Zhi. 2025 Apr 15;27(4):472-479. doi: 
+10.7499/j.issn.1008-8830.2411067.
+
+[Mechanism of 2,6-DMBQ attenuates airway inflammatory responses in asthmatic 
+mice via the mTOR signaling pathway].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Li J(1), Li SF(1), Xiong XM(1), Yang QY(1), Xie XL(1), Zhang YL(1).
+
+Author information:
+(1)Department of Pediatrics, Third Affiliated Hospital of Zhengzhou University, 
+Zhengzhou 450052, China.
+
+OBJECTIVES: To investigate the therapeutic effects and mechanisms of 
+2,6-dimethoxy-1,4-benzoquinone (2,6-DMBQ) in a mouse model of asthma.
+METHODS: SPF-grade BALB/c mice were randomly divided into 7 groups (n=8 each 
+group): normal control group, ovalbumin (OVA) group, dimethyl sulfoxide+corn oil 
+group, budesonide (BUD) group, and low, medium, and high dose 2,6-DMBQ groups. 
+An asthma mouse model was established by OVA induction, followed by 
+corresponding drug interventions. Non-invasive lung function tests were 
+performed to measure airway hyperresponsiveness, and enzyme-linked immunosorbent 
+assay was used to determine levels of interleukin (IL)-17, IL-10, and serum 
+immunoglobulin E in bronchoalveolar lavage fluid. A cell counter was employed to 
+detect eosinophil counts in bronchoalveolar lavage fluid, while 
+hematoxylin-eosin staining and periodic acid-Schiff staining were used to assess 
+lung tissue pathological changes. Western blot was conducted to examine the 
+expression of proteins related to the mammalian target of rapamycin pathway 
+(p-AKT/AKT and p-p70S6K/p70S6K), and a fully automated biochemical analyzer was 
+used to evaluate liver and kidney functions.
+RESULTS: Compared with the normal control group, the OVA group showed increased 
+enhanced pause values, inflammation scores from hematoxylin-eosin staining, 
+positive area from periodic acid-Schiff staining, percentage of eosinophils, 
+IL-17/IL-10 ratio, serum immunoglobulin E levels, and relative expression levels 
+of p-AKT/AKT and p-p70S6K/p70S6K (P<0.05). The BUD group and the medium and high 
+dose 2,6-DMBQ groups exhibited decreased values for these indicators compared to 
+the OVA group (P<0.05).
+CONCLUSIONS: 2,6-DMBQ can inhibit the mTOR pathway to alleviate airway 
+inflammation in asthmatic mice, possibly by mitigating the imbalance between 
+Th17 and regulatory T cells.
+
+Publisher: 目的: 探究2,6-二甲氧基-1,4-苯醌（2,6-dimethoxy-1,4-benzoquinone, 
+2,6-DMBQ）在哮喘小鼠中的治疗作用及其机制。方法: 将SPF级BALB/c小鼠随机分为正常对照组、卵清蛋白（ovalbumin, 
+OVA）组、融媒组、布地奈德（budesonide, 
+BUD）组、2,6-DMBQ低、中、高剂量组，每组8只。采用OVA诱导法建立哮喘小鼠模型并给予相应药物干预。使用无创肺功能仪测定小鼠气道高反应性，ELISA法测定支气管肺泡灌洗液中白细胞介素（interleukin, 
+IL）-17、IL-10和血清免疫球蛋白E水平，细胞计数仪检测支气管肺泡灌洗液中嗜酸性粒细胞数，苏木精-伊红染色和过碘酸-希夫染色评估肺组织病理变化，Western 
+blot检测肺组织哺乳动物雷帕霉素靶蛋白通路相关蛋白（p-AKT/AKT、p-p70S6K/p70S6K）表达情况，全自动生化分析仪测定肝肾功能。结果: 
+与正常对照组相比，OVA组增强呼吸间歇值、苏木精-伊红染色炎性评分和过碘酸-希夫染色阳性面积、嗜酸性粒细胞百分比、IL-17/IL-10比值、血清免疫球蛋白E水平、p-AKT/AKT和p-p70S6K/p70S6K蛋白相对表达量升高（P<0.05）；与OVA组相比，BUD组和2,6-DMBQ中、高剂量组上述指标降低（P<0.05）。结论: 
+2,6-DMBQ可抑制哺乳动物雷帕霉素靶蛋白通路减轻哮喘小鼠气道炎症，可能通过减轻辅助性T细胞17/调节性T细胞失衡发挥作用。.
+
+DOI: 10.7499/j.issn.1008-8830.2411067
+PMCID: PMC12010994
+PMID: 40241367 [Indexed for MEDLINE]
+
+Conflict of interest statement: 所有作者声明不存在利益冲突。
+
+
+2. Environ Res. 2025 Apr 10;277:121583. doi: 10.1016/j.envres.2025.121583. Online
+ ahead of print.
+
+Associations between agricultural use of pyrethroid insecticides and asthma: 
+AGRICAN cohort results.
+
+Baldi I(1), de Graaf L(2), Bureau M(2), Tual S(3), Douwes J(4), Lebailly P(5).
+
+Author information:
+(1)Univ. Bordeaux, Inserm, Bordeaux Population Health Research Centre, EPICENE 
+Team, UMR 1219, F-33000, Bordeaux, France; Service Santé Travail Environnement, 
+Pôle de Santé Publique, CHU de Bordeaux, 33000, Bordeaux, France. Electronic 
+address: Isabelle.Baldi@u-bordeaux.fr.
+(2)Univ. Bordeaux, Inserm, Bordeaux Population Health Research Centre, EPICENE 
+Team, UMR 1219, F-33000, Bordeaux, France.
+(3)INSERM, UMR1086 ANTICIPE, Cancers et Préventions, Centre François Baclesse, 
+Caen, France.
+(4)Research Centre for Hauora and Health, Massey University, Wellington, New 
+Zealand.
+(5)INSERM, UMR1086 ANTICIPE, Cancers et Préventions, Centre François Baclesse, 
+Caen, France; Université Caen Normandie, Caen, France.
+
+RATIONALE: Following the withdrawal of organochlorines and organophosphates, 
+pyrethroids have become the most used insecticides in both agricultural and 
+domestic settings.
+OBJECTIVES: We analyzed data from the French AGRICAN agricultural cohort to 
+assess associations of occupational pyrethroid exposures and 
+allergic/non-allergic asthma.
+METHODS: At enrollment, asthma diagnosed by a doctor was reported by 11 815 
+participants (7028 classified as non-allergic and 4458 as allergic based on the 
+presence of eczema and/or hay fever). Individual exposures to 17 pyrethroids 
+were defined in 124 992 participants, based on a combination of the history of 
+pesticide treatment of 11 crops (grassland, vineyard, wheat/barley, corn, field 
+peas, potatoes, tobacco, beets, sunflower, rape, fruits) and a crop-exposure 
+matrix.
+MEASUREMENTS AND MAIN RESULTS: In men, no association was observed for any of 
+the pyrethroids regardless of asthma phenotype. In contrast, in ever-exposed 
+women, asthma risk was increased with use of any pyrethroid, both for allergic 
+(+80 %) and non-allergic asthma (+40 %). Highest increases were observed for 
+allergic asthma with fenpropathrin (OR = 2.00; 95 %CI:1.38-2.90), tralomethrin 
+(OR = 1.81; 95 %CI:1.28-2.56), fenvalerate (OR = 1.81; 95 %CI:1.38-2.38), 
+permethrin (OR = 1.78; 95 %CI:1.26-2.50) and deltamethrin (OR = 1.76; 
+95 %CI:1.35-2.29). Stratified analyses on women who reported living on a farm in 
+early life showed stronger associations for non-allergic asthma. For women who 
+reported early life living on vineyards associations with pyrethroids were 
+stronger for both allergic and non-allergic asthma. Associations for women who 
+lived on cattle farms were reduced for some pyrethroids.
+CONCLUSION: Occupational pyrethroid exposure was positively associated with both 
+allergic and non-allergic asthma in women but not in men.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2025.121583
+PMID: 40220893
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Public Health Nutr. 2025 Mar 26;28(1):e92. doi: 10.1017/S1368980025000370.
+
+Disproportionately higher asthma risk and incidence with high fructose corn 
+syrup, but not sucrose intake, among Black young adults: the CARDIA Study.
+
+DeChristopher LR(1), Tucker KL(2).
+
+Author information:
+(1)Independent Researcher, Hopewell Life Sciences, M.Sc. Biochemistry, Molecular 
+Biology.
+(2)Department of Biomedical and Nutritional Sciences, University of 
+Massachusetts Lowell, Lowell, MA, USA.
+
+OBJECTIVE: There have been unsafe levels of unpaired fructose in the high 
+fructose corn syrup (HFCS) in US beverages, and research/case study evidence 
+shows that their intake is associated with greater asthma 
+prevalence/risk/incidence, a debilitating disease, likely due to fructose 
+malabsorption, gut fructosylation and gut dysbiosis mechanisms. The 
+'unexplained' asthma epidemic has disproportionately affected children and Black 
+individuals, groups with higher fructose malabsorption prevalence than others, 
+and research to assess disproportionately higher asthma risk/incidence among 
+Black individuals in association with HFCS-sweetened beverage intake is lacking.
+DESIGN: Demographic, lifestyle and dietary data collected at enrollment 
+(1985-86), and incident asthma through exam 5 (1995-96), were used in Cox 
+proportional hazards models to assess HFCS intake associations (hazard ratios) 
+with asthma risk/incidence.
+SETTING: CARDIA study participants from Birmingham, AL, Chicago, IL, 
+Minneapolis, MN and Oakland, CA.
+PARTICIPANTS: 1998 Black and 2104 White young adults.
+RESULTS: HFCS-sweetened beverage intake > once/week was significantly associated 
+with higher asthma risk relative to ≤ once/week (P-trend = 0·04), among Black 
+participants only; risk was 2·8 times higher among 2-4 times/week consumers (HR 
+= 2·8, 95 % CI 1·1, 7·3, P = 0·04) and 3·5 times higher when consumed multiple 
+times/d, independent of sucrose intake/obesity/dietary quality/smoking/in-home 
+smoke-exposure (HR = 3·5, 95 % CI 1·3, 9·9, P = 0·02). Intake of orange juice, 
+with nominal unpaired fructose, was not associated with asthma in either group, 
+nor was intake of sucrose, a disaccharide (paired) of fructose/glucose.
+CONCLUSIONS: Ubiquitous HFCS in the US food supply, with HFCS that contains 
+high/unsafe unpaired fructose, also known as excess-free-fructose, and the 
+fructose/gut/lung/axis are overlooked risk factors in the 'unexplained' US 
+asthma epidemic that disproportionately affects Black individuals.
+
+DOI: 10.1017/S1368980025000370
+PMID: 40135583 [Indexed for MEDLINE]
+
+
+4. Environ Monit Assess. 2025 Feb 13;197(3):287. doi: 10.1007/s10661-025-13718-y.
+
+Prevalence of aeroallergen sensitization in a polluted and industrialized area: 
+a pilot study in South Africa's Vaal Triangle.
+
+Gharbi D(1)(2)(3), Neumann FH(4), Staats J(5), McDonald M(6), Linde JH(7), 
+Mmatladi T(4), Podile K(4), Piketh S(4), Burger R(4), Garland RM(7), Bester 
+P(8), Lebre PH(9), Ricci C(8).
+
+Author information:
+(1)Institute of Plant Sciences, University of Bern, Bern, Switzerland. 
+dorra.gharbi@unibe.ch.
+(2)Oeschger Centre for Climate Change Research, University of Bern, Bern, 
+Switzerland. dorra.gharbi@unibe.ch.
+(3)Unit for Environmental Sciences and Management, Faculty of Natural and 
+Agricultural Science, North-West University, Potchefstroom, South Africa. 
+dorra.gharbi@unibe.ch.
+(4)Unit for Environmental Sciences and Management, Faculty of Natural and 
+Agricultural Science, North-West University, Potchefstroom, South Africa.
+(5)Faculty of Health Sciences, North-West University, Potchefstroom, South 
+Africa.
+(6)The Allergy Clinic, Blairgowrie, Gauteng, South Africa.
+(7)Department of Geography, Geoinformatics and Meteorology, University of 
+Pretoria, Pretoria, South Africa.
+(8)Africa Unit for Transdisciplinary Health Research, North-West University, 
+Potchefstroom, South Africa.
+(9)Centre for Microbial Ecology and Genomics, University of Pretoria, Pretoria, 
+South Africa.
+
+This pioneering study evaluates the prevalence of aeroallergens reactivity among 
+atopic populations living in the Vaal Triangle Airshed Priority Area (VTAPA), 
+South Africa. A total of 138 volunteers (51 males and 87 females), of African, 
+colored, white, and Asian ethnicity, and with a mean (range) age of 22 (18-56) 
+years were participating in the study. The study was conducted on the North-West 
+University (NWU) campus in Vanderbijlpark/VTAPA. The International Study of 
+Asthma and Allergies in Childhood questionnaire was utilized for pre-screening 
+to identify individuals with probable allergic dispositions. Subsequently, skin 
+prick testing was conducted using commercial aeroallergen extracts for all 
+confirmed participants with allergy symptoms. One hundred six participants were 
+clinically diagnosed with pollen and fungal spore allergies. The highest allergy 
+prevalence was attributed to Cynodon dactylon ((L.) Pers) (Bermuda grass) 
+(41.5%), followed by Lolium perenne (L.) (ryegrass), grass mix, and Zea mays 
+(L.) (maize) (31.1%), respectively. Moreover, among the tree allergens, Olea 
+(L.) (olive tree) was the most prevalent allergen (20; 18.8%), followed by 
+Platanus (L.) (plane tree) (18; 16.9%). Among the weeds, 16 (15.1%) participants 
+were allergic to the weed mix (Artemisia (L.) (wormwood), Chenopodium (Link) 
+(goosefoot), Salsola (L.) (saltwort), Plantago (L.) (plantain), and 11 (10.3%) 
+to Ambrosia (L.) (ragweed)). Regarding the fungal spores, Alternaria (Fr.) (9; 
+8.5%) followed by Cladosporium (Link) (5; 4.7%) had the highest skin 
+sensitivity. In this pilot study, our findings provide insights into the 
+prevalence of allergic responses in the study population-underlining the strong 
+impact of allergens of exotic plants-and contribute to the existing 
+aerobiological data in South Africa.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s10661-025-13718-y
+PMCID: PMC11825541
+PMID: 39945937 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: All authors have read, understood, and have complied as applicable 
+with the statement on Ethical responsibilities of Authors as found in the 
+Instructions for Authors. Competing interests: The authors declare no competing 
+interests.
+
+
+5. Am J Physiol Lung Cell Mol Physiol. 2024 Jul 1;327(1):L86-L101. doi: 
+10.1152/ajplung.00066.2024. Epub 2024 May 7.
+
+NF-κB/RelA signaling in secretoglobin progenitors mediates plasticity and 
+MMP-induced barrier disruption in house dust mite-induced allergic asthma.
+
+Skibba ME(1), Brasier AR(1)(2).
+
+Author information:
+(1)School of Medicine and Public Health, University of Wisconsin Madison, 
+Madison, Wisconsin, United States.
+(2)Institute for Clinical and Translational Research, Madison, Wisconsin, United 
+States.
+
+The mechanisms how aeroallergens induce sensitization are incompletely 
+understood. The house dust mite (HDM) Dermatophagoides pteronyssius (Der p) is a 
+ubiquitous aeroallergen that represents a major cause of allergic rhinitis and 
+asthma. Herein, we tested whether HDM-induced aeroallergen exposure sensitivity 
+is caused by the innate-immune response in small airway epithelial cells. HDM 
+exposure is a rapid activator of NF-κB/RelA in the Secretoglobin (Scgb1a1+) 
+lineage associated with upregulation of NF-κB/RelA-dependent markers of 
+epithelial plasticity. To determine the effect of epithelial NF-κB signaling, 
+NF-κB was depleted in a tamoxifen (TMX)-inducible Scgb1a1-CreERTM mouse within a 
+CL57B/L6 background. Corn oil or TMX-treated/RelA-depleted [RelA knockdown (KD)] 
+mice were repetitively exposed to airway HDM challenges to induce airway 
+hyperresponsiveness (AHR). Strikingly, we observed that HDM induces hallmarks of 
+epithelial plasticity through upregulation of the mesenchymal core factors SNAI1 
+and ZEB1 and production of metalloproteinase (MMP)9 that are RelA-dependent. 
+Downstream, HDM-induced mucous metaplasia, Th2 polarization, allergen 
+sensitivity, and airway hyperreactivity were all reduced in the RelA-depleted 
+mice. Mechanistically, HDM-induced functional and structural barrier disruption 
+was dependent on RelA signaling and associated with active MMP secretion into 
+the bronchoalveolar lavage fluid. To establish the role of MMP2/9 in barrier 
+disruption, we observe that a small-molecule MMP inhibitor (SB-3CT) blocked 
+HDM-induced barrier disruption and activation of plasticity in naïve wild-type 
+(WT) mice. Loss of functional barrier was associated with MMP disruption of zona 
+occludens (ZO)-1 containing adherens junctions. Overall, this data indicates 
+that host innate signaling in the Scgb1a1+ progenitors is directly linked to 
+epithelial plasticity, MMP9 secretion, and enhanced barrier permeability that 
+allows allergen penetration, sensitization producing allergic asthma (AA) in 
+vivo. We propose that maintenance of epithelial integrity may reduce allergic 
+sensitization and AA.NEW & NOTEWORTHY Allergic asthma from house dust mite (HDM) 
+allergy causes substantial morbidity. This study examines the dynamic changes in 
+small airway epithelial cells in a mouse model of HDM exposure. Our findings 
+indicate that NF-κB/RelA signaling mediates matrix metalloproteinase production, 
+disrupting the epithelial barrier resulting in allergic sensitization. Our 
+findings bring new insight into mechanisms for epithelial cell-state change in 
+the allergen response, creating a potential therapeutic pathway for maintaining 
+barrier function in asthma.
+
+DOI: 10.1152/ajplung.00066.2024
+PMCID: PMC11380976
+PMID: 38713619 [Indexed for MEDLINE]
+
+Conflict of interest statement: No conflicts of interest, financial or 
+otherwise, are declared by the authors.
+
+
+6. Nutr J. 2024 Feb 2;23(1):16. doi: 10.1186/s12937-024-00919-3.
+
+40 years of adding more fructose to high fructose corn syrup than is safe, 
+through the lens of malabsorption and altered gut health-gateways to chronic 
+disease.
+
+DeChristopher LR(1).
+
+Author information:
+(1), East Fishkill, USA. luanne.dechristopher@gmail.com.
+
+Labels do not disclose the excess-free-fructose/unpaired-fructose content in 
+foods/beverages. Objective was to estimate excess-free-fructose intake using 
+USDA loss-adjusted-food-availability (LAFA) data (1970-2019) for high fructose 
+corn syrup (HFCS) and apple juice, major sources of excess-free-fructose, for 
+comparison with malabsorption dosages (~ 5 g-children/ ~ 10 g-adults). Unlike 
+sucrose and equimolar fructose/glucose, unpaired-fructose triggers fructose 
+malabsorption and its health consequences. Daily intakes were calculated for 
+HFCS that is generally-recognized-as-safe/ (55% fructose/45% glucose), and 
+variants (65/35, 60/40) with higher fructose-to-glucose ratios (1.9:1, 1.5:1), 
+as measured by independent laboratories. Estimations include consumer-level-loss 
+(CLL) allowances used before (20%), and after, subjective, retroactively-applied 
+increases (34%), as recommended by corn-refiners (~ 2012). No contributions from 
+crystalline-fructose or agave syrup were included due to lack of LAFA data. 
+High-excess-free-fructose-fruits (apples/pears/watermelons/mangoes) were not 
+included. Eaten in moderation they are less likely to trigger malabsorption. 
+Another objective was to identify potential parallel trends between 
+excess-free-fructose intake and the "unexplained" US asthma epidemic. The 
+fructose/gut-dysbiosis/lung axis is well documented, case-study evidence and 
+epidemiological research link HFCS/apple juice intake with asthma, and unlike 
+gut-dysbiosis/gut-fructosylation, childhood asthma prevalence data 
+spans > 40 years. Results Excess-free-fructose daily intake for individuals 
+consuming HFCS with an average 1.5:1 fructose-to-glucose ratio, ranged from 
+0.10 g/d in 1970, to 11.3 g/d in 1999, to 6.5 g/d in 2019, and for those 
+consuming HFCS with an average 1.9:1 ratio, intakes ranged from 0.13 g/d to 
+16.9 g/d (1999), to 9.7 g/d in 2019, based upon estimates with a 20% CLL 
+allowance. Intake exceeded dosages that trigger malabsorption (~ 5 g) 
+around ~ 1980. By the early 1980's, tripled apple juice intake had added ~ 0.5 g 
+to average-per-capita excess-free-fructose intake. Contributions were higher 
+(~ 3.8 g /4-oz.) for individuals consuming apple juice consistent with a healthy 
+eating pattern (4-oz. children, 8-oz. adults). The "unexplained" childhood 
+asthma epidemic (1980-present) parallels increasing average-per-capita 
+HFCS/apple juice intake trends and reflects epidemiological research findings. 
+Conclusion Displacement of sucrose with HFCS, its ubiquitous presence in the US 
+food-supply, the industry practice of adding more fructose to HFCS than 
+generally-recognized-as-safe, and increased use of apple juice/crystalline 
+fructose/agave syrup in foods/beverages has contributed to unprecedented 
+excess-free-fructose intake levels, fructose malabsorption, gut-dysbiosis 
+and gut-fructosylation (immunogen burden)-gateways to chronic disease.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12937-024-00919-3
+PMCID: PMC10835987
+PMID: 38302919 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+7. Allergol Select. 2023 Mar 31;7:57-83. doi: 10.5414/ALX02400E. eCollection
+2023.
+
+Vegan diets from an allergy point of view - Position paper of the DGAKI working 
+group on food allergy.
+
+Reese I(1), Schäfer C(2), Ballmer-Weber B(3)(4), Beyer K(5), Dölle-Bierke S(6), 
+van Dullemen S(7), Jappe U(8)(9), Müller S(10), Schnadt S(11), Treudler R(12), 
+Worm M(6).
+
+Author information:
+(1)Nutrition Therapy, Munich.
+(2)NutritionTherapy, Schwarzenbek, Germany.
+(3)Clinic for Dermatology and Allergology, Cantonal Hospital St. Gallen, St. 
+Gallen.
+(4)Department of Dermatology, University Hospital Zürich, Switzerland.
+(5)Clinic for Pediatrics with focus on Pneumology and Immunology, 
+Charité-Universitätsmedizin - Campus Virchow-Klinikum.
+(6)Allergology and Immunology, Department of Dermatology, Venereology and 
+Allergology, Charité-Universitätsmedizin Berlin, Berlin.
+(7)University Clinic Frankfurt, Clinic for Pediatrics, Frankfurt.
+(8)Division of Clinical and Molecular Allergology, Research Center Borstel, 
+German Center for Lung Research (DZL) Airway Research Center North (ARCN), 
+Borstel.
+(9)Interdisciplinary Allergy Outpatient Clinic, Department of Pneumology, 
+University of Lübeck, Lübeck.
+(10)Department of Dermatology and Venereology, University Clinic Freiburg, 
+Faculty of Medicine, University of Freiburg, Freiburg.
+(11)German Allergy and Asthma Association (DAAB), Mönchengladbach, and.
+(12)Department of Dermatology, Venereology and Allergology, Leipzig University 
+Medical Center, Leipzig, Germany.
+
+Erratum in
+    Allergol Select. 2024 Jun 13;8:228. doi: 10.5414/ALX02400ECorr.
+
+Vegan diets are currently attracting a great deal of attention. However, 
+avoiding animal-based foods restricts the diet and is associated with risks, the 
+extent and medical implications of which are at present not sufficiently 
+understood. Elimination diets represent the usual therapeutic long-term 
+management in the presence of food allergy. In order to understand the risks of 
+vegan diets and to discuss these critically from the perspective of food 
+allergies, the expertise of a nutritionist/dietitian with expertise in this area 
+is indispensable. This position paper deals with the incentives behind and the 
+benefits of a plant-based diet. The knowledge required to cover macro- and 
+micronutrient dietary requirements is presented. Using the avoidance of cow's 
+milk as an example, the challenges of adequately meeting nutritional needs are 
+identified and (so-called) milk alternatives are evaluated from an allergy and 
+nutritional point of view. Finally, other plant-based (substitute) products are 
+evaluated from the same perspective, as significant protein sources in vegan 
+diets (e.g., legumes, nuts, and seeds) are at the same time potential and potent 
+triggers of allergic reactions. However, the allergic potential of many 
+substitute products cannot be fully assessed at present due to gaps in research. 
+Wheat as the most important trigger for anaphylaxis in adults is also evaluated. 
+Finally, the increase in ultra-processed products in the (vegan) food sector and 
+their potential consequences for the immune system are discussed.
+
+© Dustri-Verlag Dr. K. Feistle.
+
+DOI: 10.5414/ALX02400E
+PMCID: PMC10088878
+PMID: 37056444
+
+Conflict of interest statement: R. Treudler, S. Schnadt, S. van Dullemen, B. 
+Ballmer-Weber, S. Müller, U. Jappe declare no conflict of interest. I. Reese 
+declares the following conflicts of interest outside the submitted work: 
+Honoraria: AGPAS e. V., Aimmune Therapeutics Germany GmbH, AlbertZwei media 
+GmbH, ALK-Abello Arzneimittel GmbH, Beiersdorf Dermo Medical GmbH, BVDD e. V., 
+DAAB e.V., DAEM e.V., Danone Deutschland GmbH, DAPM e. V., DDG e.V., DGAKI, DWA, 
+GPA e.V., GEKA mbH, GWT-TUD GmbH, Helmholtz-Zentrum München, InfectoPharm 
+Arzneimittel und Consilium GmbH, Kneipp-Ärztebund e.V., Leo Pharma Gmbh, Medical 
+Project Design, MVS Medizinverlage, Nestlé Deutschland AG, Netz für entzündliche 
+Dermatosen in Hannover e.V., Novartis Pharma GmbH, RG Ärztefortbildung, Sanomega 
+GmbH, Schweizer Milchproduzenten SMP, SWR, Uniklinikum Augsburg, Uniklinikum TU 
+München, Uniklinikum Marburg, VDD e.V., VDOe e.V., Vfed e.V. Publishers: Dustri, 
+de Gruyter, Springer, Thieme, Münchner Verlagsgruppe. Reimbursement of travel 
+costs: DGAKI, EAACI, GA2LEN GAFA. Advisory board activity: DAAB, DGAKI. C. 
+Schäfer declares the following conflicts of interest outside the submitted work: 
+Travel costs, honoraria: abbvie Deutschland GmbH & Co. KG, Aimmune Therapeutics 
+Germany GmbH, DAAB e. V., DAEM e. V., DGAKI e. V., DGEM e. V., Dustri Verlag, GU 
+Verlag, MVS Medizinverlage, Nestle Deutschland AG, Novartis Pharma GmbH, Roxall 
+Medizin GmbH, Sanofi-Aventis Deutschland GmbH, Springer Verlag, Thieme Verlag, 
+VFED e. V. Advisory board activity: DAAB e. V., NNI, Quetheb e.V. K. Beyer 
+declares the receipt of consultation fees and/ or honoraria by Danone/Nutricia, 
+Hipp und Nestlé, as well as research grants by Danone/Nutricia and Hipp outside 
+the submitted work. M. Worm declares the receipt of honoraria and/or 
+consultation fees by the following companies: Novartis Pharma GmbH, 
+Sanofi-Aventis Deutschland GmbH, DBV Technologies S.A, Aimmune Therapeutics UK 
+Limited, Regeneron Pharmaceuticals, Inc, Leo Pharma GmbH, Boehringer Ingelheim 
+Pharma GmbH &Co.KG, ALK-Abelló Arzneimittel GmbH, Lilly Deutschland GmbH, Kymab 
+Limited, Amgen GmbH, Abbvie Deutschland GmbH & Co. KG, Pfizer Pharma GmbH, Mylan 
+Germany GmbH (A Viatris Company), AstraZeneca GmbH, Lilly Deutschland GmbH and 
+GlaxoSmithKline GmbH & Co. KG. S. Dölle-Bierke declares the receipt of honoraria 
+by ALK and DAAB e. V., as well as research grants by BMBF (01EA2107B) outside 
+the submitted work Table 1.Daily vegan eating plan covering requirements for an 
+adult with a body weight of 60 kg (German Federal Food Code) [12]. 
+MealIngredientsQuantity (g)Energy (kcal)Protein (g)Lysine 
+(mg)Cysteine/Methionine (mg)1st breakfastBanana porridgeOats whole-grain 
+flakes702489.3320402Soy drink + calcium200546.9440100Banana1251131.471142nd 
+breakfastWhole-grain bread with peanut/chocolate spread and raw 
+vegetablesWhole-grain rye bread701395.1224168Peanut butter251456.6258165Cocoa 
+low in oil (“baking cocoa”)4140.92922Carrots, raw150501.37132LunchIndian potato 
+and lentil stewPotatoes, peeled cooked2001403.8248106Lentils, ripe dried 
+cooked15018315.81127281Tomatoes150261.45416Onion, cooked3090.42116Rapeseed 
+oil10106Iodized fluoridated table salt2SnackStrawberry soy yogurt with 
+walnutsSoy yogurt with calcium200546.9442100Strawberries 
+(raw)125401.04310Walnuts302144.8133155DinnerPan-fried vegetables with 
+tofuTofu8010613.1817343Chickpeas1201699.0637216Mixed vegetables, 
+cooked250986.8505218Rapeseed oil12106Sesame, roasted10601.95983Iodized 
+fluoridated table salt2Total2,07496.45,4992,447Note: Daily requirement of lysine 
+is 4.61 g, of cysteine and methionine 2.21 g. Macronutrient profile: 18.1 energy 
+(E)% protein, 32.48 E% fat, 42.98 E% carbohydrates [13]. Table 2.DIAAS of 
+selected food proteins (partly isolated) according to [20]. FoodDIAAS 0.5 – 3 
+yearsDIAAS > 3 yearsProtein content %Potato protein96 – 113120 – 13478 – 81% 
+(protein content potato: 2%)Wheat34 – 6443 – 7611 – 16Oatmeal48 – 6257 – 7310 – 
+15Fava beans49 – 5957 – 6925 – 27Pea54 – 7769 – 9118 – 28Lupine63 – 6974 – 8131 
+– 36Soybean, dried82 – 978 – 12535 – 37Soy protein isolate75 – 8488 – 9885 – 
+93Soy protein concentrate86 – 97101 – 11264 – 65Ham, smoked115 – 125123 – 14224 
+– 34Whey powder81 – 87101 – 10912 – 13 (whey content in milk: 0.6 – 1%)Casein113 
+– 120132 – 14187 – 89 (casein content in milk: 2.6%)DIAAS = digestible 
+indispensable amino acid score. Table 3.Combination ratios for a meal with ~ 20 
+g of protein providing a complete protein in terms of the digestible 
+indispensable amino acid score (DIAAS); according to [12, 21]. Protein sources 
+in g foodPercentage of proteinsTotal protein content (g)Protein 173 g pea 
+(cooked)2520.0Protein 244 g wheat (whole grain/cooked)25Protein 3530 g 
+potato50Protein 115 g oats (whole grain)1020.0Protein 243 g lentils 
+(cooked)20Protein 3740 g potato70Protein 133 g soybeans (cooked)2520.0Protein 
+297 g wheat (whole grain/cooked)20Protein 3580 g potato55Protein 1160 g corn 
+(whole grain/cooked)2520.0Protein 2790 g potato75Protein 1146 g wheat (whole 
+grain/cooked)3020.0Protein 2740 g potato70Protein 164 g lentil 
+(cooked)3020.0Protein 2740 g potato70 Table 4.A Comparison of the nutrients of 
+cow’s milk with selected plant-based drinks (German Federal Food Code 3.01; 
+Alnatura 2022; Alpro 2022; Bedda 2022; Harvest Moon 2022; Luve 2022; Oatly 2022; 
+Provamel 2022; Rewe 2022). ProductsEnergy (kcal/ 100 mL)Fat (%)Carbohydrates 
+(%)Protein (%)Calcium (mg)Milk alternativesCow’s milk (whole 
+milk)653.54.73.4120Soy drink (e.g., Alpro Sojadrink Bio (i.e. organic soy 
+drink))381.82.33.012.31Soy drink (e.g., Alpro Sojadrink Original mit Calcium 
+(i.e. plain soy drink with calcium))391.82.53.0120Lupine drink (e.g., Luve aus 
+Lupinen Natur (i.e. plain lupine drink))501.57.21.0120Almond drink (e.g., 
+Provamel organic-bio Mandel (i.e. plain organic almond drink))382.52.41.0–Cashew 
+drink (e.g., Provamel bio-organic Cashew No sugars (i.e. unsweetened organic 
+cashew drink))382.81.31.2–Coconut drink (e.g., organic-bio Barista Kokos (i.e. 
+organic coconut drink with foaming properties))361.54.70.4–Coconut drink (e.g., 
+Alnatura Kokosdrink ungesüßt (i.e. unsweetened plain coconut 
+drink))120.51.31.7–Oat drink (e.g., Oatly Haferdrink Calcium (i.e. calcium 
+fortified oat drink))461.56.71.0120Oat drink (e.g., Oatly Haferdrink Barista 
+Edition (i.e. oat drink with foaming properties))593.06.61.0120Spelt drink 
+(e.g., Alnatura Dinkeldrink ungesüßt (i.e. unsweetened spelt 
+drink))421.56.20.8–Rice drink (e.g. Provamel organic-bio 
+Rice)541.111.00.1–Yogurt alternativesCow’s milk yogurt 3.5% 
+fat693.84.43.9120Alpro Natur Ohne Zucker (i.e. plain unsweetened soy yogurt 
+alternative) 422.3–4.0120Alpro Heidelbeere (i.e. soy yogurt alternative with 
+blueberry flavour)700.48.23.7120Alpro Natur Mit Mandeln (i.e. plain soy yogurt 
+alternative with almonds)542.82.33.9120Harvest Moon Coconut Natur - Bio (i.e. 
+organic plain coconut yogurt alternative)12811.94.50.8–Luve Lughurt Natur 
+(Lupinenjoghurt – i.e. plain lupine yogurt alternative)1015.510.01.7–Luve 
+Lughurt Mango (i.e. lupine yogurt alternative with mango 
+flavour)1065.014.01.5–Rewe Bio & vegan Kokos Natur (i.e. plain organic coconut 
+yogurt alternative)977.75.11.4–Luve Lughurt Natur zuckerfrei (i.e. plain 
+unsweetened lupine yogurt)966.08.51.8–Vegan spreadable cream (e.g., Bedda 
+Frischcrème natur)30030.51.04.0–Alnatura (Alnatura Produktions- und Handels GmbH 
+website): https://www.alnatura.de/de-de/produkte/suche/ (05.08.2022); Alpro 
+(Alpro GmbH), website: 
+https://www.alpro.com/de/produkte/drinks/sojadrinks-natur/sojadrink-original-mit-calcium/ 
+(05.08.2022); Bedda (Ethiconomy Services GmbH), website: 
+https://bedda-world.com/produkte/ (05.08.2022); Harvest Moon (Whollees GmbH), 
+website: https://harvestmoon.de/products#milk_alternatives (05.08.2022); Luve 
+(Prolupin GmbH), website: https://madewithluve.de/produkte/ (05.08.2022); Oatly 
+(Oatly AB, Malmö, Schweden), website: https://www.oatly.com/de-de/stuff-we-make 
+(05.08.2022); Provamel (Alpro GmbH), website: 
+https://www.provamel.com/de/produkte (05.08.2022); Rewe (Rewe Markt GmbH), 
+website: https://www.rewe.de/marken/eigenmarken/bio/rewe-bio-produkte/ 
+(05.08.2022). Table 5.Comparison of cheese, cream cheese, and yogurt with 
+alternatives (focus on protein) (Alpro 2022; Bedda 2022; Simply V 2022) [12]. 
+ProductCheese from cow’s milk (reference) versus vegan alternativeProtein 
+contentCalciumAllergensTrace identificationSemi-hard cheeseSemi-hard cheese 45% 
+FDM25.3%690 mgCow’s milkSimply V® Vegane Genießerscheiben Fein Cremig (i.e. 
+slices cheese alternative)0.5%–Almonds+Bedda® Scheiben Classic (i.e. slices 
+cheese alternative)0.0%+––Cream cheeseCream cheese heavy cream (60% FDM)11.3%79 
+mgCow’s milkSimply V® Streichgenuss Cremig-Mild (i.e. cream cheese 
+alternative)4.5%–Almonds+Bedda® Frischcreme Kräuter (i.e. cream cheese 
+alternative with herbs)4.0%–Almonds–FDM = fat in dry matter. edda® (Ethiconomy 
+Services GmbH), website: https://bedda-world.com/produkte/ (05.08.2022); Simply 
+V® (E.V.A. GmbH) website: https://www.simply-v.de/de/produkte/ (05.08.2022). 
+Figure 110 most frequent triggers of food-induced anaphylaxis. Anaphylaxis 
+Registry, German-speaking countries (Germany, Austria, Switzerland), as of 
+October 29, 2020. Total n = 1,790 confirmed food-induced anaphylaxis cases (n = 
+1,141, children and adolescents 0 – 17 years; n = 649, adults 18 years and 
+older). Only cases that met the NIAID/FAAN (National Institute of Allergy and 
+Infectious Diseases/Food Allergy and Anaphylaxis Network) definition [40] of an 
+anaphylactic reaction and where the trigger was diagnosed as confirmed [39] were 
+included.Figure 2The most frequent triggers or groups of triggers in confirmed 
+anaphylaxis to foods of plant origin. Based on [41]. Table 6.Nutritional values 
+and selected allergenic structures of selected legumes for estimation of 
+possible risks for cross-reactive allergic reactions (based on 100 g 
+ready-to-eat final product) according to Allergome (www.allergome.org); 
+allergens that are additionally documented in the WHO/IUIS database 
+(www.allergen.org) are presented in bold. FoodEnergy (kilocalories) [fat in g, 
+carbohydrates in g, protein in g]Important allergenic structuresNotes (focus 
+allergy/food form)Fenugreek Trigonella foenum-graecum366 [6.4/48.3/23.0]7S 
+vicilin: Tri fg 1: 2S albumin: Tri fg 2 7S globulin: Tri fg 3 Bet v 1-like: Tri 
+fg 4No WHO/IUIS documentation yet Note: is increasingly used in usual spice 
+quantitiesPeanut Arachis hypogaea599 [48.4/7.48/29.78]7S vicilin: Ara h 1 + 
+isoforms 2S albumin: Ara h 2/Ara h 6/Ara h 7 + isoforms 11S globulin: Ara h 3 
+Profilin: Ara h 5 Bet v 1-like: Ara h 8 + isoforms LTP: Ara h 9/Ara h 16/Ara h 
+17 + isoforms Oleosins: Ara h10/Ara h 11, Ara h 14/Ara h 15 + isoformsPeanut 
+products are available in many variants (roasted, defatted, as flour, or as 
+oil), resulting in significantly differing macronutrient contents.Peanut 
+roasted630 [52.95/9.28/26.94]Peanut flour defatted flour349 
+[0.55/30.65/52.50]Peas, ripe-flour Pisum sativum316 [1.51/44.0/24.1]7S vicilin: 
+Pis s 1 + isoforms 7S vicilin/Convicilin + isoform: Pis s 2 LTP + isoform: Pis s 
+3 Profilin: Pis s 5 Bet v 1-like: Pis s 6Pis 1 and Pis 2 – together with 
+isoforms probably the main allergensChickpea, dried Cicer arietinum337 
+[5.9/44.0/19.0]7S vicilin: Cic a 1 2S albumin: Cic a 2S ilbumin LTP: Cic a 3 11S 
+globulin: Cic a 6Chickpea flour contains 20% protein, twice as much as wheat 
+flourLentil, dried ripe Lens culinaris307 [(1.6/40.5/23.4]7S vicilin: Len c 1 + 
+three isoforms LTP: Len c 3 + isoform No 2S albumin or Bet v 1 homolog described 
+so farLupine, grist Lupinus species356 [8.7/13.0/43.0]7S vicilin: Lup a 1/Lupan 
+1 major allergen, cross-reaction between peanut and lupine. LTP: Lup an 3 + 
+isoform Bet v 1-like: Lup a 4 Profilin: Lup a 5 + isoform 2S albumin: Lup an 
+delta conglutinBased on the sequence homologies of lupine products, a similar 
+allergenic potency for birch pollen allergen can be assumed for patients as with 
+soybeanSoybean, dried Glycine maxima386 [18.3/6.3/38.2]Hydrophobic protein: Gly 
+m 1 Defensin: Gly m 2 Profilin: Gly m 3 + isoforms Bet v 1-like: Gly m 4 + 
+isoform 7S vicilin: Gly m 5 + isoforms 11S globulin: Gly m 6 + isoforms Seed 
+biotinylated protein: Gly m 7 2S albumin: Gly m 8Soy products are available in 
+many variants (roasted, defatted, as flour, or as oil), resulting in 
+significantly differing macronutrient contents.Soybean, roasted431 
+[24.0/6.1/50.0]Soy protein (TVP)291 [1.5/7.0/50.0]Nutritional information is 
+based on the German Federal Food Code 3.02 [12] and is part of the 
+Prodi/Optidiet nutrition software. TVP = textured vegetable protein. Table 
+7.Nutritional values and selected allergenic structures of relevant nuts for the 
+estimation of possible risks for cross-reactive allergic reactions (related to 
+100 g of the ready-to-eat final product) according to Allergome 
+(www.allergome.org); allergens that are additionally documented in the WHO/IUS 
+database (www.allergen.org) are presented in bold. FoodEnergy (kilocalories) 
+[fat in g, carbohydrates in g, protein in g]Important allergenic structuresNotes 
+(focus allergy/food form)Cashews Anacardium occidentale590 [42.2/30.5/20.6]7S 
+globulin: Ana o 1, 11S gGlobulin: Ana o 2 2S albumin: Ana o 3 (f443, major 
+allergen), Bet v 1-like isoformCashew flour, de-oiled Anacardium occidentale356 
+[2.0/41.8/39.6]Basic ingredient for cashew processing (for example, cheese 
+alternatives, drinks, and snacks).Hazelnut, natural Corylus avellana664 
+[63.3/6.0/16.3]PR-10: Cor a 1 and additional 10 isoforms Profilin: Cor a 2 + 2 
+isoforms LTP: Cor a 8 + isoform 11S globulin: Cor a 9 + isoform 7S vicilin: Cor 
+a 11 + isoform 2S albumin: Cor a 14 + isoform 7S globulin: Cor a 1637 known 
+allergen structures, of which 12 are documented at WHO/IUIS, but 2 are inhalant 
+allergens. Various isoforms are known.Hazelnut, roasted Corylus avellana685 
+([6.7/5.4/14.8]Nutritional information is based on the German Federal Food Code 
+3.02 [12] and is part of the Prodi/Optidiet nutrition software. Table 
+8.Nutritional values and selected allergenic structures of relevant oilseeds and 
+seeds for the estimation of possible risks for cross-reactive allergic reactions 
+(related to 100 g of the ready-to-eat final product) according to Allergome 
+(www.allergome.org); allergens that are additionally documented in the WHO/IUS 
+database (www.allergen.org) are presented in bold. FoodEnergy (kilocalories) 
+[fat in g, carbohydrates in g, protein in g]Important allergenic structuresNotes 
+(focus allergy/food form)Psyllium Plantago ovata271 [7.0/3.5/16.0]Pla o without 
+further characterizationNote the significantly different nutrient profile 
+compared to psyllium husks.Psyllium husks Plantago ovata222 [0.7/12.0/2.3]Hemp 
+seeds, shelled Cannabis sativa611 [48.0/16.0/25.0]Profilin: Can s 2 (identified 
+as an aeroallergen) LTP: Can s 3 + isoform (identified as an aeroallergen, not a 
+food allergen). Can s 4: Oxygen Evolving Enhancer Protein 2 (identified as an 
+aeroallergen). Can s 5: Bet v 1-like (identified as an aeroallergen)Hemp seeds 
+should preferably be used shelled. Unprocessed and unshelled hemp seeds must be 
+pre-processed by heat to avoid the antinutritive substances.Hemp seeds, 
+unshelled Cannabis sativa461 [32.0/2.2/21.0]Hemp seeds, roasted Cannabis 
+sativa560 [44.0/12.0/33.0]Edestin (11S globulin), but not described as 
+allergen!Linseed, whole Linum usitatissimum498 [37.0/7.7/22.0]2S albumin: Lin u 
+1Observe EU Regulation on consumption restrictionSesame, raw Sesamum indicum; 
+Synonym (old): Sesamum orientale593 [50.4/10.2/50.4]2S albumins: Ses i 1 + 
+isoform, Ses i 2 + isoform, 7S vicilin: Ses i 3 + Isoform Oleosins: Ses i 4, Ses 
+i 5 + isoforms 11S globulin: Ses i 6 + isoform 11S globulin: Ses i 7 + 
+isoformNutritional information is based on the German Federal Food Code 3.02 
+[12] and is part of the Prodi/Optidiet nutrition software. Table 9.Nutritional 
+values and selected allergenic structures of relevant wheat products for the 
+assessment of possible risks for cross-reactive allergic reactions (based on 100 
+g of the ready-to-eat final product) according to Allergome (www.allergome.org); 
+allergens that are additionally documented in the WHO/IUS database 
+(www.allergen.org) are presented in bold. FoodEnergy (kilocalories) [fat in g, 
+carbohydrates in g, protein in g]Important allergenic structuresNotes (focus 
+allergy/food form)Wheat grain Triticum aestivum301 [1.8/59.6/11.7]Profilin: Tri 
+a 12 and isoforms LTP: Tri a 14 + isoforms Omega 5 gliadin: Tri a 19Over 100 
+described allergen structures (including amylase inhibitors, gliadins, 
+glutenins, serine protease inhibitors, thiol reductases); 15/28 allergens 
+already documented at WHO/IUIS as food allergens.Gluten395 [4.0/7.0/81.0]Seitan 
+(Triticum aestivum)115 [1.7/1.8/22.4]Nutritional information is based on the 
+German Federal Food Code 3.02 [12] and is part of the Prodi/Optidiet nutrition 
+software. Figure 3Classification of foods according to NOVA classification. 
+Based on [128, 129].
+
+
+8. Egypt J Immunol. 2022 Oct;29(4):1-11.
+
+Pollen sensitization among Egyptian patients with respiratory allergic diseases.
+
+Mohamed MF(1), Refaat MM(1), Melek NA(1), Ahmed EA(1), Noor Aldin NM(1), Abdel 
+Latif OM(1).
+
+Author information:
+(1)Department of Internal Medicine, Division of Allergy & Clinical Immunology, 
+Faculty of Medicine, Ain Shams University, Cairo, Egypt.
+
+Pollen is responsible for seasonal allergies, such as allergic 
+rhino-conjunctivitis (AR), and has become a growing public health concern. 
+Climate change affects the range of allergenic species as well as the timing and 
+length of the pollen season. In Egypt, data on pollinosis are scarce. This study 
+aimed to identify the most prevalent pollen causing allergies among Egyptian 
+patients with respiratory allergies. A total of 200 patients with respiratory 
+allergic diseases, allergic rhinitis and/or bronchial asthma (BA), were 
+included. Medical history taking and physical examinations were conducted on 
+each patient. Complete blood count (CBC), total immunoglobulin E (IgE) 
+determination, spirometry, specific IgE, and skin prick tests (SPTs) for common 
+aeroallergens and food were performed. Of the 200 patients, 106 (53%) were 
+females. The age of study subjects ranged 16-66 years (mean ± SD, 34.42 ± 13.0), 
+and 65% were living in urban areas. Grass pollen, mainly from Timothy grass and 
+maize, were the most prevalent allergens (28.5%). Timothy grass was the most 
+common type of pollen in patients with AR (28.3 %). Elder pollen was more 
+prevalent among asthmatic patients (P = 0.004). Bermuda grass was statistically 
+more prevalent in rural than in urban areas (P = 0.008). Maize was linked to 
+uncontrolled BA, whereas Timothy grass was the most prevalent among patients 
+with moderate/severe AR. Forty-three patients had oral allergy syndrome; oranges 
+and tomatoes were the most cross-reactive food allergies (12% and 11.5%, 
+respectively). Exacerbation of allergic symptoms was noted during January, 
+December, March, and June. In conclusion, pollen plays a substantial role in 
+affecting patients with respiratory allergies in Egypt. Grass pollen is the most 
+prevalent type of pollen, especially in urban areas.
+
+Copyright© by the Egyptian Association of Immunologists.
+
+PMID: 36197149 [Indexed for MEDLINE]
+
+
+9. Transgenic Res. 2022 Oct;31(4-5):507-524. doi: 10.1007/s11248-022-00316-8.
+Epub  2022 Aug 8.
+
+Biochemical and clinical studies of putative allergens to assess what 
+distinguishes them from other non-allergenic proteins in the same family.
+
+Glenn KC(1), Silvanovich A(1), Lee SG(2)(3), Allen A(2), Park S(4), Dunn SE(1), 
+Kessenich C(1), Meng C(1), Vicini JL(5), Jez JM(2).
+
+Author information:
+(1)Bayer Crop Science, 700 Chesterfield Pkwy W, Chesterfield, MO, 63017, USA.
+(2)Department of Biology, Washington University, CB 1137, One Brookings Dr., St. 
+Louis, MO, 63130, USA.
+(3)Department of Chemistry and Biochemistry, University of North Carolina 
+Wilmington, Wilmington, NC, 28403, USA.
+(4)Allergy and Asthma Care of St. Louis, 8888 Ladue Road, Suite 105, St. Louis, 
+MO, 63124, USA.
+(5)Bayer Crop Science, 700 Chesterfield Pkwy W, Chesterfield, MO, 63017, USA. 
+john.vicini@bayer.com.
+
+Many protein families have numerous members listed in databases as allergens; 
+however, some allergen database entries, herein called "orphan allergens", are 
+members of large families of which all other members are not allergens. These 
+orphan allergens provide an opportunity to assess whether specific structural 
+features render a protein allergenic. Three orphan allergens [Cladosporium 
+herbarum aldehyde dehydrogenase (ChALDH), Alternaria alternata ALDH (AaALDH), 
+and C. herbarum mannitol dehydrogenase (ChMDH)] were recombinantly produced and 
+purified for structure characterization and for clinical skin prick testing 
+(SPT) in mold allergic participants. Examination of the X-ray crystal structures 
+of ChALDH and ChMDH and a homology structure model of AaALDH did not identify 
+any discernable epitopes that distinguish these putative orphan allergens from 
+their non-allergenic protein relatives. SPT results were aligned with ChMDH 
+being an allergen, 53% of the participants were SPT (+). AaALDH did not elicit 
+SPT reactivity above control proteins not in allergen databases (i.e., 
+Psedomonas syringae indole-3-acetaldehyde dehydrogenase and Zea mays ALDH). 
+Although published results showed consequential human IgE reactivity with 
+ChALDH, no SPT reactivity was observed in this study. With only one of these 
+three orphan allergens, ChMDH, eliciting SPT(+) reactions consistent with the 
+protein being included in allergen databases, this underscores the complicated 
+nature of how bioinformatics is used to assess the potential allergenicity of 
+food proteins that could be newly added to human diets and, when needed, the 
+subsequent clinical testing of that bioinformatic assessment.Trial registration 
+number and date of registration AAC-2017-0467, approved as WIRB protocol 
+#20172536 on 07DEC2017 by WIRB-Copernicus (OHRP/FDA Registration #: IRB00000533, 
+organization #: IORG0000432).
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s11248-022-00316-8
+PMCID: PMC9489553
+PMID: 35939227 [Indexed for MEDLINE]
+
+Conflict of interest statement: None for A. Allen, J. M. Jez, S. G. Lee and S. 
+Parks. The other authors (S. E. Dunn, K. Glenn, C. Kessinich, C. Meng, A. 
+Silvanovich and J. Vicini) are employees of Bayer Crop Science and were provided 
+financial support in the form of authors’ salaries and research materials.
+
+
+10. Pediatr Neonatol. 2022 Sep;63(5):520-526. doi: 10.1016/j.pedneo.2022.03.019. 
+Epub 2022 Jun 22.
+
+Prevalence, clinical presentation, and associated atopic diseases of pediatric 
+fruit and vegetable allergy: A population-based study.
+
+Li SK(1), Liu Z(2), Huang CK(3), Wu TC(4), Huang CF(5).
+
+Author information:
+(1)Department of Pediatrics, Yonghe Cardinal Tien Hospital, New Taipei, Taiwan; 
+Division of Pediatric Gastroenterology, Hepatology and Nutrition, Department of 
+Pediatrics, Taipei Veterans General Hospital, Taipei, Taiwan.
+(2)Emergency Department, Department of Emergency and Critical Medicine, Wan Fang 
+Hospital, Taipei Medical University, Taipei, Taiwan; Department of Emergency, 
+School of Medicine, College of Medicine, Taipei Medical University, Taipei, 
+Taiwan; Department of Pediatrics, Wan Fang Hospital, Taipei Medical University, 
+Taipei, Taiwan; Division of Pediatric Gastroenterology, Hepatology and 
+Nutrition, Department of Pediatrics, Taipei Veterans General Hospital, Taipei, 
+Taiwan.
+(3)Division of Pediatric Gastroenterology, Hepatology and Nutrition, Department 
+of Pediatrics, Taipei Veterans General Hospital, Taipei, Taiwan; Department of 
+Pediatrics, Taipei Veterans General Hospital, Taoyuan Branch, Taoyuan, Taiwan.
+(4)Division of Pediatric Gastroenterology, Hepatology and Nutrition, Department 
+of Pediatrics, Taipei Veterans General Hospital, Taipei, Taiwan. Electronic 
+address: tcwu@yahoo.com.
+(5)Division of Pediatric Gastroenterology, Hepatology and Nutrition, Department 
+of Pediatrics, Taipei Veterans General Hospital, Taipei, Taiwan; School of 
+Medicine, National Defense Medical Center, Taipei, Taiwan. Electronic address: 
+h-cf@yahoo.com.tw.
+
+BACKGROUND: In children, fruit and vegetable allergies are often overlooked 
+compared with well-known allergies such as those to eggs, milk, and shellfish. 
+Therefore, this study aimed to analyze fruit and vegetable allergies in 
+children, including prevalence, types of food allergens, clinical presentation, 
+management, and associated comorbid atopic diseases.
+METHODS: In 2012, a nationwide, cross-sectional, random sampling 
+questionnaire-based survey for common fruit and vegetable allergies was 
+conducted in Taiwan. Information regarding these plant food allergies was 
+collected. Physicians diagnosed food allergies according to the descriptions of 
+convincing symptoms. Enrolled questionnaires were reviewed by expert 
+pediatricians.
+RESULTS: A total of 9,982 valid questionnaires were analyzed. The overall 
+prevalence of fruit and vegetable allergies was 5.6% (n = 560) and 3.0% 
+(n = 304), respectively. The most common fruit allergen was mango, followed by 
+kiwifruit, whereas taro and bamboo shoot were the most common vegetable 
+allergens. Meanwhile, most allergic symptoms were of the mucocutaneous tissue, 
+followed by the upper airway and gastrointestinal tract. Most only required 
+avoidance of allergens and not medical treatment. Children with fruit or 
+vegetable allergies had a higher percentage of comorbid atopic dermatitis, 
+allergic rhinitis, and asthma than those without food allergies; additionally, 
+the proportion of comorbid atopic diseases was similar between fruit and 
+vegetable allergies and shellfish allergy. One child developed anaphylaxis due 
+to a corn allergy.
+CONCLUSIONS: Fruits and vegetables are common food allergens in Taiwanese 
+children who present with diverse and potentially severe symptoms. Children with 
+plant food allergies had a percentage of comorbid atopic diseases similar to 
+that of shellfish allergy, the most common allergen. These findings indicate the 
+importance of considering fruit and vegetable allergies in children.
+
+Copyright © 2022 Taiwan Pediatric Association. Published by Elsevier B.V. All 
+rights reserved.
+
+DOI: 10.1016/j.pedneo.2022.03.019
+PMID: 35811287 [Indexed for MEDLINE]

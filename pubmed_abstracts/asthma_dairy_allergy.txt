@@ -1,0 +1,790 @@
+1. Cells. 2025 Apr 25;14(9):639. doi: 10.3390/cells14090639.
+
+Role of IgG4 Antibodies in Human Health and Disease.
+
+Shi LL(1)(2), Xiong P(1)(3), Yang M(1), Ardicli O(1)(4), Schneider SR(1), Funch 
+AB(1)(5), Kiykim A(1)(6), Lopez J(1), Akdis CA(1), Akdis M(1).
+
+Author information:
+(1)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+7265 Davos, Switzerland.
+(2)Department of Otolaryngology-Head and Neck Surgery, Tongji Hospital, Tongji 
+Medical College, Huazhong University of Science and Technology, Wuhan 430030, 
+China.
+(3)Department of Pediatrics, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan 430030, China.
+(4)Division of Food Processing, Milk and Dairy Products Technology Program, 
+Karacabey Vocational School, Bursa Uludag University, Bursa 16700, Turkey.
+(5)LEO Foundation Skin Immunology Research Center, Department of Immunology and 
+Microbiology, Faculty of Health and Medical Sciences, University of Copenhagen, 
+2200 Copenhagen, Denmark.
+(6)Department of Pediatrics, Division of Pediatric Allergy and Immunology, 
+Cerrahpasa Medical School, Istanbul University-Cerrahpasa, Istanbul 34098, 
+Turkey.
+
+Immunoglobulin G4 (IgG4), a unique subclass of IgG antibodies, plays diverse 
+roles in human health and disease. Its distinct features, such as Fab-arm 
+exchange and specific mutations, confer reduced effector functions compared to 
+other IgG subclasses. In health, IgG4 responses contribute to immune tolerance, 
+particularly in the context of allergen-specific immunotherapy (AIT), where they 
+can mediate tolerance to environmental antigens, inhibit IgE-dependent mast cell 
+degranulation, and compete with IgE for allergen binding. This helps in 
+attenuating allergic symptoms and is associated with increased levels of 
+allergen-specific IgG4. However, in disease scenarios, the role of IgG4 is 
+complex. IgG4 lacks complement fixation and, thus, shows a reduced ability to 
+activate immune effector pathways, it was initially thought to be protective 
+against autoimmune diseases. However, emerging evidence suggests that it can 
+contribute to pathology. For instance, IgG4 autoantibodies against specific 
+antigens can aggravate conditions in certain autoimmune disorders. In some 
+cancers, it may play a role in immune evasion, with higher levels correlating 
+with poor patient survival, albeit in others, its exact function remains 
+elusive. Overall, understanding the precise role of IgG4 in various 
+physiological and pathological conditions is crucial for developing targeted 
+therapeutic strategies and improving patient outcomes.
+
+DOI: 10.3390/cells14090639
+PMCID: PMC12071442
+PMID: 40358163 [Indexed for MEDLINE]
+
+Conflict of interest statement: There are no conflicts of interest to disclose.
+
+
+2. Cell Mol Immunol. 2025 Mar;22(3):211-242. doi: 10.1038/s41423-025-01261-2.
+Epub  2025 Feb 17.
+
+Type 2 immunity in allergic diseases.
+
+Ogulur I(#)(1), Mitamura Y(#)(1), Yazici D(1), Pat Y(1), Ardicli S(1)(2), Li 
+M(1), D'Avino P(1), Beha C(1), Babayev H(1), Zhao B(1), Zeyneloglu C(1), 
+Giannelli Viscardi O(1), Ardicli O(1)(3), Kiykim A(1)(4), Garcia-Sanchez 
+A(1)(5), Lopez JF(1), Shi LL(1)(6), Yang M(1), Schneider SR(1), Skolnick 
+S(1)(7), Dhir R(7), Radzikowska U(1), Kulkarni AJ(1), Imam MB(1), Veen WV(1), 
+Sokolowska M(1), Martin-Fontecha M(8), Palomares O(9), Nadeau KC(10), Akdis 
+M(1), Akdis CA(11).
+
+Author information:
+(1)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+Davos, Switzerland.
+(2)Department of Genetics, Faculty of Veterinary Medicine, Bursa Uludag 
+University, Bursa, Turkey.
+(3)Division of Food Processing, Milk and Dairy Products Technology Program, 
+Karacabey Vocational School, Bursa Uludag University, Bursa, Turkey.
+(4)Department of Pediatrics, Division of Pediatric Allergy and Immunology, 
+Cerrahpasa School of Medicine, Istanbul University-Cerrahpasa, Istanbul, Turkey.
+(5)Department of Biomedical and Diagnostic Science, School of Medicine, 
+University of Salamanca, Salamanca, Spain.
+(6)Department of Otolaryngology-Head and Neck Surgery, Tongji Hospital, Tongji 
+Medical College, Huazhong University of Science and Technology, Wuhan, P.R. 
+China.
+(7)Seed Health Inc., Los Angeles, CA, USA.
+(8)Departamento de Quimica Organica, Facultad de Optica y Optometria, 
+Complutense University of Madrid, Madrid, Spain.
+(9)Department of Biochemistry and Molecular Biology, School of Chemistry, 
+Complutense University of Madrid, Madrid, Spain.
+(10)Department of Environmental Health, Harvard T.H. Chan School of Public 
+Health, Boston, MA, USA.
+(11)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+Davos, Switzerland. akdisac@siaf.uzh.ch.
+(#)Contributed equally
+
+Significant advancements have been made in understanding the cellular and 
+molecular mechanisms of type 2 immunity in allergic diseases such as asthma, 
+allergic rhinitis, chronic rhinosinusitis, eosinophilic esophagitis (EoE), food 
+and drug allergies, and atopic dermatitis (AD). Type 2 immunity has evolved to 
+protect against parasitic diseases and toxins, plays a role in the expulsion of 
+parasites and larvae from inner tissues to the lumen and outside the body, 
+maintains microbe-rich skin and mucosal epithelial barriers and counterbalances 
+the type 1 immune response and its destructive effects. During the development 
+of a type 2 immune response, an innate immune response initiates starting from 
+epithelial cells and innate lymphoid cells (ILCs), including dendritic cells and 
+macrophages, and translates to adaptive T and B-cell immunity, particularly IgE 
+antibody production. Eosinophils, mast cells and basophils have effects on 
+effector functions. Cytokines from ILC2s and CD4+ helper type 2 (Th2) cells, 
+CD8 + T cells, and NK-T cells, along with myeloid cells, including IL-4, IL-5, 
+IL-9, and IL-13, initiate and sustain allergic inflammation via T cell cells, 
+eosinophils, and ILC2s; promote IgE class switching; and open the epithelial 
+barrier. Epithelial cell activation, alarmin release and barrier dysfunction are 
+key in the development of not only allergic diseases but also many other 
+systemic diseases. Recent biologics targeting the pathways and effector 
+functions of IL4/IL13, IL-5, and IgE have shown promising results for almost all 
+ages, although some patients with severe allergic diseases do not respond to 
+these therapies, highlighting the unmet need for a more detailed and 
+personalized approach.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41423-025-01261-2
+PMCID: PMC11868591
+PMID: 39962262 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: S.S. is currently a 
+salaried employee of Seed Health, a probiotic retailer. R.D. is a cofounder and 
+CEO in Seed Health. W.V. has received research grants from PROMEDICA Stiftung, 
+Switzerland, and EoE Stiftung, Switzerland, and consulting fees from Mabylon AG, 
+Switzerland. M.S. has received research grants from the Swiss National Science 
+Foundation (SNSF nr 310030_189334/1 and 320030E_224154), GSK, Novartis, Stiftung 
+vorm. Bündner Heilstätte Arosa, Thermofisher and OM Pharma, speaker’s fee from 
+AstraZeneca and consults for Roche. She is a member-at-large of the European 
+Academy of Allergy and Clinical Immunology (EAACI) and EAACI Educational Events 
+Committee Chair. O.P. received research grants from MINECO, Ministerio de 
+Ciencia e Innovación, CAM, Inmunotek S.L., Novartis, and AstraZeneca and fees 
+for giving scientific lectures or participation in Advisory Boards from 
+AstraZeneca, Pfizer, GlaxoSmithKline, Inmunotek S.L., Novartis and 
+Sanofi-Genzyme. K.C.N. reports grants from the National Institute of Allergy and 
+Infectious Diseases (NIAID), National Heart, Lung, and Blood Institute (NHLBI), 
+and from the National Institute of Environmental Health Sciences (NIEHS), other 
+from the Immune Tolerance Network (ITN), other from National Institutes of 
+Health (NIH) clinical research centers, during the conduct of the study; other 
+from IgGenix, other from Seed Health, other from ClostraBio, other from Cour, 
+other from Alladapt, other from Excellergy, other from Red Tree Ventures, other 
+from Regeneron, other from Latitude, outside the submitted work. In addition, 
+K.C.N. has the following patents: “Mixed allergen composition and methods for 
+using the same”, “Granulocyte-based methods for detecting and monitoring immune 
+system disorders”, and “Methods and Assays for Detecting and Quantifying Pure 
+Subpopulations of White Blood Cells in Immune System Disorders”. M.A. has 
+received research grants from the Swiss National Science Foundation, Bern; 
+research grants from Stanford University; Leading House for the Latin American 
+Region; and Seed Money Grants. She is a Scientific Advisory Board member of 
+Stanford University-Sean Parker Asthma Allergy Center, CA; an Advisory Board 
+member of the LEO Foundation Skin Immunology Research Center, Copenhagen; and a 
+Scientific Co-Chair of the World Allergy Congress (WAC) Istanbul, 2022, 
+Scientific Programme Committee Chair, EAACI. C.A.A. has received research grants 
+from the Swiss National Science Foundation, European Union (EU CURE, EU 
+Syn-Air-G), Novartis Research Institutes (Basel, Switzerland), Stanford 
+University (Redwood City, Calif), Seed Health (Boston, USA), AO Research 
+Institute (Davos, Switzerland) and SciBase (Stockholm, Sweden). He is the 
+cochair for the EAACI Guidelines on Environmental Science in Allergic Diseases 
+and Asthma; Chair of the EAACI Epithelial Cell Biology Working Group. Serves on 
+the Advisory Boards of Sanofi/Regeneron (Bern, Switzerland, New York, USA), 
+Stanford University Sean Parker Asthma Allergy Center (CA, USA), Novartis 
+(Basel, Switzerland), GlaxoSmithKline (Zurich, Switzerland), Bristol-Myers 
+Squibb (New York, USA), Seed Health (Boston, USA) and SciBase (Stockholm, 
+Sweden). C.A.A. is the Editor-in-Chief of Allergy. I.O., Y.M., D.Y., Y.P., S.A., 
+M.L., P.D’A., C.B., H.B., B.Z., C.Z., O.G.V., O.A., A.K., A.G.-S., J.-F.L., 
+L.S., M.Y., S.R.S., U.R., A.J.K., M.B.I, and M.M.-F. declare no relevant 
+conflicts of interest.
+
+
+3. Front Immunol. 2025 Jan 7;15:1364129. doi: 10.3389/fimmu.2024.1364129. 
+eCollection 2024.
+
+Designing a multi-epitope vaccine candidate against human rhinovirus C utilizing 
+immunoinformatics approach.
+
+Mamun TI(1)(2), Ali MA(3), Hosen MN(4), Rahman J(2), Islam MA(2), Akib MG(2), 
+Zaman K(2), Rahman MM(2)(5), Hossain FMA(2)(6), Ibenmoussa S(7), Bourhia M(8), 
+Dawoud TM(9).
+
+Author information:
+(1)Department of Epidemiology and Public Health, Sylhet Agricultural University, 
+Sylhet, Bangladesh.
+(2)Faculty of Veterinary, Animal and Biomedical Sciences, Sylhet Agricultural 
+University, Sylhet, Bangladesh.
+(3)Department Of Chemistry, University of Rajshahi, Rajshahi, Bangladesh.
+(4)Department of Pharmacology and Toxicology, Sylhet Agricultural University, 
+Sylhet, Bangladesh.
+(5)Department of Pathology, Sylhet Agricultural University, Sylhet, Bangladesh.
+(6)Department of Dairy Science, Sylhet Agricultural University, Sylhet, 
+Bangladesh.
+(7)Laboratory of Therapeutic and Organic Chemistry, Faculty of Pharmacy, 
+University of Montpellier, Montpellier, France.
+(8)Department of Chemistry and Biochemistry, Faculty of Medicine and Pharmacy, 
+Ibn Zohr University, Laayoune, Morocco.
+(9)Department of Botany and Microbiology, College of Science, King Saud 
+University, Riyadh, Saudi Arabia.
+
+Human rhinovirus C (HRV-C) is a significant contributor to respiratory tract 
+infections in children and is implicated in asthma exacerbations across all age 
+groups. Despite its impact, there is currently no licensed vaccine available for 
+HRV-C. Here, we present a novel approach to address this gap by employing 
+immunoinformatics techniques for the design of a multi-epitope-based vaccine 
+against HRV-C. The sequences of the chosen structural proteins VP1 and VP2, 
+along with the non-structural protein 2C of HRV-C, were downloaded in FASTA 
+format from the NCBI server for further analysis. Through an exhaustive analysis 
+of HRV-C genomic sequences, we identified highly conserved immunogenic regions 
+capable of eliciting a protective immune response. Leveraging advanced 
+immunoinformatics tools, we predicted epitopes for B-cells, Cytotoxic T 
+lymphocytes, and Helper T lymphocytes, ensuring broad coverage across different 
+HRV-C strains. The vaccine candidate was constructed by integrating selected 
+antigens with immunogenic epitopes and adjuvants, employing optimal linkers. 
+Three vaccine constructs were developed, with V2 being the most promising, 
+consisting of 480 amino acids residues. V2 exhibited strong antigenicity, 
+non-allergenicity, and solubility, with a solubility score greater than 0.550, 
+and demonstrated excellent structural stability, with 91.9% of residues in the 
+most favorable regions of the Ramachandran plot. Molecular dynamics and 
+simulation studies revealed a stable Vaccine-TLR8 complex, with a binding energy 
+of -296.15 and consistent RMSD values. Furthermore, in silico cloning and 
+sequence optimization ensured efficient expression in E. coli, with a Codon 
+Adaptation Index of 0.99 and GC content of 54.58%. The minimum free energy of 
+the RNA secondary structure was -494.90 kcal/mol. While our findings suggest the 
+potential effectiveness of the designed vaccine candidate against HRV-C, further 
+in vitro and in vivo investigations are warranted to validate its safety and 
+efficacy.
+
+Copyright © 2025 Mamun, Ali, Hosen, Rahman, Islam, Akib, Zaman, Rahman, Hossain, 
+Ibenmoussa, Bourhia and Dawoud.
+
+DOI: 10.3389/fimmu.2024.1364129
+PMCID: PMC11747413
+PMID: 39840071 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+4. J Allergy Clin Immunol. 2025 Feb;155(2):421-422. doi: 
+10.1016/j.jaci.2024.11.017. Epub 2024 Nov 19.
+
+Food elimination in EoE: Milk before wheat, egg, and soy.
+
+Crawford RJ(1), Wright BL(2).
+
+Author information:
+(1)Division of Allergy, Asthma, and Clinical Immunology, Department of Medicine, 
+Mayo Clinic Arizona, Scottsdale, Ariz; Division of Allergy and Immunology, 
+Phoenix Children's Hospital, Phoenix, Ariz.
+(2)Division of Allergy, Asthma, and Clinical Immunology, Department of Medicine, 
+Mayo Clinic Arizona, Scottsdale, Ariz; Division of Allergy and Immunology, 
+Phoenix Children's Hospital, Phoenix, Ariz. Electronic address: 
+wright.benjamin@mayo.edu.
+
+DOI: 10.1016/j.jaci.2024.11.017
+PMCID: PMC12040323
+PMID: 39571913
+
+Conflict of interest statement: Disclosure statement Supported by the National 
+Institutes of Health/National Insitute of Allergy and Infectious Diseases (grant 
+K23AI158813 [to B.L.W.]). Disclosure of potential conflict of interest: The 
+authors declare that they have no relevant conflicts of interest.
+
+
+5. Mol Immunol. 2024 Dec;176:11-21. doi: 10.1016/j.molimm.2024.10.004. Epub 2024 
+Nov 15.
+
+The conformational epitope of Ara h 5 was crucial to the severe reactivity of 
+peanut allergy.
+
+Wang J(1), Hao M(2), Wang Q(2), Liu M(2), Liu G(2), Han S(2), Zhao X(3), Che 
+H(4).
+
+Author information:
+(1)Key Laboratory of Precision Nutrition and Food Quality, Key Laboratory of 
+Functional Dairy, Ministry of Education, College of Food Science and Nutritional 
+Engineering, China Agricultural University, Beijing 100083, PR China; Institute 
+of Agri-food Processing and Nutrition, Beijing Academy of Agriculture and 
+Forestry Sciences, Beijing Key Laboratory of Fruits and Vegetables Preservation 
+and Processing, Key Laboratory of Vegetable Postharvest Processing, Ministry of 
+Agriculture and Rural Affairs, Beijing 100097, PR China.
+(2)Key Laboratory of Precision Nutrition and Food Quality, Key Laboratory of 
+Functional Dairy, Ministry of Education, College of Food Science and Nutritional 
+Engineering, China Agricultural University, Beijing 100083, PR China.
+(3)Institute of Agri-food Processing and Nutrition, Beijing Academy of 
+Agriculture and Forestry Sciences, Beijing Key Laboratory of Fruits and 
+Vegetables Preservation and Processing, Key Laboratory of Vegetable Postharvest 
+Processing, Ministry of Agriculture and Rural Affairs, Beijing 100097, PR China.
+(4)Key Laboratory of Precision Nutrition and Food Quality, Key Laboratory of 
+Functional Dairy, Ministry of Education, College of Food Science and Nutritional 
+Engineering, China Agricultural University, Beijing 100083, PR China. Electronic 
+address: chehuilian@cau.edu.cn.
+
+Conformational epitopes are associated with the development of food allergic 
+tolerance and the severity of food allergy. Peanut can trigger severe 
+anaphylactic reactions, however, the reason behind the severe allergic reactions 
+caused by peanut remains unexplained. The purpose of this article was to provide 
+an explanation for the severe allergy caused by peanut, focusing on the 
+conformational epitopes of Ara h 5 and Ara h 8 allergens that exhibit 
+cross-reactivity with asthma reactions. Ara h 5 and Ara h 8 proteins were 
+prepared by an Escherichia coli expression system. IgE reactivity of 37 patients 
+with allergy toward Ara h 5 and Ara h 8 allergens was assessed by using 
+IgE-binding assays, dot blot and western blot. The allergenicity of Ara h 5 and 
+Ara h 8 protein was analysed in mouse model. Conformational IgE epitopes of Ara 
+h 5 was identified using phage peptide library and the Pepitope Server. Compared 
+to Ara h 8, the conformational epitope of Ara h 5 protein was crucial in the 
+process of sensitization. Ara h 5 showed a stronger IgE reactivity and the 
+ability to induce β-hexosaminidase release. Ara h 5 caused more severe lung 
+inflammation than Ara h 8 protein. While Ara h 8 caused more severe intestinal 
+inflammation than Ara h 5. The results showed that the conformational epitope 
+sequences of Ara h 5 were WETIYSR and FHWWYLK. The results provide a theoretical 
+basis for the production of hypoallergenic peanut protein and the immunotherapy 
+of peanut allergy.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.molimm.2024.10.004
+PMID: 39549640 [Indexed for MEDLINE]
+
+
+6. Allergol Immunopathol (Madr). 2024 Nov 1;52(6):85-90. doi: 
+10.15586/aei.v52i6.1173. eCollection 2024.
+
+Exploring food-specific IgG responses in pediatric allergic disorders: A 
+retrospective cross-sectional study.
+
+Atwah AF(1), Koshak EA(2).
+
+Author information:
+(1)Department of Pediatrics, Faculty of Medicine, King Abdulaziz University, 
+Rabigh, Saudi Arabia; latwah@kau.edu.sa.
+(2)Department of Internal Medicine, Faculty of Medicine. King Abdulaziz 
+University, Jeddah, Saudi Arabia.
+
+BACKGROUND: The role of immunoglobulin G (IgG) responses to food as potential 
+triggering factors in allergic disorders continues to be debatable, and is not 
+endorsed by most allergy societies.
+OBJECTIVE: To explore the prevalence of specific IgG immune responses to common 
+foods in pediatric allergic disorders and any potential relationship between 
+them.
+METHODS: A retrospective study was conducted on children and adolescents 
+diagnosed with allergic disorders at the Ekthar Clinic in Jeddah City. 
+Food-specific IgG (FS-IgG) antibody test results were collected from their 
+medical records.
+RESULTS: Seventy-five children with a mean age of 8.5 years (SD = 5.3) were 
+included. The overall allergic diagnosis determined atopic dermatitis as the 
+most common (57.3%, 43 participants), followed by food allergy and allergic 
+rhinitis (each 40%, 30 participants), and bronchial asthma (29.3%, 22 
+participants). Food-specific IgG levels were elevated in all participants. The 
+foods with the highest levels of FS-IgG were dairy products (88%: cow's milk 
+[86.6%], sour milk [81.3%], sheep's milk [74.7%], cheese [72%], and goat's milk 
+[70.7%]), followed by gluten-containing products (81.3%: wheat [70.7%], gluten 
+[69.3%], and spelt [66.6%]), and eggs (66.6%). Significant correlations (P < 
+0.05) were found between atopic dermatitis and several foods; chronic urticaria 
+and chicken and lamb; asthma and ocean perch; allergic rhinitis and rennet 
+cheese; and allergic conjunctivitis and potato, pollock, and lamb.
+CONCLUSION: Among pediatric allergic disorders, dairy, gluten, and eggs were the 
+most detected foods in FS-IgG tests, with some notable correlations with other 
+foods. FS-IgG testing may help identify potential triggers in refractory 
+allergic disorders.
+
+DOI: 10.15586/aei.v52i6.1173
+PMID: 39515801 [Indexed for MEDLINE]
+
+
+7. Allergy. 2024 Dec;79(12):3238-3268. doi: 10.1111/all.16343. Epub 2024 Oct 17.
+
+Epithelial barrier dysfunction and associated diseases in companion animals: 
+Differences and similarities between humans and animals and research needs.
+
+Ardicli S(1)(2), Ardicli O(1)(3), Yazici D(1), Pat Y(1), Babayev H(1), Xiong 
+P(1)(4), Zeyneloglu C(1), Garcia-Sanchez A(1)(5), Shi LL(1)(6), Viscardi OG(1), 
+Skolnick S(1)(7), Ogulur I(1), Dhir R(7), Jutel M(8)(9), Agache I(10), Janda 
+J(11), Pali-Schöll I(12)(13), Nadeau KC(14), Akdis M(1), Akdis CA(1).
+
+Author information:
+(1)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+Davos, Switzerland.
+(2)Department of Genetics, Faculty of Veterinary Medicine, Bursa Uludag 
+University, Bursa, Türkiye.
+(3)Division of Food Processing, Milk and Dairy Products Technology Program, 
+Karacabey Vocational School, Bursa Uludag University, Bursa, Türkiye.
+(4)Department of Pediatrics, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, P. R. China.
+(5)Department of Biomedical & Diagnostic Sciences, Faculty of Medicine, 
+University of Salamanca, Salamanca, Spain.
+(6)Department of Otolaryngology-Head and Neck Surgery, Tongji Hospital, Tongji 
+Medical College, Huazhong University of Science and Technology, Wuhan, P. R. 
+China.
+(7)SEED Inc. Co., Los Angeles, California, USA.
+(8)Department of Clinical Immunology, Wrocław Medical University, Wroclaw, 
+Poland.
+(9)ALL-MED Medical Research Institute, Wrocław, Poland.
+(10)Faculty of Medicine, Department of Allergy and Clinical Immunology, 
+Transylvania University, Brasov, Romania.
+(11)Faculty of Science, Charles University, Prague, Czech Republic.
+(12)The Interuniversity Messerli Research Institute of the University of 
+Veterinary Medicine and Medical University Vienna, Vienna, Austria.
+(13)Institute of Pathophysiology and Allergy Research, Center of 
+Pathophysiology, Infectiology and Immunology, Medical University of Vienna, 
+Vienna, Austria.
+(14)Department of Environmental Health, Harvard T.H. Chan School of Public 
+Health, Boston, Massachusetts, USA.
+
+Since the 1960s, more than 350,000 new chemicals have been introduced into the 
+lives of humans and domestic animals. Many of them have become part of modern 
+life and some are affecting nature as pollutants. Yet, our comprehension of 
+their potential health risks for both humans and animals remains partial. The 
+"epithelial barrier theory" suggests that genetic predisposition and exposure to 
+diverse factors damaging the epithelial barriers contribute to the emergence of 
+allergic and autoimmune conditions. Impaired epithelial barriers, microbial 
+dysbiosis, and tissue inflammation have been observed in a high number of 
+mucosal inflammatory, autoimmune and neuropsychiatric diseases, many of which 
+showed increased prevalence in the last decades. Pets, especially cats and dogs, 
+share living spaces with humans and are exposed to household cleaners, personal 
+care products, air pollutants, and microplastics. The utilisation of cosmetic 
+products and food additives for pets is on the rise, unfortunately, accompanied 
+by less rigorous safety regulations than those governing human products. In this 
+review, we explore the implications of disruptions in epithelial barriers on the 
+well-being of companion animals, drawing comparisons with humans, and endeavour 
+to elucidate the spectrum of diseases that afflict them. In addition, future 
+research areas with the interconnectedness of human, animal, and environmental 
+well-being are highlighted in line with the "One Health" concept.
+
+© 2024 The Author(s). Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.16343
+PMCID: PMC11657079
+PMID: 39417247 [Indexed for MEDLINE]
+
+Conflict of interest statement: CAA has received research grants from the Swiss 
+National Science Foundation, European Union (EU CURE, EU Syn‐Air‐G), Novartis 
+Research Institutes, (Basel, Switzerland), Stanford University (Redwood City, 
+Calif), Seed Health (Boston, USA) and SciBase (Stockholm, Sweden); is the 
+Co‐Chair for EAACI Guidelines on Environmental Science in Allergic diseases and 
+Asthma; Chair of the EAACI Epithelial Cell Biology Working Group is on the 
+Advisory Boards of Sanofi/Regeneron (Bern, Switzerland, New York, USA), Stanford 
+University Sean Parker Asthma Allergy Center (CA, USA), Novartis (Basel, 
+Switzerland), Glaxo Smith Kline (Zurich, Switzerland), Bristol‐Myers Squibb (New 
+York, USA), Seed Health (Boston, USA) and SciBase (Stockholm, Sweden); and is 
+the Editor‐in‐Chief of Allergy. MA has received research grants from Swiss 
+National science Foundation, Bern; research grant from the Stanford University; 
+Leading House for the Latin American Region, Seed Money Grant. She is in the 
+Scientific Advisory Board member of Stanford University‐Sean Parker Asthma 
+Allergy Center, CA; Advisory Board member of LEO Foundation Skin Immunology 
+Research Center, Copenhagen; and Scientific Co‐Chair of World allergy Congress 
+(WAC) Istanbul, 2022, Scientific Programme Committee Chair, EAACI. RD is a 
+co‐founder and CEO in Seed Health. SS is currently a salaried employee of Seed 
+Health, a probiotics retailer. The rest of the authors declare that they have no 
+relevant competing interest.
+
+
+8. Allergy. 2024 Dec;79(12):3192-3237. doi: 10.1111/all.16318. Epub 2024 Oct 7.
+
+The epithelial barrier theory and its associated diseases.
+
+Sun N(1)(2), Ogulur I(1), Mitamura Y(1), Yazici D(1), Pat Y(1), Bu X(1), Li 
+M(1), Zhu X(1), Babayev H(1), Ardicli S(1)(3), Ardicli O(1)(4), D'Avino P(1), 
+Kiykim A(1)(5), Sokolowska M(1), van de Veen W(1), Weidmann L(6), Akdis D(7), 
+Ozdemir BG(8), Brüggen MC(9)(10)(11), Biedermann L(12), Straumann A(12), 
+Kreienbühl A(12), Guttman-Yassky E(13), Santos AF(14)(15)(16), Del Giacco S(17), 
+Traidl-Hoffmann C(18), Jackson DJ(19)(20), Wang DY(21), Lauerma A(22), 
+Breiteneder H(23), Zhang L(24)(25), O'Mahony L(26)(27), Pfaar O(28), O'Hehir 
+R(29)(30), Eiwegger T(31)(32)(33)(34), Fokkens WJ(35), Cabanillas B(36), Ozdemir 
+C(37)(38), Kistler W(39)(40)(41), Bayik M(42), Nadeau KC(43), Torres MJ(44), 
+Akdis M(1), Jutel M(45), Agache I(46), Akdis CA(1).
+
+Author information:
+(1)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+Davos, Switzerland.
+(2)SKL of Marine Food Processing & Safety Control, National Engineering Research 
+Center of Seafood, School of Food Science and Technology, Dalian Polytechnic 
+University, Dalian, P. R. China.
+(3)Department of Genetics, Faculty of Veterinary Medicine, Bursa Uludag 
+University, Bursa, Turkey.
+(4)Division of Food Processing, Milk and Dairy Products Technology Program, 
+Karacabey Vocational School, Bursa Uludag University, Bursa, Turkey.
+(5)Department of Pediatrics, Division of Pediatric Allergy and Immunology, 
+Cerrahpasa School of Medicine, Istanbul University-Cerrahpasa, Istanbul, Turkey.
+(6)Department of Nephrology, University Hospital Zurich, Zurich, Switzerland.
+(7)Department of Cardiology, University Hospital Zurich, Zurich, Switzerland.
+(8)Obstetrician and Gynecologist, Nisantasi, Istanbul, Turkey.
+(9)Christine Kühne-Center for Allergy Research and Education (CK-CARE), Davos, 
+Switzerland.
+(10)Faculty of Medicine, University of Zurich, Zurich, Switzerland.
+(11)Department of Dermatology, University Hospital Zurich, Zurich, Switzerland.
+(12)Department of Gastroenterology and Hepatology, University Hospital Zurich, 
+Zurich, Switzerland.
+(13)Department of Dermatology, and Laboratory of Inflammatory Skin Diseases, 
+Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+(14)Department of Women and Children's Health (Pediatric Allergy), School of 
+Life Course Sciences, Faculty of Life Sciences and Medicine, King's College 
+London, London, UK.
+(15)Children's Allergy Service, Evelina London Children's Hospital, Guy's and 
+St. Thomas' Hospital, London, UK.
+(16)Peter Gorer Department of Immunobiology, School of Immunology and Microbial 
+Sciences, King's College London, London, UK.
+(17)Department of Medical Sciences and Public Health, University of Cagliari, 
+Cagliari, Italy.
+(18)Environmental Medicine, Faculty of Medicine, University of Augsburg, 
+Augsburg, Germany.
+(19)Guy's Severe Asthma Centre, Guy's Hospital, Guy's & St Thomas' NHS Trust, 
+London, UK.
+(20)School of Immunology & Microbial Sciences, King's College London, London, 
+UK.
+(21)Department of Otolaryngology, Infectious Diseases Translational Research 
+Programme, Yong Loo Lin School of Medicine, National University of Singapore, 
+National University Health System, Singapore City, Singapore.
+(22)Department of Dermatology, Helsinki University Hospital and University of 
+Helsinki, Helsinki, Finland.
+(23)Department of Pathophysiology and Allergy Research, Medical University of 
+Vienna, Vienna, Austria.
+(24)Department of Otolaryngology Head and Neck Surgery, Beijing Tongren 
+Hospital, Capital Medical University, Beijing, China.
+(25)Beijing Laboratory of Allergic Diseases and Beijing Key Laboratory of Nasal 
+Diseases, Beijing Institute of Otolaryngology, Beijing, China.
+(26)Department of Medicine and School of Microbiology, University College Cork, 
+Cork, Ireland.
+(27)APC Microbiome Ireland, Cork, Ireland.
+(28)Department of Otorhinolaryngology, Head and Neck Surgery, Section of 
+Rhinology and Allergy, University Hospital Marburg, Philipps-Universität 
+Marburg, Marburg, Germany.
+(29)Allergy, Asthma & Clinical Immunology, The Alfred Hospital, Melbourne, 
+Victoria, Australia.
+(30)Department of Immunology, School of Translational Medicine, Monash 
+University, Melbourne, Victoria, Australia.
+(31)Translational Medicine Program, Research Institute, Hospital for Sick 
+Children, Toronto, Ontario, Canada.
+(32)Department of Immunology, Temerty Faculty of Medicine, University of 
+Toronto, Toronto, Ontario, Canada.
+(33)Karl Landsteiner University of Health Sciences, Krems an der Donau, Austria.
+(34)Department of Pediatric and Adolescent Medicine, University Hospital St. 
+Pölten, St. Pölten, Austria.
+(35)Department of Otorhinolaryngology & Head and Neck Surgery, Amsterdam UMC, 
+University of Amsterdam, Amsterdam, The Netherlands.
+(36)Department of Allergy, Instituto de Investigación Biosanitaria Hospital 12 
+de Octubre (imas12), Madrid, Spain.
+(37)Department of Pediatric Basic Sciences, Institute of Child Health, Istanbul 
+University, Istanbul, Turkey.
+(38)Istanbul Faculty of Medicine, Department of Pediatrics, Division of 
+Pediatric Allergy and Immunology, Istanbul University, Istanbul, Turkey.
+(39)Department of Sports Medicine, Davos Hospital, Davos, Switzerland.
+(40)Swiss Research Institute for Sports Medicine (SRISM), Davos, Switzerland.
+(41)Medical Committee International Ice Hockey Federation (IIHF), Zurich, 
+Switzerland.
+(42)Department of Internal Medicine and Hematology, Marmara University, 
+Istanbul, Turkey.
+(43)Department of Environmental Health, Harvard T.H. Chan School of Public 
+Health, Boston, Massachusetts, USA.
+(44)Allergy Unit, IBIMA-Hospital Regional Universitario de Málaga-ARADyAL, UMA, 
+Málaga, Spain.
+(45)Department of Clinical Immunology, Wrocław Medical University, Wroclaw, 
+Poland.
+(46)Faculty of Medicine, Department of Allergy and Clinical Immunology, 
+Transylvania University, Brasov, Romania.
+
+The prevalence of many chronic noncommunicable diseases has been steadily rising 
+over the past six decades. During this time, over 350,000 new chemical 
+substances have been introduced to the lives of humans. In recent years, the 
+epithelial barrier theory came to light explaining the growing prevalence and 
+exacerbations of these diseases worldwide. It attributes their onset to a 
+functionally impaired epithelial barrier triggered by the toxicity of the 
+exposed substances, associated with microbial dysbiosis, immune system 
+activation, and inflammation. Diseases encompassed by the epithelial barrier 
+theory share common features such as an increased prevalence after the 1960s or 
+2000s that cannot (solely) be accounted for by the emergence of improved 
+diagnostic methods. Other common traits include epithelial barrier defects, 
+microbial dysbiosis with loss of commensals and colonization of opportunistic 
+pathogens, and circulating inflammatory cells and cytokines. In addition, 
+practically unrelated diseases that fulfill these criteria have started to 
+emerge as multimorbidities during the last decades. Here, we provide a 
+comprehensive overview of diseases encompassed by the epithelial barrier theory 
+and discuss evidence and similarities for their epidemiology, genetic 
+susceptibility, epithelial barrier dysfunction, microbial dysbiosis, and tissue 
+inflammation.
+
+© 2024 The Author(s). Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.16318
+PMCID: PMC11657050
+PMID: 39370939 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.S. has received research grants from the Swiss 
+National Science Foundation (SNSF no.: 310030_189334/1), GSK, Novartis, Stiftung 
+vorm. Bündner Heilstätte Arosa and OM Pharma as well as speaker's fee from 
+AstraZeneca. W.V. has received research grants from PROMEDICA Stiftung, 
+Switzerland, and EoE Stiftung, Switzerland, and consulting fees form Mabylon AG, 
+Switzerland. M.C.B. reports grants from the Swiss National Science Foundation, 
+Christine Kühne‐Center for Allergy Research and Education, Leo Foundation, LEO 
+Pharmacy, and Freenovation, advisory board fees from AstraZeneca, Almirall, LEO 
+Pharma, lecture honorarium from Almirall and AstraZeneca, and patient education 
+grant from AstraZeneca and GSK. A.S. has currently consultant contracts with 
+Astra‐Seneca, BMS‐Receptos, Calypso, EsoCap, Falk‐Pharma, GSK, and 
+Sanofi‐Regeneron. E.G.Y. is an employee of Mount Sinai and has received research 
+grants from and/or is a consultant for: Research Grants (paid to the 
+institution): Boehringer Ingelheim, Leo Pharma, Pfizer, Cara Therapeutics, UCB, 
+Kyowa Kirin, RAPT, Amgen, GSK, Incyte, Sanofi, Bristol Meyers Squibb, Aslan, 
+Regeneron, Anaptysbio, Concert, Janssen. Consultant: Abbvie, Aclaris, Almirall, 
+Amgen, AnaptysBio, Apogee Therapeutics, Apollo Therapeutics Limited, Artax 
+Biopharma Inc., AstraZeneca, Bristol Meyers Squibb, Boerhinger‐Ingelhiem, Cara 
+Therapeutics, Centrexion Therapeutics Corporation, Connect Biopharm, DBV 
+TECHNOLOGIES, Eli Lilly, Enveda Biosciences, Escient Pharmaceuticals, Inc., 
+Fairmount Funds Management LLC, Forest Laboratories Galderma, Gate Bio, Google 
+Ventures (GV), GSK Immunology, Horizon Therapeutics USA, Inc., Incyte, Inmagene, 
+Janssen Biotech, JT Central Pharmaceutical Research Institute, Jasper 
+Therapeutics, Kyowa Kirin, Leo Pharma, Merck, Nektar Therapeutics, Novartis 
+Pharmaceuticals Corporation, NUMAB Therapeutics AG, OrbiMed Advisors LLC, 
+OTSUKA, Pfizer, Pharmaxis Ltd, Pioneering Medicine VII, Inc., Proteologix US 
+Inc, RAPT, Regeneron Pharmaceuticals, RibonTherapeutics, Inc., Sanofi, SATO, 
+Schrödinger Inc., Sun Pharma Advanced Research Company (SPARC), Teva Branded 
+Pharmaceutical Products R&D, UCB. A.F.S. reports grants from the Medical 
+Research Council (MR/M008517/1; MC/PC/18052; MR/T032081/1), Food Allergy 
+Research and Education (FARE), the Immune Tolerance Network/National Institute 
+of Allergy and Infectious Diseases (NIAID, NIH), Asthma UK (AUK‐BC‐2015‐01), 
+BBSRC, Rosetrees Trust and the NIHR through the Biomedical Research Centre (BRC) 
+award to Guy's and St Thomas' NHS Foundation Trust, during the conduct of the 
+study; personal fees from Thermo Scientific, Nestle, Novartis, Allergy 
+Therapeutics, IgGenix, Buhlmann, as well as research support from IgGenix, 
+Buhlmann, and Thermo Fisher Scientific through a collaboration agreement with 
+King's College London. S.D.G. reports speaker fees from AstraZeneca, Chiesi, 
+GSK, Novartis, Sanofi, Stallergenes and Takeda; advisory board fees from 
+AstraZeneca, Chiesi, CSL‐Behring, GSK, Novartis, Sanofi, Takeda; unrestricted 
+research grants from AstraZeneca, CSL‐Behring, GSK, Novartis, and Sanofi. O.P. 
+reports grants and/or personal fees and/or travel support from ALK‐Abelló, 
+Allergopharma, Stallergenes Greer, HAL Allergy Holding B.V./HAL Allergie GmbH, 
+Bencard Allergie GmbH/Allergy Therapeutics, Laboratorios LETI/LETI Pharma, 
+GlaxoSmithKline, ROXALL Medizin, Novartis, Sanofi‐Aventis and Sanofi‐Genzyme, 
+Med Update Europe GmbH, streamedup! GmbH, Pohl‐Boskamp, Inmunotek S.L., John 
+Wiley and Sons/AS, Paul‐Martini‐Stiftung (PMS), Regeneron Pharmaceuticals Inc., 
+RG Aerztefortbildung, Institut für Disease Management, Springer GmbH, 
+AstraZeneca, IQVIA Commercial, Ingress Health, Wort&Bild Verlag, Verlag ME, 
+Procter&Gamble, ALTAMIRA, Meinhardt Congress GmbH, Deutsche 
+Forschungsgemeinschaft, Thieme, Deutsche AllergieLiga e.V., AeDA, Alfried‐Krupp 
+Krankenhaus, Red Maple Trials Inc., Königlich Dänisches Generalkonsulat, 
+Medizinische Hochschule Hannover, ECM Expro&Conference Management, Technical 
+University Dresden, Lilly, Japanese Society of Allergy, Forum für Medizinische 
+Fortbildung, Dustri‐Verlag, Pneumolive, ASIT Biotech, LOFARMA, Almirall, 
+Paul‐Ehrlich‐Institut, outside the submitted work, and he is member of EAACI 
+Excom, member of ext. board of directors DGAKI; coordinator, main‐ or co‐author 
+of different position papers and guidelines in rhinology, allergology and 
+allergen‐immunotherapy; he is associate editor (AE) of Allergy and Clinical 
+Translational Allergy. T.E. reports personal fees from Danone/Nutricia/Milupa, 
+grants from DBV, non‐financial support from Novartis, personal fees from Thermo 
+Fisher, personal fees from Aimmune, grants and personal fees from ALK, 
+non‐financial support from MADX, personal fees from EFSA, outside the submitted 
+work, and I am the Co‐I or scientific lead in three investigator‐initiated oral 
+immunotherapy trials supported by the Food Allergy and Anaphylaxis Program 
+Sickkids and serve as associate editor for Allergy. Site PI of company sponsored 
+trials by DBV, Novartis, and Stallergen. C.O. is Assistant Editor of Allergy, 
+EAACI Allied Health & Primary Care Section chair. K.N. currently reports grants 
+from National Institute of Allergy and Infectious Diseases (NIAID), National 
+Heart, Lung, and Blood Institute (NHLBI), National Institute of Environmental 
+Health Sciences (NIEHS); Stock options from IgGenix, Seed Health, ClostraBio, 
+Cour, Alladapt; Consultant for Excellergy, Red tree ventures, Regeneron, and 
+IgGenix; Co‐founder of Alladapt, Latitude, and IgGenix; National Scientific 
+Committee member at Immune Tolerance Network (ITN), and National Institutes of 
+Health (NIH) clinical research centers; patents include, “Mixed allergen 
+com‐position and methods for using the same,” “Granulocyte‐based methods for 
+detecting and monitoring immune system disorders,” and “Methods and Assays for 
+Detecting and Quantifying Pure Subpopulations of White Blood Cells in Immune 
+System Disorders.” M.A. has received research grants from the Swiss National 
+Science Foundation, Bern; research grant from the Stanford University; Leading 
+House for the Latin American Region, Seed Money Grant. She is in the Scientific 
+Advisory Board member of Stanford University Sean Parker Asthma Allergy Center, 
+CA; Advisory Board member of LEO Foundation Skin Immunology Research Center, 
+Copenhagen; and Scientific Co‐Chair of World Allergy Congress (WAC) Istanbul, 
+2022, Scientific Programme Committee Chair, EAACI. M.J. reports personal fees 
+outside of submitted work from Allergopharma, ALK‐Abello, Stallergenes, Anergis, 
+Allergy Therapeutics, Leti, HAL, GSK, Novartis, Teva, Takeda, Chiesi, Pfizer, 
+Regeneron, Astra‐Zeneka, Lallemand, Shire, Celltrion Inc., Genentech, Roche, 
+Verona, Lek Pharmaceuticals, Arcutis Biotherapeutics and FAES FARMA. I.A. 
+reports Deputy Editor of Allergy journal. C.A.A. has received research grants 
+from the Swiss National Science Foundation, European Union (EU CURE, EU 
+Syn‐Air‐G), Novartis Research Institutes (Basel, Switzerland), Stanford 
+University (Redwood City, Calif), Seed Health (Boston, USA) and SciBase 
+(Stockholm, Sweden); is the Co‐Chair for EAACI Guidelines on Environmental 
+Science in Allergic diseases and Asthma; Chair of the EAACI Epithelial Cell 
+Biology Working Group is on the Advisory Boards of Sanofi/Regeneron (Bern, 
+Switzerland, New York, USA), Stanford University Sean Parker Asthma Allergy 
+Center (CA, USA), Novartis (Basel, Switzerland), Glaxo Smith Kline (Zurich, 
+Switzerland), Bristol‐Myers Squibb (New York, USA), Seed Health (Boston, USA), 
+and SciBase (Stockholm, Sweden); and is the Editor‐in‐Chief of Allergy. N.S., 
+I.O., Y.M., D.Y., Y.P., X.B., M.L., X.Z., H.B., S.A., O.A., P.D., A.K., L.W., 
+D.A., B.G.O. L.B., A.K., C.T.H., D.J.J., D.Y.W., A.L., H.B., L.Z., L.O.M., 
+R.O.H., W.J.F., B.C., K.W., M.B., and M.J.T declare no relevant conflict of 
+interest. N.S. reports grants from CSC scholarship program of China (No. 
+202008210164). D.A. reports grants and personal fees, outside the submitted 
+work, from the Swiss National Science Foundation, the Swiss Heart Foundation and 
+Boehringer Ingelheim. L.B. reports advisory from Abbvie, Amgen, BMS, Falk, 
+Janssen, Pfizer, Lilly, Takeda, Sanofi, Esocap, and speaker fees from Takeda, 
+Sanofi, Abbvie, Lilly, Falk, BMS and Pfizer. D.J.J. has received speaker fees 
+and consultancy fees from AZ, GSK and Sanofi. L.O.M. is a consultant to 
+PrecisionBiotics and has received research funding from GSK, Chiesi, Reckitt and 
+Fonterra. He has participated in speaker's bureau for Nestle, Nutricia, Reckitt 
+and Abbott.
+
+
+9. Anim Biotechnol. 2024 Nov;35(1):2396421. doi: 10.1080/10495398.2024.2396421. 
+Epub 2024 Sep 2.
+
+The impact of genetic variants related to the fatty acid metabolic process 
+pathway on milk production traits in Jersey cows.
+
+Ardicli S(1)(2), Senturk N(1), Bozkurt B(3), Babayev H(2), Selvi T(4), Skolnick 
+S(2)(5), Ter H(6), Aktas B(6), Isık A(6), Ay OT(7), Ardicli O(2)(8), Cobanoglu 
+O(1).
+
+Author information:
+(1)Department of Genetics, Faculty of Veterinary Medicine, Bursa Uludag 
+University, Bursa, Turkiye.
+(2)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+Davos, Switzerland.
+(3)Department of Biotechnology and Bioengineering, Graduate School of Science 
+and Engineering, Izmir Institute of Technology, Izmir, Turkiye.
+(4)Department of Animal Science, Faculty of Veterinary Medicine, Bursa Uludag 
+University, Bursa, Turkiye.
+(5)SEED Inc. Co, Los Angeles, CA, USA.
+(6)Department of Molecular Biology and Genetics, Faculty of Science and Arts, 
+Bursa Uludag University, Bursa, Turkiye.
+(7)Department of Molecular Biology and Genetics, Faculty of Science, Izmir 
+Institute of Technology, İzmir, Turkiye.
+(8)Division of Food Processing, Milk and Dairy Products Technology Program, 
+Karacabey Vocational School, Bursa Uludag University, Bursa, Turkiye.
+
+The synthesis of fatty acids plays a critical role in shaping milk production 
+characteristics in dairy cattle. Thus, identifying effective haplotypes within 
+the fatty acid metabolism pathway will provide novel and robust insights into 
+the genetics of dairy cattle. This study aimed to comprehensively examine the 
+individual and combined impacts of fundamental genes within the fatty acid 
+metabolic process pathway in Jersey cows. A comprehensive phenotypic dataset was 
+compiled, considering milk production traits, to summarize a cow's productivity 
+across three lactations. Genotyping was conducted through PCR-RFLP and Sanger 
+sequencing, while the association between genotype and phenotype was quantified 
+using linear mixed models. Moderate biodiversity and abundant variation suitable 
+for haplotype analysis were observed across all examined markers. The individual 
+effects of the FABP3, LTF and ANXA9 genes significantly influenced both milk 
+yield and milk fat production. Additionally, this study reveals novel two-way 
+interactions between genes in the fatty acid metabolism pathway that directly 
+affect milk fat properties. Notably, we identified that the GGAAGG haplotype in 
+FABP3×LTF×ANXA9 interaction may be a robust genetic marker concerning both milk 
+fat yield and percentage. Consequently, the genotype combinations highlighted in 
+this study serve as novel and efficient markers for assessing the fat content in 
+cow's milk.
+
+DOI: 10.1080/10495398.2024.2396421
+PMID: 39222128 [Indexed for MEDLINE]
+
+
+10. J Food Allergy. 2020 Sep 1;2(1):3-6. doi: 10.2500/jfa.2020.2.200022.
+eCollection  2020 Sep.
+
+Classification of adverse food reactions.
+
+Cox AL(1), Sicherer SH(1).
+
+Author information:
+(1)From the Department of Pediatrics, Jaffe Food Allergy Institute, Icahn School 
+of Medicine at Mount Sinai, New York, New York.
+
+Foods can induce adverse reactions by a variety of mechanisms. An understanding 
+of the characteristic signs and symptoms and the related mechanisms of adverse 
+food reactions allows the clinician to efficiently diagnose and treat patients. 
+Adverse reactions to foods can be classified based on whether there is a 
+nonimmunologic or immunologic basis for symptoms. Food intolerance, or a 
+nonimmunologic reaction, includes a range of responses to foods that result 
+primarily from an individual's intrinsic inability to metabolize a component of 
+the food, e.g., lactose sugar in dairy products. Other nonimmunologic adverse 
+reactions may be attributed to food toxins or pharmacologic properties 
+pharmacologic properties of foods themselves. Immunologic adverse reactions, in 
+contrast, involve immune responses to food and are termed food allergy. Food 
+allergy may further be categorized based on the underlying immunopathophysiology 
+as immunoglobulin E (IgE) mediated, non-IgE mediated, or cell mediated. Some 
+chronic allergic responses involve a combination of immune mechanisms. This 
+review provides a general classification system for adverse food reactions and 
+describes specificconditions.
+
+Copyright © 2020, The Author(s). Published by OceanSide Publications, Inc., 
+U.S.A.
+
+DOI: 10.2500/jfa.2020.2.200022
+PMCID: PMC11250527
+PMID: 39022138
+
+Conflict of interest statement: S.H. Sicherer reports royalty payments from 
+UpToDate and from Johns Hopkins University Press; grants to his institution from 
+the National Institute of Allergy and Infectious Diseases, from Food Allergy 
+Research and Education, and from HAL Allergy; and personal fees from the 
+American Academy of Allergy, Asthma and Immunology as Deputy Editor of the 
+Journal of Allergy and Clinical Immunology: In Practice, outside of the 
+submitted work. A.L. Cox has no conflicts of interest to declare pertaining to 
+this article

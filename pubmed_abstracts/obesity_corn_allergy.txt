@@ -1,0 +1,396 @@
+1. Public Health Nutr. 2025 Mar 26;28(1):e92. doi: 10.1017/S1368980025000370.
+
+Disproportionately higher asthma risk and incidence with high fructose corn 
+syrup, but not sucrose intake, among Black young adults: the CARDIA Study.
+
+DeChristopher LR(1), Tucker KL(2).
+
+Author information:
+(1)Independent Researcher, Hopewell Life Sciences, M.Sc. Biochemistry, Molecular 
+Biology.
+(2)Department of Biomedical and Nutritional Sciences, University of 
+Massachusetts Lowell, Lowell, MA, USA.
+
+OBJECTIVE: There have been unsafe levels of unpaired fructose in the high 
+fructose corn syrup (HFCS) in US beverages, and research/case study evidence 
+shows that their intake is associated with greater asthma 
+prevalence/risk/incidence, a debilitating disease, likely due to fructose 
+malabsorption, gut fructosylation and gut dysbiosis mechanisms. The 
+'unexplained' asthma epidemic has disproportionately affected children and Black 
+individuals, groups with higher fructose malabsorption prevalence than others, 
+and research to assess disproportionately higher asthma risk/incidence among 
+Black individuals in association with HFCS-sweetened beverage intake is lacking.
+DESIGN: Demographic, lifestyle and dietary data collected at enrollment 
+(1985-86), and incident asthma through exam 5 (1995-96), were used in Cox 
+proportional hazards models to assess HFCS intake associations (hazard ratios) 
+with asthma risk/incidence.
+SETTING: CARDIA study participants from Birmingham, AL, Chicago, IL, 
+Minneapolis, MN and Oakland, CA.
+PARTICIPANTS: 1998 Black and 2104 White young adults.
+RESULTS: HFCS-sweetened beverage intake > once/week was significantly associated 
+with higher asthma risk relative to ≤ once/week (P-trend = 0·04), among Black 
+participants only; risk was 2·8 times higher among 2-4 times/week consumers (HR 
+= 2·8, 95 % CI 1·1, 7·3, P = 0·04) and 3·5 times higher when consumed multiple 
+times/d, independent of sucrose intake/obesity/dietary quality/smoking/in-home 
+smoke-exposure (HR = 3·5, 95 % CI 1·3, 9·9, P = 0·02). Intake of orange juice, 
+with nominal unpaired fructose, was not associated with asthma in either group, 
+nor was intake of sucrose, a disaccharide (paired) of fructose/glucose.
+CONCLUSIONS: Ubiquitous HFCS in the US food supply, with HFCS that contains 
+high/unsafe unpaired fructose, also known as excess-free-fructose, and the 
+fructose/gut/lung/axis are overlooked risk factors in the 'unexplained' US 
+asthma epidemic that disproportionately affects Black individuals.
+
+DOI: 10.1017/S1368980025000370
+PMID: 40135583 [Indexed for MEDLINE]
+
+
+2. EBioMedicine. 2022 Mar;77:103909. doi: 10.1016/j.ebiom.2022.103909. Epub 2022 
+Mar 2.
+
+Modification of subcutaneous white adipose tissue inflammation by omega-3 fatty 
+acids is limited in human obesity-a double blind, randomised clinical trial.
+
+Fisk HL(1), Childs CE(2), Miles EA(2), Ayres R(2), Noakes PS(3), Paras-Chavez 
+C(2), Kuda O(4), Kopecký J(4), Antoun E(2), Lillycrop KA(5), Calder PC(6).
+
+Author information:
+(1)School of Human Development and Health, Faculty of Medicine, Southampton 
+General Hospital, University of Southampton, IDS Building, MP887, Tremona Road, 
+Southampton SO16 6YD, United Kingdom. Electronic address: h.fisk@soton.ac.uk.
+(2)School of Human Development and Health, Faculty of Medicine, Southampton 
+General Hospital, University of Southampton, IDS Building, MP887, Tremona Road, 
+Southampton SO16 6YD, United Kingdom.
+(3)School of Human Development and Health, Faculty of Medicine, Southampton 
+General Hospital, University of Southampton, IDS Building, MP887, Tremona Road, 
+Southampton SO16 6YD, United Kingdom; Medical School, University of Notre Dame 
+Australia, Fremantle, Australia.
+(4)Institute of Physiology, Czech Academy of Sciences, Prague, Czech Republic.
+(5)School of Human Development and Health, Faculty of Medicine, Southampton 
+General Hospital, University of Southampton, IDS Building, MP887, Tremona Road, 
+Southampton SO16 6YD, United Kingdom; School of Biological Sciences, Faculty of 
+Environmental and Life Sciences, University of Southampton, Southampton, United 
+Kingdom.
+(6)School of Human Development and Health, Faculty of Medicine, Southampton 
+General Hospital, University of Southampton, IDS Building, MP887, Tremona Road, 
+Southampton SO16 6YD, United Kingdom; NIHR Southampton Biomedical Research 
+Centre, University Hospital Southampton NHS Foundation Trust and University of 
+Southampton, Southampton, United Kingdom.
+
+BACKGROUND: Obesity is associated with enhanced inflammation. However, 
+investigation in human subcutaneous white adipose tissue (scWAT) is limited and 
+the mechanisms by which inflammation occurs have not been well elucidated. 
+Marine long chain omega-3 polyunsaturated fatty acids (LC n-3 PUFAs) have 
+anti-inflammatory actions and may reduce scWAT inflammation.
+METHODS: Subcutaneous white adipose tissue (scWAT) biopsies were collected from 
+individuals living with obesity (n=45) and normal weight individuals (n=39) 
+prior to and following a 12-week intervention with either 3 g/day of a fish oil 
+concentrate (providing 1.1 g eicosapentaenoic acid (EPA) + 0.8 g docosahexaenoic 
+acid (DHA)) or 3 g/day of corn oil. ScWAT fatty acid, oxylipin, and 
+transcriptome profiles were assessed by gas chromatography, ultra-pure liquid 
+chromatography tandem mass spectrometry, RNA sequencing and qRT-PCR, 
+respectively.
+FINDINGS: Obesity was associated with greater scWAT inflammation demonstrated by 
+lower concentrations of specialised pro-resolving mediators (SPMs) and 
+hydroxy-DHA metabolites and an altered transcriptome with differential 
+expression of genes involved in LC n-3 PUFA activation, oxylipin synthesis, 
+inflammation, and immune response. Intervention with LC n-3 PUFAs increased 
+their respective metabolites including the SPM precursor 14-hydroxy-DHA in 
+normal weight individuals and decreased arachidonic acid derived metabolites and 
+expression of genes involved in immune and inflammatory response with a greater 
+effect in normal weight individuals.
+INTERPRETATION: Downregulated expression of genes responsible for fatty acid 
+activation and metabolism may contribute to an inflammatory oxylipin profile and 
+limit the effects of LC n-3 PUFAs in obesity. There may be a need for 
+personalised LC n-3 PUFA supplementation based on obesity status.
+FUNDING: European Commission Seventh Framework Programme (Grant Number 244995) 
+and Czech Academy of Sciences (Lumina quaeruntur LQ200111901).
+
+Copyright © 2022 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2022.103909
+PMCID: PMC8894262
+PMID: 35247847 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests P.C. Calder undertakes 
+unpaid voluntary work as the current President of the Federation of European 
+Nutrition Societies (FENS) and as Past President of ILSI Europe. P.C Calder 
+received funding from the European Commission Seventh Framework Programme (Grant 
+Number 244995). O. Kuda received funding from the Czech Academy of Sciences 
+(Lumina quaeruntur LQ200111901). K.A. Lillycrop holds a contract with Benevolent 
+AI Ltd. E.A. Miles received payment from Abbott Nutrition to present at The 
+British Society for Allergy & Clinical Immunology (BSACI) conference in 2019. 
+There are no other declarations of interests.
+
+
+3. Iran J Vet Res. 2019 Spring;20(2):120-125.
+
+Changes in broiler breeder hen's immunity by zinc oxide and phytase.
+
+Sharideh H(1), Zhandi M(2), Zaghari M(2), Akhlaghi A(3), Hussaini SMH(1), 
+Yousefi AR(4).
+
+Author information:
+(1)Ph.D. Student in Animal Physiology, Department of Animal Science, College of 
+Agriculture and Natural Resources, University of Tehran, Karaj, Iran.
+(2)Department of Animal Science, College of Agriculture and Natural Resources, 
+University of Tehran, Karaj, Iran.
+(3)Department of Animal Science, College of Agriculture, Shiraz University, 
+Shiraz, Iran.
+(4)Department of Research, Breeding and Production of Laboratory Animals, Razi 
+Vaccine and Serum Research Institute, Agricultural Research, Education and 
+Extension Organization (AREEO), Karaj, Iran.
+
+BACKGROUND: The immune response of aged broiler breeder hens is influenced by 
+many factors including obesity and aged lymphatic organs, but may improve by 
+increasing the bioavailability of various nutrients such as zinc (Zn). Dietary 
+supplementation of phytase can improve Zn availability in senescent broiler 
+breeder hens.
+AIMS: The aim of this study was to investigate the effect of supplementary zinc 
+oxide (ZnO) and phytase in a maize-soybean meal-based diet on immune responses 
+of broiler breeder hens.
+METHODS: In a 2 × 4 factorial arrangement, a total of 128 hens were randomly 
+assigned into eight groups. The birds received two levels of phytase (0 or 300 
+U/kg diet) and four levels of ZnO (30, 60, 90, and 120 mg/kg diet) for 13 
+successive wk (59-72 wk of age).
+RESULTS: Results showed that phytase supplementation significantly increased 
+immunoglobulin M (IgM), cutaneous basophil hypersensitivity (CBH) responses, 
+total number of leukocytes, percentage of lymphocytes, and heterophil to 
+lymphocyte ratios. The percentage of basophils and monocytes, however, decreased 
+with phytase supplementation. Supplementation of ZnO increased anti-sheep red 
+blood cells (SRBC) antibody titer, IgM, CBH responses, the total number of 
+leukocytes, and the percentage of lymphocytes. Dietary supplementation of ZnO 
+decreased the percentage of heterophil, and heterophil to lymphocyte ratio. A 
+significant interaction effect of phytase and ZnO was found on the total number 
+of leukocytes and percentage of lymphocytes.
+CONCLUSION: Dietary supplementation of ZnO (90 mg/kg diet) and phytase had some 
+positive effects on improving immune responses in broiler breeder hens.
+
+PMCID: PMC6716284
+PMID: 31531034
+
+
+4. J Altern Complement Med. 2019 Feb;25(2):241-248. doi: 10.1089/acm.2018.0310. 
+Epub 2018 Sep 28.
+
+Impact of Food Immunoglobulin G-Based Elimination Diet on Subsequent Food 
+Immunoglobulin G and Quality of Life in Overweight/Obese Adults.
+
+Neuendorf R(1), Corn J(1), Hanes D(1), Bradley R(1)(2)(3).
+
+Author information:
+(1)1 Helfgott Research Institute, National University of Natural Medicine, 
+Portland, OR.
+(2)2 Department of Family Medicine and Public Health, Division of Preventive 
+Medicine, University of California, San Diego, La Jolla, CA.
+(3)3 Australian Research Center on Complementary and Integrative Medicine 
+(ARCCIM) International Naturopathy Research Leadership Program, University of 
+Technology, Sydney, Ultimo, Australia.
+
+OBJECTIVES: The goal of this study was to assess changes in serum immunoglobulin 
+G (IgG) food antibody titers and quality-of-life measurements following a 
+targeted elimination diet in overweight/obese adults.
+METHODS: We performed a randomized control trial. Participants were randomized 
+in a 2:1 ratio to either an intervention group or waitlist group for 3 months. 
+Food IgG testing was performed on all participants. The intervention group was 
+instructed to eliminate up to 10 foods, for which they had high titers of IgG 
+and communicated with health coaches for nutritional counseling for meal 
+planning and adherence. The waitlist group did not receive their IgG testing 
+results or health coaching. Primary outcome was serum IgG titers for foods 
+eliminated during the trial, compared with baseline concentrations. Secondary 
+outcomes were health-related quality of life measured by Patient-Reported 
+Outcomes Measurement Information System (PROMIS-29) and change in 
+participant-identified symptom severity measured by Measure Yourself Medical 
+Outcome Profile. Exploratory outcomes were changes in body weight and waist 
+circumference.
+RESULTS: IgG antibody concentrations decreased in 83% of the targeted foods in 
+the treatment group and in 60% of the foods in the waitlist group, but this was 
+not found to be a statistically significant difference. The intervention group 
+reported improvement in sleep during the trial compared with waitlist, which was 
+the only statistically significant finding in the study.
+CONCLUSIONS: The findings are consistent with changes in IgG titer measurements 
+following an elimination diet based on IgG testing. Future larger clinical 
+trials are necessary to determine the degree to which these findings are 
+generalizable.
+
+DOI: 10.1089/acm.2018.0310
+PMID: 30265560 [Indexed for MEDLINE]
+
+
+5. Br J Nutr. 2018 May;119(10):1157-1167. doi: 10.1017/S0007114518000417. Epub
+2018  Mar 28.
+
+Excess free fructose, high-fructose corn syrup and adult asthma: the Framingham 
+Offspring Cohort.
+
+DeChristopher LR(1), Tucker KL(2).
+
+Author information:
+(1)1Independent Researcher,Eugene, OR 97405,USA.
+(2)2Department of Biomedical and Nutritional Sciences,University of 
+Massachusetts Lowell,Lowell,MA 01854,USA.
+
+There is growing evidence that intakes of high-fructose corn syrup (HFCS), 
+HFCS-sweetened soda, fruit drinks and apple juice - a high-fructose 100 % juice 
+- are associated with asthma, possibly because of the high fructose:glucose 
+ratios and underlying fructose malabsorption, which may contribute to enteral 
+formation of pro-inflammatory advanced glycation end products, which bind 
+receptors that are mediators of asthma. Cox proportional hazards models were 
+used to assess associations between intakes of these beverages and asthma risk, 
+with data from the Framingham Offspring Cohort. Diet soda and orange juice - a 
+100 % juice with a 1:1 fructose:glucose ratio - were included for comparison. 
+Increasing intake of any combination of HFCS-sweetened soda, fruit drinks and 
+apple juice was significantly associated with progressively higher asthma risk, 
+plateauing at 5-7 times/week v. never/seldom, independent of potential 
+confounders (hazard ratio 1·91, P<0·001). About once a day consumers of 
+HFCS-sweetened soda had a 49 % higher risk (P<0·011), moderate apple juice 
+consumers (2-4 times/week) had a 61 % higher risk (P<0·007) and moderate fruit 
+drink consumers had a 58 % higher risk (P<0·009), as compared with never/seldom 
+consumers. There were no associations with diet soda/orange juice. These 
+associations are possibly because of the high fructose:glucose ratios, and 
+fructose malabsorption. Recommendations to reduce consumption may be inadequate 
+to address asthma risk, as associations are evident even with moderate intake of 
+these beverages, including apple juice - a 100 % juice. The juice reductions in 
+the US Special Supplemental Nutrition Program for Women, Infants, and Children 
+in 2009, and the plateauing/decreasing asthma prevalence (2010-2013), 
+particularly among non-Hispanic black children, may be related. Further research 
+regarding the consequences of fructose malabsorption is needed.
+
+DOI: 10.1017/S0007114518000417
+PMID: 29587887 [Indexed for MEDLINE]
+
+
+6. Nutr Metab (Lond). 2015 Aug 7;12:28. doi: 10.1186/s12986-015-0022-5.
+eCollection  2015.
+
+Cardio-metabolic and immunological impacts of extra virgin olive oil consumption 
+in overweight and obese older adults: a randomized controlled trial.
+
+Rozati M(1), Barnett J(2), Wu D(2), Handelman G(3), Saltzman E(2), Wilson T(3), 
+Li L(2), Wang J(2), Marcos A(4), Ordovás JM(2), Lee YC(2), Meydani M(2), Meydani 
+SN(2).
+
+Author information:
+(1)Jean Mayer USDA Human Nutrition Research Center on Aging at Tufts University, 
+711 Washington Street, Boston, MA 02111 USA ; Department of Health and Clinical 
+Sciences, University of Massachusetts, Lowell 3 Solomont Way, Suite 4, Lowell, 
+MA 01854 USA.
+(2)Jean Mayer USDA Human Nutrition Research Center on Aging at Tufts University, 
+711 Washington Street, Boston, MA 02111 USA.
+(3)Department of Health and Clinical Sciences, University of Massachusetts, 
+Lowell 3 Solomont Way, Suite 4, Lowell, MA 01854 USA.
+(4)Institute of Food Science and Technology and Nutrition (ICTAN), Scientific 
+National Research Council (CSIC), Madrid, Spain.
+
+BACKGROUND: Both aging and obesity are related to dysregulated immune function, 
+which may be responsible for increased risk of infection and also chronic 
+non-infectious diseases. Dietary lipids have been shown to impact immune and 
+inflammatory responses and cardio-metabolic risk factors. No information on the 
+impact of olive oil on immune responses of overweight and obese older adults is 
+available.
+OBJECTIVE: We aimed to determine the effect of replacing oils used in a typical 
+American diet with extra virgin olive oil for 3 months on immune responses and 
+cardio-metabolic risk factors in overweight and obese older adults.
+METHODS: This was a randomized, single-blinded and placebo-controlled trial in 
+41 overweight or obese participants (aged ≥ 65) who consumed a typical American 
+diet. Participants in the control (CON, n = 21) group were provided with a 
+mixture of corn, soybean oil and butter, and those in the olive oil (OO, n = 20) 
+group, with extra virgin olive oil, to replace substitutable oils in their diet. 
+At baseline and 3 months, we measured blood pressure, biochemical and 
+immunological parameters using fasting blood, and delayed-type hypersensitivity 
+(DTH) skin response.
+RESULTS: Compared to the CON group, the OO group showed decreased systolic blood 
+pressure (P < 0.05), a strong trend toward increased plasma HDL-C concentrations 
+(P = 0.06), and increased anti-CD3/anti-CD28 -stimulated T cell proliferation 
+(P < 0.05). No differences were found in T cell phenotype, cytokine production, 
+and DTH response between the two groups.
+CONCLUSIONS: Our results indicate that substitution of oils used in a typical 
+American diet with extra virgin olive oil in overweight and obese older adults 
+may have cardio-metabolic and immunological health benefits. This trial was 
+registered at clinicaltrials.gov as NCT01903304.
+
+DOI: 10.1186/s12986-015-0022-5
+PMCID: PMC4527272
+PMID: 26251666
+
+
+7. Front Plant Sci. 2014 Sep 8;5:440. doi: 10.3389/fpls.2014.00440. eCollection 
+2014.
+
+Flavone-rich maize: an opportunity to improve the nutritional value of an 
+important commodity crop.
+
+Casas MI(1), Duarte S(2), Doseff AI(2), Grotewold E(3).
+
+Author information:
+(1)Center for Applied Plant Sciences, The Ohio State University Columbus, OH, 
+USA ; Molecular Cellular and Developmental Biology Graduate Program, The Ohio 
+State University Columbus, OH, USA ; Department of Molecular Genetics, The Ohio 
+State University Columbus, OH, USA.
+(2)Department of Molecular Genetics, The Ohio State University Columbus, OH, USA 
+; Division of Pulmonary, Allergy, Critical Care, and Sleep, Department of 
+Internal Medicine, Heart and Lung Research Institute, The Ohio State University 
+Columbus, OH, USA.
+(3)Center for Applied Plant Sciences, The Ohio State University Columbus, OH, 
+USA ; Department of Molecular Genetics, The Ohio State University Columbus, OH, 
+USA.
+
+Agricultural outputs have resulted in food production continuously expanding. To 
+satisfy the needs of a fast growing human population, higher yields, more 
+efficient food processing, and food esthetic value, new crop varieties with 
+higher caloric intake have and continue to be developed, but which lack many 
+phytochemicals important for plant protection and adequate human nutrition. The 
+increasing incidence of chronic diseases such as obesity, diabetes and 
+cardiovascular diseases, combined with social disparity worldwide prompted the 
+interest in developing enhanced crops that can simultaneously address the two 
+sides of the current malnutrition sword, increasing yield while providing added 
+nutritional value. Flavones, phytochemicals associated with the beneficial 
+effects of the Mediterranean diet, have potent anti-inflammatory and 
+anti-carcinogenic activities. However, many Mediterranean diet-associated 
+vegetables are inaccessible, or lowly consumed, in many parts of the world. 
+Maize is the most widely grown cereal crop, yet most lines used for hybrid maize 
+production lack flavones. As a first step toward a sustainable strategy to 
+increasing the nutritional value of maize-based diets, we investigated the 
+accumulation and chemical properties of flavones in maize seeds of defined 
+genotypes. We show that the pericarps of the P1-rr genotype accumulate flavones 
+at levels comparable to those present in some flavone-rich vegetables, and are 
+mostly present in their C- and O-glycosylated forms. Some of these glycosides 
+can be readily converted into the corresponding more active health beneficial 
+aglycones during food processing. Our results provide evidence that 
+nutritionally beneficial flavones could be re-introduced into elite lines to 
+increase the dietary benefits of maize.
+
+DOI: 10.3389/fpls.2014.00440
+PMCID: PMC4157551
+PMID: 25250036
+
+
+8. Rev Invest Clin. 2005 May-Jun;57(3):457-72.
+
+[Molecular mechanisms of action and health benefits of polyunsaturated fatty 
+acids].
+
+[Article in Spanish]
+
+Rodríguez-Cruz M(1), Tovar AR, del Prado M, Torres N.
+
+Author information:
+(1)Uniddad de Investigación Médica en Nutrición, Centro Médico Nacional Siglo 
+XXI, IMSS.
+
+Essential polyunsaturated fatty acids (PUFAs), linoleic acid n6 (LA) and 
+linolenic acid (ALA) n3 obtained from the diet are precursors of the long-chain 
+polyunsaturated fatty acids (Lc-PUFAs) arachidonic acid (AA) and docosahexaenoic 
+acid (DHA) respectively. Consumption of PUFAs is related with a better 
+neurological and cognitive development in newborns. It has been demonstrated 
+that consumption of n-6 and n-3 PUFAs decreases blood triglycerides by 
+increasing fatty acid oxidation through activation of PPARalpha or by reducing 
+the activation of SREBP-1 inhibiting lipogenesis. Dietary PUFAs activate 
+PPARalpha and PPARgamma increasing lipid oxidation, and decreasing insulin 
+resistance leading in a reduction of hepatic steatosis. Beneficial effects of 
+PUFAs have been observed in humans and in animals models of diabetes, obesity, 
+cancer, and cardiovascular diseases. It is important to promote the consumption 
+of PUFAs. Main food sources of PUFAs n-6 are corn, soy and safflower oil, and 
+for PUFAs n-3 are fish, soy, canola oil and, flaxseed. Finally FAO/WHO 
+recommends an optimal daily intake of n6/n3 of 5-10:1.
+
+PMID: 16187707 [Indexed for MEDLINE]

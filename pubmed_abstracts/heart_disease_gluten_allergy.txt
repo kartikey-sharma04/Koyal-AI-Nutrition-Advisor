@@ -1,0 +1,425 @@
+1. Clin Gastroenterol Hepatol. 2025 May 19:S1542-3565(25)00318-0. doi: 
+10.1016/j.cgh.2025.02.015. Online ahead of print.
+
+Clinical Practice Updates: AGA Clinical Practice Update on GI Manifestations and 
+Autonomic or Immune Dysfunction in Hypermobile Ehlers-Danlos Syndrome: Expert 
+Review.
+
+Aziz Q(1), Harris LA(2), Goodman BP(3), Simrén M(4), Shin A(5).
+
+Author information:
+(1)Blizard Institute, Wingate Institute of Neurogastroenterology, Centre for 
+Neuroscience, Surgery and Trauma, Barts and the London School of Medicine and 
+Dentistry, Queen Mary University, London, United Kingdom.
+(2)Division of Gastroenterology and Hepatology, Mayo Clinic, Scottsdale, 
+Arizona. Electronic address: harris.lucinda@mayo.edu.
+(3)Department of Neurology, Mayo Clinic, Scottsdale, Arizona.
+(4)Department of Molecular and Clinical Medicine, Institute of Medicine, 
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(5)Vatche and Tamar Manoukian Division of Digestive Diseases, University of 
+California, Los Angeles, Los Angeles, California.
+
+DESCRIPTION: The purpose of this Clinical Practice Update Expert Review is to 
+describe key principles in the evaluation and management of patients with 
+disorders of gut-brain interaction (DGBI) and hypermobile Ehlers-Danlos syndrome 
+(hEDS) or hypermobility spectrum disorders (HSDs) with coexisting postural 
+orthostatic tachycardia syndrome (POTS) and/or mast cell activation syndrome 
+(MCAS).
+METHODS: This expert review/commentary was commissioned and approved by the 
+American Gastroenterological Association (AGA) Institute Clinical Practice 
+Updates Committee and the AGA Governing Board to provide timely guidance on a 
+topic of high clinical importance to the AGA membership, and underwent internal 
+peer review by the Clinical Practice Updates Committee and external peer review 
+through standard procedures of Clinical Gastroenterology and Hepatology. These 
+Best Practice Advice statements were drawn from a review of the published 
+literature and from expert opinion. Because systematic reviews were not 
+performed, these Best Practice Advice statements do not carry formal ratings 
+regarding the quality of evidence or strength of the presented considerations. 
+BEST PRACTICE ADVICE 1: Clinicians should be aware of the observed associations 
+between hEDS or HSDs and POTS and/or MCAS and their overlapping gastrointestinal 
+(GI) manifestations; while theoretical explanations exist, experimental evidence 
+of the biological mechanisms that explain relationships is limited and evolving. 
+BEST PRACTICE ADVICE 2: Testing for POTS/MCAS should be targeted to patients 
+presenting with clinical manifestations of POTS/MCAS, but universal testing for 
+POTS/MCAS in all patients with hEDS/HSDs is not supported by the current 
+evidence. BEST PRACTICE ADVICE 3: Gastroenterologists seeing patients with DGBI 
+should inquire about joint hypermobility and strongly consider incorporating the 
+Beighton score for assessing joint hypermobility into their practice as a 
+screening tool; if the screen is positive, gastroenterologists may consider 
+applying 2017 diagnostic criteria to diagnose hEDS 
+(https://www.ehlers-danlos.com/wp-content/uploads/2017/05/hEDS-Dx-Criteria-checklist-1.pdf) 
+or offer appropriate referral to a specialist where resources are available. 
+BEST PRACTICE ADVICE 4: Testing for POTS through postural vital signs (eg, 
+symptomatic increase in heart rate of 30 beats/min or more with 10 minutes of 
+standing during an active stand or head-up tilt table test in the absence of 
+orthostasis) and referral to specialty practices (eg, cardiology or neurology) 
+for autonomic testing should be considered in patients with hEDS/HSDs and 
+refractory GI symptoms who also report orthostatic intolerance after exclusion 
+of medication side effects and appropriate lifestyle or behavioral modifications 
+(eg, adequate hydration and physical exercise) have been attempted but is not 
+required for all patients with hEDS/HSDs who report GI symptoms alone. BEST 
+PRACTICE ADVICE 5: In patients presenting to gastroenterology providers, testing 
+for mast cell disorders including MCAS should be considered in patients with 
+hEDS/HSDs and DGBI who also present with episodic symptoms that suggest a more 
+generalized mast cell disorder (eg, visceral and somatic pain, pruritus, 
+flushing, sweating, urticaria, angioedema, wheezing, tachycardia, abdominal 
+cramping, vomiting, nausea, diarrhea, urogynecological and neurological 
+complaints) involving 2 or more physiological systems (eg, cutaneous, GI, 
+cardiac, respiratory, and neuropsychiatric), but current data do not support the 
+use of these tests for routine evaluation of GI symptoms in all patients with 
+hEDS/HSDs without clinical or laboratory evidence of a primary or secondary mast 
+cell disorder. BEST PRACTICE ADVICE 6: If MCAS is suspected, diagnostic testing 
+with serum tryptase levels collected at baseline and 1-4 hours following symptom 
+flares may be considered by the gastroenterologist; increases of 20% above 
+baseline plus 2 ng/mL are necessary to demonstrate evidence of mast cell 
+activation. BEST PRACTICE ADVICE 7: If a diagnosis of MCAS is supported through 
+clinical and/or laboratory features, patients should be referred to an allergy 
+specialist or mast cell disease research center where additional testing (eg, 
+urinary N-methylhistamine, leukotriene E4, 11β-prostaglandin F2) may be 
+performed. BEST PRACTICE ADVICE 8: Diagnostic evaluation of GI symptoms 
+consistent with DGBI in patients with hEDS/HSDs and comorbid POTS and/or MCAS 
+should follow a similar approach to the evaluation of DGBI as in the general 
+population including the use of a positive symptom-based diagnostic strategy and 
+limited noninvasive testing. BEST PRACTICE ADVICE 9: Testing for celiac disease 
+may be considered earlier in the diagnostic evaluation of patients with 
+hEDS/HSDs who report a variety of GI symptoms and not only limited to those with 
+diarrhea. There is insufficient research to support routine testing for 
+disaccharidase deficiencies or other diet-mediated mechanisms as causes of GI 
+symptoms in hEDS/HSDs. BEST PRACTICE ADVICE 10: Diagnostic testing for 
+functional defecation disorders with anorectal manometry, balloon expulsion 
+test, or defecography should be considered in patients with hEDS/HSDs and lower 
+GI symptoms such as incomplete evacuation given the high prevalence of pelvic 
+floor dysfunction, especially rectal hyposensitivity, in this population. BEST 
+PRACTICE ADVICE 11: In patients with hEDS/HSDs and comorbid POTS who report 
+chronic upper GI symptoms, timely diagnostic testing of gastric motor functions 
+(eg, measurement of gastric emptying and/or accommodation) should be considered 
+after appropriate exclusion of anatomical and structural diseases, as abnormal 
+gastric emptying may be more common than in the general population. BEST 
+PRACTICE ADVICE 12: Medical management of GI symptoms in hEDS/HSDs and POTS/MCAS 
+should focus on treating the most prominent GI symptoms and abnormal GI function 
+test results. In addition to general DGBIs and GI motility disorder treatment, 
+management should also include treating any symptoms attributable to POTS and/or 
+MCAS. BEST PRACTICE ADVICE 13: Treatment of POTS may include increasing fluid 
+and salt intake, exercise training, and use of compression garments. Special 
+pharmacological treatments for volume expansion, heart rate control, and 
+vasoconstriction with integrated care from multiple specialties (eg, cardiology, 
+neurology) should be considered in patients who do not respond to conservative 
+lifestyle measures. BEST PRACTICE ADVICE 14: When MCAS is suspected, patients 
+can benefit from treatment with histamine receptor antagonists and/or mast cell 
+stabilizers, in addition to avoiding triggers such as certain foods, alcohol, 
+strong smells, temperature changes, mechanical stimuli (eg, friction), emotional 
+distress (eg, pollen, mold), or specific medications (eg, opioids, nonsteroidal 
+anti-inflammatory agents, iodinated contrast). BEST PRACTICE ADVICE 15: Besides 
+general nutritional support, special diets including a gastroparesis diet (ie, 
+small particle diet) and various elimination diets (eg, low fermentable 
+carbohydrates, gluten- or dairy-free, low-histamine diets) can be considered for 
+improving GI symptoms. Dietary interventions should be delivered with 
+appropriate nutritional counseling or guidance to avoid the pitfalls of 
+restrictive eating. BEST PRACTICE ADVICE 16: Management of chronic GI symptoms 
+in patients with hEDS/HSDs who do not exhibit symptoms consistent with POTS or 
+MCAS should align with existing approaches to management of DGBI and GI motility 
+disorders in the general population, including integrated multidisciplinary care 
+involving multiple specialties, where appropriate (eg, cardiology, rheumatology, 
+dietician, psychology).
+
+Copyright © 2025. Published by Elsevier Inc.
+
+DOI: 10.1016/j.cgh.2025.02.015
+PMID: 40387691
+
+
+2. Acta Paediatr. 2023 Jul;112(7):1485-1492. doi: 10.1111/apa.16763. Epub 2023
+Mar  28.
+
+Infants were introduced to complementary feeding earlier in 2018 compared with 
+2003.
+
+Strömberg Celind F(1)(2), Goksör E(1), Carlén E(1), Schilling B(1), Alm B(1), 
+Wennergren G(1).
+
+Author information:
+(1)Department of Paediatrics, University of Gothenburg, Queen Silvia Children's 
+Hospital, Gothenburg, Sweden.
+(2)Region Västra Götaland, Research and Development Primary Health Care and 
+Mölndal Pediatric Clinic, Gothenburg, Sweden.
+
+AIM: Until 2001, the Swedish advice was to postpone the introduction of eggs, 
+fish and peanuts until the age of 1 year. One reason was to reduce the risk of 
+food allergy. The earlier introduction of complementary feeding is now advised. 
+Our aim was to study adherence to current recommendations and whether the time 
+of introduction changed between 2003 and 2018.
+METHODS: Data were obtained from two prospective, longitudinal, population-based 
+cohort studies of children born in 2003 (n = 4987) and in 2018 (n = 3936). 
+Parents answered comparable questionnaires when the children were 6 and 
+12 months old.
+RESULTS: At 6 months, in the 2018 cohort, eggs were introduced to 67.2% of the 
+infants, fish to 78.9%, gluten to 89.1%, cow's milk to 76.6% and peanuts to 
+46.2%. In adjusted Cox regression analyses, introduction of complementary 
+feeding with gluten, fish and eggs was made significantly earlier in the 2018 
+cohort compared with the 2003 cohort, adjusted for heredity, own allergic 
+disease and parental educational level (p < 0.01).
+CONCLUSION: Complementary feeding with eggs, fish and gluten was introduced 
+earlier in infants born in 2018 compared with 2003, possibly reducing the risk 
+of developing allergic disease. Current recommendations from child welfare 
+centres are being followed.
+
+© 2023 The Authors. Acta Paediatrica published by John Wiley & Sons Ltd on 
+behalf of Foundation Acta Paediatrica.
+
+DOI: 10.1111/apa.16763
+PMID: 36938913 [Indexed for MEDLINE]
+
+
+3. Gastroenterol Hepatol Bed Bench. 2021 Fall;14(4):362-366.
+
+Non-celiac gluten sensitivity as a rare cause of growth retardation in children: 
+a case series study.
+
+Saneifard H(1), Sheikhy A(2), Karbasian F(3), Eslamian G(4), Shakiba M(1), 
+Babaie D(4).
+
+Author information:
+(1)Department of Pediatric Endocrinology and Metabolism, Mofid Children 
+Hospital, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+(2)Research Department, Tehran Heart Center, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(3)Department of Pediatric Emergency, Mofid Children Hospital, Shahid Beheshti 
+University of Medical Sciences, Tehran, Iran.
+(4)Department of Allergy and Clinical Immunology, Mofid Children Hospital, 
+Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+
+AIM: Herein, we present five children and adolescents with a final diagnosis of 
+non-celiac gluten sensitivity (NCGS).
+BACKGROUND: Non-celiac gluten sensitivity (NCGS) is a condition characterized by 
+gastrointestinal and extra-intestinal symptoms triggered by ingestion of 
+gluten-containing compounds, e.g., wheat, rye, and barley, in subjects without 
+celiac disease or wheat allergy.
+METHODS: Demographic characteristics, clinical manifestations, serum biomarkers 
+and skin prick test were evaluated. Patient data was also recorded after they 
+followed a gluten-free diet (GFD). Height and weight were measured, and all 
+patients were examined 6 months after following the suggested GFD.
+RESULTS: All patients had failure to thrive and abdominal pain. Clinical 
+symptoms were reduced, and significant weight and height gains were detected 
+after 1 month of following a gluten-free diet.
+CONCLUSION: The relationship between failure to thrive (FTT) and NCGS is still 
+unknown; hence, NCGS may be one of the main causes of FTT which can be prevented 
+by gluten-free diets.
+
+©2021 RIGLD, Research Institute for Gastroenterology and Liver Diseases.
+
+PMCID: PMC8514215
+PMID: 34659665
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+4. Gut Liver. 2016 Sep 15;10(5):842-50. doi: 10.5009/gnl15484.
+
+Sensitization to and Challenge with Gliadin Induce Pancreatitis and 
+Extrapancreatic Inflammation in HLA-DQ8 Mice: An Animal Model of Type 1 
+Autoimmune Pancreatitis.
+
+Moon SH(1), Kim J(2), Kim MY(3), Park do H(4), Song TJ(4), Kim SA(2), Lee SS(4), 
+Seo DW(4), Lee SK(4), Kim MH(4).
+
+Author information:
+(1)Department of Internal Medicine, Hallym University Sacred Heart Hospital, 
+Hallym University College of Medicine, Anyang, Korea.
+(2)Department of Pathology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Korea.
+(3)Department of Internal Medicine, CHA Bundang Medical Center, CHA University, 
+Seongnam, Korea.
+(4)Department of Internal Medicine, Asan Medical Center, University of Ulsan 
+College of Medicine, Seoul, Korea.
+
+BACKGROUND/AIMS: The aim of this study was to establish a pathogenetic mechanism 
+of pancreatitis in celiac disease and IgG4-related disease using 
+gluten-sensitive human leukocyte antigen (HLA)-DQ8 transgenic mice.
+METHODS: Transgenic mice expressing HLA-DQ8 genes were utilized. Control mice 
+were not sensitized but were fed gliadin-free rice cereal. Experimental groups 
+consisted of gliadin-sensitized and gliadin-challenged mice; nonsensitized mice 
+with cerulein hyperstimulation; and gliadin-sensitized and gliadinchallenged 
+mice with cerulein hyperstimulation.
+RESULTS: Gliadin-sensitized and gliadin-challenged mice with cerulein 
+hyperstimulation showed significant inflammatory cell infiltrates, fibrosis and 
+acinar atrophy compared with the control mice and the other experimental groups. 
+The immunohistochemical analysis showed greater IgG1-positive plasma cells in 
+the inflammatory infiltrates of gliadin-sensitized and gliadin-challenged mice 
+with cerulein hyperstimulation compared with the control mice and the other 
+experimental groups. Gliadin-sensitized and gliadin-challenged mice with 
+cerulein hyperstimulation or gliadin-sensitized and gliadinchallenged mice 
+showed IgG1-stained inflammatory cell infiltrates in the extrapancreatic organs, 
+including the bile ducts, salivary glands, kidneys, and lungs.
+CONCLUSIONS: Gliadinsensitization and cerulein hyperstimulation of 
+gluten-sensitive HLA-DQ8 transgenic mice resulted in pancreatitis and 
+extrapancreatic inflammation. This animal model suggests that chronic gliadin 
+ingestion in a susceptible individual with the HLA-DQ8 molecule may be 
+associated with pancreatitis and extrapancreatic inflammation.
+
+DOI: 10.5009/gnl15484
+PMCID: PMC5003210
+PMID: 27114422 [Indexed for MEDLINE]
+
+
+5. United European Gastroenterol J. 2014 Aug;2(4):254-62. doi: 
+10.1177/2050640614535929.
+
+Wheat-related disorders: A broad spectrum of 'evolving' diseases.
+
+Gasbarrini G(1), Mangiola F(2).
+
+Author information:
+(1)Fondazione Ricerca in Medicina ONLUS, Bologna, Italy.
+(2)Department of Internal Medicine, Gastroenterology Division, Catholic 
+University of Sacred Heart, Policlinico "A. Gemelli" Hospital, Roma, Italy.
+
+Throughout the world, cereals have always been recognized as a fundamental food. 
+Human evolution, through the development of cooking, led to the production of 
+food rich in gluten, in order to take full advantage of the nutritional 
+properties of this food. The result has been that gluten intolerance has arisen 
+only in those populations that developed the art of cooking wheat. It is also 
+recognized that wheat, one of the central elements of the Mediterranean diet, 
+cannot be tolerated in some individuals. Among the wheat-related pathologies, 
+coeliac disease is the best known: it is a chronic inflammatory condition 
+affecting the gastrointestinal tract, which develops in genetically predisposed 
+individuals. The most common manifestation is the malabsorption of nutrients. 
+Recently, another wheat-related disease has appeared: non-coeliac gluten 
+sensitivity, defined as the onset of a variety of manifestations related to 
+wheat, rye and barley ingestion, in patients in whom coeliac disease and wheat 
+allergy have been excluded. In this paper we will explore the damaging power of 
+wheat, analysing the harmful process by which it realizes the onset of clinical 
+manifestations associated with wheat-related disorders.
+
+DOI: 10.1177/2050640614535929
+PMCID: PMC4114114
+PMID: 25083282
+
+
+6. J Med Food. 2014 Nov;17(11):1159-64. doi: 10.1089/jmf.2014.0025. Epub 2014 Jul
+ 29.
+
+Functional and metabolic disorders in celiac disease: new implications for 
+nutritional treatment.
+
+Farnetti S(1), Zocco MA, Garcovich M, Gasbarrini A, Capristo E.
+
+Author information:
+(1)Department of Internal Medicine, Catholic University of the Sacred Heart , 
+Rome, Italy .
+
+Celiac disease (CD) is a chronic disease causing the inflammation of the 
+proximal small intestine, in genetically predisposed individuals. This is 
+triggered by the consumption of the gluten protein and the side effects of the 
+disease are mitigated by a lifelong gluten-free diet (GFD) treatment. The 
+predominant consequence of CD is malnutrition due to malabsorption (with 
+diarrhea, weight loss, nutritional deficiencies, and altered blood parameters), 
+especially in patients who do not show strict adherence to GFD treatment. Recent 
+evidence shows that, despite a lifelong GFD, some functional disorders persist, 
+such as compromised gallbladder function and motility, exocrine pancreatic 
+insufficiency, increased gut permeability, small-intestinal bowel overgrowth, 
+nonalcoholic fatty liver disease (NAFLD), lactose intolerance, and milk allergy. 
+These abnormalities may predispose to the occurrence of overweight and obesity 
+even in CD patients. This review focuses on the principal functional and 
+metabolic disorders in both treated and untreated CD, ranging from alterations 
+of the gastrointestinal system to impaired glucose and lipid metabolism and 
+insulin secretion with the aim of providing new implications beyond a GFD, for 
+an ad hoc nutrition treatment in these patients.
+
+DOI: 10.1089/jmf.2014.0025
+PMID: 25072743 [Indexed for MEDLINE]
+
+
+7. Clin Exp Allergy. 1997 Oct;27(10):1120-9.
+
+Identification of the major water/salt insoluble wheat proteins involved in 
+cereal hypersensitivity.
+
+Sandiford CP(1), Tatham AS, Fido R, Welch JA, Jones MG, Tee RD, Shewry PR, 
+Newman Taylor AJ.
+
+Author information:
+(1)Department of Occupational and Environmental Medicine, Imperial College 
+School of Medicine at the National Heart and Lung Institute, London, UK.
+
+Comment in
+    Clin Exp Allergy. 1997 Oct;27(10):1111-3.
+
+BACKGROUND: Several studies have investigated water/salt soluble proteins which 
+comprise 50% of the proteins in wheat. The remaining 50% of wheat proteins, are 
+water/salt insoluble proteins of which there is limited information on their 
+role in cereal hypersensitivity.
+OBJECTIVES: To investigate the allergenicity of the water/salt insoluble gliadin 
+and glutenin proteins (prolamins).
+METHODS: RAST, electrophoresis and Western blotting were used to identify 
+water/salt insoluble wheat allergens. Competitive RAST inhibition was conducted 
+to investigate cross-reactivity between prolamins and water/salt soluble wheat 
+proteins.
+RESULTS: Specific IgE to alpha-gliadin and to total glutenins were detected in 
+all sera. IgE to beta-, gamma-, fast omega-, and slow omega-gliadin were present 
+in lower numbers of sera. Prolamin allergens of 90-11 kDa were identified by 
+immunoblotting. Water/salt soluble proteins crossreacted with alpha-gliadin and 
+total glutenins.
+CONCLUSIONS: Individuals who are hypersensitive to water/salt soluble wheat 
+proteins produce specific IgE to water/salt insoluble wheat proteins. Western 
+blotting has shown that gliadins, glutenins and proteins with similar molecular 
+weights as the endogenous water/salt soluble wheat enzyme inhibitors are 
+important allergens. Alpha and fast omega- are the most allergenic gliadins. The 
+water/salt insoluble proteins share cross-reacting epitopes with water/salt 
+soluble proteins. These data show that the numbers of proteins involved in the 
+development of cereal hypersensitivity is greater than previously believed and 
+that the development of specific IgE to alpha-gliadin may in part depend on the 
+presence of cross-reacting antibodies to water/salt soluble flour allergens.
+
+PMID: 9383251 [Indexed for MEDLINE]
+
+
+8. Nutr Health. 1984;3(1-2):91-111. doi: 10.1177/026010608400300208.
+
+Down's syndrome: nutritional intervention.
+
+Reading CM.
+
+Down's Syndrome patients are known to be of short stature, prone to infections, 
+autoimmune disease, hypothyroidism, leukaemia, heart defects and later 
+Alzheimer's disease. They tend to have older mothers, like Alzheimer's disease 
+patients. The latter tend to have sibs with either Down's Syndrome or 
+lymphoma/leukaemia. Evidence, looking at 28 Down's Syndrome patients, suggests 
+that multiple food allergies, gluten-gliadin sensitivity or intolerance are 
+causing a coeliac disease-like picture with a malabsorption state for essential 
+vitamins, minerals and severe autoimmune disease. It is hoped that missed 
+gluten-gliadin sensitivity or intolerance with or without coeliac disease will 
+be considered as a cause of abnormal oogenesis and spermatogenesis resulting in 
+trisomy 21 and other aneuploidies. The mechanism most likely is low B1 
+interfering with sufficient release of cAMP for normal meiosis. Alternatively 
+exorphins and peptides from foods may suppress prostaglandin E1 synthesis, or 
+food sensitivities may alter toxic metal absorption mechanisms, which are 
+thought to play a role in the development of Alzheimer's disease. Adequate 
+vitamin/mineral supplementation, especially B1, prior to conception and in the 
+first trimester is recommended for mothers at risk for DS, especially older 
+mothers and a gluten free diet for those with coeliac disease or gluten-gliadin 
+sensitivity/intolerance. Hopefully this will prevent conception of a DS child, 
+or prevent heart defects/stigmata if one is conceived. DS children should be 
+investigated for the above and commence a food allergy free diet with relevant 
+supplements to meet their needs as early as maximum development.
+
+DOI: 10.1177/026010608400300208
+PMID: 6242480 [Indexed for MEDLINE]
+
+
+9. Lancet. 1976 Jul 17;2(7977):125-6. doi: 10.1016/s0140-6736(76)92848-8.
+
+Dietary antibodies and myocardial infarction.
+
+Scott BB, Swinburne ML, McGuffin P, Losowsky MS.
+
+Serum milk, egg, and gluten antibody titres were measured in ninety men with 
+acute myocardial infarction and compared with those of thirty-six age-matched 
+male controls. None of the antibody titres was higher in the patients with 
+myocardial infarction, nor was there a significant correlation between antibody 
+titres and the Norris prognostic index or death before hospital discharge. The 
+results do not support the suggestion that immunological mechanisms are involved 
+in the pathogenesis of coronary heart-disease and atherosclerosis.
+
+DOI: 10.1016/s0140-6736(76)92848-8
+PMID: 59187 [Indexed for MEDLINE]

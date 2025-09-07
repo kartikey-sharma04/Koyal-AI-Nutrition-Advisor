@@ -1,0 +1,444 @@
+1. Clin Nutr. 2025 May;48:134-143. doi: 10.1016/j.clnu.2025.03.026. Epub 2025 Apr
+ 5.
+
+Long term impact of formula choice in children with cow milk protein allergy: 
+6-year follow-up of the Atopic March Cohort Study.
+
+Nocerino R(1), Bedogni G(2), Carucci L(3), Aquilone G(4), Oglio F(3), Coppola 
+S(3), Masino A(3), Berni Canani R(5).
+
+Author information:
+(1)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy; ImmunoNutritionLab at CEINGE Advanced Biotechnologies, 
+University of Naples "Federico II", Naples, Italy; Department of Biomedicine and 
+Prevention, University of Rome "Tor Vergata", Rome, Italy. Electronic address: 
+rita.nocerino@unina.it.
+(2)Department of Medical and Surgical Sciences, Alma Mater Studiorum-University 
+of Bologna, Bologna, Italy; Department of Primary Health Care, Internal Medicine 
+Unit addressed to Frailty and Aging, "S. Maria delle Croci" Hospital, AUSL 
+Romagna, Ravenna, Italy.
+(3)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy; ImmunoNutritionLab at CEINGE Advanced Biotechnologies, 
+University of Naples "Federico II", Naples, Italy.
+(4)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy.
+(5)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy; ImmunoNutritionLab at CEINGE Advanced Biotechnologies, 
+University of Naples "Federico II", Naples, Italy; European Laboratory for the 
+Investigation of Food-Induced Diseases, University of Naples "Federico II", 
+Naples, Italy; Task Force for Microbiome Studies, University of Naples "Federico 
+II", Naples, Italy.
+
+BACKGROUND AND AIMS: Cow's milk protein allergy (CMPA) is a significant health 
+issue in the pediatric age, carrying lifelong health implications. To compare 
+the impact of different formulas on the occurrence of other atopic 
+manifestations (AMs), autoimmune disorders (ADs) and the time of immune 
+tolerance acquisition in a population of children with immunoglobulin E 
+(IgE)-mediated cow CMPA.
+METHODS: In a 72-month prospective cohort study the occurrence of other AMs 
+(i.e., eczema, urticaria, asthma, and rhinoconjunctivitis), ADs (i.e., celiac 
+disease, thyroiditis, type 1 diabetes, inflammatory bowel diseases, idiopathic 
+juvenile arthritis) and the time of immune tolerance acquisition were 
+comparatively evaluated in IgE-mediated CMPA children treated with different 
+formulas: extensively hydrolyzed casein formula containing the probiotic 
+L. rhamnosus G (EHCF + LGG), rice hydrolyzed formula (RHF), soy formula (SF), 
+extensively hydrolyzed whey formula (EHWF), or amino-acid based formula (AAF).
+RESULTS: 313 subjects were evaluated: EHCF + LGG (n = 64), RHF(n = 62), 
+SF(n = 63), EHWF(n = 60) and AAF (n = 64). The incidence of AMs was: 
+0.30(Bonferroni-corrected 95%CI 0.15 to 0.44) for EHCF + LGG cohort, 0.68 
+(0.52-0.83) for RHF cohort, 0.73 (0.59-0.87) for SF cohort, 0.70 (0.55-0.85) for 
+EHWF cohort and 0.83 (0.71-0.95) for AAF cohort. The corresponding risk ratios 
+are 2.28 (1.51-3.45) for RHF vs. EHCF + LGG (p < 0.001), 2.46 (1.64-3.69) for SF 
+vs. EHCF + LGG (p < 0.001), 2.36 (1.56-3.56) for EHWF vs. EHCF + LGG 
+(p < 0.001), and 2.79 (1.88-4.13) for AAF vs. EHCF + LGG (p < 0.001). The 
+72-month immune tolerance acquisition rate was higher in the EHCF + LGG cohort. 
+The incidence of celiac disease was 2/313 (0.006, binomial exact 95%CI 0.0007 to 
+0.023). No cases of other ADs were reported.
+CONCLUSION: The dietary treatment with EHCF + LGG is associated with lower 
+incidence of AMs and higher rate of immune tolerance acquisition in children 
+with CMPA.
+
+Copyright © 2025 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.clnu.2025.03.026
+PMID: 40209535 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest Roberto Berni Canani have 
+had the following relevant financial relationships with the following 
+manufacturers: Biostime (research grant), Ch. Hansen (research grant, speaker), 
+DBV (research grant), Dr. Schar (research grant), Humana (research grant), 
+iHealth (research grant), Kraft-Heinz (research grant, speaker), Mead Johnson 
+Nutrition (research grant, speaker), Nestlè (research grant, speaker), Novalac 
+(research grant, speaker), Nutricia (research grant, speaker), Sanofi (research 
+grant, speaker) as part of publicly funded research projects with the support of 
+the Italian Ministry of Health, the Italian Ministry of the University and 
+Research, and the EU. The other authors declared that they have no conflicts of 
+interest.
+
+
+2. J Microbiol Biotechnol. 2023 Dec 28;33(12):1552-1562. doi: 
+10.4014/jmb.2308.08016. Epub 2023 Aug 28.
+
+Benefits of Soybean in the Era of Precision Medicine: A Review of Clinical 
+Evidence.
+
+Kang JH(1), Dong Z(2)(3), Shin SH(1)(4).
+
+Author information:
+(1)Department of Food and Nutrition, Gyeongsang National University, Jinju 
+52828, Republic of Korea.
+(2)Department of Pathophysiology, School of Basic Medical Sciences, Zhengzhou 
+University, Zhengzhou 450001, Henan, P.R. China.
+(3)China-US (Henan) Hormel Cancer Institute, No.127, Dongming Road, Jinshui 
+District, Zhengzhou 450008, Henan, P.R. China.
+(4)Department of Bio & Medical Bigdata (BK4 Program), Gyeongsang National 
+University, Jinju 52828, Republic of Korea.
+
+Soybean (Glycine max) is an important ingredient of cuisines worldwide. While 
+there is a wealth of evidence that soybean could be a good source of 
+macronutrients and phytochemicals with health-promoting effects, concerns 
+regarding adverse effects have been raised. In this work, we reviewed the 
+current clinical evidence focusing on the benefits and risks of soybean 
+ingredients. In breast, prostate, colorectal, ovarian, and lung cancer, 
+epidemiological studies showed an inverse association between soybean food 
+intake and cancer risks. Soybean intake was inversely correlated with risks of 
+type 2 diabetes mellitus (T2DM), and soy isoflavones ameliorated osteoporosis 
+and hot flashes. Notably, soybean was one of the dietary protein sources that 
+may reduce the risk of breast cancer and T2DM. However, soybean had adverse 
+effects on certain types of drug treatment and caused allergies. In sum, this 
+work provides useful considerations for planning clinical soybean research and 
+selecting dietary protein sources for human health.
+
+DOI: 10.4014/jmb.2308.08016
+PMCID: PMC10774093
+PMID: 37674385 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interests The authors have no 
+financial conflicts of interest to declare.
+
+
+3. Foods. 2022 Apr 19;11(9):1185. doi: 10.3390/foods11091185.
+
+Effective Use of Plant Proteins for the Development of "New" Foods.
+
+Yano H(1), Fu W(1).
+
+Author information:
+(1)Food Research Institute, National Agriculture and Food Research Organization, 
+Tsukuba 305-8642, Japan.
+
+Diversity in our diet mirrors modern society. Affluent lifestyles and extended 
+longevity have caused the prevalence of diabetes and sarcopenia, which has led 
+to the increased demand of low-carb, high-protein foods. Expansion of the global 
+population and Westernization of Asian diets have surged the number of meat 
+eaters, which has eventually disrupted the supply-demand balance of meat. In 
+contrast, some people do not eat meat for religious reasons or due to veganism. 
+With these multiple circumstances, our society has begun to resort to obtaining 
+protein from plant sources rather than animal origins. This "protein shift" 
+urges food researchers to develop high-quality foods based on plant proteins. 
+Meanwhile, patients with food allergies, especially gluten-related ones, are 
+reported to be increasing. Additionally, growing popularity of the gluten-free 
+diet demands development of foods without using ingredients of wheat origin. 
+Besides, consumers prefer "clean-label" products in which products are expected 
+to contain fewer artificial compounds. These diversified demands on foods have 
+spurred the development of "new" foods in view of food-processing technologies 
+as well as selection of the primary ingredients. In this short review, examples 
+of foodstuffs that have achieved tremendous recent progress are introduced: 
+effective use of plant protein realized low-carb, high protein, gluten-free 
+bread/pasta. Basic manufacturing principles of plant-based vegan cheese have 
+also been established. We will also discuss on the strategy of effective 
+development of new foods in view of the better communication with consumers as 
+well as efficient use of plant proteins.
+
+DOI: 10.3390/foods11091185
+PMCID: PMC9102783
+PMID: 35563905
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Matern Child Health J. 2020 Oct;24(10):1189-1192. doi: 
+10.1007/s10995-020-02970-y.
+
+Guidelines Suggesting Children Avoid Plant-Based Milks: A Closer Examination.
+
+Wright NS(1), Smith M(2).
+
+Author information:
+(1)Royal New Zealand College of General Practitioners, 50 Customhouse Quay, 
+Wellington, 6011, New Zealand. nicholas.samuel.wright@gmail.com.
+(2)Plant Based New Zealand Health Charitable Trust, Gisborne, New Zealand.
+
+Recent Healthy Drinks, Healthy Kids (HDHK) guidelines state children between 12 
+and 24 months need to be consuming 2-3 cups a day of whole fat cow's milk, and 
+less of all other beverages except water. Guidelines explicitly state 
+plant-based milks should be avoided (with the exception of soy milk). We agree 
+that in the first 12 months the optimal food for childhood growth is breast 
+milk, with formula used where needed. However, after weaning, milk of any kind 
+is not required, and should not be relied upon as a main source of calories. 
+Children will be fine with water and a healthy balanced diet. Whether cow's milk 
+should be consumed is beyond our scope here, however it is clear that 
+plant-based milks can easily be included in day-to-day use post-weaning. Used in 
+this fashion plant-based milks can be less harmful than dairy milks; at least 
+for certain groups. Although cow's milk is rich in calcium, it does not appear 
+to clearly reduce fractures, but consumption carries risks including: a 
+potential association with type 1 diabetes mellitus onset; anemia in toddlers; 
+lactose intolerance; cow's milk protein allergy; and infantile colic. Adverse 
+effects from normal consumption must be compared against risks from plant-based 
+milks, which are problematic mainly when used inappropriately in otherwise 
+unbalanced diets; e.g. with inadequate solid foods. Despite limited evidence of 
+serious harms from consumption of plant-based milks, HDHK provides vigorous 
+recommendations, especially by comparison to guidelines with more evidence to 
+support their stance (such as processed meats causing colorectal cancer).
+
+DOI: 10.1007/s10995-020-02970-y
+PMID: 32602067 [Indexed for MEDLINE]
+
+
+5. Molecules. 2020 May 1;25(9):2129. doi: 10.3390/molecules25092129.
+
+Valorisation of By-Products from Soybean (Glycine max (L.) Merr.) Processing.
+
+Colletti A(1), Attrovio A(1), Boffa L(1), Mantegna S(1), Cravotto G(1)(2).
+
+Author information:
+(1)Department of Drug Science and Technology, University of Turin, Via P. Giuria 
+9, 10125 Turin, Italy.
+(2)Sechenov First Moscow State Medical University, Centre of Bioanalytical 
+Research and Molecular design, 8 Trubetskaya ul, 119991 Moscow, Russia.
+
+In recent years, increased awareness of the health benefits associated with 
+consuming soy-based foods, knowledge of milk-related allergies and a move 
+towards more sustainable food production have led to an increase in the number 
+of available soy-based products. The biggest producers in the world, the USA, 
+South America and China, are from the Pacific region. This enormous production 
+is accompanied by the accumulation of related by-products, in particular, a 
+substance that is known as okara. Okara is a paste that is rich in fibre (50%), 
+protein (25%), fat (10%), vitamins and trace elements. Its proper use would lead 
+to economic advantages and a reduction in the potential for polluting the 
+environment. Its high fibre content and low production costs mean that it could 
+also be used as a dietary supplement to prevent diabetes, obesity and 
+hyperlipidaemia. Chemical or enzymatic treatment, fermentation, extrusion, high 
+pressure and micronisation can all increase the soluble fibre content, and thus 
+improve nutritional quality and processing properties. However, the product also 
+degrades rapidly due to its high moisture content (70-80%), which makes it 
+difficult to handle and expensive to dry by conventional means. The aim of this 
+paper is therefore to thoroughly study the existing literature on this subject 
+in order to develop a general protocol for okara exploitation and valorisation. 
+A cost/benefit analysis could drive the design of eco-friendly, sustainable 
+protocols for the preparation of high-value nutritional products.
+
+DOI: 10.3390/molecules25092129
+PMCID: PMC7248727
+PMID: 32370073 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+6. Asia Pac J Clin Nutr. 2018;27(6):1277-1285. doi: 
+10.6133/apjcn.201811_27(6).0015.
+
+Soy product and isoflavone intake associations with allergic diseases in 
+Japanese workers: rhinitis, dermatitis and asthma.
+
+Nakamoto M(1), Shuto E(2), Nakamoto A(2), Hata A(3), Aki N(3), Shikama Y(3)(4), 
+Bando Y(3), Ichihara T(5), Minagawa T(6), Tamura A(6), Kuwamura Y(7), Funaki 
+M(3), Sakai T(2).
+
+Author information:
+(1)Department of Public Health and Applied Nutrition, Institute of Biomedical 
+Sciences, the University of Tokushima Graduate School, Tokushima, Japan. 
+nakamoto@tokushima-u.ac.jp.
+(2)Department of Public Health and Applied Nutrition, Institute of Biomedical 
+Sciences, the University of Tokushima Graduate School, Tokushima, Japan.
+(3)Clinical Research Center for Diabetes, Tokushima University Hospital, 
+Tokushima, Japan.
+(4)National Center for Geriatrics and Gerontology, Research Institute, 
+Department of Oral Disease Research.
+(5)Department of Nursing, Faculty of Medicine, Kagawa University, Kagawa, Japan.
+(6)Department of Medical Treatment Recovery Care Nursing, Institute of 
+Biomedical Sciences, the University of Tokushima Graduate School, Tokushima, 
+Japan.
+(7)Department of Women's Health Nursing, Institute of Biomedical Sciences, the 
+University of Tokushima Graduate School, Tokushima, Japan.
+
+BACKGROUND AND OBJECTIVES: The aim of this study was to determine the 
+associations of intake of soy products and isoflavones with allergic diseases.
+METHODS AND STUDY DESIGN: We conducted a cross-sectional study in 1437 
+participants (aged 20-64 years) who were living in Tokushima Prefecture, Japan 
+during the period 2010- 2011. We obtained anthropometric data and information on 
+life style characteristics including dietary intake and current medical 
+histories of allergic diseases using a structural self-administered 
+questionnaire. Multiple logistic regression models were used to assess the 
+associations of soy products and isoflavones with allergic diseases after 
+controlling for age, family history of allergic diseases, smoking, drinking, 
+physical activity, energy intake, BMI and dietary factors.
+RESULTS: Intake of soy products showed significant inverse dose-response 
+relationships with allergic rhinitis. The third quartile for soy products had an 
+adjusted OR of 0.56 (95% CI: 0.35-0.91) compared to the reference group (first 
+quartile), though intake of soy products showed no dose-response relationship 
+with atopic dermatitis. Intake of soy isoflavones showed a significant inverse 
+dose-response relationship with atopic dermatitis, though the association 
+between intake of soy isoflavones and atopic dermatitis was U-shaped after 
+adjustments for potential confounders. On the other hand, the associations 
+between intake of soy isoflavones and other allergic diseases were not 
+significant.
+CONCLUSIONS: The results indicate that higher intake of soy products is 
+associated with reduced risk of allergic rhinitis in Japanese workers. 
+Furthermore, moderate intake amounts of soy products and soy isoflavones are 
+associated with inverse risk of atopic dermatitis.
+
+DOI: 10.6133/apjcn.201811_27(6).0015
+PMID: 30485927 [Indexed for MEDLINE]
+
+
+7. Recent Pat Food Nutr Agric. 2015;7(2):92-9. doi: 
+10.2174/2212798407666150629123957.
+
+Immunomodulatory Effects of Soybeans and Processed Soy Food Compounds.
+
+Tezuka H(1), Imai S.
+
+Author information:
+(1)Department of Biodefense Research, Medical Research Institute, Tokyo Medical 
+and Dental University, 1-5-45, Yushima, Bunkyo-ku, Tokyo 113-8510, Japan. 
+tezco.bre@mri.tmd.ac.jp.
+
+Inflammation is an immune response against both internal and external antigens 
+in organisms, particularly in mammals, and includes both uncontrolled chronic 
+and low-grade inflammations. Uncontrolled chronic inflammation often leads to 
+severe diseases such as vascular disease, arthritis, cancer, diabete, allergy, 
+and autoimmunity. On the other hand, low-grade inflammation is recognized as a 
+relationship between obesity and risk of metabolic syndrome. Elevated production 
+of pro-inflammatory cytokines and mediators is commonly observed in patients 
+with uncontrolled or low-grade inflammation-associated diseases. Plants have 
+been generated phytochemicals to overcome inflammations and infections through 
+evolution. Phytochemicals belong to alkaloids, polyphenols, flavonoids, 
+coumarins, and terpenoids. The consumption of soybeans plays a role in immune 
+modulation through their components such as isoflavones, saponins, and 
+anthocyanins. Recently, it was reported that the application of phytochemicals 
+into patients with inflammatory diseases improves their symptoms. Therefore, it 
+is important to identify novel phytochemicals with immunomodulatory activities. 
+This review introduces and discusses recent advances and patents regarding 
+soybean or processed soy food compounds which exhibit immunomodulatory activity 
+in immune diseases, particularly allergy, by mediating the suppression of 
+inflammatory pathways.
+
+DOI: 10.2174/2212798407666150629123957
+PMID: 26118769 [Indexed for MEDLINE]
+
+
+8. Allergol Immunopathol (Madr). 2015 Mar-Apr;43(2):157-61. doi: 
+10.1016/j.aller.2013.11.009. Epub 2014 Aug 2.
+
+Prevalence of allergic diseases and/or allergic sensitisation in children and 
+adolescents with type 1 diabetes mellitus.
+
+Villa-Nova H(1), Spinola-Castro AM(2), Garcia FE(2), Solé D(3).
+
+Author information:
+(1)Division of Allergy, Clinical Immunology and Rheumatology, Department of 
+Pediatrics, Federal University of São Paulo-Escola Paulista de Medicina 
+(UNIFESP-EPM), São Paulo, SP, Brazil.
+(2)Division of Endocrinology, Department of Pediatrics, Federal University of 
+São Paulo-Escola Paulista de Medicina (UNIFESP-EPM), São Paulo, SP, Brazil.
+(3)Division of Allergy, Clinical Immunology and Rheumatology, Department of 
+Pediatrics, Federal University of São Paulo-Escola Paulista de Medicina 
+(UNIFESP-EPM), São Paulo, SP, Brazil. Electronic address: 
+dirceu.sole@unifesp.br.
+
+BACKGROUND: The prevalence of atopic diseases in children with type 1 diabetes 
+mellitus (DM1) has been reported as lower. The aim of this study was to evaluate 
+the prevalence of allergic diseases and allergic sensitisation in Brazilian 
+children and adolescents with DM1.
+PATIENTS AND METHODS: 96 patients with DM1 (aged 4-18 years, 45 boys) followed 
+for at least one year were evaluated for allergic disease through a detailed 
+allergological anamnesis and skin prick tests (SPT) to inhalant allergens 
+(Dermatophagoides pteronyssinus, D. farinae, Blomia tropicalis, Blattella 
+germanica, Periplaneta americana, dog epithelium, cat epithelium, mix fungi), 
+foods (cow's milk, egg-white, yolk, soy, wheat, corn), and positive (histamine 1 
+mg/ml) and negative (saline) controls. Wheals with a mean diameter of induration 
+equal to or greater than 3mm identified a positive SPT.
+RESULTS: The prevalence values of rhinitis, asthma and atopic eczema (isolated 
+or associated) were 68.0%, 59.1% and 44.4%, respectively. 20.6% of the patients 
+had no allergic disease. 46.8% of the patients had been diagnosed with DM1 for 
+at least four years and there was no relationship between the period of DM1 and 
+the presence of allergic disease, nor of the gender. 48.0% patients were 
+sensitised with predominance of D. pteronyssinus, B. topicalis and D. farinae. 
+The frequency of positive SPT was significantly higher among patients with 
+history of allergic disease (OR=6.98, 95%CI: 2.60-18.74, p<0.001).
+CONCLUSION: The prevalence of allergic diseases and sensitisation in patients 
+with DM1 was higher than usually expected and deserves further investigation to 
+identify possible causes for these findings and to evaluate their importance and 
+influence on the metabolic control.
+
+Copyright © 2013 SEICAP. Published by Elsevier Espana. All rights reserved.
+
+DOI: 10.1016/j.aller.2013.11.009
+PMID: 25092354 [Indexed for MEDLINE]
+
+
+9. Explore (NY). 2013 Jul-Aug;9(4):251-4. doi: 10.1016/j.explore.2013.04.010.
+
+Yoga for back pain, cranberry for cystitis prevention, soy isoflavones for hot 
+flashes, curcumin for pre-diabetes, and breathing retraining for asthma.
+
+Glickman-Simon R(1), Lindsay T.
+
+Author information:
+(1)DynaMed, Ipswich, MA, USA.
+
+Comment on
+    Thorax. 2009 Jan;64(1):55-61. doi: 10.1136/thx.2008.100867.
+    Menopause. 2012 Jul;19(7):776-90. doi: 10.1097/gme.0b013e3182410159.
+    Complement Ther Med. 2012 Jun;20(3):107-18. doi: 10.1016/j.ctim.2011.12.009.
+    Diabetes Care. 2012 Nov;35(11):2121-7. doi: 10.2337/dc12-0116.
+    Cochrane Database Syst Rev. 2012 Oct 17;10:CD001321. doi: 
+10.1002/14651858.CD001321.pub5.
+
+DOI: 10.1016/j.explore.2013.04.010
+PMID: 23906104 [Indexed for MEDLINE]
+
+
+10. Eur J Pharmacol. 2011 Jan 15;650(2-3):694-702. doi: 
+10.1016/j.ejphar.2010.10.060. Epub 2010 Nov 2.
+
+The soy isoflavone genistein reverses oxidative and inflammatory state, 
+neuropathic pain, neurotrophic and vasculature deficits in diabetes mouse model.
+
+Valsecchi AE(1), Franchi S, Panerai AE, Rossi A, Sacerdote P, Colleoni M.
+
+Author information:
+(1)Dipartimento di Farmacologia, Chemioterapia e Tossicologia medica, Università 
+degli Studi di Milano, via Vanvitelli 32, 20129 Milano, Italy.
+
+Treatment of diabetes complications remains a substantial challenge. The aim of 
+this study was to explore the ability of the soy isoflavone genistein in 
+attenuating the signs that follow diabetes onset: nociceptive hypersensitivity, 
+oxidative and inflammatory state, nerve growth factor (NGF) decrease and 
+vascular dysfunctions. Genistein (3 and 6 mg/kg) was administered to C57BL/6J 
+streptozotocin diabetic mice from the 2nd till the 5th week after disease 
+induction. The hind paw withdrawal threshold to mechanical stimulation (tactile 
+allodynia) was evaluated by a von Frey filament. The oxidative stress was 
+assessed measuring: reactive oxygen species by fluorimetric analysis, both the 
+lipoperoxide content, as malondialdehyde, the antioxidant enzymatic activities 
+spectrophotometrically and the glutathione content spectrofluorimetrically. 
+Proinflammatory cytokines and NGF were measured in the sciatic nerve by 
+enzyme-linked immunosorbent assay. Aortic inducible (iNOS) and endothelial 
+nitric oxide synthase (eNOS) protein content was measured by western 
+immunoblotting. Genistein relieved diabetic peripheral painful neuropathy, 
+reverted the proinflammatory cytokine and reactive oxygen species 
+overproduction, and restored the NGF content in diabetic sciatic nerve. 
+Furthermore it restored the GSH content and the GSH and GSSG ratio, improved the 
+antioxidant enzymes activities, decreased reactive oxygen species and 
+lipoperoxide level in the brain and liver. Finally it restored the iNOS and eNOS 
+content and the superoxide dismutase activity in thoracic aorta. Hyperglycaemia 
+and weight decrease were not affected. Genistein is able to reverse a diabetes 
+established condition of allodynia, oxidative stress and inflammation, 
+ameliorates NGF content and the vascular dysfunction, thus suggesting its 
+possible therapeutic use for diabetes complications.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2010.10.060
+PMID: 21050844 [Indexed for MEDLINE]

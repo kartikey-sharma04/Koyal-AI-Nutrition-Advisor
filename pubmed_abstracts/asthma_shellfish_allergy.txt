@@ -1,0 +1,546 @@
+1. Front Allergy. 2025 Mar 20;6:1520576. doi: 10.3389/falgy.2025.1520576. 
+eCollection 2025.
+
+Respiratory symptoms, sensitisation and occupational exposure in the shrimp 
+processing industry.
+
+Zegeye FD(1)(2), Graff P(3), Grgic M(4), Mollerup S(1), Afanou AK(1), Bang 
+BE(4)(5), Nordby KC(6), Straumfors A(1), Erdem JS(1).
+
+Author information:
+(1)Department of Occupational Toxicology, National Institute of Occupational 
+Health, Oslo, Norway.
+(2)Faculty of Medicine, University of Oslo, Oslo, Norway.
+(3)Department of Occupational Chemistry, National Institute of Occupational 
+Health, Oslo, Norway.
+(4)Department of Occupational and Environmental Medicine, University Hospital of 
+North Norway, Tromsø, Norway.
+(5)Department of Medical Biology, Faculty of Health Sciences, UiT, The Arctic 
+University of Tromsø, Tromsø, Norway.
+(6)Department of Occupational Medicine and Epidemiology, National Institute of 
+Occupational Health, Oslo, Norway.
+
+INTRODUCTION: Shellfish processing workers are highly susceptible to respiratory 
+illnesses such as allergies and asthma. This study examined respiratory symptoms 
+and biomarkers of allergy and asthma in Norwegian shrimp processing plant 
+workers and evaluated allergenic and irritant protein exposures in the 
+workplace.
+MATERIAL AND METHODS: The study included 35 shrimp processing workers and 21 
+controls. Respiratory symptoms were assessed via questionnaire; blood samples 
+were analysed for allergy and asthma biomarkers and specific IgE levels. Air 
+samples were analysed for protein levels and composition.
+RESULTS: Shrimp processing workers had four to five times higher odds of 
+reporting acute upper and chronic lower respiratory symptoms than the controls. 
+They also had significantly higher plasma levels of IL4, CCL20, CSF2 and MMP12, 
+with 11% of the exposed workers showing elevated levels of shrimp and crab 
+specific IgE. Furthermore, exposed workers showed increased plasma levels of 
+SFTPD and CHI3L1 post-shift. The median total protein exposure was 6 µg/m3, with 
+peaks up to 66 µg/m3 in the cooking and peeling department. Total protein levels 
+were correlated with CCL20, IL13, and basophil counts. Ninety-five shrimp 
+proteins were identified, including seven known and eight potential allergens. 
+Tropomyosin levels were generally high, particularly in the cooking and peeling 
+department.
+CONCLUSION: Shrimp workers had a higher prevalence of respiratory symptoms and 
+biomarkers of allergy and asthma. The work environment contained tropomyosin and 
+other allergenic proteins as well as irritants, highlighting the need for 
+protective measures, especially in the cooking and peeling departments.
+
+© 2025 Zegeye, Graff, Grgic, Mollerup, Afanou, Bang, Nordby, Straumfors and 
+Erdem.
+
+DOI: 10.3389/falgy.2025.1520576
+PMCID: PMC11967198
+PMID: 40181810
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Front Allergy. 2025 Mar 19;6:1562667. doi: 10.3389/falgy.2025.1562667. 
+eCollection 2025.
+
+Food allergen introduction practices and parent/caregiver attitudes based on 
+family history of food allergy.
+
+Smith HG(1), Nimmagadda S(2), Gupta RS(2), Warren CM(2).
+
+Author information:
+(1)Department of Pediatrics, Lurie Children's Hospital of Chicago and 
+Northwestern McGaw Pediatrics Residency, Chicago, IL, United States.
+(2)Center for Food Allergy and Asthma Research Northwestern Feinberg School of 
+Medicine & Lurie Children's Hospital of Chicago, Chicago, IL, United States.
+
+BACKGROUND: The National Institute of Allergy and Infectious Disease (NIAID) 
+addendum guidelines for primary prevention of peanut allergy1 provide 
+recommendations regarding peanut introduction, and a recent consensus statement 
+highlighted the importance of timely introduction of other commonly allergenic 
+solids, and the role of family history as a risk factor.2ObjectiveTo determine 
+whether children in households with a food allergic parent/caregiver or sibling 
+have different rates of being fed commonly allergenic solids during the first 
+year of life than children lacking this family history.
+METHODS: A pretested survey was administered between January-February 2021 to a 
+U.S. sample of 3,062 parents/caregivers of children born since the NIAID 
+Addendum guidelines. Survey-weighted chi-square statistics and logistic 
+regression models tested the independence of key variables across strata of 
+interest before and after covariate adjustment.
+RESULTS: Peanut, almond, shellfish, and other tree nuts are more likely to be 
+introduced to children with one or more food-allergic caregivers. Respondents 
+with food-allergic parents (39.3%) and siblings with FA (35.8%) were more 
+familiar with the 2017 NIAID guidelines compared to parents (12.9%) and siblings 
+without FA (12.7%).
+CONCLUSION: Findings suggest that respondents with food-allergic parents and 
+siblings are more likely to have many of the most prevalent allergens introduced 
+at younger ages, which could be due to knowledge related to the NIAID-sponsored 
+guidelines and other national guidance, but that even among these higher-risk 
+families overall rates of "early" introduction during infancy still remain 
+relatively low.
+
+© 2025 Smith, Nimmagadda, Gupta and Warren.
+
+DOI: 10.3389/falgy.2025.1562667
+PMCID: PMC11961653
+PMID: 40176928
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+3. Allergy Asthma Immunol Res. 2025 Jan;17(1):127-134. doi: 
+10.4168/aair.2025.17.1.127.
+
+Diagnostic Decision Points of Specific Immunoglobulin E Concentrations for 
+Seafood Allergies in Korean Children: A Nationwide Multicenter Study.
+
+Kim M(#)(1), Lee JY(#)(2), Lee S(3), Jeong K(3), Shin M(4), Song TW(5), Jung 
+M(6), Kim JH(7), Jang GC(8), Jeon YH(9), Min TK(10), Lee YJ(11), Kim MJ(11), 
+Hwang Y(12), Ahn YM(13), Kim S(14), Ahn K(14), Kim J(15).
+
+Author information:
+(1)Department of Pediatrics, Chungnam National University Sejong Hospital, 
+Chungnam National University College of Medicine, Sejong, Korea.
+(2)Department of Pediatrics, Hallym University Chuncheon Sacred Heart Hospital, 
+Chuncheon, Korea.
+(3)Department of Pediatrics, Ajou University School of Medicine, Suwon, Korea.
+(4)Department of Pediatrics, Soonchunhyang University Bucheon Hospital, 
+Soonchunhyang University College of Medicine, Bucheon, Korea.
+(5)Department of Pediatrics, Ilsan Paik Hospital, Inje University College of 
+Medicine, Goyang, Korea.
+(6)Department of Pediatrics, Kosin University Gospel Hospital, Kosin University 
+College of Medicine, Busan, Korea.
+(7)Department of Pediatrics, Inha University Hospital, College of Medicine, Inha 
+University, Incheon, Korea.
+(8)Department of Pediatrics, National Health Insurance Service Ilsan Hospital, 
+Goyang, Korea.
+(9)Department of Pediatrics, Hallym University Dongtan Sacred Heart Hospital, 
+Hallym University School of Medicine, Dongtan, Korea.
+(10)Department of Pediatrics, Soonchunhyang University Seoul Hospital, 
+Soonchunhyang University College of Medicine, Seoul, Korea.
+(11)Department of Pediatrics, Yongin Severance Hospital, Yonsei University 
+College of Medicine, Yongin, Korea.
+(12)Department of Pediatrics, Busan St. Mary's Hospital, Busan, Korea.
+(13)Department of Pediatrics, Jang's Hospital, Seoul, Korea.
+(14)Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University 
+School of Medicine, Seoul, Korea.
+(15)Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University 
+School of Medicine, Seoul, Korea. jhlovechild@gmail.com.
+(#)Contributed equally
+
+Shellfish and fish are common causes of food allergy (FA) in Asia, with 
+significant prevalence rates reported across various countries. This study aimed 
+to identify the diagnostic decision points (DDPs) for shrimp, crab, and cod 
+allergies in Korean children. We enrolled participants aged 18 years or younger 
+with suspected shrimp, crab, or cod allergies through a retrospective review of 
+medical records from a nationwide 14-center study between January 2018 and March 
+2022. FA was diagnosed using an open oral food challenge or a reproducible and 
+convincing history with positive serum specific immunoglobulin E (sIgE) levels. 
+The sIgE cut-off values for shrimp, crab, and cod were determined by analyzing 
+receiver operating characteristic curves. Out of 266 children, 90 (33.8%) were 
+confirmed to have a shrimp allergy. Crab allergies were found in 37 (39.8%) of 
+93 children. Of 66 children, 15 (22.7%) were found to be allergic to cod. The 
+optimal sIgE cut-off values based on the largest area under the curve were 1.43, 
+3.25, and 2.05 kU/L for shrimp, crab, and cod, respectively. Levels of sIgE with 
+more than 90% positive predictive value (PPV) were 33.8, 47.5, and 29.9 kU/L for 
+shrimp, crab, and cod, respectively. Levels of sIgE with greater than 90% 
+negative predictive value (NPV) were 0.36, 0.04, and 3.93 kU/L for shrimp, crab, 
+and cod, respectively. Our results suggest that DDPs of sIgE levels with high 
+PPV and NPV can be used to diagnose shrimp, crab, and cod allergies in Korean 
+children.
+
+Copyright © 2025 The Korean Academy of Asthma, Allergy and Clinical Immunology • 
+The Korean Academy of Pediatric Allergy and Respiratory Disease.
+
+DOI: 10.4168/aair.2025.17.1.127
+PMCID: PMC11791366
+PMID: 39895607
+
+Conflict of interest statement: There are no financial or other issues that 
+might lead to conflict of interest.
+
+
+4. Allergy Asthma Immunol Res. 2025 Jan;17(1):94-110. doi: 
+10.4168/aair.2025.17.1.94.
+
+Genome-Wide Identification and Comparative Analysis of Allergens in Procambarus 
+clarkii.
+
+Ng JKW(#)(1), Shin SK(#)(1), Xiao X(#)(2), Xiong Q(1)(3), Cao H(2), Yuan R(2), 
+Sun B(4), Liu X(5), Tsui SK(1)(3)(6).
+
+Author information:
+(1)School of Biomedical Sciences, The Chinese University of Hong Kong, Sha Tin, 
+Hong Kong.
+(2)Shenzhen Key Laboratory of Allergy and Immunology, School of Medicine, 
+Shenzhen University, Shenzhen, China.
+(3)Hong Kong Bioinformatics Centre, The Chinese University of Hong Kong, Sha 
+Tin, Hong Kong.
+(4)State Key Laboratory of Respiratory Disease, The First Affiliated Hospital of 
+Guangzhou Medical University, Guangzhou, China.
+(5)Shenzhen Key Laboratory of Allergy and Immunology, School of Medicine, 
+Shenzhen University, Shenzhen, China. lxy0901@szu.edu.cn.
+(6)Centre for Microbial Genomics and Proteomics, The Chinese University of Hong 
+Kong, Sha Tin, Hong Kong. kwtsui@cuhk.edu.hk.
+(#)Contributed equally
+
+PURPOSE: Crustacean shellfish is one of the eight most common food allergens, 
+and crayfish is a highly valued shellfish species for consumption in China. 
+However, the detailed allergen profile of crayfish remains unknown, with only 
+four allergen groups reported in the WHO/IUIS allergen nomenclature database. In 
+this study we aimed to identify novel allergens based on the Procambarus clarkii 
+genome and to reveal its allergen profile for developing better diagnostic tools 
+and treatments.
+METHODS: We assembled the crayfish genome using both long-read and short-read 
+sequencing data and identified putative allergens using the BLAST algorithm 
+based on sequence homology. We employed bioinformatics tools to investigate the 
+expression levels, gene structure, and synteny of these putative allergens. We 
+also applied indirect enzyme-linked immunosorbent assay by using patients' sera 
+to determine allergenicity and utilized proteomic methods to identify novel 
+allergens.
+RESULTS: We identified a total of 11 putative allergen groups, including all 
+isoforms or homologs for each allergen group based on the genome and three 
+putative allergens by using 2-dimensional (2D) mass spectrometry. We identified 
+2 novel allergens, pPro c 3.0301 and pPro c 6.0201, with immunoglobulin E 
+reactivity of 33.3% and 20%, respectively.
+CONCLUSIONS: By providing a comprehensive understanding of the complete allergen 
+profile, our study presents a foundation for comprehending P. clarkii-associated 
+allergy. The knowledge could facilitate the implementation of a 
+components-resolved diagnostic test and preventive immunotherapy based on 
+molecular allergens for crayfish allergy.
+
+Copyright © 2025 The Korean Academy of Asthma, Allergy and Clinical Immunology • 
+The Korean Academy of Pediatric Allergy and Respiratory Disease.
+
+DOI: 10.4168/aair.2025.17.1.94
+PMCID: PMC11791374
+PMID: 39895605
+
+Conflict of interest statement: There are no financial or other issues that 
+might lead to conflict of interest.
+
+
+5. Allergol Int. 2025 Jan;74(1):4-12. doi: 10.1016/j.alit.2024.10.003. Epub 2024 
+Nov 18.
+
+T follicular helper and memory B cells in IgE recall responses.
+
+Koenig JFE(1).
+
+Author information:
+(1)McMaster Immunology Research Centre, Department of Medicine, Faculty of 
+Health Sciences, McMaster University, Hamilton, Ontario, Canada; Schroeder 
+Allergy and Immunology Research Institute, Department of Medicine, Faculty of 
+Health Sciences, McMaster University, Hamilton, Ontario, Canada. Electronic 
+address: koenigjf@mcmaster.ca.
+
+IgE antibodies raised against innocuous environmental antigens cause allergic 
+diseases like allergic rhinitis, food allergy, and allergic asthma. While some 
+allergies are often outgrown, others (peanut, shellfish, tree nut) are lifelong 
+in the majority of individuals. Lifelong allergies are the result of persistent 
+production of allergen-specific IgE. However, IgE antibodies and the plasma 
+cells that secrete them tend to be short-lived. Persistent allergen-specific IgE 
+titres are thought to be derived from the continued renewal of IgE plasma cells 
+from memory B cells in response to allergen encounters. The initial generation 
+of allergen-specific IgE is driven by B cell activation by IL-4 producing Tfh 
+cells, but the cellular and molecular mechanisms of the long-term production of 
+IgE are poorly characterized. This review investigates the mechanisms governing 
+IgE production and Tfh activation in the primary and recall responses, towards 
+the objective of identifying molecular targets for therapeutic intervention that 
+durably inactivate the IgE recall response.
+
+Crown Copyright © 2024. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.alit.2024.10.003
+PMID: 39562254 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The author receives funding 
+from ALK Abello A/S.
+
+
+6. Nutrients. 2024 Sep 22;16(18):3201. doi: 10.3390/nu16183201.
+
+Transplant-Acquired Food Allergy in Children.
+
+Indolfi C(1), Klain A(1), Dinardo G(1), Grella C(1), Perrotta A(1), Colosimo 
+S(1), Decimo F(1), Miraglia Del Giudice M(1).
+
+Author information:
+(1)Department of Woman, Child and of General and Specialized Surgery, University 
+of Campania Luigi, Vanvitelli, 80138 Naples, Italy.
+
+BACKGROUND: Organ transplantation in children is a vital procedure for those 
+with end-stage organ failure, but it has been linked to the development of 
+post-transplant allergies, especially food allergies. This phenomenon, known as 
+transplant-acquired food allergy (TAFA), is becoming increasingly recognized, 
+though its mechanisms remain under investigation. Pediatric transplant 
+recipients often require lifelong immunosuppressive therapy to prevent graft 
+rejection, which can alter immune function and heighten the risk of allergic 
+reactions. Our review aimed to gather the latest evidence on TAFA.
+METHODS: We conducted a PubMed search from 25 June to 5 July 2024, using 
+specific search terms, identifying 143 articles. After screening, 36 studies 
+were included: 24 retrospective studies, 1 prospective study, 2 cross-sectional 
+researches, and 9 case reports/series.
+RESULTS: Most studies focused on liver transplants in children. The prevalence 
+of food allergies ranged from 3.3% to 54.3%. Tacrolimus, alongside 
+corticosteroids, was the most commonly used immunosuppressive therapy. In 
+addition to food allergies, some patients developed atopic dermatitis, asthma, 
+and rhinitis. Allergic symptoms typically emerged within a year post-transplant, 
+with common allergens including milk, eggs, fish, nuts, soy, wheat, and 
+shellfish. Both IgE-mediated and non-IgE-mediated reactions were observed, with 
+treatment often involving the removal of offending foods and the use of 
+adrenaline when necessary.
+CONCLUSIONS: Consistent immunological monitoring, such as skin prick tests and 
+IgE level assessments, is essential for early detection and management of 
+allergies in these patients. Understanding the link between transplantation and 
+allergy development is crucial for improving long-term outcomes for pediatric 
+transplant recipients.
+
+DOI: 10.3390/nu16183201
+PMCID: PMC11434934
+PMID: 39339801 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+7. J Allergy Clin Immunol Glob. 2024 Jul 22;3(4):100309. doi: 
+10.1016/j.jacig.2024.100309. eCollection 2024 Nov.
+
+Fish and shellfish allergy: Presentation and management differences in the UK 
+and US-analysis of 945 patients.
+
+Nakonechna A(1)(2)(3), van Bergen A(4), Anantharachagan A(5), Arnold D(3), 
+Johnston N(6), Nadeau K(7), Rutkowski K(8), Sindher SB(9), Sriaroon P(10), 
+Thomas I(8), Vijayadurai P(5), Wagner A(11), Davis CM(12).
+
+Author information:
+(1)University of Liverpool, Liverpool, United Kingdom.
+(2)Department of Immunology and Allergy, Hull University Teaching Hospitals NHS 
+Foundation Trust, Hull, United Kingdom.
+(3)Clinical Immunology and Allergy Unit, Sheffield Teaching Hospitals Foundation 
+NHS Trust, Sheffield, United Kingdom.
+(4)Independent Scientific Advisor, Chester, United Kingdom.
+(5)Department of Allergy & Clinical Immunology, Royal Preston Hospital 
+Lancashire Teaching Hospitals NHS Foundation Trust, Preston, United Kingdom.
+(6)The University of Texas Health Science Center, McGovern Medical School, 
+Houston, Tex.
+(7)Department of Environmental Health, Harvard T.H. Chan School of Public 
+Health, Boston, Mass.
+(8)Department of Adult Allergy, Guy's and St Thomas' NHS Foundation Trust, 
+London, United Kingdom.
+(9)Sean N. Parker Center for Allergy and Asthma Research, Stanford University, 
+Palo Alto, Calif.
+(10)University of South Florida Morsani College of Medicine, Johns Hopkins All 
+Children's Hospital, St Petersburg, Fla.
+(11)Department of Allergy, Cambridge University Hospitals NHS Foundation Trust, 
+Cambridge, United Kingdom.
+(12)Division of Immunology, Allergy, and Retrovirology, Baylor College of 
+Medicine/Texas Children's Hospital, Houston, Tex.
+
+BACKGROUND: Seafood allergy (SA), including allergy to shellfish (crustacean and 
+mollusks) and fish, is among the 4 most common food allergies causing 
+anaphylaxis, but there are limited data showing SA clinical management in 
+different countries.
+OBJECTIVE: We sought to characterize a large cohort of patients with fish and 
+shellfish allergy and to facilitate standardization of future care for this 
+increasingly common allergic disease.
+METHODS: We performed a retrospective, observational, noninterventional study 
+from 945 patients from 2015 to 2019 in 7 hospitals in the United States and the 
+United Kingdom to evaluate SA. A chi-square test was used to detect differences 
+in family history, medical history, and current symptoms between patients in 2 
+countries.
+RESULTS: Underdiagnosed anaphylaxis in patients with SA was associated with 
+underuse of epinephrine (adrenaline) autoinjectors in both countries. Oral food 
+challenge was used only when skin or serologic test results were negative. 
+Asthma and allergic rhinitis were more common in the US patients with SA, but 
+eczema was more common in UK patients with SA (P < .001). Respiratory, 
+gastrointestinal, and neurological symptoms were higher in UK patients with SA 
+than in US patients with SA (P < .001).
+CONCLUSIONS: In international multicenter cohorts of patients with fish and 
+shellfish allergy, there are opportunities for improvement in management. 
+Physician identification of anaphylaxis, use of diagnostic oral food challenges, 
+and anaphylaxis treatment with epinephrine are areas with significant knowledge 
+gaps in need of improvement in the United Kingdom and the United States. There 
+is an opportunity for the development of unified, standardized diagnostic 
+protocols for SA with distribution for allergists and trainees.
+
+© 2024 The Author(s).
+
+DOI: 10.1016/j.jacig.2024.100309
+PMCID: PMC11381858
+PMID: 39253105
+
+Conflict of interest statement: Disclosure of potential conflict of interest: K. 
+Nadeau reported receiving grants from the 10.13039/100000060National Institute 
+of Allergy and Infectious Diseases, the National Heart, Lung, and Blood 
+Institute, the 10.13039/100000066National Institute of Environmental Health 
+Sciences, and Food Allergy Research and Education; serving as director of the 
+World Allergy Organization; serving as advisor for Cour Pharma; serving on the 
+National Scientific Committee of the 10.13039/100014247Immune Tolerance Network 
+and the National Institutes of Health clinical research centers; being cofounder 
+of Before Brands, Latitude, Alladapt, and IgGenix outside the submitted work; 
+and having patents for an oral formula for decreasing food allergy risk and 
+treatment for food allergy, for granulocyte-based methods for detecting and 
+monitoring immune system disorders issued, for methods and assays for detecting 
+and quantifying pure subpopulations of white blood cells in immune system 
+disorders, and for microfluidic device and diagnostic methods for allergy 
+testing based on detection of basophil activation pending. S. B. Sindher is 
+funded by the National Institute of Allergy and Infectious Disease, Consortium 
+for Food Allergy Research (CoFAR), Regeneron, DBV Technologies, Aimmune 
+Therapeutics, Novartis, and Sanofi, and is an advisory member for AstraZeneca. 
+P. Sriaroon is funded by Food Allergy Research and Education. C. M. Davis 
+receives research contract funding from DBV Technologies, Regeneron, and Aimmune 
+Therapeutics, grant funding from the National Institute of Allergy and 
+Infectious Disease (grant no. R34AI157948) (CoFAR and Consortium of Eosinophilic 
+Gastrointestinal Disease Researchers), and the Food Allergy Research and 
+Education. The rest of the authors declare that they have no relevant conflicts 
+of interest.
+
+
+8. Nutrients. 2024 Aug 14;16(16):2693. doi: 10.3390/nu16162693.
+
+Prevalence of Parent-Reported Food Allergies Among Children in Saudi Arabia.
+
+Alibrahim I(1), AlSulami M(1), Alotaibi T(1), Alotaibi R(1), Bahareth E(1), 
+Abulreish I(1), Alsuruji S(1), Khojah I(2), Goronfolah L(3), Rayes H(4), Bukhari 
+A(5), Khojah A(6).
+
+Author information:
+(1)College of Medicine, Umm Al-Qura University, Makkah 21955, Saudi Arabia.
+(2)Faculty of Medicine, King Abdulaziz University, Jeddah 21589, Saudi Arabia.
+(3)King Abdullah International Medical Research Center, King Saud Bin Abdulaziz 
+University for Health Sciences, Jeddah 22384, Saudi Arabia.
+(4)Department of Pediatrics, Makkah Maternity and Children Hospital, Makkah 
+24246, Saudi Arabia.
+(5)College of Science, Taif University, Taif 21944, Saudi Arabia.
+(6)Department of Pediatrics, College of Medicine, Umm Al-Qura University, Makkah 
+21955, Saudi Arabia.
+
+(1) Background: Food allergy (FA) is an immune-mediated hypersensitivity to 
+foods, significantly contributing to childhood morbidity and mortality. This 
+study aimed to assess the prevalence, characteristics, and influencing factors 
+of parent-reported FAs among children in Saudi Arabia. (2) Methods: This 
+cross-sectional study utilized a validated parental questionnaire distributed 
+across all regions of Saudi Arabia. Data from 2130 participants were collected 
+and analyzed using SPSS v. 26 and Prism software v. 10.3.0. (3) Results: 
+Parent-reported FA prevalence was 15.2%. Egg was the most common allergen 
+(6.2%), followed by tree nuts (4.1%), peanuts (4.0%), milk (3.8%), and sesame 
+(3.2%). Significant geographical variations were observed, with the western 
+region having the highest burden (p < 0.001). Older children had higher rates of 
+shellfish and fish allergies. Parental allergies and co-existing asthma/drug 
+allergies were positively associated with childhood FAs. (4) Conclusions: This 
+study highlights a substantial burden of parent-reported FAs in Saudi Arabia, 
+with regional variations in food allergen distribution. Parental allergies and 
+co-existing allergic conditions may influence FA risk.
+
+DOI: 10.3390/nu16162693
+PMCID: PMC11356889
+PMID: 39203829 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+9. J Food Allergy. 2022 Jul 1;4(2):148-150. doi: 10.2500/jfa.2022.4.220016. 
+eCollection 2022 Jul.
+
+A practical focus on fish and shellfish oral immunotherapy.
+
+Mack DP(1), Woch M(2), Rodríguez Del Río P(3).
+
+Author information:
+(1)From the McMaster University, Hamilton, Ontario, Canada.
+(2)Sean N. Parker Center for Allergy and Asthma Research, Stanford University, 
+California; and.
+(3)Hospital Infantil Universitario Niño Jesús, Madrid, Spain.
+
+Although fish and shellfish allergies represent common worldwide allergies, with 
+anaphylaxis being reportedly frequent, treatment approaches, e.g., oral 
+immunotherapy (OIT), are uncommonly performed. A review of the limited 
+literature is discussed here. Both practical and immunologic challenges are 
+common with seafood OIT, including taste, odor, unclear and potentially 
+inconsistent cross-reactivity, and alteration of protein concentration during 
+the cooking process as well as other concerns. Ongoing attempts at 
+standardization of this OIT process should be considered. The experienced OIT 
+physician may consider this treatment in patients who are motivated to begin 
+OIT.
+
+Copyright © 2022, The Author(s). Published by OceanSide Publications, Inc., 
+U.S.A.
+
+DOI: 10.2500/jfa.2022.4.220016
+PMCID: PMC11250208
+PMID: 39021859
+
+Conflict of interest statement: D.P. Mack has provided consultation and speaker 
+services for Aimmune. P.R. del Rio has provided speaker services for Aimmune. M. 
+Woch has no conflict of interest to disclose pertaining to this article
+
+
+10. Curr Issues Mol Biol. 2024 Jun 13;46(6):5950-5964. doi: 10.3390/cimb46060355.
+
+Gastropod Allergy: A Comprehensive Narrative Review.
+
+Mederos-Luis E(1)(2), Poza-Guedes P(1)(2)(3)(4), Pineda F(5), Sánchez-Machín 
+I(1)(4)(6), González-Pérez R(1)(3)(4).
+
+Author information:
+(1)Allergy Department, Hospital Universitario de Canarias, 38320 Tenerife, 
+Spain.
+(2)Food Allergy Unit, Hospital Universitario de Canarias, 38320 Tenerife, Spain.
+(3)Severe Asthma Unit, Hospital Universitario de Canarias, 38320 Tenerife, 
+Spain.
+(4)Instituto de Investigación Sanitaria de Canarias (IISC), 38200 Tenerife, 
+Spain.
+(5)Inmunotek SL Laboratories, 28805 Madrid, Spain.
+(6)Allergen Immunotherapy Unit, Hospital Universitario de Canarias, 38320 
+Tenerife, Spain.
+
+Food allergies have increased significantly in recent decades, with shellfish 
+being a leading cause of food allergy and anaphylaxis worldwide, affecting both 
+children and adults. The prevalence of shellfish allergies is estimated to be 
+approximately 0.5-2.5% of the general population, varying significantly by 
+geographical location, age, and consumption habits. Although mollusk consumption 
+has risen, the prevalence of mollusk allergies remains unknown. While extensive 
+research has focused on crustacean allergies, mollusk allergies, particularly 
+those related to gastropods, have received comparatively less attention. 
+Clinical manifestations of shellfish allergy range from localized symptoms to 
+life-threatening systemic reactions, such as anaphylaxis. Notably, severe 
+bronchospasm is a predominant clinical feature in cases involving gastropods. 
+Several allergens have been identified in mollusks, including paramyosin, 
+tropomyosin, and sarcoplasmic calcium-binding protein. In gastropods, documented 
+allergens include tropomyosin, paramyosin, the heavy chain of myosin, and Der p 
+4 amylase. Diagnosis typically involves a thorough clinical history, skin 
+testing, in vitro quantification of immunoglobulin (Ig) E, and confirmation 
+through an oral challenge, although the latter is reserved for selected cases. 
+This narrative review highlights the limited research on gastropod allergy. It 
+provides a comprehensive list of purified and recombinant allergens and 
+discusses the applications of component-resolved diagnosis as well as current 
+therapeutic developments.
+
+DOI: 10.3390/cimb46060355
+PMCID: PMC11202862
+PMID: 38921026
+
+Conflict of interest statement: Author F.P. was employed by the company 
+Inmunotek SL Laboratories, Madrid, Spain. The remaining authors declare that the 
+research was conducted in the absence of any commercial or financial 
+relationships that could be construed as a potential conflict of interest.

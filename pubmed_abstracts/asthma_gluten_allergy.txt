@@ -1,0 +1,524 @@
+1. Zhonghua Yu Fang Yi Xue Za Zhi. 2024 Nov 6;58(11):1797-1806. doi: 
+10.3760/cma.j.cn112150-20240830-00693.
+
+[Clinical diagnosis and management of wheat and buckwheat allergy: application 
+and prospects of allergen component diagnostics].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Liu L(1), Zhang JL(1), Luo WT(1), Li AL(1), Sun BQ(1).
+
+Author information:
+(1)Department of Clinical Laboratory of the First Affiliated Hospital of 
+Guangzhou Medical University, State Key Laboratory of Respiratory Disease, 
+National Center for Respiratory Medicine, National Clinical Research Center for 
+Respiratory Disease, Guangzhou Institute of Respiratory Health, Guangzhou510120, 
+China.
+
+Wheat and buckwheat allergies are common food allergies that significantly 
+impact patients' quality of life and health. Wheat allergy encompasses various 
+forms, including wheat food allergy, exercise-induced allergic reactions 
+(WDEIA), baker's occupational asthma/allergy, and contact urticaria. 
+IgE-mediated allergic reactions involve sensitization to stable wheat allergens 
+such as ω-5 gliadin and gluten. Although buckwheat allergy is less common, it is 
+gaining attention in certain regions. Allergen component diagnostic 
+technologies, by detecting specific allergen components [e.g., ω-5 gliadin, 
+gliadins (α, β, γ), and Tri a 14], offer precise allergen source identification, 
+aiding in the optimization of diagnosis and management processes. Oral challenge 
+tests are considered the gold standard for diagnosing wheat allergy, and 
+combining skin prick tests with specific IgE measurements can enhance diagnostic 
+accuracy. While avoidance of allergens remains the primary management strategy, 
+research into immunotherapy is ongoing. Future research should focus on a deeper 
+understanding of the structural and immunological characteristics of wheat and 
+buckwheat allergens to develop more accurate diagnostic tools and treatment 
+methods, thereby improving allergy management and patient quality of life. This 
+article provides a detailed interpretation of the Molecular Allergology User's 
+Guide 2.0 (MAUG 2.0) published by the European Academy of Allergy and Clinical 
+Immunology (EAACI) and recent research advances on wheat and buckwheat 
+allergies, highlighting the crucial role of allergen component diagnostics in 
+optimizing food allergy diagnosis and treatment processes, supporting clinicians 
+in accurately identifying common allergens and their cross-reactivity, and 
+formulating more personalized treatment plans for patients.
+
+Publisher: 
+小麦和荞麦过敏是常见的食物过敏类型，对患者生活质量和健康构成了显著威胁。小麦过敏主要分为小麦食物过敏症、小麦依赖运动诱发的过敏反应（WDEIA）、面包师职业性过敏/哮喘和接触性荨麻疹等多种类型，其中IgE介导的过敏反应包括对稳定的小麦过敏原如ω-5醇溶蛋白和谷蛋白的过敏。荞麦过敏则较为少见，但在某些地区正逐渐受到关注。过敏原分子组分诊断技术通过检测特定过敏原成分，如小麦的ω-5醇溶蛋白、醇溶蛋白（α、β、γ）、Tri 
+a 
+14等，提供了精确的过敏原识别，帮助优化诊断和管理流程。对于小麦和荞麦过敏，口服激发试验被认为是金标准，结合皮肤点刺试验和特异性IgE检测和病史可以提高诊断准确性。虽然避免过敏原是目前主要的管理策略，但免疫疗法的研发仍在进行中。未来的研究应集中于深入了解小麦和荞麦过敏原的结构与免疫特性，以开发更为精准的诊断工具和治疗方法，从而提升过敏管理的效果和患者的生活质量。本文通过详尽解读欧洲过敏和临床免疫学会（EAACI）发布的《过敏原组分诊断指导建议2.0》（Molecular 
+Allergology User′s Guide 2.0，MAUG 
+2.0）以及国内外关于小麦和荞麦过敏的研究进展，突显了过敏原组分诊断技术在优化食物过敏诊断与治疗流程中的重要作用，有效辅助临床医生准确识别常见的过敏原及交叉反应，为患者制订更个性化诊疗方案。.
+
+DOI: 10.3760/cma.j.cn112150-20240830-00693
+PMID: 39537423 [Indexed for MEDLINE]
+
+
+2. Allergol Immunopathol (Madr). 2024 Nov 1;52(6):85-90. doi: 
+10.15586/aei.v52i6.1173. eCollection 2024.
+
+Exploring food-specific IgG responses in pediatric allergic disorders: A 
+retrospective cross-sectional study.
+
+Atwah AF(1), Koshak EA(2).
+
+Author information:
+(1)Department of Pediatrics, Faculty of Medicine, King Abdulaziz University, 
+Rabigh, Saudi Arabia; latwah@kau.edu.sa.
+(2)Department of Internal Medicine, Faculty of Medicine. King Abdulaziz 
+University, Jeddah, Saudi Arabia.
+
+BACKGROUND: The role of immunoglobulin G (IgG) responses to food as potential 
+triggering factors in allergic disorders continues to be debatable, and is not 
+endorsed by most allergy societies.
+OBJECTIVE: To explore the prevalence of specific IgG immune responses to common 
+foods in pediatric allergic disorders and any potential relationship between 
+them.
+METHODS: A retrospective study was conducted on children and adolescents 
+diagnosed with allergic disorders at the Ekthar Clinic in Jeddah City. 
+Food-specific IgG (FS-IgG) antibody test results were collected from their 
+medical records.
+RESULTS: Seventy-five children with a mean age of 8.5 years (SD = 5.3) were 
+included. The overall allergic diagnosis determined atopic dermatitis as the 
+most common (57.3%, 43 participants), followed by food allergy and allergic 
+rhinitis (each 40%, 30 participants), and bronchial asthma (29.3%, 22 
+participants). Food-specific IgG levels were elevated in all participants. The 
+foods with the highest levels of FS-IgG were dairy products (88%: cow's milk 
+[86.6%], sour milk [81.3%], sheep's milk [74.7%], cheese [72%], and goat's milk 
+[70.7%]), followed by gluten-containing products (81.3%: wheat [70.7%], gluten 
+[69.3%], and spelt [66.6%]), and eggs (66.6%). Significant correlations (P < 
+0.05) were found between atopic dermatitis and several foods; chronic urticaria 
+and chicken and lamb; asthma and ocean perch; allergic rhinitis and rennet 
+cheese; and allergic conjunctivitis and potato, pollock, and lamb.
+CONCLUSION: Among pediatric allergic disorders, dairy, gluten, and eggs were the 
+most detected foods in FS-IgG tests, with some notable correlations with other 
+foods. FS-IgG testing may help identify potential triggers in refractory 
+allergic disorders.
+
+DOI: 10.15586/aei.v52i6.1173
+PMID: 39515801 [Indexed for MEDLINE]
+
+
+3. J Clin Med. 2024 Sep 4;13(17):5243. doi: 10.3390/jcm13175243.
+
+Anaphylactic Shock Caused by Eating Buckwheat.
+
+Orga-Dumitriu D(1), Harris DM(2), Porr C(3).
+
+Author information:
+(1)Internal Medicine Department, Faculty of Medicine, Lucian Blaga University, 
+550169 Sibiu, Romania.
+(2)Internal Medicine Department, Mayo Clinic, Jacksonville, FL 32224, USA.
+(3)Allergology Department, County Emergency Clinical Hospital, 550245 Sibiu, 
+Romania.
+
+Background: Urticaria is a common disease with a marked influence on quality of 
+life. The key cell involved is the mast cell, which can be activated by a vast 
+variety of stimuli, and the major mediator is histamine. Allergic urticaria is a 
+disorder with a large variety of causes: food, drugs, insect venom, skin contact 
+with allergens, and physical exercise. Buckwheat consumption has increased in 
+European countries and the USA because it is gluten-free. It can trigger 
+anaphylactic shock if ingested, inhaled, or handled with the hands. Five common 
+buckwheat allergens named Fag e1 to 5 (Fag e1, 2, and 3 are considered the major 
+allergens) and two tartary buckwheat allergens named Fag t1 and Fag t2 have been 
+described. Method: We present the case of a patient who experienced two 
+anaphylactic shocks and in whom the etiological factor was buckwheat. The 
+patient presented to the Allergology department for the evaluation of two 
+episodes of severe allergic reactions that required emergency therapy, episodes 
+that involved the loss of consciousness and were of major severity. At each 
+anaphylactic shock, an ambulance was requested, and emergency therapy was 
+administered, leading to the patient's recovery within a few hours. Diagnosis: 
+Since each episode occurred a few minutes after eating, the diagnosis was 
+established based on a detailed anamnesis and prick skin tests, followed by 
+specific IgE dosages. Other foods consumed by the patient, assessed by prick 
+skin testing and specific IgE dosages of suspected foods, were excluded as the 
+etiological cause. Increased levels of buckwheat-specific immunoglobulin E were 
+highlighted, thus identifying the etiological agent. The treatment of 
+anaphylactic shock was performed urgently by the ambulance crew with adrenaline, 
+infusion solutions, cortisone preparations, and antihistamines. Result: 
+Following the treatment that was initiated, there was a partial remission of the 
+lesions after a few hours. Conclusions: Buckwheat allergy is rare, but it 
+produces symptoms that affect the skin, gastrointestinal tract, and respiratory 
+tract, as well as anaphylaxis. In a professional environment, it can trigger 
+allergic rhinitis, asthma, and hives. Although buckwheat allergens have been 
+described, their clinical relevance has only been studied in a small number 
+cases. In current practice, the only commercially available allergen is Beech e2 
+per the ImmunoCAP ISAC microarray. Diagnosis can be difficult in clinical 
+practice. This reported case suggests the need for a thorough anamnesis, since 
+buckwheat is consumed as a hidden allergen, and in Europe, it is not necessary 
+to label foods containing this allergen.
+
+DOI: 10.3390/jcm13175243
+PMCID: PMC11396650
+PMID: 39274456
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+4. Int J Mol Sci. 2024 Jul 27;25(15):8210. doi: 10.3390/ijms25158210.
+
+Allergenic Biomarkers in the Molecular Diagnosis of IgE-Mediated Wheat Allergy.
+
+Preda M(1), Popescu FD(1), Vassilopoulou E(2)(3), Smolinska S(4).
+
+Author information:
+(1)Department of Allergology "Nicolae Malaxa" Clinical Hospital, "Carol Davila" 
+University of Medicine and Pharmacy, 022441 Bucharest, Romania.
+(2)Department of Nutritional Sciences and Dietetics, School of Health Science, 
+International Hellenic University, 57400 Thessaloniki, Greece.
+(3)Department of Clinical Sciences and Community Health, Università degli Studi 
+di Milano, 20122 Milan, Italy.
+(4)Department of Clinical Immunology, Faculty of Medicine, Wroclaw Medical 
+University, 51-616 Wroclaw, Poland.
+
+IgE-mediated wheat allergy can take on various forms, including childhood food 
+allergy to wheat, wheat-dependent exercise-induced anaphylaxis in young adults, 
+baker's respiratory allergy/asthma in workers exposed to wheat flour inhalation, 
+and contact urticaria that is caused by hydrolyzed wheat proteins in some 
+cosmetics, and that is sometimes associated with a food allergy. Singleplex and 
+multiplex immunoassays detect specific IgE antibodies to wheat allergenic 
+molecular biomarkers such as omega-5 gliadin Tri a 19, lipid transfer protein 
+Tri a 14, and alpha-amylase inhibitors. The fluorescence enzyme immunoassay with 
+capsulated cellulose polymer solid-phase coupled allergens is a commonly used 
+singleplex assay. Multiplex methods include the ELISA-based macroarray 
+immunoassay using nano-bead technology and a microarray immunoassay on 
+polymer-coated slides. Another promising diagnostic tool is the basophil 
+activation test performed with omega-5 gliadin and other wheat protein types. 
+Detailed comprehension of the structural and immunological features of the 
+numerous wheat allergens significant in clinical settings is imperative for 
+advancing diagnostic biomarkers for IgE-mediated wheat allergies.
+
+DOI: 10.3390/ijms25158210
+PMCID: PMC11311673
+PMID: 39125779 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+5. Biomedicines. 2024 Jun 27;12(7):1429. doi: 10.3390/biomedicines12071429.
+
+Limited Clinical Impact of Genetic Associations between Celiac Disease and Type 
+2 Inflammatory Diseases: Insights from Mendelian Randomization.
+
+Omar M(1), Omar M(2), Nassar S(3), Lahat A(4), Sharif K(4)(5).
+
+Author information:
+(1)Sheba Medical Center, Faculty of Medicine, Tel-Aviv University, Tel Aviv 
+6997801, Israel.
+(2)School of Medicine, V.N. Karazin Kharkiv National University, 61077 Kharkiv, 
+Ukraine.
+(3)Edith Wolfson Medical Center, Holon 5822012, Israel.
+(4)Department of Gastroenterology, Sheba Medical Center, Tel-Hashomer 5262100, 
+Israel.
+(5)Department of Medicine B, Zabludowicz Center for Autoimmune Diseases, Sheba 
+Medical Center, Tel-Hashomer 5262100, Israel.
+
+Background: Celiac disease, a gluten-triggered autoimmune disorder, is known for 
+its systemic inflammatory effects. Its genetic associations with type 2 
+inflammatory diseases like asthma, allergic rhinitis, and atopic dermatitis 
+remain unclear, prompting this study to explore their potential genetic 
+interplay. Methods: Utilizing two-sample Mendelian randomization (TSMR), we 
+examined the genetic associations using 15 genetic instruments from GWAS 
+datasets. Our analysis focused on celiac disease and its relation to asthma, 
+allergic rhinitis, atopic dermatitis, and IgE-mediated food allergies. A power 
+analysis was conducted to determine the study's detection capabilities, and odds 
+ratios (ORs) with 95% confidence intervals (CIs) were calculated using various 
+MR methods. Results: Our Mendelian randomization analysis identified 
+statistically significant genetic associations between celiac disease and 
+several type 2 inflammatory diseases, although these were practically 
+insignificant. Specifically, celiac disease was associated with a slight 
+increase in the risk of atopic dermatitis (OR = 1.037) and a minor protective 
+effect against asthma (OR = 0.97). The link with allergic rhinitis was 
+statistically detectable (OR = 1.002) but practically negligible. Despite robust 
+statistical confirmation through various sensitivity analyses, all observed 
+effects remained within the range of practical equivalence (ROPE). Conclusions: 
+Our study identifies potential genetic associations between celiac disease and 
+certain type 2 inflammatory diseases. However, these associations, predominantly 
+within the ROPE range, suggest only limited clinical implications. These 
+findings highlight the need for cautious interpretation and indicate that 
+further exploration for clinical applications may not be warranted at this 
+stage.
+
+DOI: 10.3390/biomedicines12071429
+PMCID: PMC11274227
+PMID: 39062002
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+6. Ann Allergy Asthma Immunol. 2024 Nov;133(5):585-591.e6. doi: 
+10.1016/j.anai.2024.07.008. Epub 2024 Jul 15.
+
+The availability of allergen-friendly food for college students experiencing 
+food insecurity: Exploring current campus practices.
+
+Miller ME(1), Virkud Y(2), Rodriguez GM(3), Pake WG(4).
+
+Author information:
+(1)Department of Population Health, New York University Langone Health, New 
+York, New York.
+(2)Division of Pediatric Allergy & Immunology, University of North Carolina 
+School of Medicine, Chapel Hill, North Carolina.
+(3)Department of Biological Sciences, North Carolina State University, Raleigh, 
+North Carolina.
+(4)FOODiversity, Mooresville, North Carolina. Electronic address: 
+wendy@foodiversity.org.
+
+BACKGROUND: The burden of dietary restrictions includes the high cost and 
+limited availability of allergen-friendly products which disproportionately 
+affects people with food insecurity.
+OBJECTIVE: To better understand access to allergen-friendly food for college 
+students experiencing food insecurity with food allergies or other diet-treated 
+conditions by surveying college campus food pantries.
+METHODS: A total of 120 randomly selected US colleges/universities were 
+recruited to complete FOODiversity's Food Insecurity Questionnaire about campus 
+food pantry operations, dietary restrictions, and food-insecurity initiatives 
+and provide details about their resources and training dedicated to supporting 
+food-insecure young adults who avoid specific food(s).
+RESULTS: Of the respondents, 48% ask students about dietary restrictions at food 
+pantry intake, 37% track the number of patrons with restrictions, 30% process 
+allergen-friendly product requests, 17% train staff about dietary restrictions, 
+and 4% modify processes to accommodate dietary restrictions. Of the 48% who 
+inquire about dietary restrictions, follow-up interventions vary in levels of 
+accommodation. Dairy-free and gluten-free products are most frequently 
+requested, and gluten-free products are the most donated/stocked and most 
+difficult to accommodate.
+CONCLUSION: Food pantries play a critical role in reducing the burden 
+experienced by food-insecure individuals; however, most pantries are unable to 
+provide sufficient accommodations for clients with food allergies or other 
+diet-treated conditions, including staff training, provision of 
+allergen-friendly products, or identifying food-insecure college students with 
+dietary restrictions, and promoting food allergy safety and nutritional impacts.
+
+Copyright © 2024 American College of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.anai.2024.07.008
+PMCID: PMC11531393
+PMID: 39019435 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: Wendy Pake, a 
+co-investigator on this study, participates in unpaid activities, which are not 
+part of this study, for FOODiversity
+
+
+7. J Clin Med. 2024 May 19;13(10):2992. doi: 10.3390/jcm13102992.
+
+Sensitization to Food and Aero-Allergens in Children with Coeliac Disease 
+Assessed with the Use of a Multiplex Molecular Diagnostic Technique.
+
+Knyziak-Mędrzycka I(1), Cukrowska B(2), Nazar W(3), Bierła JB(4), Janeczek K(5), 
+Krawiec P(6), Gromek W(7), Wysokiński M(8), Konopka E(4), Trojanowska I(4), 
+Smolińska S(9), Majsiak E(10).
+
+Author information:
+(1)Allergology Clinic, The Children's Memorial Health Institute, Aleja Dzieci 
+Polskich 20, 04-730 Warsaw, Poland.
+(2)Department of Pathomorphology, The Children's Memorial Health Institute, 
+Aleja Dzieci Polskich 20, 04-730 Warsaw, Poland.
+(3)Faculty of Medicine, Medical University of Gdansk, Marii Sklodowskiej-Curie 
+3a, 80-210 Gdansk, Poland.
+(4)Department of Clinical Biochemistry, The Children's Memorial Health 
+Institute, Aleja Dzieci Polskich 20, 04-730 Warsaw, Poland.
+(5)Department of Pulmonary Diseases and Children Rheumatology, Medical 
+University of Lublin, Profesora Antoniego Gębali Street, 20-093 Lublin, Poland.
+(6)Department of Pediatrics and Gastroenterology, Medical University of Lublin, 
+Profesora Antoniego Gębali Street, 20-093 Lublin, Poland.
+(7)Polish-Ukrainian Foundation of Medicine Development, Nałęczowska 14, 20-701 
+Lublin, Poland.
+(8)Department of Basic Nursing, Faculty of Health Sciences, Medical University, 
+Staszica 4/6, 20-081 Lublin, Poland.
+(9)Department of Clinical Immunology, Wroclaw Medical University, Parkowa 34, 
+51-616 Wroclaw, Poland.
+(10)Department of Health Promotion, Faculty Health of Sciences, Medical 
+University of Lublin, Staszica 4/6, 20-081 Lublin, Poland.
+
+(1) Background. Coeliac disease (CD) often co-occurs with autoimmune conditions 
+or genetic syndromes, but there are few studies on the co-existence of CD and 
+immunoglobulin E (IgE)-mediated allergies. The purpose of this study was to 
+assess sensitization to food and aero-allergens in pediatric patients with CD. 
+(2) Methods. A multiplex ALEX®2 test was used to determine specific IgEs 
+(sIgEs). (3) Results. The study included 108 children newly diagnosed with CD. 
+Allergen extract- and/or allergen molecule-sIgEs were detected in 49.1% of 
+children. Most children (41.5%) were sensitized to both inhalant and food 
+allergens. The three most common aero-allergens (timothy pollen, ryegrass, 
+silver birch) were molecules Phl p 1, Lol p 1, and Bet v 1. The most common food 
+allergens (hazelnut, apple, and peanut) were Cor a 1, Mal d 1, and Ara h 8 
+molecules of the PR-10 subfamily. Patients were not sensitized to cereal 
+allergens containing gluten. Spearman's rank correlation analysis of sensitized 
+patients showed a significant positive relationship (r = 0.31) between the 
+patients' age and the occurrence of positive sIgEs (≥0.3 kUA/L) for inhalant 
+allergen molecules (p = 0.045). In sensitized patients, mainly symptoms of 
+inhalant allergy were observed, such as hay fever, conjunctivitis, and bronchial 
+asthma. (4) Conclusions. The current study indicates the co-occurrence of IgE 
+sensitization to food and inhalant allergens in children with CD. The study 
+highlights the need to take a closer look at the diagnosis of IgE-mediated 
+allergy in patients with CD, which may help in their care and lead to a better 
+understanding of the relationship between CD and IgE-mediated allergy.
+
+DOI: 10.3390/jcm13102992
+PMCID: PMC11122608
+PMID: 38792533
+
+Conflict of interest statement: E.M. is an employee of the EMMA MDT Sp. z o.o. 
+company. For the remaining authors, none are declared.
+
+
+8. Front Immunol. 2024 Apr 22;15:1381130. doi: 10.3389/fimmu.2024.1381130. 
+eCollection 2024.
+
+The top 100 most cited articles in the past 30 years of wheat allergy: a 
+bibliometric analysis.
+
+Zhan M(#)(1)(2), Hou Y(#)(1)(2), Wen L(1)(2), Xu T(3).
+
+Author information:
+(1)Department of Allergy, State Key Laboratory of Complex Severe and Rare 
+Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical 
+Sciences and Peking Union Medical College, Beijing, China.
+(2)Allergy Department, Beijing Key Laboratory of Precision Medicine for 
+Diagnosis and Treatment of Allergic Diseases, National Clinical Research Center 
+for Dermatologic and Immunologic Diseases, Peking Union Medical College 
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+Beijing, China.
+(3)Department of Health Care, Peking Union Medical College Hospital, Chinese 
+Academy of Medical Sciences and Peking Union Medical College, Beijing, China.
+(#)Contributed equally
+
+BACKGROUND: Wheat allergy (WA), characterized by immunological responses to 
+wheat proteins, is a gluten-related disorder that has become increasingly 
+recognized in recent years. Bibliometrics involves the quantitative assessment 
+of publications within a specific academic domain.
+OBJECTIVES: We aimed to execute an extensive bibliometric study, focusing on the 
+past 30 years of literature related to wheat allergy.
+METHODS: We searched the Web of Science database on 5th Dec 2023. We used the 
+keywords "wheat allergy or wheat anaphylaxis or wheat hypersensitivity," 
+"gliadin allergy or gliadin anaphylaxis or gliadin hypersensitivity," 
+"wheat-dependent exercise-induced anaphylaxis," and "baker's asthma" for our 
+search. All items published between 1993 and 2023 were included. The top 100 
+most cited articles were identified and analyzed.
+RESULTS: Our study conducted an in-depth bibliometric analysis of the 100 
+most-cited articles in the field of wheat allergy, published between 2002 and 
+2019. These articles originated from 20 different countries, predominantly Japan 
+and Germany. The majority of these articles were centered on the pathogenesis 
+and treatment of wheat allergy (WA). The Journal of Allergy and Clinical 
+Immunology (JACI) was the most prolific contributor to this list, publishing 14 
+articles. The article with the highest citation count was published by Biomed 
+Central (BMC) and garnered 748 citations. The peak citation year was 2015, with 
+a total of 774 citations, while the years 1998, 2001, and 2005 saw the highest 
+publication frequency, each with 7 articles.
+CONCLUSION: Our study aims to provide physicians and researchers with a 
+historical perspective for the scientific progress of wheat allergy, and help 
+clinicians effectively obtain useful articles that have a significant impact on 
+the field of wheat allergy.
+
+Copyright © 2024 Zhan, Hou, Wen and Xu.
+
+DOI: 10.3389/fimmu.2024.1381130
+PMCID: PMC11070576
+PMID: 38711499 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+9. Allergy Asthma Clin Immunol. 2024 Mar 5;20(1):19. doi: 
+10.1186/s13223-024-00878-8.
+
+Eosinophilic gastritis and gluten-sensitive enteropathy manifested as 
+hypoproteinemia and treated with omalizumab: a case report.
+
+Du Z(1), Wang Z(1), Zhou W(2), Yin J(1), Zhi Y(3).
+
+Author information:
+(1)Department of Allergy, Chinese Academy of Medical Sciences and Peking Union 
+Medical College, Beijing Key Laboratory of Precision Medicine for Diagnosis and 
+Treatment of Allergic Disease, National Clinical Research Center for 
+Dermatologic and Immunologic Diseases, Peking Union Medical College Hospital, 
+No. 1 Shuaifuyuan Street, Wangfujing, Beijing, 100730, China.
+(2)Department of Pathology, Peking Union Medical College Hospital, Chinese 
+Academy of Medical Sciences, Beijing, China.
+(3)Department of Allergy, Chinese Academy of Medical Sciences and Peking Union 
+Medical College, Beijing Key Laboratory of Precision Medicine for Diagnosis and 
+Treatment of Allergic Disease, National Clinical Research Center for 
+Dermatologic and Immunologic Diseases, Peking Union Medical College Hospital, 
+No. 1 Shuaifuyuan Street, Wangfujing, Beijing, 100730, China. 
+yuxiang_zhi@126.com.
+
+BACKGROUND: Eosinophilic gastritis (EoG) has rarely been reported in conjunction 
+with gluten-sensitive enteropathy (GSE). When this does occur, patients 
+typically present with gastrointestinal symptoms. To our knowledge, 
+hypoproteinemia has not been reported as the primary manifestation. Anti-IgE 
+therapy, such as omalizumab, lowers eosinophil counts in the blood, lungs, and 
+gut. Its efficiency in treating active EoG remain unknown.
+CASE PRESENTATION: We report a 33-month-old boy with a history of food allergy 
+and atopic dermatitis who developed recurrent edema, hypoproteinemia, and 
+eosinophilia at the age of 14 months. The diagnoses of EoG and GSE were 
+confirmed based on the clinical presentation and results of gastrointestinal 
+biopsies and serological testing. Although prednisone and dietary intervention 
+were initially effective, the boy developed prednisone-related facial swelling. 
+After stopping prednisone, his symptoms relapsed. Subsequent treatment with 
+omalizumab, combined with dietary intervention, showed good efficacy and safety.
+CONCLUSIONS: To our knowledge, this is the first case of concurrent EoG and GSE 
+that presented primarily with hypoproteinemia. We highlight the rare 
+manifestations of these two diseases to raise clinical suspicion and prevent 
+missed and delayed diagnoses. The pathogenesis of EoG is heterogeneous and 
+complex. Omalizumab showed good efficacy, indicating that IgE-mediated processes 
+may be involved in the pathogenesis of this patient's diseases.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s13223-024-00878-8
+PMCID: PMC10913543
+PMID: 38443954
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+10. Ann Allergy Asthma Immunol. 2023 Oct;131(4):494-500.e1. doi: 
+10.1016/j.anai.2023.06.008. Epub 2023 Jun 12.
+
+Challenge-confirmed diagnosis restores quality of life in cofactor-dependent 
+wheat allergy.
+
+Faihs V(1), Kugler C(1), Bent RK(1), Biedermann T(1), Brockow K(2).
+
+Author information:
+(1)Department of Dermatology and Allergy Biederstein, School of Medicine, 
+Technical University of Munich, Munich, Germany.
+(2)Department of Dermatology and Allergy Biederstein, School of Medicine, 
+Technical University of Munich, Munich, Germany. Electronic address: 
+knut.brockow@tum.de.
+
+BACKGROUND: Food allergies including cofactor-dependent allergies such as 
+cofactor-dependent wheat allergy (CDWA) decrease the quality of life (QOL) of 
+patients.
+OBJECTIVE: To define the health-related QOL and fears in patients with CDWA and 
+to evaluate the impact of diagnosis confirmation by oral challenge test (OCT).
+METHODS: Patients with CDWA diagnosed by clinical history, sensitization, and 
+OCT were invited to participate. Clinical characteristics, patients' fears, 
+self-perceived overall QOL, the Food Allergy Quality of Life Questionnaire-Adult 
+Form score, and the risks and benefits of OCT were evaluated after the final 
+diagnosis.
+RESULTS: A total of 22 adults with CDWA (13 male, 9 female; mean age 53.5 years; 
+median 5 years until diagnosis) were included. Specific immunoglobulin E (IgE) 
+levels for gluten proteins were inversely correlated with the reaction threshold 
+(P < .05). Higher reaction severity in the patients' histories correlated with 
+increased basal serum tryptase levels (P = .003) and gluten and gliadin specific 
+IgE (P < .05), but not to QOL. After the first allergic reaction, patients 
+reported a drop in QOL (P < .001). Challenge-confirmed diagnosis and medical 
+consultation could restore the patients' QOL (P < .05) and reduce their fear of 
+further reactions (P < .01). No severe reactions occurred during OCT, which was 
+rated as not stressful and highly beneficial. Compared with patients with CDWA 
+diagnosed without OCT in the literature, health-related QOL was less impaired 
+(mean Food Allergy Quality of Life Questionnaire-Adult Form score 3.8), 
+especially regarding the emotional impact (P < .001 vs existing literature).
+CONCLUSION: Until final diagnosis, patients with CDWA have a severe physical and 
+psychological burden. OCT is a safe method to confirm the diagnosis, restore the 
+patients' severely affected QOL, and reduce their fear of further reactions.
+
+Copyright © 2023 American College of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.anai.2023.06.008
+PMID: 37315737 [Indexed for MEDLINE]

@@ -1,0 +1,190 @@
+1. Nutrients. 2020 Jul 29;12(8):2277. doi: 10.3390/nu12082277.
+
+Beneficial Effects of a Low-Nickel Diet on Relapsing IBS-Like and 
+Extraintestinal Symptoms of Celiac Patients during a Proper Gluten-Free Diet: 
+Nickel Allergic Contact Mucositis in Suspected Non-Responsive Celiac Disease.
+
+Borghini R(1), De Amicis N(1), Bella A(2), Greco N(1), Donato G(1), Picarelli 
+A(1).
+
+Author information:
+(1)Department of Translational and Precision Medicine, Sapienza University, 
+00185 Rome, Italy.
+(2)Department of Infectious Diseases, Istituto Superiore di Sanità, 00161 Rome, 
+Italy.
+
+BACKGROUND AND AIM: Nickel (Ni)-rich foods can induce allergic contact mucositis 
+(ACM) with irritable bowel syndrome (IBS)-like symptoms in predisposed subjects. 
+Ni ACM has a high prevalence (>30%) in the general population and can be 
+diagnosed by a Ni oral mucosa patch test (omPT). Many celiac disease (CD) 
+patients on a gluten-free diet (GFD) often show a recrudescence of 
+gastrointestinal and extraintestinal symptoms, although serological and 
+histological remission has been achieved. Since a GFD often results in higher 
+loads of ingested alimentary Ni (e.g., corn), we hypothesized that it would lead 
+to a consequent intestinal sensitization to Ni in predisposed subjects. We 
+wanted to (1) study Ni ACM prevalence in still symptomatic CD patients on a GFD 
+and (2) study the effects of a low-Ni diet (LNiD) on their recurrent symptoms.
+MATERIAL AND METHODS: We recruited 102 consecutive CD patients (74 female, 28 
+male; age range 18-65 years, mean age 42.3 ± 7.4) on a GFD since at least 12 
+months, in current serological and histological remission (Marsh-Oberhuber type 
+0-I) who complained of relapsing gastrointestinal and/or extraintestinal 
+symptoms.
+INCLUSION CRITERIA: presence of at least three gastrointestinal symptoms with a 
+score ≥5 on the modified Gastrointestinal Symptom Rating Scale (GSRS) 
+questionnaire.
+EXCLUSION CRITERIA: IgE-mediated food allergy; history of past or current 
+cancer; inflammatory bowel diseases; infectious diseases including Helicobacter 
+pylori; lactose intolerance. All patients enrolled underwent Ni omPT and 
+followed a LNiD for 3 months. A 24 symptoms questionnaire (GSRS modified 
+according to the Salerno Experts' Criteria, with 15 gastrointestinal and 9 
+extraintestinal symptoms) was administered at T0 (free diet), T1 (GFD, CD 
+remission), T2 (recurrence of symptoms despite GFD), and T3 (GFD + LNiD) for 
+comparisons. Comparisons were performed using Wilcoxon signed-rank test.
+RESULTS: Twenty patients (all female, age range 23-65 years, mean age 39.1 ± 
+2.9) out of 102 (19.6%) were finally included. All 20 patients enrolled (100%) 
+showed positive Ni omPT, confirming an Ni ACM diagnosis. A correct GFD (T0 vs. 
+T1) induced the improvement of 19 out of the total 24 (79.2%) symptoms, and 14 
+out of 24 (58.3%) were statistically significant (p-value < 0.0083 according to 
+Bonferroni correction). Prolonged GFD (T1 vs. T2) revealed the worsening of 20 
+out of the total 24 (83.3%) symptoms, and 10 out of 24 (41.7%) were 
+statistically significant. LNiD (T2 vs. T3) determined an improvement of 20 out 
+of the total 24 (83.4%) symptoms, and in 10 out of 24 (41.7%) symptoms the 
+improvement was statistically significant.
+CONCLUSIONS: Our data suggest that the recrudescence of gastrointestinal and 
+extraintestinal symptoms observed in CD subjects during GFD may be due to the 
+increase in alimentary Ni intake, once gluten contamination and persisting 
+villous atrophy are excluded. Ni overload can induce Ni ACM, which can be 
+diagnosed by a specific Ni omPT. Improvement of symptoms occurs after a proper 
+LNiD. These encouraging data should be confirmed with larger studies.
+
+DOI: 10.3390/nu12082277
+PMCID: PMC7468824
+PMID: 32751300 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2. Mol Cells. 2019 Apr 30;42(4):313-320. doi: 10.14348/molcells.2019.2431.
+
+Microbial Colonization at Early Life Promotes the Development of Diet-Induced 
+CD8αβ Intraepithelial T Cells.
+
+Jung J(1)(2), Surh CD(1)(2)(3), Lee YJ(1)(2).
+
+Author information:
+(1)Academy of Immunology and Microbiology, Institute for Basic Science (IBS), 
+Pohang 37673, Korea.
+(2)Division of Integrative Biosciences & Biotechnology, Pohang University of 
+Science and Technology (POSTECH), Pohang 37673, Korea.
+(3)Division of Developmental Immunology, La Jolla Institute for Allergy & 
+Immunology, CA 92037, USA.
+
+Intraepithelial lymphocytes (IELs) develop through the continuous interaction 
+with intestinal antigens such as commensal microbiome and diet. However, their 
+respective roles and mutual interactions in the development of IELs are largely 
+unknown. Here, we showed that dietary antigens regulate the development of the 
+majority of CD8αβ IELs in the small intestine and the absence of commensal 
+microbiota particularly during the weaning period, delay the development of 
+IELs. When we tested specific dietary components, such as wheat or combined 
+corn, soybean and yeast, they were dependent on commensal bacteria for the 
+timely development of diet-induced CD8αβ IELs. In addition, supplementation of 
+intestinal antigens later in life was inefficient for the full induction of 
+CD8αβ IELs. Overall, our findings suggest that early exposure to commensal 
+bacteria is important for the proper development of dietary antigen-dependent 
+immune repertoire in the gut.
+
+DOI: 10.14348/molcells.2019.2431
+PMCID: PMC6530640
+PMID: 30841027 [Indexed for MEDLINE]
+
+
+3. Healthcare (Basel). 2017 Apr 26;5(2):21. doi: 10.3390/healthcare5020021.
+
+Irritable Bowel Syndrome: Clinical Manifestations, Dietary Influences, and 
+Management.
+
+Ikechi R(1), Fischer BD(2), DeSipio J(3), Phadtare S(4).
+
+Author information:
+(1)Department of Biomedical Sciences, Cooper Medical School of Rowan University, 
+Camden, NJ 08103, USA. ikechir0@rowan.edu.
+(2)Department of Biomedical Sciences, Cooper Medical School of Rowan University, 
+Camden, NJ 08103, USA. fischerb@rowan.edu.
+(3)Department of Medicine, Gastroenterology/Liver Diseases Division, Cooper 
+Medical School of Rowan University, Camden, NJ 08103, USA. 
+DeSipio-Joshua@CooperHealth.edu.
+(4)Department of Biomedical Sciences, Cooper Medical School of Rowan University, 
+Camden, NJ 08103, USA. phadtare@rowan.edu.
+
+Irritable bowel syndrome (IBS) is a functional gastrointestinal disorder that is 
+characterized by symptoms of chronic abdominal pain and altered bowel habits in 
+the absence of an overtly identifiable cause. It is the most commonly diagnosed 
+functional gastrointestinal disorder, accounting for about one third of 
+gastroenterology visits. It generally presents as a complex of symptoms, 
+including psychological dysfunction. Hypersensitivity to certain foods, 
+especially foods that contain high amounts of fructose, plays a role in the 
+pathophysiology of IBS. Elevated consumption of high-fructose corn syrup (HFCS) 
+has been discussed in this aspect. The treatment options for IBS are challenging 
+and varied. In addition to dietary restrictions for HFCS-induced IBS, such as 
+low-FODMAP (Fermentable Oligosaccharides, Disaccharide, Monosaccharides, and 
+Polyols) diets, existing drug therapies are administered based on the 
+predominant symptoms and IBS-subtype. Patients with IBS are likely to suffer 
+from issues, such as anxiety, depression, and post-traumatic-stress disorder. 
+Biopsychosocial factors particularly socioeconomic status, sex, and race should, 
+thus, be considered for diagnostic evaluation of patients with IBS.
+
+DOI: 10.3390/healthcare5020021
+PMCID: PMC5492024
+PMID: 28445436
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+4. Clin Exp Allergy. 2007 Jun;37(6):823-30. doi:
+10.1111/j.1365-2222.2007.02727.x.
+
+Alterations of food antigen-specific serum immunoglobulins G and E antibodies in 
+patients with irritable bowel syndrome and functional dyspepsia.
+
+Zuo XL(1), Li YQ, Li WJ, Guo YT, Lu XF, Li JM, Desmond PV.
+
+Author information:
+(1)Department of Gastroenterology, Qilu Hospital, Shandong University, Jinan, 
+China.
+
+Comment in
+    Clin Exp Allergy. 2007 Jun;37(6):805-7. doi: 
+10.1111/j.1365-2222.2007.02736.x.
+
+BACKGROUND: Post-prandial worsening of symptoms as well as adverse reactions to 
+one or more foods are common in the patients with functional gastrointestinal 
+diseases, such as irritable bowel syndrome (IBS) and functional dyspepsia (FD). 
+However, the role played by true food allergy in the pathogenesis of these 
+diseases is still controversial and there are no well-established tests to 
+identify food allergy in this condition.
+OBJECTIVE: To investigate serum food antigen-specific IgG, IgE antibody and 
+total IgE antibody titres in controls and patients with IBS and FD, and to 
+correlate symptoms with the food antigen-specific IgG titres in IBS and FD 
+patients.
+METHODS: Thirty-seven IBS patients, 28 FD patients and 20 healthy controls 
+participated in this study. Serum IgG and IgE antibody titres to 14 common foods 
+including beef, chicken, codfish, corn, crab, eggs, mushroom, milk, pork, rice, 
+shrimp, soybean, tomatoes and wheat were analysed by ELISA. Serum total IgE 
+titres were also measured. Last, symptomatology was assessed in the study. 
+Results IBS patients had significantly higher titres of IgG antibody to crab 
+(P=0.000), egg (P=0.000), shrimp (P=0.000), soybean (P=0.017) and wheat 
+(P=0.004) than controls. FD patients had significantly higher titres of IgG 
+antibody to egg (P=0.000) and soybean (P=0.017) than controls. The percentage of 
+individuals with detectable positive food antigen-specific IgE antibodies of the 
+three groups did not show any significant differences (P=0.971). There were no 
+significant differences between IBS patients, FD patients and controls in the 
+serum total IgE antibody titres (P=0.978). Lastly, no significant correlation 
+was seen between symptom severity and serum food antigen-specific IgG antibody 
+titres both in IBS and FD patients.
+CONCLUSION: Serum IgG antibody titres to some common foods increased in IBS and 
+FD patients compared to controls. But there is no significant correlation 
+between symptom severity and elevated serum food antigen-specific IgG antibodies 
+in these patients.
+
+DOI: 10.1111/j.1365-2222.2007.02727.x
+PMID: 17517095 [Indexed for MEDLINE]

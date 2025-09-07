@@ -1,0 +1,629 @@
+1. Curr Opin Gastroenterol. 2025 May 1;41(3):164-174. doi: 
+10.1097/MOG.0000000000001090. Epub 2025 Feb 17.
+
+The role of gluten and wheat in irritable bowel syndrome and noncoeliac gluten 
+or wheat sensitivity.
+
+van Gils T(1), Simrén M(1)(2).
+
+Author information:
+(1)Department of Molecular and Clinical Medicine, Institute of Medicine, 
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(2)Center for Functional Gastrointestinal and Motility Disorders, University of 
+North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.
+
+PURPOSE OF REVIEW: The role of gluten and wheat in irritable bowel syndrome 
+(IBS) is unclear, whereas it plays a key-role in the diagnosis and treatment of 
+noncoeliac gluten or wheat sensitivity (NCGWS). This review aims to provide the 
+most recent insights in pathophysiological mechanisms and to summarize the 
+evidence for a gluten- or wheat-free diet in IBS and NCGWS.
+RECENT FINDINGS: The exact role of gluten and wheat in IBS and NCGWS 
+pathophysiological mechanisms remains complex. However, recent findings suggest 
+a role for antigliadin antibodies to identify those IBS patients who may benefit 
+from a gluten-free diet and low levels of fecal calprotectin to differentiate 
+IBS and NCGWS. The importance of gut-brain interactions in self-reported gluten 
+sensitive individuals was shown by a strong nocebo effect, although a role of 
+gluten could not be excluded. Evidence for a gluten-free diet remains debatable 
+in both conditions, whereas a wheat-free diet may have more potential, 
+especially in NCGWS.
+SUMMARY: IBS and NCGWS are two closely related conditions with a complex and 
+largely unrevealed pathophysiology. The role of gluten may have been 
+overestimated in the past, but it is likely that certain wheat components, along 
+with gut-brain interactions, play a role in both conditions.
+
+Copyright © 2025 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MOG.0000000000001090
+PMID: 39998947 [Indexed for MEDLINE]
+
+
+2. Front Allergy. 2025 Jan 9;5:1505834. doi: 10.3389/falgy.2024.1505834. 
+eCollection 2024.
+
+Intestinal permeability, food antigens and the microbiome: a multifaceted 
+perspective.
+
+Valitutti F(1)(2), Mennini M(3), Monacelli G(1), Fagiolari G(1), Piccirillo 
+M(3), Di Nardo G(3), Di Cara G(1).
+
+Author information:
+(1)Department of Medicine and Surgery, Pediatric Unit, University of Perugia, 
+Perugia, Italy.
+(2)European Biomedical Research Institute of Salerno (EBRIS), Salerno, Italy.
+(3)Department of Neurosciences, Mental Health and Sensory Organs (NESMOS), 
+Faculty of Medicine and Psychology, Sapienza University of Rome, Pediatric Unit, 
+Sant'Andrea University Hospital, Rome, Italy.
+
+The gut barrier encompasses several interactive, physical, and functional 
+components, such as the gut microbiota, the mucus layer, the epithelial layer 
+and the gut mucosal immunity. All these contribute to homeostasis in a 
+well-regulated manner. Nevertheless, this frail balance might be disrupted for 
+instance by westernized dietary habits, infections, pollution or exposure to 
+antibiotics, thus diminishing protective immunity and leading to the onset of 
+chronic diseases. Several gaps of knowledge still exist as regards this 
+multi-level interaction. In this review we aim to summarize current evidence 
+linking food antigens, microbiota and gut permeability interference in diverse 
+disease conditions such as celiac disease (CeD), non-celiac wheat sensitivity 
+(NCWS), food allergies (FA), eosinophilic gastrointestinal disorder (EOGID) and 
+irritable bowel syndrome (IBS). Specific food elimination diets are recommended 
+for CeD, NCWS, FA and in some cases for EOGID. Undoubtfully, each of these 
+conditions is very different and quite unique, albeit food antigens/compounds, 
+intestinal permeability and specific microbiota signatures orchestrate immune 
+response and decide clinical outcomes for all of them.
+
+© 2025 Valitutti, Mennini, Monacelli, Fagiolari, Piccirillo, Di Nardo and Di 
+Cara.
+
+DOI: 10.3389/falgy.2024.1505834
+PMCID: PMC11754301
+PMID: 39850945
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The author(s) declared that 
+they were an editorial board member of Frontiers, at the time of submission. 
+This had no impact on the peer review process and the final decision.
+
+
+3. Z Gastroenterol. 2024 Aug;62(8):1201-1206. doi: 10.1055/a-2258-8509. Epub 2024
+ May 15.
+
+Gastrointestinal adverse reaction to food (GARF) and endoscopic confocal laser 
+endomicroscopy (eCLE).
+
+[Article in English]
+
+Frieling T(1), Gjini B(1), Melchior I(1), Euler P(1), Kreysel C(1), Kalde S(1), 
+Krummen B(1), Kiesslich R(2), Hemmerlein B(3).
+
+Author information:
+(1)Medizinische Klinik II, HELIOS Klinikum Krefeld, Krefeld, Germany.
+(2)Regional Medical Managing Director, Helios Dr. Horst Schmidt Kliniken 
+Wiesbaden GmbH, Wiesbaden, Germany.
+(3)Institut für Pathologie, Helios Klinikum Krefeld, Krefeld, Germany.
+
+BACKGROUND AND STUDY AIMS: Gastrointestinal adverse reaction to food (GARF) is 
+reported frequently in the general population and even more in patients with 
+disorders of the gut brain axis. However, there is a significant difference 
+between self-reported and objective proven GARF. The aim of the study was to 
+characterize a mucosal correlate of GARF by endoscopic confocal laser 
+endomicroscopy (eCLE) with duodenal food challenge (DFC).
+PATIENTS AND METHODS: In an observational and proof of concept study we 
+evaluated 71 patients with disorders of the gut brain axis without (group I, 
+n=19) and with (group II, n=52) GARF by eCLE and DFC. Spontaneous and food 
+induced transfer of fluorescein into duodenal lumen was detected 10 minutes 
+following intravenously application of fluorescein and 10 minutes after DFC.
+RESULTS: According to Rom IV, the patients (group I/II) could be classified as 
+irritable bowel syndrome (IBS) 32%/31%, functional abdominal pain without 
+changes in bowel movement 47 %/48 %, functional abdominal bloating/distension 0 
+%/10 %, functional diarrhea 5 %/ 2 %, and unspecified functional bowel disorder 
+16 %/10 %, respectively. 21 %/27 % of the patients responded with a fluorescein 
+leakage into the duodenal lumen before and 74 %/69 % following to DFC. Frequency 
+rank order of food components that induced a response were soy (55.5 %/60 %), 
+wheat (60 %/45.5 %), egg (35.7 %/8.3), milk (30 %/18.2 %) and yeast (10 %/6.6 
+%), respectively. Histology of duodenal biopsies, number, form and distribution 
+of intraepithelial lymphocytes and mucosal mast cells as well as mast cell 
+function were normal. Overall, 14 %/79 % reported main symptom benefit following 
+a food exclusion therapy according to eCLE and DFC that was significant 
+different between the groups.
+CONCLUSION: The results of our study indicate that eCLE with DFC is a technique 
+to clinically evaluate patients with disorders of the gut brain axis and GARF 
+resulting in a high proportion of patients reporting symptom benefit upon food 
+exclusion dietary advice focussed on the results of eCLE.
+
+Publisher: HINTERGRUND UND STUDIENZIEL: Gastrointestinale 
+Nahrungsunverträglichkeiten (GARF) werden häufig in der Allgemeinbevölkerung und 
+insbesondere bei Patienten mit Störungen der Darm Hirn Achse berichtet. 
+Allerdings besteht eine große Diskrepanz zwischen der subjektiv empfundenen und 
+der objektivierten GARF. Das Studienziel war die Charakterisierung eines 
+mukosalen Korrelates durch die duodenale Nahrungsprovokation (DFC) mittels 
+endoskopischer konfokaler Laserendomikroskopie (eCLE).
+PATIENTEN UND METHODE: In einer Observations- und „proof of concept“-Studie 
+wurden 71 Patienten mit Störungen der Darm Hirn Achse ohne (Gruppe I, n=19) und 
+mit (Gruppe II, n=52) GARF durch eCLE und DFC untersucht. Hierbei wurden der 
+spontane und nahrungsinduzierte Transfer von Fluorescein in das Duodenallumen 10 
+Minuten nach intravenöser Gabe untersucht.
+ERGEBNISSE: Die Patienten (Gruppe I/II) wurden gemäß Rom IV-Kriterien in 
+Reizdarmsyndrom (IBS) 32%/31%, funktionelle Bauchschmerzen ohne 
+Stuhlgangverändeurngen 47%/48%, funktionelle Blähungen/Bauchdistension 0%/10%, 
+funktionelle Diarrhoe 5%/ 2%, and unspezifische funktionelle Bauchbeschwerden 
+16%/10% klassifiziert. 21%/27% der Patienten zeigten einen Transfer von 
+Fluorescein in das Duodenallumen vor und 74%/69% nach DFC. Die 
+Häufigkeitsrangfolge der Nahrungskomponenten, die eine Reaktion auslösten, waren 
+Soja (55,5%/60%), Weizen (60%/45,5%), Ei (35,7%/8,3%), Milch (30%/18,2%) und 
+Hefe (10%/6,6%). Sowohl die Histologie der Duodenalbiopsien, die Zahl, Form und 
+Verteilung der intraepithelialen Lymphozyten und Mastzellen als auch die 
+Funktion der Mastzellen waren unauffällig. Insgesamt berichteten 14%/79% über 
+eine Symptomenbesserung durch eine diätetische Ausschlusstherapie gemäß den 
+Ergebnissen der DFC, die zwischen den beiden Gruppen nicht signifikant 
+unterschiedlich war.
+SCHLUSSFOLGERUNG: Die Ergebnisse der Studie zeigen, dass eCLE mit DFC eine 
+Technik zur Untersuchung von Patienten mit Störungen der Darm Hirn Achse und 
+GARF ist. Hierdurch kann eine große Gruppe von Patienten charakterisiert werden, 
+die von einer diätetischen Auschlusstherapie gemäß den Ergebnissen der eCLE 
+profitieren.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-2258-8509
+PMID: 38749460 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+4. Intern Emerg Med. 2024 Aug;19(5):1255-1266. doi: 10.1007/s11739-024-03595-7. 
+Epub 2024 Apr 12.
+
+Fecal calprotectin levels in patients with non-celiac wheat sensitivity: a proof 
+of concept.
+
+Seidita A(1)(2)(3), Giuliano A(1)(2), Soresi M(4), Chiavetta M(1)(2), Nardi 
+E(5), Mogavero G(6), Giannone G(7), Carroccio A(8)(9), Mansueto P(4).
+
+Author information:
+(1)Unit of Internal Medicine, "V. Cervello" Hospital, Ospedali Riuniti "Villa 
+Sofia-Cervello", Via Trabucco, 180, 90146, Palermo, Italy.
+(2)Department of Health Promotion Sciences, Maternal and Infant Care, Internal 
+Medicine and Medical Specialties (PROMISE), University of Palermo, Palermo, 
+Italy.
+(3)Institute for Biomedical Research and Innovation (IRIB), National Research 
+Council (CNR), Palermo, Italy.
+(4)Unit of Internal Medicine, Department of Health Promotion Sciences, Maternal 
+and Infant Care, Internal Medicine and Medical Specialties (PROMISE), University 
+of Palermo, Palermo, Italy.
+(5)Unit of Internal Medicine II, Department of Health Promotion Sciences, 
+Maternal and Infant Care, Internal Medicine and Medical Specialties (PROMISE), 
+University of Palermo, Palermo, Italy.
+(6)Unit of Gastroenterology, "V. Cervello" Hospital, Ospedali Riuniti "Villa 
+Sofia-Cervello", Palermo, Italy.
+(7)Pathology Unit, Department of Health Promotion Sciences, Maternal and Infant 
+Care, Internal Medicine and Medical Specialties (PROMISE), University of 
+Palermo, Palermo, Italy.
+(8)Unit of Internal Medicine, "V. Cervello" Hospital, Ospedali Riuniti "Villa 
+Sofia-Cervello", Via Trabucco, 180, 90146, Palermo, Italy. 
+antonio.carroccio@unipa.it.
+(9)Department of Health Promotion Sciences, Maternal and Infant Care, Internal 
+Medicine and Medical Specialties (PROMISE), University of Palermo, Palermo, 
+Italy. antonio.carroccio@unipa.it.
+
+Some data suggest the existence of intestinal inflammation in patients with 
+non-celiac wheat sensitivity (NCWS). We aimed to verify whether fecal 
+calprotectin (FCP), a marker of intestinal inflammation, could be used to 
+confirm this inflammatory status and to test its diagnostic performance in 
+differentiating NCWS from irritable bowel syndrome/functional dyspepsia 
+(IBS/FD). We conducted a multicenter study, comparing NCWS patients, diagnosed 
+by a double-blind placebo-controlled wheat challenge, with IBS/FD subjects. In 
+the retrospective phase, FCP values were analyzed to define the prevalence of 
+its positivity and its role as a NCWS diagnostic biomarker. In the prospective 
+phase we tested the effects of a strict 6-month wheat-free diet (WFD) on FCP 
+values. 31.3% (n = 63/201) of NCWS patients had above normal FCP values (NCWS 
+FCP +), whereas all IBS/FD patients proved negative (P = 0.0001). FCP using a 
+cut-off value > 41 µg/g showed a 58.6% sensitivity and a 98.0% specificity (AUC 
+0.755, 95% C.I. 0.702-0.837) in distinguishing NCWS from IBS/FD patients. Of the 
+63 NCWS FCP+, 65.1% had negative FCP values after ≥ 6 months of WFD, with a 
+significant reduction in FCP values (P < 0.0001). All NCWS FCP- subjects still 
+preserved negative FCP values after ≥ 6 months of WFD. Our study showed that FCP 
+can be a useful but supplementary diagnostic marker for differentiating between 
+NCWS and IBS/FD. Strict WFD adherence reduced FCP values, normalizing them in 
+65.1% of NCWS FCP + subjects. These data suggest the existence of two NCWS 
+subgroups: NCWS FCP + characterized by a probable predominantly 
+inflammatory/immunologic pattern and NCWS FCP- featuring non-immuno-mediated 
+etiopathogenetic mechanisms. (Registration number NCT01762579).
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s11739-024-03595-7
+PMCID: PMC11364563
+PMID: 38609737 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no conflicts 
+of interest regarding the publication of this paper.
+
+
+5. BMC Gastroenterol. 2023 Jan 16;23(1):15. doi: 10.1186/s12876-023-02649-y.
+
+Evaluation of gut microbiota of iranian patients with celiac disease, non-celiac 
+wheat sensitivity, and irritable bowel syndrome: are there any similarities?
+
+Naseri K(1), Dabiri H(2), Olfatifar M(3), Shahrbaf MA(4), Yadegar A(5), 
+Soheilian-Khorzoghi M(4), Sadeghi A(4), Saadati S(4), Rostami-Nejad M(6), Verma 
+AK(7), Zali MR(4).
+
+Author information:
+(1)School of Health and Biomedical Sciences, RMIT University, Melbourne, VIC, 
+Australia.
+(2)Department of Microbiology, School of Medicine, Shahid Beheshti University of 
+Medical Sciences, Tehran, Iran.
+(3)Gastroenterology and Hepatology Diseases Research Center, Qom University of 
+Medical Sciences, Qom, Iran.
+(4)Celiac Disease Department, Gastroenterology and Liver Diseases Research 
+Center, Research Institute for Gastroenterology and Liver Diseases, Shahid 
+Beheshti University of Medical Sciences, Tehran, Iran.
+(5)Foodborne and Waterborne Diseases Research Center, Research Institute for 
+Gastroenterology and Liver Diseases, Shahid Beheshti University of Medical 
+Sciences, Tehran, Iran.
+(6)Celiac Disease Department, Gastroenterology and Liver Diseases Research 
+Center, Research Institute for Gastroenterology and Liver Diseases, Shahid 
+Beheshti University of Medical Sciences, Tehran, Iran. m.rostamii@gmail.com.
+(7)Celiac Disease Research Laboratory, Department of Pediatrics, Università 
+Politecnica Delle Marche, 60123, Ancona, Italy.
+
+BACKGROUND AND AIMS: Individuals with celiac disease (CD), non-celiac wheat 
+sensitivity (NCWS), and irritable bowel syndrome (IBS), show overlapping 
+clinical symptoms and experience gut dysbiosis. A limited number of studies so 
+far compared the gut microbiota among these intestinal conditions. This study 
+aimed to investigate the similarities in the gut microbiota among patients with 
+CD, NCWS, and IBS in comparison to healthy controls (HC).
+MATERIALS AND METHODS: In this prospective study, in total 72 adult subjects, 
+including CD (n = 15), NCWS (n = 12), IBS (n = 30), and HC (n = 15) were 
+recruited. Fecal samples were collected from each individual. A quantitative 
+real-time PCR (qPCR) test using 16S ribosomal RNA was conducted on stool samples 
+to assess the relative abundance of Firmicutes, Bacteroidetes, Bifidobacterium 
+spp., and Lactobacillus spp.
+RESULTS: In all groups, Firmicutes and Lactobacillus spp. had the highest and 
+lowest relative abundance respectively. The phylum Firmicutes had a higher 
+relative abundance in CD patients than other groups. On the other hand, the 
+phylum Bacteroidetes had the highest relative abundance among healthy subjects 
+but the lowest in patients with NCWS. The relative abundance of Bifidobacterium 
+spp. was lower in subjects with CD (P = 0.035) and IBS (P = 0.001) compared to 
+the HCs. Also, the alteration of Firmicutes to Bacteroidetes ratio (F/B ratio) 
+was statistically significant in NCWS and CD patients compared to the HCs 
+(P = 0.05).
+CONCLUSION: The principal coordinate analysis (PCoA), as a powerful multivariate 
+analysis, suggested that the investigated gut microbial profile of patients with 
+IBS and NCWS share more similarities to the HCs. In contrast, patients with CD 
+had the most dissimilarity compared to the other groups in the context of the 
+studied gut microbiota.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12876-023-02649-y
+PMCID: PMC9841652
+PMID: 36647022 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+6. Dig Liver Dis. 2023 Jun;55(6):735-742. doi: 10.1016/j.dld.2022.11.022. Epub
+2022  Dec 17.
+
+Anemia in non-celiac wheat sensitivity: Prevalence and associated clinical and 
+laboratory features.
+
+Mansueto P(1), Seidita A(1), Soresi M(1), Giuliano A(2), Riccio G(1), Volta 
+U(3), Caio G(4), La Blasca F(1), Disclafani R(5), De Giorgio R(4), Carroccio 
+A(6).
+
+Author information:
+(1)Unit of Internal Medicine, Department of Health Promotion Sciences, Maternal 
+and Infant Care, Internal Medicine and Medical Specialties (PROMISE), University 
+of Palermo, 90127, Palermo, Italy.
+(2)Unit of Internal Medicine, "V. Cervello" Hospital, Ospedali Riuniti "Villa 
+Sofia-Cervello", 90146, Palermo, Italy; Department of Health Promotion Sciences, 
+Maternal and Infant Care, Internal Medicine and Medical Specialties (PROMISE), 
+University of Palermo, 90127, Palermo, Italy.
+(3)Department of Medical and Surgical Sciences (DIMEC), University of Bologna, 
+40138, Bologna, Italy.
+(4)Department of Translational Medicine, University of Ferrara, 44121, Ferrara, 
+Italy.
+(5)Istituto Zooprofilattico Sperimentale della Sicilia (IZSS), 90129, Palermo, 
+Italy.
+(6)Unit of Internal Medicine, "V. Cervello" Hospital, Ospedali Riuniti "Villa 
+Sofia-Cervello", 90146, Palermo, Italy; Department of Health Promotion Sciences, 
+Maternal and Infant Care, Internal Medicine and Medical Specialties (PROMISE), 
+University of Palermo, 90127, Palermo, Italy. Electronic address: 
+antonio.carroccio@unipa.it.
+
+BACKGROUND: Patients suffering from non-celiac wheat sensitivity (NCWS) 
+frequently report extra-intestinal symptoms, such as anemia.
+AIMS: We investigated the prevalence and associated clinical features of anemia 
+in NCWS patients.
+METHODS: Data from 244 NCWS patients, diagnosed by double-blind 
+placebo-controlled wheat challenge, were retrospectively reviewed and compared 
+with 2 control groups (celiac disease (CD) and irritable bowel syndrome (IBS)). 
+Furthermore, 31 NCWS anemic patients were prospectively re-evaluated after at 
+least 12 months on the "strict" wheat-free diet (WFD).
+RESULTS: Anemia prevalence in NCWS patients was 34.8% (mean hemoglobin 
+10.4 ± 1.4 g/dl), significantly higher than in IBS (17.4%, P = 0.03), but not in 
+CD ones. The NCWS group, on the whole, had sideropenic-like features with low 
+serum iron and altered iron deposits. Both anemia prevalence and 
+sideropenic-like features were more evident in CD than in NCWS patients, whereas 
+only a few IBS subjects showed such features. Significant differences were found 
+in anemic vs non-anemic NCWS patients as regards to female sex, diagnostic 
+delay, poly/hypermenorrhea, iron deficiency, and higher TSH values. A long-term 
+WFD significantly reduced anemia and improved iron metabolism.
+CONCLUSION: Microcytic/hypochromic anemia and altered iron metabolism occur 
+frequently in NCWS and can be treated with a long-term strict WFD. NCWS should 
+be included in differential diagnosis of anemic patients with "functional 
+gastrointestinal troubles".
+
+Copyright © 2022 Editrice Gastroenterologica Italiana S.r.l. Published by 
+Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dld.2022.11.022
+PMID: 36535870 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest Guarantor of the article: 
+Antonio Carroccio, MD. The authors declare that there are no conflicts of 
+interest regarding the publication of this paper.
+
+
+7. Gut Microbes. 2022 Jan-Dec;14(1):2132078. doi: 10.1080/19490976.2022.2132078.
+
+The duodenal mucosa associated microbiome, visceral sensory function, immune 
+activation and psychological comorbidities in functional gastrointestinal 
+disorders with and without self-reported non-celiac wheat sensitivity.
+
+Shah A(1)(2)(3), Kang S(3)(4), Talley NJ(5), Do A(1)(3), Walker MM(5), Shanahan 
+ER(1)(2), Koloski NA(1)(2)(3)(5), Jones MP(5), Keely S(6), Morrison M(1)(3)(4), 
+Holtmann GJ(1)(2)(3).
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, Princess Alexandra Hospital, 
+Brisbane, Australia.
+(2)Translational Research Institute Queensland, Australia.
+(3)Faculty of Medicine, University of Queensland, Brisbane, Australia.
+(4)University of Queensland Diamantina Institute, Woolloongabba, Australia.
+(5)College of Health, Medicine and Wellbeing, University of Newcastle, 
+Callaghan, and Hunter Medical Research Institute, New Lambton Heights, 
+Australia.
+(6)School of Biomedical Sciences and Pharmacy, University of Newcastle, 
+Callaghan, and Hunter Medical Research Institute, New Lambton Heights, 
+Australia.
+
+Frequently, patients with functional gastrointestinal disorders (FGIDs) report 
+intolerance of wheat products. We compared gastrointestinal symptoms, sensory 
+function, psychiatric comorbidities, gut-homing immune cells, and duodenal 
+mucosa-associated microbiome (d-MAM) in FGID patients and controls with and 
+without self-reported wheat sensitivity (SR-NCWS). We recruited 40 FGID patients 
+and 20 controls referred by GPs for treatment. Gastrointestinal/extraintestinal 
+symptoms, visceral sensory function, psychological comorbidities, and SR-NCWS 
+were assessed in a standardized approach. Peripheral gut homing T-cells 
+(CD4+α4+β7+CCR9+/CD8+α4+β7+CCR9+) were quantified, and the d-MAM was assessed by 
+DNA sequencing for 46 subjects. Factors of bacterial genera were extracted 
+utilizing factor analysis with varimax rotation and factors univariately 
+associated with FGID or SR-NCWS included in a subsequent multivariate analysis 
+of variance to identify statistically independent discriminators. Anxiety scores 
+(p < .05) and increased symptom responses to a nutrient challenge (p < .05) were 
+univariately associated with FGID. Gut homing T-cells were increased in FGID 
+patients with SR-NCWS compared to other groups (p all <0.05). MANOVA revealed 
+that anxiety (p = .03), visceral sensory function (p = 0.007), and a d-MAM 
+factor comprise members of the Alloprevotella, Prevotella, Peptostreptococcus, 
+Leptotrichia, and Veillonella lineages were significantly (p = .001) associated 
+with FGID, while gut homing CD4+α4+ β7+CCR9+ T-cells were associated (p = .002) 
+with SR-NCWS. Compared to controls, patients with and without SR-NCWS show that 
+there are shifts in the amplicon sequence variants within specific bacterial 
+genera between the FGID subgroups (particularly Prevotella and Streptococcus) as 
+well as distinct bacterial taxa discriminatory for the two different FGID 
+subtypes. Compared to controls, both FGID patients with and without SR-NCWS have 
+an increased symptom response to a standardized nutrient challenge and increased 
+anxiety scores. The FGID patients with SR-NCWS - as compared to FGID without 
+SR-NCWS (and controls without SR-NCWS) - have increased gut homing T-cells. The 
+d-MAM profiles suggest species and strain-based variations between the two FGID 
+subtypes and in comparison to controls.
+
+DOI: 10.1080/19490976.2022.2132078
+PMCID: PMC9621048
+PMID: 36303431 [Indexed for MEDLINE]
+
+Conflict of interest statement: GH is reported to be on the advisory boards 
+Australian Biotherapeutics, Glutagen, and Bayer and received research support 
+from Bayer, Abbott, Pfizer, Janssen, Takeda, and Allergan. He serves on the 
+Boards of the West Moreton Hospital and Health Service, Queensland, UQ 
+Healthcare, Brisbane, and the Gastro-Liga, Germany. He has a patent for the 
+Brisbane aseptic biopsy device and serves as Editor of the Gastro-Liga 
+Newsletter. NJT reports personal fees from Allakos, from Aviro Health, from 
+Antara Life Sciences, from Arlyx from Bayer, from Danone, from Planet 
+Innovation, from Takeda, from Viscera Labs, from twoXAR, from Viscera Labs, from 
+Dr Falk Pharma, from Censa, from Cadila Pharmaceuticals, from Progenity Inc, 
+from Sanofi-aventis, from Glutagen, from ARENA Pharmaceuticals, from IsoThrive, 
+from BluMaiden, from HVN National Science Challenge, non-financial support from 
+HVN National Science Challenge NZ, outside the submitted work; In addition, NJT 
+has a patent Biomarkers of IBS licensed (#12735358.9 − 1405/2710383 and 
+#12735358.9 − 1405/2710384), a patent Licensing Questionnaires Talley Bowel 
+Disease Questionnaire licensed to Mayo/Talley, a patent Nestec European Patent 
+licensed, and a patent Singapore Provisional Patent NTU Ref: TD/129/17 
+“Microbiota Modulation Of BDNF Tissue Repair Pathway” issued and copyright 
+Nepean Dyspepsia Index (NDI) 1998 and Editorial: Medical Journal of Australia 
+(Editor-in-Chief), Up to Date (Section Editor), Precision and Future Medicine, 
+Sungkyunkwan University School of Medicine, South Korea, Med (Journal of Cell 
+Press). NJT participates Committees: Australian Medical Council (AMC) Council 
+Member (2016–2019), MBS Review Taskforce (2016–2020), NHMRC Principal Committee, 
+Research Committee (2016–2021), Asia Pacific Association of Medical Journal 
+Editors (APAME) (current), GESA Board Member (2017–2019). NJT Misc: Avant 
+Foundation (judging of research grants) (2019). NJT community and patient 
+advocacy groups: Advisory Board, IFFGD (International Foundation for Functional 
+GI Disorders). NJT acknowledges funding from the National Health and Medical 
+Research Council (NHMRC) for the Centre for Research Excellence in Digestive 
+Health. NJT holds an NHMRC Investigator grant. MM has received research grants 
+from Soho Flordis International (SFI) Australia Research, Bayer Consumer Health, 
+and Yakult-Nature Global Grant for Gut Health; speaker’s honoraria and travel 
+sponsorship from Janssen Australia; consultancy fees from Sanofi Australia and 
+Danone-Nutricia Australia; speaker honoraria and travel sponsorship from Perfect 
+Company (China) and travel sponsorship from Yakult Inc (Japan). MM also 
+acknowledges funding from NHMRC Australia, the Australian Research Council, 
+Princess Alexandra Hospital Research Foundation, the Medical Research Futures 
+Fund of Australia, Helmsley Charitable Trust via the Australasian 
+Gastrointestinal Research Foundation, and the United States Department of 
+Defense. MM is included in PCT application 07/06/2022 number PCT/AU2022/050556 
+“Diagnostic marker for functional gastrointestinal disorders,” via the 
+University of Newcastle and UniQuest (University of Queensland). MM serves on 
+the science advisory board (non-remunerated) for GenieBiome, Hong Kong.
+
+
+8. Front Nutr. 2022 Oct 6;9:1007007. doi: 10.3389/fnut.2022.1007007. eCollection 
+2022.
+
+Diagnostic management of patients reporting symptoms after wheat ingestion.
+
+Costantino A(1)(2), Aversano GM(3), Lasagni G(4), Smania V(2), Doneda L(5), 
+Vecchi M(1)(2), Roncoroni L(5), Pastorello EA(6), Elli L(1).
+
+Author information:
+(1)Gastroenterology and Endoscopy Unit, Fondazione IRCCS Ca' Granda Ospedale 
+Maggiore Policlinico, Milan, Italy.
+(2)Department of Pathophysiology and Transplantation, University of Milan, 
+Milan, Italy.
+(3)Department of Internal Medicine, ASST Grande Ospedale Metropolitano Niguarda, 
+Milan, Italy.
+(4)Department of Allergology and Immunology, ASST Grande Ospedale Metropolitano 
+Niguarda, Milan, Italy.
+(5)Department of Biomedical, Surgical and Dental Sciences, University of Milan, 
+Milan, Italy.
+(6)Allergology, Casa di Cura Ambrosiana, Cesano Boscone, Italy.
+
+Many patients report symptoms after wheat ingestion experiencing a wide spectrum 
+of clinical manifestations. Three possible diagnoses have been recognized: 
+celiac disease (CD), wheat allergy (WA), and non-celiac (gluten) wheat 
+sensitivity (NCGS/NCWS). CD is a chronic immune-mediated disease of the small 
+bowel caused by exposure to dietary gluten in genetically predisposed 
+individuals, with a prevalence of approximately 1%. It is characterized by 
+mucosal inflammation and atrophy following exposure to gluten and improvement 
+after gluten withdrawal. Food allergies are immunological responses to a food 
+antigen. WA is the expression of an immunologically mediated process that can be 
+immunoglobulin E (IgE) or non-IgE mediated; its many symptoms include 
+urticaria/angioedema, asthma, rhinitis, and anaphylaxis. NCGS/NCWS is 
+characterized by gastrointestinal and/or extra-intestinal symptoms after 
+ingestion of gluten-containing food in subjects not affected by CD or WA. The 
+aim of this review is to help physicians and nutritionists diagnose the cause of 
+symptoms reported after wheat ingestion, thus avoiding patient frustration, 
+inappropriate testing, and incorrect or missed diagnoses. An algorithm for the 
+diagnostic approach in these patients is provided, to help to diagnose CD, WA, 
+NCGS/NCWS or to identify possible functional disorders as the wheat-sensitive 
+irritable bowel syndrome. A personalized approach, regular follow-up, and the 
+help of a skilled healthcare professional are mandatory for patients with 
+symptoms following wheat ingestion is provided. A gluten-free-diet is often 
+recommended for patients with self-reported gluten/wheat-dependent symptoms; for 
+patients with symptoms similar to those of functional diseases while there is 
+evidence that a low-FODMAP diet could be the first option.
+
+Copyright © 2022 Costantino, Aversano, Lasagni, Smania, Doneda, Vecchi, 
+Roncoroni, Pastorello and Elli.
+
+DOI: 10.3389/fnut.2022.1007007
+PMCID: PMC9582535
+PMID: 36276818
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+9. Nutrients. 2021 Dec 21;14(1):2. doi: 10.3390/nu14010002.
+
+Nutrition in Patients with Lactose Malabsorption, Celiac Disease, and Related 
+Disorders.
+
+Alkalay MJ(1).
+
+Author information:
+(1)Department of Pediatrics, Division of Pediatric Gastroenterology, Hepatology 
+and Nutrition, University of Texas Southwestern, Dallas, TX 75235, USA.
+
+Lactose malabsorption (LM), celiac disease (CD), non-celiac gluten sensitivity 
+(NCGS), and irritable bowel syndrome (IBS) are conditions associated with food 
+triggers, improvement after withdrawal, treatment with dietary restriction, and 
+subsequent nutritional detriments. LM occurs when there is incomplete hydrolysis 
+of lactose due to lactase deficiency and frequently produces abdominal symptoms; 
+therefore, it can cause lactose intolerance (LI). A lactose-restricted diet is 
+frequently recommended, although it can potentially lead to nutrient 
+deficiencies. Furthermore, lactose is an essential component of fermentable 
+oligo-, di-, and monosaccharides and polyols (FODMAPs) and is subsequently 
+associated with intolerance to these compounds, especially in IBS. LM commonly 
+presents in CD. Nutritional deficits are common in CD and can continue even on a 
+gluten-free diet (GFD). Conditions triggered by gluten are known as 
+gluten-related disorders (GRDs), including CD, wheat allergy, and NCGS. IBS can 
+also be associated with a gluten sensitivity. A GFD is the treatment for CD, 
+GRDs, and gluten sensitive IBS, although compliance with this restricted diet 
+can be difficult. Strict dietary therapies can have a negative effect on quality 
+of life. This review aims to provide an overview of the difficult nutritional 
+elements of these disorders, which are critical for medical providers to 
+recognize when managing these patients.
+
+DOI: 10.3390/nu14010002
+PMCID: PMC8746545
+PMID: 35010876 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+10. Cells. 2021 Sep 29;10(10):2593. doi: 10.3390/cells10102593.
+
+New Insights into Intestinal Permeability in Irritable Bowel Syndrome-Like 
+Disorders: Histological and Ultrastructural Findings of Duodenal Biopsies.
+
+Miglietta S(1), Borghini R(2), Relucenti M(1), Sorrentino V(3), Chen R(4), Li 
+X(4), Fazi F(1), Donato G(2), Familiari G(1), Petrozza V(3), Picarelli A(2).
+
+Author information:
+(1)Department of Anatomical, Histological, Forensic and Orthopedic Sciences, 
+Sapienza University of Rome, 00161 Rome, Italy.
+(2)Department of Translation and Precision Medicine, Sapienza University of 
+Rome, 00161 Rome, Italy.
+(3)Department of Medico-Surgical Sciences and Biotechnologies, Sapienza 
+University of Rome, 00161 Rome, Italy.
+(4)Key Laboratory of Environmental Medicine Engineering, Ministry of Education, 
+School of Public Health, Southeast University, Nanjing 218889, China.
+
+BACKGROUND AND AIM: Diarrhea, abdominal pain, and bloating are frequent in 
+irritable bowel syndrome (IBS)-like disorders, although little is known about 
+their intestinal ultrastructural alterations. The aim of the present study was 
+to study duodenal biopsies from IBS-like patients to find ultrastructural 
+alterations.
+MATERIALS AND METHODS: Study design: descriptive comparative pilot study. Thirty 
+outpatients (9 male and 21 female; median age 37.7 years; range, 20 to 65 years) 
+complaining of IBS-like symptoms were enrolled between January 2015 to May 2019 
+and were divided into 6 groups, each equally consisting of 5 patients: (A) 
+untreated celiac disease (uCD); (B) treated celiac disease (tCD); (C) wheat 
+allergy (WA); (D) Non-celiac gluten sensitivity (NCGS); (E) Nickel allergic 
+contact mucositis (Ni ACM); (F) controls affected by GERD. Transmission electron 
+microscopy (TEM) morphological characteristics were: microvilli length, 
+intermicrovillar distance, junctional complexes (JC) gap width, autophagic 
+bodies, apoptosis, altered mitochondria, lipid/chylomicron droplets, and mast 
+cells. Regarding JC, we focused on tight junctions (TJ), adherens junctions 
+(AJ), and desmosomes.
+RESULTS: Major alterations in microvilli length and intermicrovillar distance 
+have been observed in the subjects affected by uCD. Microvilli of tCD patients 
+showed marked recovery after adequate GFD, although not comparable to controls. 
+Intermediate microvillar alterations were instead observed in NCGS and Ni ACM, 
+while characteristics of WA subjects appeared more similar to tCD. Regarding JC, 
+TJ did not show significant differences between all groups studied, including 
+controls. The AJ were significantly more dilated in all groups compared to 
+controls, while no significant differences were found between the pathological 
+groups. The distance between desmosomes was greater in uCD, NCGS, and Ni ACM 
+than in tCD, WA, and controls. Finally, intracellular alterations have been 
+detected in most of the groups studied although they seemed more unspecific.
+CONCLUSIONS: TEM analysis confirmed damages to the intestinal barrier and 
+defense mechanisms by enterocytes in IBS-like patients, probably linked to 
+low-grade inflammation or adverse reactions triggered by food allergens, heavy 
+metals, or other unknown. On the other hand, our study needs confirmation and 
+further investigations with larger populations to facilitate diagnosis, therapy, 
+and prevention of IBS-like disorders in the future.
+
+DOI: 10.3390/cells10102593
+PMCID: PMC8533783
+PMID: 34685576 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

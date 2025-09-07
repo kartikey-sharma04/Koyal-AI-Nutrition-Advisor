@@ -1,0 +1,323 @@
+1. Z Gastroenterol. 2024 Aug;62(8):1201-1206. doi: 10.1055/a-2258-8509. Epub 2024
+ May 15.
+
+Gastrointestinal adverse reaction to food (GARF) and endoscopic confocal laser 
+endomicroscopy (eCLE).
+
+[Article in English]
+
+Frieling T(1), Gjini B(1), Melchior I(1), Euler P(1), Kreysel C(1), Kalde S(1), 
+Krummen B(1), Kiesslich R(2), Hemmerlein B(3).
+
+Author information:
+(1)Medizinische Klinik II, HELIOS Klinikum Krefeld, Krefeld, Germany.
+(2)Regional Medical Managing Director, Helios Dr. Horst Schmidt Kliniken 
+Wiesbaden GmbH, Wiesbaden, Germany.
+(3)Institut für Pathologie, Helios Klinikum Krefeld, Krefeld, Germany.
+
+BACKGROUND AND STUDY AIMS: Gastrointestinal adverse reaction to food (GARF) is 
+reported frequently in the general population and even more in patients with 
+disorders of the gut brain axis. However, there is a significant difference 
+between self-reported and objective proven GARF. The aim of the study was to 
+characterize a mucosal correlate of GARF by endoscopic confocal laser 
+endomicroscopy (eCLE) with duodenal food challenge (DFC).
+PATIENTS AND METHODS: In an observational and proof of concept study we 
+evaluated 71 patients with disorders of the gut brain axis without (group I, 
+n=19) and with (group II, n=52) GARF by eCLE and DFC. Spontaneous and food 
+induced transfer of fluorescein into duodenal lumen was detected 10 minutes 
+following intravenously application of fluorescein and 10 minutes after DFC.
+RESULTS: According to Rom IV, the patients (group I/II) could be classified as 
+irritable bowel syndrome (IBS) 32%/31%, functional abdominal pain without 
+changes in bowel movement 47 %/48 %, functional abdominal bloating/distension 0 
+%/10 %, functional diarrhea 5 %/ 2 %, and unspecified functional bowel disorder 
+16 %/10 %, respectively. 21 %/27 % of the patients responded with a fluorescein 
+leakage into the duodenal lumen before and 74 %/69 % following to DFC. Frequency 
+rank order of food components that induced a response were soy (55.5 %/60 %), 
+wheat (60 %/45.5 %), egg (35.7 %/8.3), milk (30 %/18.2 %) and yeast (10 %/6.6 
+%), respectively. Histology of duodenal biopsies, number, form and distribution 
+of intraepithelial lymphocytes and mucosal mast cells as well as mast cell 
+function were normal. Overall, 14 %/79 % reported main symptom benefit following 
+a food exclusion therapy according to eCLE and DFC that was significant 
+different between the groups.
+CONCLUSION: The results of our study indicate that eCLE with DFC is a technique 
+to clinically evaluate patients with disorders of the gut brain axis and GARF 
+resulting in a high proportion of patients reporting symptom benefit upon food 
+exclusion dietary advice focussed on the results of eCLE.
+
+Publisher: HINTERGRUND UND STUDIENZIEL: Gastrointestinale 
+Nahrungsunverträglichkeiten (GARF) werden häufig in der Allgemeinbevölkerung und 
+insbesondere bei Patienten mit Störungen der Darm Hirn Achse berichtet. 
+Allerdings besteht eine große Diskrepanz zwischen der subjektiv empfundenen und 
+der objektivierten GARF. Das Studienziel war die Charakterisierung eines 
+mukosalen Korrelates durch die duodenale Nahrungsprovokation (DFC) mittels 
+endoskopischer konfokaler Laserendomikroskopie (eCLE).
+PATIENTEN UND METHODE: In einer Observations- und „proof of concept“-Studie 
+wurden 71 Patienten mit Störungen der Darm Hirn Achse ohne (Gruppe I, n=19) und 
+mit (Gruppe II, n=52) GARF durch eCLE und DFC untersucht. Hierbei wurden der 
+spontane und nahrungsinduzierte Transfer von Fluorescein in das Duodenallumen 10 
+Minuten nach intravenöser Gabe untersucht.
+ERGEBNISSE: Die Patienten (Gruppe I/II) wurden gemäß Rom IV-Kriterien in 
+Reizdarmsyndrom (IBS) 32%/31%, funktionelle Bauchschmerzen ohne 
+Stuhlgangverändeurngen 47%/48%, funktionelle Blähungen/Bauchdistension 0%/10%, 
+funktionelle Diarrhoe 5%/ 2%, and unspezifische funktionelle Bauchbeschwerden 
+16%/10% klassifiziert. 21%/27% der Patienten zeigten einen Transfer von 
+Fluorescein in das Duodenallumen vor und 74%/69% nach DFC. Die 
+Häufigkeitsrangfolge der Nahrungskomponenten, die eine Reaktion auslösten, waren 
+Soja (55,5%/60%), Weizen (60%/45,5%), Ei (35,7%/8,3%), Milch (30%/18,2%) und 
+Hefe (10%/6,6%). Sowohl die Histologie der Duodenalbiopsien, die Zahl, Form und 
+Verteilung der intraepithelialen Lymphozyten und Mastzellen als auch die 
+Funktion der Mastzellen waren unauffällig. Insgesamt berichteten 14%/79% über 
+eine Symptomenbesserung durch eine diätetische Ausschlusstherapie gemäß den 
+Ergebnissen der DFC, die zwischen den beiden Gruppen nicht signifikant 
+unterschiedlich war.
+SCHLUSSFOLGERUNG: Die Ergebnisse der Studie zeigen, dass eCLE mit DFC eine 
+Technik zur Untersuchung von Patienten mit Störungen der Darm Hirn Achse und 
+GARF ist. Hierdurch kann eine große Gruppe von Patienten charakterisiert werden, 
+die von einer diätetischen Auschlusstherapie gemäß den Ergebnissen der eCLE 
+profitieren.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-2258-8509
+PMID: 38749460 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+2. Acta Gastroenterol Belg. 2018 Apr-Jun;81(2):253-256.
+
+Frequency of food hypersensitivity in patients with Functional Gastrointestinal 
+Disorders.
+
+Ismail FW(1), Abid S(1), Awan S(1), Lubna F(1).
+
+Author information:
+(1)Department of Medicine, Section Gastroenterology, Aga Khan, University 
+Hospital, Pakistan.
+
+BACKGROUND AND STUDY AIMS: Food hypersensitivity (FH), irritable bowel syndrome 
+(IBS) and functional dyspepsia (FD) have many overlapping symptoms, including 
+abdominal discomfort, bloating, and altered bowel habits. We aimed to determine 
+the frequency of FH in patients with IBS and functional FD.
+PATIENTS AND METHODS: Adult patients of either gender diagnosed with IBS and/or 
+FD as per the Rome III criteria were recruited. Patients underwent serological 
+testing against 6 food allergens: beef, shrimp, egg white, milk, peanut, and 
+soy-bean. Those testing positive were subjected to a food elimination diet for 4 
+weeks. Those showing improvement on elimination diet were subjected to 
+re-challenge. Changes in symptoms were documented by the Global overall 
+improvement scale (GOS) and Gastrointestinal symptom rating scale (GSRS).
+RESULTS: Two hundred patients were screened. Average age of the patients was 
+38.6, and 55 % were male. Nineteen (38%) patients tested positive, and were 
+subjected to a food elimination diet. The most common food hypersensitivity was 
+shrimp (17/89%), followed by 4/21% for egg-white, and peanut. Off these, 8 
+showed improvement. They were re-challenged, and were evaluated 2 weeks later, 
+when all suffered symptom relapse. These 8 (4%) patients were diagnosed with FH. 
+There was a statistically significant difference in both GSRS (total and 
+component) and GOS scores at baseline between patients testing (+) and (-) on 
+food allergen testing, mainly for diarrhoea (p=0.001), abdominal pain (p=0.001) 
+and indigestion p=<0.001).
+CONCLUSIONS: FH is present in 4 % of patients with a functional gastrointestinal 
+disorder.
+
+© Acta Gastro-Enterologica Belgica.
+
+PMID: 30024695 [Indexed for MEDLINE]
+
+
+3. J Nutr. 2015 May;145(5):915-22. doi: 10.3945/jn.114.201731. Epub 2015 Feb 25.
+
+Dietary Marine n-3 PUFAs Do Not Affect Stress-Induced Visceral Hypersensitivity 
+in a Rat Maternal Separation Model.
+
+van Diest SA(1), van den Elsen LW(2), Klok AJ(1), Welting O(1), Hilbers FW(1), 
+van de Heijning BJ(3), Gaemers IC(1), Boeckxstaens GE(4), Werner MF(5), 
+Willemsen LE(2), de Jonge WJ(1), van den Wijngaard RM(6).
+
+Author information:
+(1)Tytgat Institute for Liver and Intestinal Research, Department of 
+Gastroenterology and Hepatology, Academic Medical Center, Amsterdam, The 
+Netherlands;
+(2)Division of Pharmacology, Utrecht Institute for Pharmaceutical Sciences, 
+Utrecht University, Utrecht, The Netherlands;
+(3)Nutricia Research, Utrecht, The Netherlands;
+(4)Division of Gastroenterology, University Hospital Gasthuisberg, University of 
+Leuven, Leuven, Belgium; and.
+(5)Department of Pharmacology, Biological Sciences Section, Federal University 
+of Paraná, Curitiba, Brazil.
+(6)Tytgat Institute for Liver and Intestinal Research, Department of 
+Gastroenterology and Hepatology, Academic Medical Center, Amsterdam, The 
+Netherlands; R.vandenWijngaard@amc.uva.nl.
+
+BACKGROUND: Although never evaluated for efficacy, n-3 (ω-3) long-chain 
+polyunsaturated fatty acids (LCPUFAs) are commercially offered as treatment for 
+irritable bowel syndrome (IBS).
+OBJECTIVE: This study was designed to investigate, in a mast cell-dependent 
+model for visceral hypersensitivity, whether this pathophysiologic mechanism can 
+be reversed by dietary LCPUFA treatment via peroxisome proliferator-activated 
+receptor γ (PPARG) activation.
+METHODS: Maternally separated rats were subjected to hypersensitivity-inducing 
+acute stress at adult age. Reversal was attempted by protocols with tuna 
+oil-supplemented diets [4% soy oil (SO) and 3% tuna oil (SO-T3) or 3% SO and 7% 
+tuna oil (SO-T7)] and compared with control SO diets (7% or 10% SO) 4 wk after 
+stress. The PPARG agonist rosiglitazone was evaluated in a 1 wk preventive 
+protocol (30 mg · kg⁻¹ · d⁻¹). Erythrocytes were assessed to confirm LCPUFA 
+uptake and tissue expression of lipoprotein lipase and glycerol kinase as 
+indicators of PPARG activation. Colonic mast cell degranulation was evaluated by 
+toluidine blue staining. In vitro, human mast cell line 1 (HMC-1) cells were 
+pretreated with rosiglitazone, eicosapentaenoic acid, or docosahexaenoic acid, 
+stimulated with phorbol 12-myristate 13-acetate (PMA) and calcium ionophore or 
+compound 48/80 and evaluated for tumor necrosis factor α (TNF-α) and 
+β-hexosaminidase release.
+RESULTS: Stress led to visceral hypersensitivity in all groups. Hypersensitivity 
+was not reversed by SO-T3 or control treatment [prestress vs. 24 h poststress 
+vs. posttreatment area under the curve; 76 ± 4 vs. 128 ± 12 (P < 0.05) vs. 115 ± 
+14 and 82 ± 5 vs. 127 ± 16 (P < 0.01) vs. 113 ± 19, respectively]. Comparison of 
+SO-T7 with its control showed similar results [74 ± 6 vs. 103 ± 13 (P < 0.05) 
+vs. 115 ± 17 and 66 ± 3 vs. 103 ± 10 (P < 0.05) vs. 117 ± 11, respectively]. 
+Erythrocytes showed significant LCPUFA uptake in the absence of colonic PPARG 
+activation. Rosiglitazone induced increased PPARG target gene expression, but 
+did not prevent hypersensitivity. Mast cell degranulation never differed between 
+groups. Rosiglitazone and LCPUFAs significantly reduced PMA/calcium 
+ionophore-induced TNF-α release but not degranulation of HMC-1 cells.
+CONCLUSION: Dietary LCPUFAs did not reverse stress-induced visceral 
+hypersensitivity in maternally separated rats. Although further research is 
+needed, claims concerning LCPUFAs as a treatment option in IBS cannot be 
+confirmed at this point and should be regarded with caution.
+
+© 2015 American Society for Nutrition.
+
+DOI: 10.3945/jn.114.201731
+PMID: 25716554 [Indexed for MEDLINE]
+
+
+4. Clin Nutr. 2013 Feb;32(1):51-8. doi: 10.1016/j.clnu.2012.05.021. Epub 2012 Jun
+ 22.
+
+A new soy germ fermented ingredient displays estrogenic and protease inhibitor 
+activities able to prevent irritable bowel syndrome-like symptoms in stressed 
+female rats.
+
+Moussa L(1), Bézirard V, Salvador-Cartier C, Bacquié V, Houdeau E, Théodorou V.
+
+Author information:
+(1)Neuro-Gastroenterology & Nutrition Group, Toxalim, UMR 1331 INRA/INPT, 180 
+chemin de Tournefeuille, BP 93173, 31027 Toulouse Cedex 3, France.
+
+BACKGROUND & AIMS: Irritable bowel syndrome (IBS) often associated with 
+psychological distress, is characterized by increased gut permeability and 
+visceral sensitivity. In animals, stress increases intestinal paracellular 
+permeability (IPP), visceral sensitivity and colonic proteolytic activity. 
+Estradiol reduces IPP and affects visceral sensitivity in non-stressed 
+ovariectomized rats, but whether estrogens affect stress-induced 
+hyperpermeability and hypersensitivity in cyclic females remains unclear. We 
+aimed to evaluate (i) the effects of a phytoestrogen-rich soy germ fermented 
+ingredient (SG) on visceral hypersensitivity, hyperpermeability and other 
+symptoms in stressed intact female rats, (ii) the mechanisms of action involved 
+on the basis of both estrogenic and protease inhibitor activities of SG.
+METHODS: Female rats received orally for 15-d either SG, 17β-estradiol benzoate 
+(EB), or vehicles, with or without the estrogen receptor (ER) antagonist 
+ICI182.780 before stress. Visceral sensitivity, IPP, faecal proteolytic 
+activity, plasma corticosterone, rat mast cell protease II immunostaining, and 
+occludin expression were assessed.
+RESULTS: Stress increased IPP (concomitantly to a drop in occludin expression), 
+visceral sensitivity, faecal proteolytic activity and plasma corticosterone. 
+Similarly to EB, SG prevented the stress-induced hyperpermeability, and 
+hypersensitivity, without changes in plasma corticosterone. SG inhibited the 
+increase in faecal proteolytic activity, enhanced occludin expression, and 
+reduced the colonic mast cell density. All SG effects, except decrease on faecal 
+proteolytic activity, were blocked by ICI182.780.
+CONCLUSION: A 2-wk oral treatment with SG prevented the stress-induced 
+hyperpermeability and visceral hypersensitivity in cyclic rats through ER 
+activation, and blocked the increase in colonic proteolytic activity, suggesting 
+that SG can be promising in IBS management.
+
+Copyright © 2012 Elsevier Ltd and European Society for Clinical Nutrition and 
+Metabolism. All rights reserved.
+
+DOI: 10.1016/j.clnu.2012.05.021
+PMID: 22727545 [Indexed for MEDLINE]
+
+
+5. Clin Gastroenterol Hepatol. 2010 Mar;8(3):254-60. doi: 
+10.1016/j.cgh.2009.11.010. Epub 2009 Nov 22.
+
+A cytologic assay for diagnosis of food hypersensitivity in patients with 
+irritable bowel syndrome.
+
+Carroccio A(1), Brusca I, Mansueto P, Pirrone G, Barrale M, Di Prima L, 
+Ambrosiano G, Iacono G, Lospalluti ML, La Chiusa SM, Di Fede G.
+
+Author information:
+(1)Internal Medicine, Ospedali Civili Riuniti, Sciacca (Agrigento), Sciacca, 
+Italy. acarroccio@hotmail.com
+
+BACKGROUND & AIMS: A percentage of patients with symptoms of irritable bowel 
+syndrome (IBS) suffer from food hypersensitivity (FH) and improve on a 
+food-elimination diet. No assays have satisfactory levels of sensitivity for 
+identifying patients with FH. We evaluated the efficacy of an in vitro basophil 
+activation assay in the diagnosis of FH in IBS-like patients.
+METHODS: Blood samples were collected from 120 consecutive patients diagnosed 
+with IBS according to Rome II criteria. We analyzed in vitro activation of 
+basophils by food allergens (based on levels of CD63 expression), as well as 
+total and food-specific immunoglobulin (Ig)E levels in serum. Effects of 
+elimination diets and double-blind food challenges were used as standards for FH 
+diagnosis.
+RESULTS: Twenty-four of the patients (20%) had FH (cow's milk and/or wheat 
+hypersensitivity); their symptom scores improved significantly when they were 
+placed on an elimination diet. Patients with FH differed from other IBS patients 
+in that they had a longer duration of clinical history, a history of FH as 
+children, and an increased frequency of self-reported FH; they also had 
+hypersensitivities to other antigens (eg, egg or soy). The basophil activation 
+assay diagnosed FH with 86% sensitivity, 88% specificity, and 87% accuracy; this 
+level of sensitivity was significantly higher than that of serum total IgE or 
+food-specific IgE assays.
+CONCLUSIONS: A cytometric assay that quantifies basophils after stimulation with 
+food antigens based on cell-surface expression of CD63 had high levels of 
+sensitivity, specificity, and accuracy in diagnosing FH. This assay might be 
+used to diagnose FH in patients with IBS-like symptoms.
+
+Copyright 2010 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cgh.2009.11.010
+PMID: 19932763 [Indexed for MEDLINE]
+
+
+6. Inflamm Bowel Dis. 2007 Jan;13(1):91-6. doi: 10.1002/ibd.20048.
+
+Treatment of irritable bowel syndrome in outpatients with inflammatory bowel 
+disease using a food and beverage intolerance, food and beverage avoidance diet.
+
+MacDermott RP(1).
+
+Author information:
+(1)Inflammatory Bowel Diseases Center, Division of Gastroenterology, Albany 
+Medical College, Albany, New York 12208, USA. macderr@mail.amc.edu
+
+Irritable bowel syndrome (IBS) in the outpatient with chronic inflammatory bowel 
+disease (IBD) is a difficult but important challenge to recognize and treat. It 
+is very helpful to have effective treatment approaches for IBS that are 
+practical and use minimal medications. Because of the underlying chronic 
+inflammation in IBD, IBS symptoms occur with increased frequency and severity, 
+secondary to increased hypersensitivity to foods and beverages that stimulate 
+the gastrointestinal tract. This paper discusses how to treat IBS in the IBD 
+outpatient, with emphasis on using a food and beverage intolerance, avoidance 
+diet. The adverse effects of many foods and beverages are amount dependent and 
+can be delayed, additive, and cumulative. The specific types of foods and 
+beverages that can induce IBS symptoms include milk and milk containing 
+products; caffeine containing products; alcoholic beverages; fruits; fruit 
+juices; spices; seasonings; diet beverages; diet foods; diet candies; diet gum; 
+fast foods; condiments; fried foods; fatty foods; multigrain breads; sourdough 
+breads; bagels; salads; salad dressings; vegetables; beans; red meats; gravies; 
+spaghetti sauce; stews; nuts; popcorn; high fiber; and cookies, crackers, 
+pretzels, cakes, and pies. The types of foods and beverages that are better 
+tolerated include water; rice; plain pasta or noodles; baked or broiled 
+potatoes; white breads; plain fish, chicken, turkey, or ham; eggs; dry cereals; 
+soy or rice based products; peas; applesauce; cantaloupe; watermelon; fruit 
+cocktail; margarine; jams; jellies; and peanut butter. Handouts that were 
+developed based upon what worsens or helps IBS symptoms in patients are included 
+to help patients learn which foods and beverages to avoid and which are better 
+tolerated.
+
+DOI: 10.1002/ibd.20048
+PMID: 17206644 [Indexed for MEDLINE]

@@ -1,0 +1,625 @@
+1. JAMA Netw Open. 2024 May 1;7(5):e2411707. doi: 
+10.1001/jamanetworkopen.2024.11707.
+
+Adherence to Healthy and Unhealthy Plant-Based Diets and the Risk of Gout.
+
+Rai SK(1)(2), Wang S(1), Hu Y(1), Hu FB(1)(3)(4), Wang M(3)(4)(5), Choi 
+HK(4)(6), Sun Q(1)(3)(4).
+
+Author information:
+(1)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+Massachusetts.
+(2)Program in Population Health Sciences, Harvard Kenneth C. Griffin Graduate 
+School of Arts and Sciences, Cambridge, Massachusetts.
+(3)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, Massachusetts.
+(4)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+(5)Department of Biostatistics, Harvard T.H. Chan School of Public Health, 
+Boston, Massachusetts.
+(6)Division of Rheumatology, Allergy, and Immunology, Massachusetts General 
+Hospital and Harvard Medical School, Boston.
+
+IMPORTANCE: Plant-based diets are increasing in popularity due, in part, to 
+their health benefits for selected cardiometabolic diseases as well as favorable 
+environmental impact. Little is known about how such a diet is related to gout 
+risk.
+OBJECTIVE: To examine associations between adherence to a plant-based diet 
+(including healthy and unhealthy versions of this diet), as well as its 18 
+individual food groups, and incident gout.
+DESIGN, SETTING, AND PARTICIPANTS: This prospective cohort study used data from 
+population-based cohorts of US men and women enrolled in the Health 
+Professionals Follow-Up Study (1986-2012) and Nurses' Health Study (1984-2010). 
+Participants were men and women free of gout at baseline. Statistical analyses 
+were performed over March 2020 to August 2023.
+EXPOSURES: An overall plant-based diet index (PDI), as well as healthy (hPDI) 
+and unhealthy (uPDI) versions of this index that emphasize healthy and less 
+healthy plant-based foods, respectively. These diet indices were comprised of 18 
+food groups, assessed using a validated semiquantitative food frequency 
+questionnaire.
+MAIN OUTCOMES AND MEASURES: Incident cases of gout that were confirmed with a 
+supplementary questionnaire to meet the preliminary American College of 
+Rheumatology survey criteria for gout. Cox proportional hazards regression 
+models were used to evaluate multivariable-adjusted associations of all 3 PDIs 
+with incident gout using quintiles (Q) of adherence.
+RESULTS: Among a total of 122 679 participants (mean [SD] age, 53.8 [9.8] years 
+among 43 703 men; mean [SD] age, 50.9 [7.2] years among 78 976 women) over 
+2 704 899 person-years of follow-up, 2709 participants experienced incident 
+gout. The overall PDI was not significantly associated with gout in either 
+cohort (Q5 vs Q1 pooled hazard ratio [HR], 1.02 [95% CI, 0.89-1.17]; P for 
+trend = .63). In the pooled analysis, hPDI was significantly inversely 
+associated with risk of gout (Q5 vs Q1 HR, 0.79 [95% CI, 0.69-0.91]; P for 
+trend = .002), while the uPDI was positively associated with risk of gout (Q5 vs 
+Q1 HR, 1.17 [95% CI, 1.03-1.33]; P for trend = .02), particularly in women (Q5 
+vs Q1 HR, 1.31 [95% CI, 1.05-1.62]; P for trend = .01). In analysis of 
+individual food groups, higher intakes of certain healthy plant foods, such as 
+whole grains (pooled HR per 1 serving/d, 0.93 [95% CI, 0.89-0.97]) and tea and 
+coffee (pooled HR per 1 serving/d, 0.95 [95% CI, 0.92-0.97]), as well as dairy 
+(pooled HR per 1 serving/d, 0.86 [95% CI, 0.82-0.90]), were independently 
+associated with a lower risk of gout, while selected unhealthy plant foods, such 
+as fruit juice (pooled HR per 1 serving/d, 1.06 [95% CI, 1.00-1.13]) and 
+sugar-sweetened beverages (pooled HR per 1 serving/d, 1.16 [95% CI, 1.07-1.26]) 
+were associated with increased risk of gout.
+CONCLUSIONS AND RELEVANCE: The findings of this prospective cohort study of PDIs 
+and gout support current dietary recommendations to increase consumption of 
+healthy plant foods while lowering intake of unhealthy plant foods to mitigate 
+gout risk.
+
+DOI: 10.1001/jamanetworkopen.2024.11707
+PMCID: PMC11109774
+PMID: 38771576 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: None reported.
+
+
+2. JAMA. 2024 Feb 13;331(6):510-521. doi: 10.1001/jama.2023.26857.
+
+Management of Food Allergies and Food-Related Anaphylaxis.
+
+Iglesia EGA(1), Kwan M(2), Virkud YV(3), Iweala OI(2)(3).
+
+Author information:
+(1)Division of Allergy, Pulmonary and Critical Care Medicine, Department of 
+Medicine, Vanderbilt University Medical Center, Nashville, Tennessee.
+(2)Thurston Arthritis Research Center, Division of Rheumatology, Allergy, and 
+Immunology, Department of Medicine, University of North Carolina School of 
+Medicine, Chapel Hill.
+(3)University of North Carolina Food Allergy Initiative, Division of Allergy and 
+Immunology, Department of Pediatrics, University of North Carolina School of 
+Medicine, Chapel Hill.
+
+IMPORTANCE: An estimated 7.6% of children and 10.8% of adults have IgE-mediated 
+food-protein allergies in the US. IgE-mediated food allergies may cause 
+anaphylaxis and death. A delayed, IgE-mediated allergic response to the 
+food-carbohydrate galactose-α-1,3-galactose (alpha-gal) in mammalian meat 
+affects an estimated 96 000 to 450 000 individuals in the US and is currently a 
+leading cause of food-related anaphylaxis in adults.
+OBSERVATIONS: In the US, 9 foods account for more than 90% of IgE-mediated food 
+allergies-crustacean shellfish, dairy, peanut, tree nuts, fin fish, egg, wheat, 
+soy, and sesame. Peanut is the leading food-related cause of fatal and 
+near-fatal anaphylaxis in the US, followed by tree nuts and shellfish. The 
+fatality rate from anaphylaxis due to food in the US is estimated to be 0.04 per 
+million per year. Alpha-gal syndrome, which is associated with tick bites, is a 
+rising cause of IgE-mediated food anaphylaxis. The seroprevalence of 
+sensitization to alpha-gal ranges from 20% to 31% in the southeastern US. 
+Self-injectable epinephrine is the first-line treatment for food-related 
+anaphylaxis. The cornerstone of IgE-food allergy management is avoidance of the 
+culprit food allergen. There are emerging immunotherapies to desensitize to one 
+or more foods, with one current US Food and Drug Administration-approved oral 
+immunotherapy product for treatment of peanut allergy.
+CONCLUSIONS AND RELEVANCE: IgE-mediated food allergies, including delayed 
+IgE-mediated allergic responses to red meat in alpha-gal syndrome, are common in 
+the US, and may cause anaphylaxis and rarely, death. IgE-mediated anaphylaxis to 
+food requires prompt treatment with epinephrine injection. Both food-protein 
+allergy and alpha-gal syndrome management require avoiding allergenic foods, 
+whereas alpha-gal syndrome also requires avoiding tick bites.
+
+DOI: 10.1001/jama.2023.26857
+PMCID: PMC11060332
+PMID: 38349368 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Iglesia 
+reported receiving grants from the Robert Wood Johnson Foundation during the 
+conduct of the study. Dr Kwan reported receiving grants from Pfizer QI outside 
+the submitted work. Dr Iweala reported serving as on the advisory boards of 
+Blueprint Medicines and Novartis and receiving consulting fees from Allakos Inc 
+outside the submitted work; and was a coauthor of an article sponsored by 
+Genentech. No other disclosures were reported.
+
+
+3. Rev Gastroenterol Peru. 2020 Apr-Jun;40(2):177-181.
+
+Juvenile â€œidiopathicâ€ arthritis (JIA) as a manifestation of food allergy. 
+Case study.
+
+[Article in English]
+
+Muñoz-Urribarri AB(1), Delgado Godos AG(1), Castillo Durand R(1), Quispe 
+Huarcaya MA(1), Calderón Flores RSH(1).
+
+Author information:
+(1)Unidad Funcional de Gastroenterología Pediátrica, Hospital Nacional Edgardo 
+Rebagliati Martins. Lima, Perú.
+
+Studies linking type of diet and juvenile idiopathic arthritis (JIA) have 
+variable results and are inconsistent. This case shows an evolution which 
+fulfilled the criteria of JIA, but was diagnosed as food allergy. Case: A 
+seven-year old boy had fever, arthralgia, general malaise, headaches, abdominal 
+pain and rashes. These symptoms were diagnosed as fever of unknown origin (FUO) 
+and probable JIA. There was a stabbing pain in the right iliac fossa. An upper 
+and lower endoscopy were performed and nodular ileocolitis was detected. A 
+hypoallergenic diet was prescribed, in addition to mesalazine and oral 
+corticosteroids. The patient was asymptomatic for 2.5 months and then relapsed 
+with all symptoms after consuming dairy. This JIA case shows the diagnostic 
+phases of food allergy: improvement and recurrence of symptoms with the 
+reintroduction of the allergen (oral challenge=gold standard of food allergy). 
+There is evidence that supports the existence of a gut-joint axis, where the 
+luminal content triggers a series of immunologically mediated reactions that can 
+cause systemic diseases such as J other connective tissue diseases. This case 
+report adds reasonable evidence in support of food allergy as a cause of JIA.
+
+PMID: 32876635 [Indexed for MEDLINE]
+
+
+4. Drugs Aging. 2019 Apr;36(Suppl 1):145-159. doi: 10.1007/s40266-019-00667-8.
+
+Recommendations for the Reporting of Harms in Manuscripts on Clinical Trials 
+Assessing Osteoarthritis Drugs: A Consensus Statement from the European Society 
+for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and 
+Musculoskeletal Diseases (ESCEO).
+
+Honvo G(1)(2), Bannuru RR(3), Bruyère O(4)(5), Rannou F(6), Herrero-Beaumont 
+G(7), Uebelhart D(8), Cooper C(5)(9)(10), Arden N(10)(11), Conaghan PG(12), 
+Reginster JY(4)(5)(13), Thomas T(14), McAlindon T(15).
+
+Author information:
+(1)Department of Public Health, Epidemiology and Health Economics, University of 
+Liège, Liège, Belgium. germain.honvo@uliege.be.
+(2)WHO Collaborating Centre for Public Heath Aspects of Musculoskeletal Health 
+and Aging, Liège, Belgium. germain.honvo@uliege.be.
+(3)Division of Rheumatology, Allergy and Immunology, Center for Treatment 
+Comparison and Integrative Analysis, Tufts Medical Center, Boston, MA, USA.
+(4)Department of Public Health, Epidemiology and Health Economics, University of 
+Liège, Liège, Belgium.
+(5)WHO Collaborating Centre for Public Heath Aspects of Musculoskeletal Health 
+and Aging, Liège, Belgium.
+(6)Division of Physical Medicine and Rehabilitation, Department of Rheumatology, 
+AP-HP Cochin Hospital, INSERM U1124, Université Paris Descartes Sorbonne Paris 
+Cité, Paris, France.
+(7)Bone and Joint Research Unit, Department of Rheumatology, Fundación Jiménez 
+Diaz, Universidad Autonoma, Madrid, Spain.
+(8)Division of Musculoskeletal, Internal Medicine and Oncological 
+Rehabilitation, Department of Orthopaedics and Traumatology, Hôpital du Valais 
+(HVS), Centre Hospitalier du Valais Romand (CHVR), CVP, Crans-Montana, 
+Switzerland.
+(9)MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton 
+General Hospital, Southampton, UK.
+(10)Musculoskeletal Biomedical Research Unit, National Institute for Health 
+Research (NIHR), University of Oxford, Oxford, UK.
+(11)Arthritis Research UK Centre for Sport, Exercise and Osteoarthritis, 
+University of Oxford, Oxford, UK.
+(12)Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of 
+Leeds and NIHR Leeds Biomedical Research Centre, Leeds Teaching Hospitals NHS 
+Trust, Leeds, UK.
+(13)Chair for Biomarkers of Chronic Diseases, Biochemistry Department, College 
+of Science, King Saud University, Riyadh, Kingdom of Saudi Arabia.
+(14)Department of Rheumatology, Hôpital Nord, CHU de St-Etienne and INSERM 1059, 
+Université de Lyon, Saint-Étienne, France.
+(15)Division of Rheumatology, Tufts Medical Center, Boston, MA, USA.
+
+BACKGROUND: There is strong evidence of under-reporting of harms in manuscripts 
+on randomized controlled trials (RCTs) compared with the volume of raw data 
+retrieved from these trials. Many guidelines have been developed to tackle this, 
+but they have failed to address some important issues that would allow for 
+standardization and transparency. As a consequence, harms reporting in 
+manuscripts remains suboptimal.
+OBJECTIVE: The European Society for Clinical and Economic Aspects of 
+Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO) aimed to 
+deliver accurate recommendations for better reporting of harms in clinical 
+trials manuscripts on anti-osteoarthritis (OA) drugs. These could help to better 
+inform clinicians on harms recorded in RCTs and further help researchers 
+conducting meta-analyses.
+METHODS: Using the outcomes of several systematic reviews on the safety of 
+anti-OA drugs, we summarized the ways in which harms have been reported in OA 
+RCT manuscripts to date. Next, we drafted some recommendations and initiated a 
+modified Delphi process that involved a panel of clinicians and clinical 
+researchers to build an expert consensus on recommendations from the ESCEO for 
+the reporting of harms in future manuscripts on RCTs assessing anti-OA drugs.
+RESULTS: These recommendations emphasize that all treatment-emergent adverse 
+events (AEs) should always be taken into account for harms reporting, with no 
+frequency threshold, and describe how specific AEs should be reported; they also 
+provide a list of the most relevant organ systems to be considered according to 
+each class of drug for reporting of harms within the results section of a 
+manuscript. Irrespective of the drug, the ESCEO recommends that total, severe 
+and serious AEs and withdrawals due to AEs should always be reported; guidance 
+on the reporting of specific events pertaining to each category is provided. The 
+ESCEO also recommends the reporting of information on drug effect on biological 
+parameters, with specific guidance.
+CONCLUSIONS: These recommendations may contribute to improve transparency in the 
+field of safety of anti-OA medications. Pharmaceutical companies developing 
+drugs for OA, and researchers conducting clinical trials, are encouraged to 
+comply with them when reporting harms-related results in manuscripts on RCTs. 
+The ESCEO also encourages journals to refer to the ESCEO recommendations in 
+their instructions to authors for the publication of manuscripts on trials of 
+anti-OA medications.
+
+DOI: 10.1007/s40266-019-00667-8
+PMCID: PMC6509216
+PMID: 31073927 [Indexed for MEDLINE]
+
+Conflict of interest statement: O Bruyere reports grants from Biophytis, IBSA, 
+MEDA, Servier, SMB, and Theramex, outside of the submitted work. C. Cooper 
+reports personal fees from Alliance for Better Bone Health, Amgen, Eli Lilly, 
+GSK, Medtronic, Merck, Novartis, Pfizer, Roche, Servier, Takeda, and UCB, 
+outside of the submitted work. J-Y. Reginster reports grants from 
+IBSA-Genevrier, Mylan, CNIEL, Radius Health (through institution), consulting 
+fees from IBSA-Genevrier, Mylan, CNIEL, Radius Health, and Pierre Fabre; fees 
+for participation in review activities from IBSA-Genevrier, MYLAN, CNIEL, Radius 
+Health, and Teva; payment for lectures from AgNovos, CERIN, CNIEL, Dairy 
+Research Council (DRC), Echolight, IBSA-Genevrier, Mylan, Pfizer Consumer 
+Health, Teva, and Theramex, outside of the submitted work. N. Arden reports 
+personal fees from Bioventus, Flexion, Merck, Pfizer/Lilly, Regeneron, Smith & 
+Nephew, and Freshfields Bruckhaus Deringer and grants from Bioiberica and Merck, 
+outside the submitted work. P.G. Conaghan reports consultancy or speakers’ 
+bureaus fees from Abbvie, BMS, Flexion Therapeutics, GlaxoSmithKline, Merck 
+Serono, Novartis, Pfizer, Roche, and Samumed outside of the submitted work. F. 
+Rannou reports grants from APHP, INSERM, University Paris Descartes, and 
+Arthritis (Road Network) and consulting fees from Pierre Fabre, Expanscience, 
+Thuasne, Servier, Genevrier, Sanofi Aventis, and Genzyme, outside of the 
+submitted work. T. McAlindon reports fees for participation in review activities 
+from Pfizer and fees for consulting activities from Flexion, Samumed, Sanofi, 
+Visgo, Roche, Astellas, Pfizer, Seikayaku, Regeneron, and Anika, outside of the 
+submitted work. T. Thomas reports personal fees from Abbvie, Amgen, Arrow, BMS, 
+Chugai, Expanscience, Gilead, HAC-Pharma, LCA, Lilly, Medac, MSD, Pfizer, 
+Thuasne, TEVA, and UCB and grants from Amgen, Bone Therapeutics, Chugai, 
+HAC-Pharma, MSD, Novartis, Pfizer, and UCB, outside of the submitted work. R. 
+Bannuru was supported by the National Center for Complementary and Integrative 
+Health (K23AT009374) and reports honorarium from Sanofi, Bioventus, and Fidia, 
+outside of the submitted work. G. Honvo, G. Herrero-Beaumont, and D. Uebelhart 
+have no conflicts of interest that are directly relevant to the content of this 
+article. The contents of this manuscript are solely the responsibility of the 
+authors and do not necessarily represent the official views of the National 
+Institutes of Health.
+
+
+5. Drugs Aging. 2019 Apr;36(Suppl 1):101-127. doi: 10.1007/s40266-019-00657-w.
+
+Safety of Intra-articular Hyaluronic Acid Injections in Osteoarthritis: Outcomes 
+of a Systematic Review and Meta-Analysis.
+
+Honvo G(1)(2), Reginster JY(3)(4)(5), Rannou F(6)(7), Rygaert X(3)(4), Geerinck 
+A(3)(4), Rabenda V(3)(4), McAlindon T(8), Charles A(3)(4), Fuggle N(9), Cooper 
+C(4)(9)(10), Curtis E(9), Arden N(9)(11), Avouac B(3), Bruyère O(3)(4).
+
+Author information:
+(1)Department of Public Health, Epidemiology and Health Economics, University of 
+Liège, Liège, Belgium. germain.honvo@uliege.be.
+(2)WHO Collaborating Centre for Public Heath Aspects of Musculoskeletal Health 
+and Aging, Liège, Belgium. germain.honvo@uliege.be.
+(3)Department of Public Health, Epidemiology and Health Economics, University of 
+Liège, Liège, Belgium.
+(4)WHO Collaborating Centre for Public Heath Aspects of Musculoskeletal Health 
+and Aging, Liège, Belgium.
+(5)Biochemistry Department, College of Science, King Saud University, Riyadh, 
+Kingdom of Saudi Arabia.
+(6)Division of Physical Medicine and Rehabilitation, Department of Rheumatology, 
+AP-HP Cochin Hospital, Université Paris Descartes Sorbonne Paris Cité, Paris, 
+France.
+(7)INSERM U1124, Paris, France.
+(8)Division of Rheumatology, Tufts Medical Center, Boston, MA, USA.
+(9)MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton 
+General Hospital, Southampton, UK.
+(10)National Institute for Health Research (NIHR), Musculoskeletal Biomedical 
+Research Unit, University of Oxford, Oxford, UK.
+(11)Arthritis Research UK Centre for Sport, Exercise and Osteoarthritis, 
+University of Oxford, Oxford, UK.
+
+BACKGROUND: Some controversy exists regarding the safety of intra-articular 
+hyaluronic acid (IAHA) in the management of osteoarthritis (OA).
+OBJECTIVE: The objective of this study was to re-assess the safety profile of 
+IAHA in patients with OA, through a comprehensive meta-analysis of randomized, 
+placebo-controlled trials.
+METHODS: A comprehensive literature search was undertaken in the databases 
+MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL), and Scopus. 
+Randomized, double-blind, placebo-controlled, parallel-group trials that 
+assessed adverse events (AEs) with IAHA in patients with OA were eligible for 
+inclusion. Authors and/or study sponsors were contacted to obtain the full 
+report of AEs. The primary outcomes were overall severe and serious AEs, as well 
+as the following MedDRA System Organ Class (SOC)-related AEs: gastrointestinal, 
+cardiac, vascular, respiratory, nervous system, skin and subcutaneous tissue 
+disorders, musculoskeletal, renal and urinary disorders, infections and 
+infestations, and hypersensitivity reaction.
+RESULTS: Database searches initially identified 1481 records. After exclusions 
+according to the selection criteria, 22 studies were included in the qualitative 
+synthesis, and nine studies having adequate data were ultimately included in the 
+meta-analysis. From the studies excluded according to the pre-specified 
+selection criteria, 21 with other pharmacological OA treatments permitted during 
+the trials were a posteriori included in a parallel qualitative synthesis, from 
+which eight studies with adequate data were finally included in a parallel 
+meta-analysis. Since this meta-analysis was designed to assess safety, the 
+exclusion criterion on concomitant anti-OA medication was crucial. However, due 
+to the high number of studies that allowed mainly concomitant oral non-steroidal 
+anti-inflammatory drugs (NSAIDs), we decided to include them in a post hoc 
+parallel analysis in order to compare the results from the two analyses. No 
+statistically significant difference in odds was found between IAHA and placebo 
+for all types of SOC-related disorders, except for infections and infestations, 
+for which significantly lower odds were found with IAHA compared with placebo, 
+both overall (odds ratio [OR] = 0.61, 95% confidence interval [CI] 0.40-0.93; 
+I2 = 0%) and in studies without concomitant anti-OA medication (OR = 0.49, 95% 
+CI 0.27-0.89). There were significant increased odds of reporting serious AEs 
+with IAHA compared with placebo, both overall (OR = 1.78, 95% CI 1.21-2.63; 
+I2 = 0%) and in studies with concomitant anti-OA medication (OR = 1.78, 95% CI 
+1.10-2.89), but not in studies without concomitant anti-OA medication 
+(OR = 1.78, 95% CI 0.92-3.47).
+CONCLUSIONS: Using the available data on studies without any concomitant anti-OA 
+medication permitted during clinical trials, IAHA seems not to be associated 
+with any safety issue in the management of OA. However, this evidence was 
+associated with only a "low" to "moderate" certainty. A possible association 
+with increased risk of serious AEs, particularly when used with concomitant OA 
+medications, requires further investigation.
+
+DOI: 10.1007/s40266-019-00657-w
+PMCID: PMC6509101
+PMID: 31073925 [Indexed for MEDLINE]
+
+Conflict of interest statement: O. Bruyère reports grants from Biophytis, IBSA, 
+MEDA, Servier, SMB, and Theramex, outside of the submitted work. C. Cooper 
+reports personal fees from Alliance for Better Bone Health, Amgen, Eli Lilly, 
+GSK, Medtronic, Merck, Novartis, Pfizer, Roche, Servier, Takeda and UCB, outside 
+of the submitted work. J.-Y. Reginster reports grants from IBSA-Genevrier, 
+Mylan, CNIEL, and Radius Health (through institution); consulting fees from 
+IBSA-Genevrier, Mylan, CNIEL, Radius Health, and Pierre Fabre; fees for 
+participation in review activities from IBSA-Genevrier, Mylan, CNIEL, Radius 
+Health, and Teva; payment for lectures from AgNovos, CERIN, CNIEL, Dairy 
+Research Council (DRC), Echolight, IBSA-Genevrier, Mylan, Pfizer Consumer 
+Health, Teva, and Theramex, outside of the submitted work. B. Avouac reports 
+consulting fees from Novartis, BMS, Roche, Janssen Cilag, Expanscience, and 
+IRIS, and fees for participating in research activities from Sanofi, Amgen, 
+Takeda, Allegan, AbbVie, Vertex, AstraZeneca, Ipsen, Leadiant, Otsuka, Jazz, Leo 
+and Alexion, outside of the submitted work. E. Curtis reports lecture fees and 
+travel support from Eli Lilly, Pfizer and UCB, outside of the submitted work. N. 
+Fuggle reports travel support from Eli Lilly and Pfizer, outside of the 
+submitted work. N. Arden reports personal fees from Bioventus, Flexion, Merck, 
+Pfizer/Lilly, Regeneron, Smith & Nephew, and Freshfields Bruckhaus Deringer and 
+grants from Bioiberica and Merck, outside the submitted work. F. Rannou reports 
+grants from APHP, INSERM, University Paris Descartes, and Arthritis (Road 
+Network), and consulting fees from Pierre Fabre, Expanscience, Thuasne, Servier, 
+Genevrier, Sanofi Aventis, and Genzyme, outside of the submitted work. T. 
+McAlindon reports fees for participation in review activities from Pfizer and 
+fees for consulting activities with Flexion, Samumed, Sanofi, Visgo, Roche, 
+Astellas, Pfizer, Seikayaku, Regeneron, and Anika, outside of the submitted 
+work. G. Honvo, X. Rygaert, A. Geerinck, V. Rabenda and A. Charles report 
+nothing to disclose.
+
+
+6. BMJ Open. 2019 Mar 30;9(3):e024555. doi: 10.1136/bmjopen-2018-024555.
+
+Impact of red meat, processed meat and fibre intake on risk of late-onset 
+chronic inflammatory diseases: prospective cohort study on lifestyle factors 
+using the Danish 'Diet, Cancer and Health' cohort (PROCID-DCH): protocol.
+
+Rasmussen NF(1)(2), Rubin KH(3), Stougaard M(3), Tjønneland A(4), Stenager 
+E(5)(6), Lund Hetland M(7), Glintborg B(7)(8), Bygum A(9), Andersen V(10)(11).
+
+Author information:
+(1)Faculty of Health Sciences, Aarhus University, Aarhus, Denmark.
+(2)Focused Research Unit for Molecular Diagnostic and Clinical Research, 
+IRS-Center Sonderjylland, Hospital of Southern Jutland, Aabenraa, Denmark.
+(3)OPEN - Odense Patient Data Explorative Network, Department of Clinical 
+Research, University of Southern Denmark, and Odense University Hospital, 
+Odense, Denmark.
+(4)Diet, Genes and Environment, Danish Cancer Society Research Center, 
+Copenhagen Ø, Denmark/Department of Public Health, Faculty of Health and Medical 
+Sciences, University of Copenhagen, Copenhagen, Denmark.
+(5)Department of Regional Health Research, University of Southern Denmark, 
+Odense, Denmark.
+(6)The Multiple Sclerosis Clinic of Southern Jutland (Sonderborg, Kolding, 
+Esbjerg), Department of Neurology, Hospital of Southern Jutland, Sonderborg, 
+Denmark.
+(7)DANBIO Registry/Copenhagen Center for Arthritis Research (COPECARE), Center 
+for Rheumatology and Spine Diseases, Centre of Head and Orthopaedics, 
+Rigshospitalet Glostrup, Glostrup, Denmark.
+(8)Department of Rheumatology, Gentofte Hospital, Hellerup, Hovedstaden, 
+Denmark.
+(9)Department of Dermatology and Allergy Centre, Odense Universitetshospital, 
+Odense, Denmark.
+(10)Focused Research Unit for Molecular Diagnostic and Clinical Research, 
+Hospital of Southern Jutland, Aabenraa, Denmark.
+(11)institute og molecular medicine, Syddansk Universitet Det 
+Sundhedsvidenskabelige Fakultet, Odense, Denmark.
+
+INTRODUCTION: Chronic inflammatory diseases (CIDs) (Crohn's disease, ulcerative 
+colitis, psoriasis, psoriatic arthritis, rheumatoid arthritis and multiple 
+sclerosis) are diseases of the immune system that have some shared genetic and 
+environmental predisposing factors, but still few studies have investigated the 
+effects of lifestyle on disease risk of several CIDs. The primary aim of this 
+prospective cohort study is to investigate the impact of fibre, red meat and 
+processed meat on risk of late-onset CID, with the perspective that results of 
+this study can contribute in supporting future diet recommendations for 
+effective personalised prevention.
+METHODS AND ANALYSIS: The study will use data from 57 053 persons from the 
+prospective Danish cohort study 'Diet, Cancer and Health' together with National 
+Health Registry data. The follow-up period is from December 1993 to December 
+2018. Questionnaire data on diet and lifestyle were collected at entry to the 
+Diet, Cancer and Health study. The outcome CID is defined as having a diagnosis 
+of one of the CIDs registered in the National Patient Registry or, for multiple 
+sclerosis, in the Danish Multiple Sclerosis Registry during follow-up and being 
+treated with a drug used for the specific disease. The major outcome of the 
+analyses will be to detect variability in risk of late onset of any CID and, if 
+power allows, disease risk of late onset of each CID diagnosis between persons 
+with different fibre and red meat, and processed meat intake. The outcome will 
+be adjusted for age, sex, body mass index, physical activity, energy, alcohol, 
+fermented dairy products, education, smoking status, hormone replacement therapy 
+and comorbidity.
+ETHICS AND DISSEMINATION: The study is approved by the Danish Data Protection 
+Agency (2012-58-0018). The core study is an open register-based cohort study. 
+The study does not need approval from the Ethics committee or Institutional 
+Review Board by Danish law. Study findings will be disseminated through 
+peer-reviewed journals, patient associations and presentations at international 
+conferences.
+TRIAL REGISTRATION NUMBER: NCT03456206; Post-results.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2018-024555
+PMCID: PMC6475359
+PMID: 30928934 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: BG declares to have 
+received research funding from Abbvie, Biogen, Pfizer. MLH declares to have 
+received research funding from BMS, MSD, Pfizer, Biogen, Samsung, CellTrion, 
+Lilly and Novartis. AB has participated in the development of educational 
+material for Biogen. All other authors declare no conflict of interest.
+
+
+7. BMJ. 2017 May 9;357:j1794. doi: 10.1136/bmj.j1794.
+
+The Dietary Approaches to Stop Hypertension (DASH) diet, Western diet, and risk 
+of gout in men: prospective cohort study.
+
+Rai SK(1)(2)(3), Fung TT(4)(5), Lu N(1)(2), Keller SF(1), Curhan GC(2)(6), Choi 
+HK(7)(2)(3).
+
+Author information:
+(1)Division of Rheumatology, Allergy and Immunology, Massachusetts General 
+Hospital, Harvard Medical School, Boston, MA, 02114, USA.
+(2)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA.
+(3)Arthritis Research Canada, Richmond, BC, Canada.
+(4)Department of Nutrition, Simmons College, Boston, MA, USA.
+(5)Department of Nutrition, Harvard TH Chan School of Public Health, Boston, MA, 
+USA.
+(6)Division of Renal (Kidney) Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA.
+(7)Division of Rheumatology, Allergy and Immunology, Massachusetts General 
+Hospital, Harvard Medical School, Boston, MA, 02114, USA hchoi@partners.org.
+
+Objective To prospectively examine the relation between the Dietary Approaches 
+to Stop Hypertension (DASH) and Western diets and risk of gout (ie, the clinical 
+endpoint of hyperuricemia) in men.Design Prospective cohort study.Setting The 
+Health Professionals Follow-up Study.Participants 44 444 men with no history of 
+gout at baseline. Using validated food frequency questionnaires, each 
+participant was assigned a DASH dietary pattern score (based on high intake of 
+fruits, vegetables, nuts and legumes, low fat dairy products, and whole grains, 
+and low intake of sodium, sweetened beverages, and red and processed meats) and 
+a Western dietary pattern score (based on high intake of red and processed 
+meats, French fries, refined grains, sweets, and desserts).Main outcome 
+measure Risk of incident gout meeting the preliminary American College of 
+Rheumatology survey criteria for gout, adjusting for potential confounders, 
+including age, body mass index, hypertension, diuretic use, and alcohol 
+intake.Results During 26 years of follow-up, 1731 confirmed cases of incident 
+gout were documented. A higher DASH dietary pattern score was associated with a 
+lower risk for gout (adjusted relative risk for extreme fifths 0.68, 95% 
+confidence interval 0.57 to 0.80, P value for trend <0.001). In contrast, a 
+higher Western dietary pattern score was associated with an increased risk for 
+gout (1.42, 1.16 to 1.74, P=0.005).Conclusion The DASH diet is associated with a 
+lower risk of gout, suggesting that its effect of lowering uric acid levels in 
+individuals with hyperuricemia translates to a lower risk of gout. Conversely, 
+the Western diet is associated with a higher risk of gout. The DASH diet may 
+provide an attractive preventive dietary approach for men at risk of gout.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.j1794
+PMCID: PMC5423545
+PMID: 28487277 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and 
+declare: no support from any organization for the submitted work other than that 
+described above; no financial relationships with any organizations that might 
+have an interest in the submitted work in the previous three years. HKC reports 
+grants from AstraZeneca, consulting fees from Takeda, and consulting fees from 
+Selecta outside the submitted work.
+
+
+8. Scand J Rheumatol. 2010 Aug;39(4):292-8. doi: 10.3109/03009740903379630.
+
+Self-reported food intolerance and mucosal reactivity after rectal food protein 
+challenge in patients with rheumatoid arthritis.
+
+Lidén M(1), Kristjánsson G, Valtysdottir S, Venge P, Hällgren R.
+
+Author information:
+(1)Department of Rheumatology, University Hospital, Uppsala, Sweden. 
+maria.liden@medsci.uu.se
+
+OBJECTIVES: A dietary link to rheumatoid arthritis (RA) has been suspected and 
+an influence on arthritic symptoms by different diets has been reported. Our 
+primary aim was to record the self-experienced adverse food reactions in 
+patients with RA. A secondary aim was to relate self-experienced adverse 
+reactions to dairy produce and wheat to the local mucosal reactivity observed 
+after rectal challenge with cow's milk protein (CM) and wheat gluten.
+METHODS: A questionnaire about self-experienced adverse reaction to food was 
+sent to 347 RA patients. Rectal challenge with CM and gluten was performed in 27 
+of these patients and in healthy controls (n = 18). After a 15-h challenge the 
+mucosal production of nitric oxide (NO) and the mucosal release of 
+myeloperoxidase (MPO) and eosinophil cationic protein (ECP) were measured by 
+using the mucosal patch technique.
+RESULTS: Twenty-seven per cent of the RA patients reported food intolerance (FI) 
+to various foods, and in particular to CM, meat, and wheat gluten. Strong 
+mucosal reactivity to CM was observed in 11% of the patients. Moderately 
+increased mucosal reactivity to CM and gluten was found in 22% and 33%, 
+respectively, of the patients. No relationship was found between 
+self-experienced adverse reactions to CM or gluten and mucosal reactivity to 
+these proteins.
+CONCLUSIONS: Perceived FI is reported frequently by RA patients, with a 
+prevalence similar to that reported previously in the general population. 
+Mucosal reactivity to CM and gluten is seen in a minor fraction of RA patients 
+and is not related to the frequently perceived intolerance to these proteins.
+
+DOI: 10.3109/03009740903379630
+PMID: 20141485 [Indexed for MEDLINE]
+
+
+9. Postgrad Med J. 2005 Mar;81(953):167-73. doi: 10.1136/pgmj.2004.025551.
+
+Systemic lactose intolerance: a new perspective on an old problem.
+
+Matthews SB(1), Waud JP, Roberts AG, Campbell AK.
+
+Author information:
+(1)Department of Medical Biochemistry and Immunology, Llandough Hospital, 
+Cardiff and Vale NHS Trust, Penarth Vale of Glamorgan, UK.
+
+Intolerance to certain foods can cause a range of gut and systemic symptoms. The 
+possibility that these can be caused by lactose has been missed because of 
+"hidden" lactose added to many foods and drinks inadequately labelled, confusing 
+diagnosis based on dietary removal of dairy foods. Two polymorphisms, C/T13910 
+and G/A22018, linked to hypolactasia, correlate with breath hydrogen and 
+symptoms after lactose. This, with a 48 hour record of gut and systemic symptoms 
+and a six hour breath hydrogen test, provides a new approach to the clinical 
+management of lactose intolerance. The key is the prolonged effect of dietary 
+removal of lactose. Patients diagnosed as lactose intolerant must be advised of 
+"risk" foods, inadequately labelled, including processed meats, bread, cake 
+mixes, soft drinks, and lagers. This review highlights the wide range of 
+systemic symptoms caused by lactose intolerance. This has important implications 
+for the management of irritable bowel syndrome, and for doctors of many 
+specialties.
+
+DOI: 10.1136/pgmj.2004.025551
+PMCID: PMC1743216
+PMID: 15749792 [Indexed for MEDLINE]
+
+
+10. J Am Diet Assoc. 1987 Sep;87(9):1211-4.
+
+Management of patients using unproven regimens for arthritis.
+
+Wolman PG.
+
+Such treatments as vegetarian diets, fresh or raw diets, allergy diets, 
+no-dairy-products diets, fasting, vitamin and mineral supplementation, apple 
+cider vinegar, and honey drinks are touted in the popular press as effective for 
+the treatment of arthritis. In contrast to conventional therapies, the unproven 
+treatments promise not only relief from symptoms but freedom from the disease as 
+long as the diet regimen is followed. Several of the remedies appear to be 
+harmless, but others are dangerous, especially if followed for prolonged 
+periods. Nutrition professionals should be aware of the nature of these 
+treatments and be prepared to offer sound, scientifically based but 
+nonjudgmental care and information.
+
+PMID: 3624710 [Indexed for MEDLINE]

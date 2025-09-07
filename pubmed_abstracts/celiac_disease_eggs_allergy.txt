@@ -1,0 +1,492 @@
+1. Immediate Hypersensitivity Reactions (Archived).
+
+Justiz Vaillant AA(1), Vashisht R, Zito PM(2).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 
+Jan–.
+2023 May 29.
+
+Author information:
+(1)University of the West Indies
+(2)University of Miami; Miller School of Medicine
+
+Hypersensitivity reactions (HR) are immune responses that are exaggerated or 
+inappropriate against an antigen or allergen. Coombs and Gell classified 
+hypersensitivity reactions into four forms. Type I, type II, and type III 
+hypersensitivity reactions are known as immediate hypersensitivity reactions 
+(IHR) because they occur within 24 hours. Antibodies including IgE, IgM, and IgG 
+mediate them. Type I or Anaphylactic Response The anaphylactic response is 
+mediated by IgE antibodies that are produced by the immune system in response to 
+environmental proteins (allergens) such as pollens, animal danders, or dust 
+mites. These antibodies (IgE) bind to mast cells and basophils, which contain 
+histamine granules that are released in the reaction and cause inflammation. 
+Type I hypersensitivity reactions can be seen in bronchial asthma, allergic 
+rhinitis, allergic dermatitis, food allergy, allergic conjunctivitis, and 
+anaphylactic shock. Anaphylaxis Anaphylaxis is a medical emergency as it can 
+lead to acute, life-threatening respiratory failure. It is an IgE-mediated 
+process. It is the most severe form of an allergic reaction, where mast cells 
+suddenly release a large amount of histamine and later on leukotrienes. In 
+severe cases intense bronchospasm, laryngeal edema, cyanosis, hypotension, and 
+shock are present.  Allergic Bronchial Asthma Allergic bronchial asthma is an 
+atopic disease, characterized by bronchospasm. It may also be a chronic 
+inflammatory disease. In its etiology, environmental factors along with a 
+genetic background play an important role. The diagnosis is dependent on history 
+and examination. In allergic bronchial asthma, IgE is elevated, and sputum 
+eosinophilia is common. Epidemiologically, a positive skin prick test or 
+specific IgE are risk factors for asthma. Allergic Rhinitis Allergic rhinitis is 
+another atopic disease where histamine and leukotrienes are responsible for 
+rhinorrhea, sneezing, and nasal obstruction. Allergens are similar to those 
+found in bronchial asthma. Nasal polyps may be seen in chronic rhinitis. 
+Allergic Conjunctivitis Allergic conjunctivitis presents with rhinitis and is 
+IgE-mediated. Itching and eye problems including watering, redness, and swelling 
+always occur. Food Allergy Clinicians must differentiate food allergy 
+(IgE-mediated) from food intolerance that can be a cause for a variety of 
+etiologies including malabsorption and celiac disease. It is more frequent in 
+children as seen in cow's milk allergy. Food allergy symptoms mostly affect the 
+respiratory tract, the skin, and the gut. Skin prick tests are helpful to test 
+for food allergens that can trigger severe reactions, e.g., peanuts, eggs, fish, 
+and milk. Atopic Eczema Atopic eczema is an IgE-mediated disease that affects 
+the skin and has an immunopathogenesis very similar to that of allergic asthma 
+and allergic rhinitis, which are present in more than half of these patients. 
+Radioallergosorbent (RAST) may reveal the specificity of the IgE antibody 
+involved but has little help in management. Drug Allergy Drugs may cause 
+allergic reactions by any mechanism of hypersensitivity. For example, penicillin 
+may cause anaphylaxis, which is IgE-mediated but most responses are trivial. 
+Penicillin cross-reacts with other semisynthetic penicillins including 
+monobactams and carbapenems and may also cross-react with other antibiotics such 
+as cephalosporins.   Type II or Cytotoxic-Mediated Response IgG and IgM mediate 
+cytotoxic-mediated responses against cell surface and extracellular matrix 
+proteins. The immunoglobulins involved in this type of reaction damage cells by 
+activating the complement system or by phagocytosis. Type 
+II hypersensitivity reactions can be seen in immune thrombocytopenia, autoimmune 
+hemolytic anemia, and autoimmune neutropenia. Immune Thrombocytopenia (ITP) ITP 
+is an autoimmune disorder that occurs at any age. Phagocytes destroy sensitized 
+platelets in the peripheral blood. Clinically, it manifests as thrombocytopenia 
+with shortened platelet survival and increased marrow megakaryocytes. Sudden 
+onset of petechiae and bleeding from the gums, nose, bowel, and urinary tract 
+occurs. Bleeding can accompany infections, drug reactions, malignancy, and other 
+autoimmune disorders such as thyroid disease and SLE. Autoimmune Hemolytic 
+anemia (AIHA) There are two types of immune hemolytic anemia: IgG-mediated (warm 
+AIHA) and IgM-mediated (cold AIHA). The warm type may be idiopathic autoimmune 
+or secondary to other diseases such as malignancy affecting the lymphoid 
+tissues. The cold type may be idiopathic or secondary to infections such as 
+Epstein-Barr virus. The primary clinical sign of the two is jaundice. The 
+laboratory diagnosis is made by a positive Coombs test, which identifies 
+immunoglobulins and C3 on red blood cells. Autoimmune Neutropenia Autoimmune 
+neutropenia may be present with bacterial and fungal infections, or it may occur 
+alone or with autoimmune diseases (systemic lupus erythematosus, rheumatoid 
+arthritis, autoimmune hepatitis), infections and lymphoma. Bone marrow 
+examination is needed if neutropenia is severe. For associated autoimmune 
+disorders, an autoimmune antibody panel is necessary (ANA, ENA, and dsDNA). 
+Hemolytic Disease of the Fetus and the Newborn (erythroblastosis fetalis) The 
+maternal immune system suffers an initial sensitization to the fetal Rh+ red 
+blood cells during birth when the placenta tears away. The first child escapes 
+the disease but the mother, now sensitized, will be capable of causing a 
+hemolytic reaction against a second Rh+ fetus, which develops anemia and 
+jaundice once the maternal IgG crosses the placenta. Myasthenia Gravis 
+Myasthenia gravis is an autoimmune disorder caused by antibodies to 
+post-synaptic acetylcholine receptors that interfere with neuromuscular 
+transmission. It is characterized by extreme muscular fatigue, double vision, 
+bilateral ptosis, deconjugate eye movements, difficulty swallowing, and weakness 
+in the upper arms. Babies born to mothers with myasthenia gravis can have 
+transient muscle weakness due to pathogenic IgG antibodies that cross the 
+placenta. Goodpasture Syndrome  Goodpasture syndrome is a type II 
+hypersensitivity reaction characterized by the presence of nephritis in 
+association with lung hemorrhage. In most patients, it is caused by 
+cross-reactive autoantigens that are present in the basement membranes of the 
+lung and kidney. A number of patients with this problem exhibit antibodies to 
+collagen type IV, which is an important component of basement membranes. 
+Pemphigus Pemphigus causes a severe blistering disease that affects the skin and 
+mucous membranes. The sera of patients with pemphigus have antibodies against 
+desmoglein-1 and desmoglein-3, which are components of desmosomes, which form 
+junctions between epidermal cells. Pemphigus is strongly linked to HLA-DR4 
+(DRB1*0402), which is a molecule that presents one of the autoantigens involved 
+in the immunopathogenesis of this disease (desmoglein-3). Type III or 
+Immunocomplex Reactions These are also mediated by IgM and IgG antibodies that 
+react with soluble antigens forming antigen-antibody complexes. The complement 
+system becomes activated and releases chemotactic agents that attract 
+neutrophils and cause inflammation and tissue damage as seen in vasculitis and 
+glomerulonephritis. Type III hypersensitivity reactions can classically be seen 
+in serum sickness and Arthus reaction. Serum Sickness Serum sickness can be 
+induced with massive injections of a foreign antigen. Circulating immune 
+complexes infiltrate the blood vessel walls and tissues, causing an increased 
+vascular permeability and leading to inflammatory processes such as vasculitis 
+and arthritis. It was a complication of anti-serum prepared in animals to which 
+some individuals produced antibodies to the foreign protein. It was also 
+experienced in the treatment with antibiotics such as penicillin. Arthus 
+Reaction Arthus reaction is a local reaction seen when a small quantity of 
+antigens is injected into the skin repeatedly until detectable levels of 
+antibodies (IgG) are present. If the same antigen is inoculated, immune 
+complexes develop at the mentioned local site and in the endothelium of small 
+vessels. This reaction is characterized by the presence of marked edema and 
+hemorrhage, depending on the administered dose of the foreign antigen.
+
+Copyright © 2025, StatPearls Publishing LLC.
+
+PMID: 30020687
+
+Conflict of interest statement: Disclosure: Angel Justiz Vaillant declares no 
+relevant financial relationships with ineligible companies. Disclosure: Rishik 
+Vashisht declares no relevant financial relationships with ineligible companies. 
+Disclosure: Patrick Zito declares no relevant financial relationships with 
+ineligible companies.
+
+
+2. Pediatrics. 2023 Feb 1;151(2):e2022058380. doi: 10.1542/peds.2022-058380.
+
+Complementary and Allergenic Food Introduction in Infants: An Umbrella Review.
+
+Soriano VX(1)(2), Ciciulla D(1)(2)(3), Gell G(2), Wang Y(2)(3)(4), Peters 
+RL(1)(2), McWilliam V(2)(3)(5), Dharmage SC(1)(6), Koplin JJ(1)(2)(3).
+
+Author information:
+(1)Centre for Food and Allergy Research.
+(2)Murdoch Children's Research Institute, Parkville, Australia.
+(3)Department of Paediatrics.
+(4)School of Psychology, Faculty of Health, Deakin University, Burwood, 
+Australia.
+(5)Department of Allergy, Royal Children's Hospital, Parkville, Australia.
+(6)School of Population and Global Health, University of Melbourne, Parkville, 
+Australia.
+
+BACKGROUND: Multiple systematic reviews examine the introduction of foods in 
+relation to individual health outcomes, but the balance of harms and benefits 
+has not been overviewed systematically.
+OBJECTIVES: We aimed to perform an overview of systematic reviews on age of 
+introduction of complementary and allergenic foods to the infant diet and long 
+and short-term health outcomes.
+DATA SOURCES: We searched Medline, Embase, Cochrane, and PubMed (July 25, 2022).
+STUDY SELECTION: Included systematic reviews examining the introduction of 
+complementary or allergenic foods before age 1. Outcomes included allergic, 
+autoimmune, and inflammatory diseases, neurodevelopment, nutrition, and weight.
+DATA EXTRACTION: Extraction and quality assessment were performed in duplicate 
+(A Measurement Tool to Assess Systematic Reviews) and strength of evidence was 
+assessed.
+RESULTS: We screened 4015 articles and included 32 systematic reviews. There was 
+moderate evidence that peanut and egg should be introduced from 4 to 11 months 
+to prevent food allergy (6 of 10 reviews). Complementary food introduction was 
+not associated with food allergy. Moderate certainty evidence suggested age of 
+complementary food introduction was not associated with eczema. Age at 
+introduction of gluten was not associated with celiac disease (high certainty 
+evidence; 3 of 4 reviews). Low certainty evidence indicated that introducing 
+solids before 4 months may increase the risk of childhood obesity, but not 
+growth. There was insufficient evidence regarding an association between any 
+food introduction and bone health, gastrointestinal diseases, autoimmune 
+disorders, asthma, or allergic rhinitis.
+LIMITATIONS: Gray literature was not included.
+CONCLUSIONS: Current evidence supports introducing complementary foods around 6 
+months and allergenic foods before 11 months.
+
+Copyright © 2023 by the American Academy of Pediatrics.
+
+DOI: 10.1542/peds.2022-058380
+PMID: 36704902 [Indexed for MEDLINE]
+
+
+3. J Allergy Clin Immunol Pract. 2022 Sep;10(9):2397-2403. doi: 
+10.1016/j.jaip.2022.05.006. Epub 2022 May 19.
+
+Food Protein-Induced Enterocolitis Syndrome in Adulthood: Clinical 
+Characteristics, Prognosis, and Risk Factors.
+
+González-Delgado P(1), Muriel J(2), Jiménez T(3), Cameo JI(4), Palazón-Bru A(2), 
+Fernández J(5).
+
+Author information:
+(1)Allergy Service, Alicante General University Hospital, Alicante Institute for 
+Health and Biomedical Research (ISABIAL), Alicante, Spain; Clinical Medicine 
+Department, University Miguel Hernández, San Juan, Alicante, Spain. Electronic 
+address: purifica60@gmail.com.
+(2)Clinical Medicine Department, University Miguel Hernández, San Juan, 
+Alicante, Spain.
+(3)Allergy Service, Alicante General University Hospital, Alicante Institute for 
+Health and Biomedical Research (ISABIAL), Alicante, Spain.
+(4)Gastroenterology Service, Alicante General University Hospital, Alicante 
+Institute for Health and Biomedical Research (ISABIAL), Alicante, Spain.
+(5)Allergy Service, Alicante General University Hospital, Alicante Institute for 
+Health and Biomedical Research (ISABIAL), Alicante, Spain; Clinical Medicine 
+Department, University Miguel Hernández, San Juan, Alicante, Spain.
+
+BACKGROUND: Food protein-induced enterocolitis syndrome (FPIES) in adults is 
+being increasingly recognized; however, little is known about its 
+characteristics.
+OBJECTIVE: To describe the clinical characteristics, prognosis, and associated 
+factors in adult FPIES.
+METHODS: A 10-year prospective study was conducted in the Allergy Section of 
+Alicante General Hospital in adults diagnosed with FPIES. Detailed interviews 
+with patients and oral food challenges (OFCs) were performed to confirm 
+diagnosis or evaluate for tolerance. Comorbidities and possible risk factors 
+were analyzed retrospectively through electronic medical records to assess their 
+association with the disease.
+RESULTS: One hundred and seven adults with FPIES (93.5% female) were followed 
+for a median of 6.2 years. Abdominal pain was the most common manifestation 
+(96.3%), followed by diarrhea (72%) and vomiting (60.7%). Seafood (59.8%), egg 
+(14%), and milk (10.3%) were the most common triggers, whereas 43.9% reacted to 
+more than 1 food group. We performed 49 OFCs: 9 to confirm diagnosis and 40 to 
+evaluate for tolerance. After a median 3.5 years, 16.8% achieved tolerance. 
+Resolution was correlated inversely with duration of the disease (P = .04) and 
+seafood (P = .023) but not with age of onset. The prevalence of gastrointestinal 
+pathologies such as irritable bowel syndrome (IBS), eosinophilic esophagitis, 
+inflammatory bowel disease, and celiac disease was higher than in the general 
+population. A higher number of FPIES triggers were correlated with also having a 
+diagnosis of IBS (P = .02).
+CONCLUSIONS: Although adult FPIES normally persists, some patients achieve 
+tolerance. Adults with FPIES have a relatively high prevalence of 
+gastrointestinal pathologies. The predominance of women may be related to 
+hormonal factors. The clinical differences with pediatric FPIES warrant a 
+revision of diagnostic criteria in adults.
+
+Copyright © 2022 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2022.05.006
+PMID: 35598865 [Indexed for MEDLINE]
+
+
+4. J Intern Med. 2022 Mar;291(3):283-302. doi: 10.1111/joim.13422. Epub 2021 Dec 
+22.
+
+Food allergy and hypersensitivity reactions in children and adults-A review.
+
+Tedner SG(1)(2), Asarnoj A(1)(2), Thulin H(3)(4), Westman M(5)(6), Konradsen 
+JR(1)(2), Nilsson C(3)(4).
+
+Author information:
+(1)Department of Women's and Children's Health, Karolinska Institutet, 
+Stockholm, Sweden.
+(2)Pediatric Allergy and Pulmonology Unit at Astrid Lindgren Children's 
+Hospital, Karolinska University Hospital, Stockholm, Sweden.
+(3)Allergy and Lung Department, Sachs' Children and Youth Hospital, Stockholm, 
+Sweden.
+(4)Department of Clinical Science and Education Södersjukhuset, Karolinska 
+Institutet, Stockholm, Sweden.
+(5)Division of Immunology and Allergy, Department of Medicine Solna, Karolinska 
+Institutet, Stockholm, Sweden.
+(6)Asthma and Allergy Clinic S:t Göran, Stockholm, Sweden.
+
+Adverse reactions after food intake are commonly reported and a cause of concern 
+and anxiety that can lead to a very strict diet. The severity of the reaction 
+can vary depending on the type of food and mechanism, and it is not always easy 
+to disentangle different hypersensitivity diagnoses, which sometimes can exist 
+simultaneously. After a carefully taken medical history, hypersensitivity to 
+food can often be ruled out or suspected. The most common type of allergic 
+reaction is immunoglobulin E (IgE)-mediated food allergy (prevalence 5-10%). 
+Symptoms vary from mild itching, stomach pain, and rash to severe anaphylaxis. 
+The definition of IgE-mediated food allergy is allergic symptoms combined with 
+specific IgE-antibodies, and therefore only IgE-antibodies to suspected 
+allergens should be analyzed. Nowadays, methods of molecular allergology can 
+help with the diagnostic process. The most common allergens are milk and egg in 
+infants, peanut and tree nuts in children, and fish and shellfish in adults. In 
+young children, milk/egg allergy has a good chance to remit, making it important 
+to follow up and reintroduce the food when possible. Other diseases triggered by 
+food are non-IgE-mediated food allergy, for example, eosinophilic esophagitis, 
+celiac disease, food protein-induced enterocolitis syndrome, and 
+hypersensitivity to milk and biogenic amines. Some of the food 
+hypersensitivities dominate in childhood, others are more common in adults. 
+Interesting studies are ongoing regarding the possibilities of treating food 
+hypersensitivity, such as through oral immunotherapy. The purpose of this review 
+was to provide an overview of the most common types of food hypersensitivity 
+reactions.
+
+© 2021 The Association for the Publication of the Journal of Internal Medicine.
+
+DOI: 10.1111/joim.13422
+PMID: 34875122 [Indexed for MEDLINE]
+
+
+5. Am J Ind Med. 2021 May;64(5):431-434. doi: 10.1002/ajim.23238. Epub 2021 Mar
+2.
+
+Occupational IgE-mediated psyllium allergy in contemporary gluten-free and vegan 
+baking: A case of allergic rhinitis.
+
+Jungewelter S(1), Suomela S(1), Airaksinen L(1).
+
+Author information:
+(1)Finnish Institute of Occupational Health (FIOH), Helsinki, Finland.
+
+Psyllium (from Plantago ovata; ispaghula) is used as a dietary supplement and is 
+supplied in the form of husk, granules, capsules, or powder. Consumers using 
+psyllium-containing laxatives, healthcare workers handling these, and 
+pharmaceutical workers in laxative-manufacturing plants are known to be at risk 
+of sensitization and subsequent rhinitis, asthma, contact urticaria, and even 
+anaphylaxis. To our knowledge, the case we present here is the first of baker's 
+immunoglobulin E (IgE)-mediated occupational allergy due to psyllium exposure. 
+Our patient, a 24-year-old female baker with no previous allergies, was referred 
+to our clinic with suspected occupational rhinitis. After 1 year of baking with 
+cereal flour or gluten-free flour-mix, she began to suffer from 
+rhino-conjunctival symptoms during workdays. Skin prick tests with agents from 
+the patient's workplace revealed allergies not only to wheat and rye flours but 
+also to psyllium, with a remarkable 10 mm wheal. Subsequently, nasal provocation 
+tests confirmed occupational allergic rhinitis to psyllium. We also found 
+work-related sensitization to buckwheat, which she used in gluten-free baking. 
+Due to the increased prevalence of celiac disease and the popularity of 
+gluten-free and vegan food, psyllium has recently become a common ingredient in 
+baking, used as a substitute for gluten or eggs. Bakers handle allergens such as 
+these in high concentrations and this may lie behind the emergence of 
+respiratory and dermal symptoms. It is essential to consider new or recenlty 
+introduced materials as possible allergens if it is suspected that a baker has 
+work-related respiratory or allergic symptoms.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/ajim.23238
+PMID: 33651455 [Indexed for MEDLINE]
+
+
+6. J Pediatr Gastroenterol Nutr. 2019 Aug;69(2):e43-e48. doi: 
+10.1097/MPG.0000000000002343.
+
+Pediatric Celiac Disease and Eosinophilic Esophagitis: Outcome of Dietary 
+Therapy.
+
+Patton T(1), Chugh A(2), Padhye L(3), DeGeeter C(4), Guandalini S(1).
+
+Author information:
+(1)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Comer 
+Children's Hospital, University of Chicago Medical Center, Chicago, IL.
+(2)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Medical 
+College of Wisconsin, Milwaukee, WI.
+(3)Division of Allergy and Immunology, Rush University Medical Center, Chicago, 
+IL.
+(4)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Stead 
+Family Children's Hospital, University of Iowa, Iowa City, IA.
+
+OBJECTIVE: The coexistence of celiac disease (CeD) and eosinophilic esophagitis 
+(EoE) in pediatric patients has been increasingly recognized. In the current 
+study, we have aimed to assess the outcomes of therapeutic dietary interventions 
+in a cohort of pediatric patients with CeD and EoE.
+METHODS: Pediatric patient records obtained from the University of Chicago 
+Celiac Center Database from August 2008 to July 2013 were reviewed. Information 
+was collected on patients with concomitant CeD and EoE regarding age, sex, dates 
+of diagnoses, presenting symptoms, length of symptoms before diagnosis, familial 
+and personal atopic history, dietary therapy, and esophageal histologic response 
+to dietary therapy.
+RESULTS: A total of 350 records of patients with CeD were reviewed. Twenty-two 
+(6.3%) had a confirmed diagnosis of CeD and EoE, 17 had repeat biopsies. Four of 
+17 (23.5%) had resolution of esophageal eosinophilia on an exclusive gluten-free 
+diet, 10 of 17 (59%) required additional eliminations to show histologic 
+resolution, 1 of 17 (6%) had not reached histological remission, and 2 of 17 
+(12%) were lost to follow-up. Success rates of single food reintroductions were: 
+soy 5 of 5 (100%), eggs 3 of 5 (60%), dairy 3 of 7 (43%), nuts 2 of 4 (50%), and 
+fish 2 of 4 (50%).
+CONCLUSIONS: To our knowledge, this is the largest pediatric study to assess the 
+histologic outcome of EoE-associated esophageal eosinophilia in response to 
+dietary management of pediatric patients with concomitant CeD and EoE. We 
+demonstrate that soy is well tolerated in this cohort, and suggest that 
+reintroducing this food first, or trialing a soy-inclusive elimination diet is a 
+viable strategy.
+
+DOI: 10.1097/MPG.0000000000002343
+PMID: 30921260 [Indexed for MEDLINE]
+
+
+7. United European Gastroenterol J. 2019 Feb;7(1):78-89. doi: 
+10.1177/2050640618811485. Epub 2018 Nov 5.
+
+The association of celiac disease and allergic disease in a general adult 
+population.
+
+Kårhus LL(1), Skaaby T(1), Madsen AL(1), Thuesen BH(1), Schwarz P(2)(3), 
+Rumessen JJ(4), Linneberg A(1)(3).
+
+Author information:
+(1)Center for Clinical Research and Prevention, Bispebjerg and Frederiksberg 
+Hospital, Copenhagen, Denmark.
+(2)Department of Endocrinology & Diabetes and Bone-Metabolic Research Unit, 
+Rigshospitalet, Copenhagen, Denmark.
+(3)Department of Clinical Medicine, Faculty of Health and Medical Sciences, 
+University of Copenhagen, Denmark.
+(4)Q&D-Research Unit and Department of Gastroenterology, Herlev and Gentofte 
+Hospital, University of Copenhagen, Denmark.
+
+BACKGROUND: The relationship between allergy and celiac disease (CD) is not 
+clear.
+OBJECTIVE: The objective of this article is to investigate the association of CD 
+and CD antibody positivity with hay fever, asthma and immunoglobulin (Ig)E 
+sensitization in a general adult population.
+METHODS: A total of 2297 individuals were screened for CD antibodies and 
+underwent allergy testing. CD antibody-positive participants were invited to 
+undergo clinical evaluation including biopsies. Additionally, biobank blood 
+samples from four population-based studies (6423, 973, 1718 and 1101 
+participants) with data on IgE sensitization to inhalant allergens were screened 
+for CD antibodies. CD antibody-positive participants were screened for serum IgE 
+against food allergens in three biobank studies. CD-antibody positivity was 
+defined as IgA or IgG tissue transglutaminase ≥7 U/ml and/or IgG deamidated 
+gliadin peptide ≥10 U/ml.
+RESULTS: The nine participants (0.4%) diagnosed with CD had significantly higher 
+prevalence of IgE sensitization to wheat and dust mites. The prevalence of CD 
+antibody positivity was 0.8% (18/2297), and these participants had a 
+significantly higher prevalence of IgE sensitization to food allergens (Fx5), 
+egg, dust mites and mugwort. In the biobank studies, the prevalence of CD 
+antibody positivity was 0.8% to 1.2%. One study showed a positive association 
+between CD antibody positivity and IgE sensitization for dog, horse and food 
+allergens.
+CONCLUSION: We found a possible association of CD and IgE sensitization to some 
+food and inhalant allergens in the Health2006 study. In further studies, 
+however, we could not consistently replicate these associations.
+
+DOI: 10.1177/2050640618811485
+PMCID: PMC6374850
+PMID: 30788119 [Indexed for MEDLINE]
+
+
+8. Allergol Immunopathol (Madr). 2018 Jan-Feb;46(1):1-2. doi: 
+10.1016/j.aller.2017.10.002.
+
+Food Protein-Induced Proctocolitis. The shadow of allergic disorders.
+
+Sánchez-Salguero CA(1).
+
+Author information:
+(1)Pediatric Allergy Unit, Hospital Universitario Puerto Real, Cádiz, Spain.
+
+DOI: 10.1016/j.aller.2017.10.002
+PMID: 29291769 [Indexed for MEDLINE]
+
+
+9. BMJ. 2017 Aug 21;358:j3468. doi: 10.1136/bmj.j3468.
+
+Medicines, excipients, and dietary intolerances.
+
+Drug and Therapeutics Bulletin.
+
+DOI: 10.1136/bmj.j3468
+PMID: 28827390 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Competing interests are in 
+line with DTB’s policy on conflicts of interests.
+
+
+10. ACS Nano. 2017 Oct 24;11(10):10062-10069. doi: 10.1021/acsnano.7b04318. Epub 
+2017 Aug 25.
+
+Integrated Magneto-Chemical Sensor For On-Site Food Allergen Detection.
+
+Lin HY, Huang CH, Park J, Pathania D, Castro CM, Fasano A, Weissleder R(1), Lee 
+H.
+
+Author information:
+(1)Department of Systems Biology, Harvard Medical School , Boston, Massachusetts 
+02114, United States.
+
+Adverse food reactions, including food allergies, food sensitivities, and 
+autoimmune reaction (e.g., celiac disease) affect 5-15% of the population and 
+remain a considerable public health problem requiring stringent food avoidance 
+and epinephrine availability for emergency events. Avoiding problematic foods is 
+practically difficult, given current reliance on prepared foods and out-of-home 
+meals. In response, we developed a portable, point-of-use detection technology, 
+termed integrated exogenous antigen testing (iEAT). The system consists of a 
+disposable antigen extraction device coupled with an electronic keychain reader 
+for rapid sensing and communication. We optimized the prototype iEAT system to 
+detect five major food antigens in peanuts, hazelnuts, wheat, milk, and eggs. 
+Antigen extraction and detection with iEAT requires <10 min and achieves 
+high-detection sensitivities (e.g., 0.1 mg/kg for gluten, lower than regulatory 
+limits of 20 mg/kg). When testing under restaurant conditions, we were able to 
+detect hidden food antigens such as gluten within "gluten-free" food items. The 
+small size and rapid, simple testing of the iEAT system should help not only 
+consumers but also other key stakeholders such as clinicians, food industries, 
+and regulators to enhance food safety.
+
+DOI: 10.1021/acsnano.7b04318
+PMID: 28792732 [Indexed for MEDLINE]

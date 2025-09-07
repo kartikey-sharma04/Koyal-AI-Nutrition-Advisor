@@ -1,0 +1,344 @@
+1. J Intern Med. 2022 Mar;291(3):283-302. doi: 10.1111/joim.13422. Epub 2021 Dec 
+22.
+
+Food allergy and hypersensitivity reactions in children and adults-A review.
+
+Tedner SG(1)(2), Asarnoj A(1)(2), Thulin H(3)(4), Westman M(5)(6), Konradsen 
+JR(1)(2), Nilsson C(3)(4).
+
+Author information:
+(1)Department of Women's and Children's Health, Karolinska Institutet, 
+Stockholm, Sweden.
+(2)Pediatric Allergy and Pulmonology Unit at Astrid Lindgren Children's 
+Hospital, Karolinska University Hospital, Stockholm, Sweden.
+(3)Allergy and Lung Department, Sachs' Children and Youth Hospital, Stockholm, 
+Sweden.
+(4)Department of Clinical Science and Education Södersjukhuset, Karolinska 
+Institutet, Stockholm, Sweden.
+(5)Division of Immunology and Allergy, Department of Medicine Solna, Karolinska 
+Institutet, Stockholm, Sweden.
+(6)Asthma and Allergy Clinic S:t Göran, Stockholm, Sweden.
+
+Adverse reactions after food intake are commonly reported and a cause of concern 
+and anxiety that can lead to a very strict diet. The severity of the reaction 
+can vary depending on the type of food and mechanism, and it is not always easy 
+to disentangle different hypersensitivity diagnoses, which sometimes can exist 
+simultaneously. After a carefully taken medical history, hypersensitivity to 
+food can often be ruled out or suspected. The most common type of allergic 
+reaction is immunoglobulin E (IgE)-mediated food allergy (prevalence 5-10%). 
+Symptoms vary from mild itching, stomach pain, and rash to severe anaphylaxis. 
+The definition of IgE-mediated food allergy is allergic symptoms combined with 
+specific IgE-antibodies, and therefore only IgE-antibodies to suspected 
+allergens should be analyzed. Nowadays, methods of molecular allergology can 
+help with the diagnostic process. The most common allergens are milk and egg in 
+infants, peanut and tree nuts in children, and fish and shellfish in adults. In 
+young children, milk/egg allergy has a good chance to remit, making it important 
+to follow up and reintroduce the food when possible. Other diseases triggered by 
+food are non-IgE-mediated food allergy, for example, eosinophilic esophagitis, 
+celiac disease, food protein-induced enterocolitis syndrome, and 
+hypersensitivity to milk and biogenic amines. Some of the food 
+hypersensitivities dominate in childhood, others are more common in adults. 
+Interesting studies are ongoing regarding the possibilities of treating food 
+hypersensitivity, such as through oral immunotherapy. The purpose of this review 
+was to provide an overview of the most common types of food hypersensitivity 
+reactions.
+
+© 2021 The Association for the Publication of the Journal of Internal Medicine.
+
+DOI: 10.1111/joim.13422
+PMID: 34875122 [Indexed for MEDLINE]
+
+
+2. Foods. 2021 Apr 28;10(5):970. doi: 10.3390/foods10050970.
+
+Oral Mucosa as a Potential Site for Diagnosis and Treatment of Allergic and 
+Autoimmune Diseases.
+
+Gomez-Casado C(1), Sanchez-Solares J(1), Izquierdo E(1), Díaz-Perales A(2), 
+Barber D(1), Escribese MM(1).
+
+Author information:
+(1)Institute of Applied Molecular Medicine, Department of Basic Medical 
+Sciences, Faculty of Medicine, San Pablo CEU University, 28003 Madrid, Spain.
+(2)Center of Plant Biotechnology and Genomics, Technical University of Madrid, 
+28040 Madrid, Spain.
+
+Most prevalent food allergies during early childhood are caused by foods with a 
+high allergenic protein content, such as milk, egg, nuts, or fish. In older 
+subjects, some respiratory allergies progressively lead to food-induced allergic 
+reactions, which can be severe, such as urticaria or asthma. Oral mucosa 
+remodeling has been recently proven to be a feature of severe allergic 
+phenotypes and autoimmune diseases. This remodeling process includes epithelial 
+barrier disruption and the release of inflammatory signals. Although little is 
+known about the immune processes taking place in the oral mucosa, there are a 
+few reports describing the oral mucosa-associated immune system. In this review, 
+we will provide an overview of the recent knowledge about the role of the oral 
+mucosa in food-induced allergic reactions, as well as in severe respiratory 
+allergies or food-induced autoimmune diseases, such as celiac disease.
+
+DOI: 10.3390/foods10050970
+PMCID: PMC8146604
+PMID: 33925074
+
+Conflict of interest statement: The authors declare that they do not have any 
+conflict of interest in relation to this manuscript.
+
+
+3. Int J Immunopathol Pharmacol. 2020 Jan-Dec;34:2058738420950579. doi: 
+10.1177/2058738420950579.
+
+Fatal food-induced anaphylaxis: Determination of tryptase and specific IgE on 
+cadaveric blood samples. What else for a better methodological standard?
+
+D'Errico S(1), Santurro A(2), Scopetti M(2), Frati P(2), Fineschi V(2).
+
+Author information:
+(1)Legal Medicine Division, Sant'Andrea University Hospital, Rome, Italy.
+(2)Department of Anatomical, Histological, Forensic and Orthopaedic Sciences, 
+Sapienza University of Rome, Rome, Italy.
+
+Post-mortem investigation in cases of fatal anaphylaxis is required to provide 
+clarifications on the presence of macroscopic pathological changes, histological 
+features, and immunohistochemical positivity suggestive of the diagnosis, on 
+biochemical evidence of anaphylaxis and on the presence of serological data 
+indicative of the allergen responsible for the anaphylactic reaction. We 
+describe the case of a 16-year-old boy with a medical history of allergic 
+asthma, celiac disease, and known food-induced allergy for fish, fresh milk, 
+peanuts, hazelnuts, walnuts, apples, kiwis, and peaches. Acute onset of dyspnea 
+followed by cyanosis of the lips and respiratory failure was described 
+immediately after having an ice cream sandwich. Unsuccessful rescues were 
+immediately attempted with oral administration of betamethasone, intramuscular 
+injection of adrenaline, and cardiopulmonary resuscitation. A complete 
+post-mortem examination was performed. Serum dosage of mast cell beta-tryptase 
+from femoral blood detecting serum values of 41.4 mg/l. Determination of 
+specific IgE on cadaveric blood samples confirmed the anamnestic data related to 
+sensitization for several food allergens, including cod parvalbumin, 
+tropomyosin, brazil nut, omega-5-gliadin of foods derived from wheat and gluten. 
+The cause of death was identified in a cardiorespiratory failure due to 
+anaphylactic shock in a poly-allergic subject and anaphylaxis was ascribed to 
+the wheat contained in the ice cream sandwich eaten immediately before the onset 
+of respiratory symptoms. The need is to implement an interdisciplinary approach 
+capable to ascertain the sensitivity and specificity of the diagnostic tests 
+currently in use as well as to evaluate the possibility of introducing new 
+biomarkers in practice.
+
+DOI: 10.1177/2058738420950579
+PMCID: PMC7543114
+PMID: 33016835 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interests: The 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+4. J Pediatr Gastroenterol Nutr. 2019 Aug;69(2):e43-e48. doi: 
+10.1097/MPG.0000000000002343.
+
+Pediatric Celiac Disease and Eosinophilic Esophagitis: Outcome of Dietary 
+Therapy.
+
+Patton T(1), Chugh A(2), Padhye L(3), DeGeeter C(4), Guandalini S(1).
+
+Author information:
+(1)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Comer 
+Children's Hospital, University of Chicago Medical Center, Chicago, IL.
+(2)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Medical 
+College of Wisconsin, Milwaukee, WI.
+(3)Division of Allergy and Immunology, Rush University Medical Center, Chicago, 
+IL.
+(4)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Stead 
+Family Children's Hospital, University of Iowa, Iowa City, IA.
+
+OBJECTIVE: The coexistence of celiac disease (CeD) and eosinophilic esophagitis 
+(EoE) in pediatric patients has been increasingly recognized. In the current 
+study, we have aimed to assess the outcomes of therapeutic dietary interventions 
+in a cohort of pediatric patients with CeD and EoE.
+METHODS: Pediatric patient records obtained from the University of Chicago 
+Celiac Center Database from August 2008 to July 2013 were reviewed. Information 
+was collected on patients with concomitant CeD and EoE regarding age, sex, dates 
+of diagnoses, presenting symptoms, length of symptoms before diagnosis, familial 
+and personal atopic history, dietary therapy, and esophageal histologic response 
+to dietary therapy.
+RESULTS: A total of 350 records of patients with CeD were reviewed. Twenty-two 
+(6.3%) had a confirmed diagnosis of CeD and EoE, 17 had repeat biopsies. Four of 
+17 (23.5%) had resolution of esophageal eosinophilia on an exclusive gluten-free 
+diet, 10 of 17 (59%) required additional eliminations to show histologic 
+resolution, 1 of 17 (6%) had not reached histological remission, and 2 of 17 
+(12%) were lost to follow-up. Success rates of single food reintroductions were: 
+soy 5 of 5 (100%), eggs 3 of 5 (60%), dairy 3 of 7 (43%), nuts 2 of 4 (50%), and 
+fish 2 of 4 (50%).
+CONCLUSIONS: To our knowledge, this is the largest pediatric study to assess the 
+histologic outcome of EoE-associated esophageal eosinophilia in response to 
+dietary management of pediatric patients with concomitant CeD and EoE. We 
+demonstrate that soy is well tolerated in this cohort, and suggest that 
+reintroducing this food first, or trialing a soy-inclusive elimination diet is a 
+viable strategy.
+
+DOI: 10.1097/MPG.0000000000002343
+PMID: 30921260 [Indexed for MEDLINE]
+
+
+5. J Am Diet Assoc. 2011 Dec;111(12):1877-91. doi: 10.1016/j.jada.2011.09.001.
+
+Adverse food reactions--an emerging issue for adults.
+
+Skypala I(1).
+
+Author information:
+(1)Royal Brompton & Harefield NHS Foundation Trust, London, UK. 
+i.skypala@rbht.nhs.uk
+
+Adverse reactions to foods are classified according to the presence or absence 
+of involvement of the immune system, which may or may not include the production 
+of immunoglobulin E (IgE) antibodies. This review focuses on the epidemiology, 
+diagnosis, and management of adverse food reactions, primarily in adults, and 
+excluding celiac disease and lactose intolerance. Reported reactions to foods 
+are often believed to be manifestations of a food allergy; however, IgE-mediated 
+food allergy only affects 1% to 4% of adults, with seafood, tree nuts, peanuts, 
+fruits, and vegetables being the most common triggers. Diagnosis is challenging 
+and most commonly achieved through careful evaluation of clinical history 
+followed by elimination and reintroduction or challenge with the suspected 
+offending food. With acute-onset allergic reactions, estimation of food-specific 
+IgE antibodies is frequently used to confirm or refute the diagnosis. Recent 
+developments, such as single allergen assays, enhance the diagnosis of 
+IgE-mediated food allergy, but the gold standard remains oral food challenge. 
+Despite recent advances in the management of food allergy, including the 
+promotion of oral tolerance, the mainstay of management is still the avoidance 
+of food triggers. Dietary management can be compromised by nutritional 
+inadequacy, accidental exposure, food labeling, and quality of life or adherence 
+issues. It is essential that adults with confirmed food allergy receive optimal 
+nutrition and dietetic support to enable them to manage their condition.
+
+Copyright © 2011 American Dietetic Association. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.jada.2011.09.001
+PMID: 22117664 [Indexed for MEDLINE]
+
+
+6. Curr Gastroenterol Rep. 2011 Oct;13(5):426-34. doi: 10.1007/s11894-011-0215-7.
+
+Differentiating food allergies from food intolerances.
+
+Guandalini S(1), Newland C.
+
+Author information:
+(1)Section of Pediatric Gastroenterology, Celiac Disease Center, University of 
+Chicago, 5839 S. Maryland Ave, MC 4065, Chicago, IL 60637, USA. 
+sguandalini@peds.bsd.uchicago.edu
+
+Adverse reactions to foods are extremely common, and generally they are 
+attributed to allergy. However, clinical manifestations of various degrees of 
+severity related to ingestion of foods can arise as a result of a number of 
+disorders, only some of which can be defined as allergic, implying an immune 
+mechanism. Recent epidemiological data in North America showed that the 
+prevalence of food allergy in children has increased. The most common food 
+allergens in the United States include egg, milk, peanut, tree nuts, wheat, 
+crustacean shellfish, and soy. This review examines the various forms of food 
+intolerances (immunoglobulin E [IgE] and non-IgE mediated), including celiac 
+disease and gluten sensitivity. Immune mediated reactions can be either IgE 
+mediated or non-IgE mediated. Among the first group, Immediate GI 
+hypersensitivity and oral allergy syndrome are the best described. Often, but 
+not always, IgE-mediated food allergies are entities such as eosinophilic 
+esophagitis and eosinophilic gastroenteropathy. Non IgE-mediated immune mediated 
+food reactions include celiac disease and gluten sensitivity, two increasingly 
+recognized disorders. Finally, non-immune mediated reactions encompass different 
+categories such as disorders of digestion and absorption, inborn errors of 
+metabolism, as well as pharmacological and toxic reactions.
+
+DOI: 10.1007/s11894-011-0215-7
+PMID: 21792544 [Indexed for MEDLINE]
+
+
+7. Am J Gastroenterol. 2010 Apr;105(4):940-5. doi: 10.1038/ajg.2010.96. Epub 2010
+ Mar 2.
+
+Infant nutritional factors and functional constipation in childhood: the 
+Generation R study.
+
+Kiefte-de Jong JC(1), Escher JC, Arends LR, Jaddoe VW, Hofman A, Raat H, Moll 
+HA.
+
+Author information:
+(1)Department of the Generation R Study Group, Erasmus Medical Center, 
+Rotterdam, The Netherlands.
+
+OBJECTIVES: Food allergy and celiac disease may lead to childhood constipation. 
+Early introduction of food allergens and gluten in the first year of life has 
+been suggested to have a function in these food intolerances, but it is unclear 
+whether this also holds true for development of childhood constipation. The aim 
+of this study was to assess the association between the timing of introduction 
+of food allergens and gluten early in life and functional constipation in 
+childhood.
+METHODS: This study was embedded in the Generation R study, a population-based 
+prospective cohort study from fetal life until young adulthood. Functional 
+constipation at 24 months of age was defined in 4,651 children according to the 
+Rome II criteria of defecation frequency <3 times a week or the presence of 
+mainly hard feces for at least 2 weeks.
+RESULTS: At the age of 24 months, 12% of the children had functional 
+constipation. Children with functional constipation got introduced to gluten 
+more often before or at the age of 6 months than children without functional 
+constipation (37% and 27%, respectively). After adjustment for birth weight, 
+gestational age, gender, ethnicity, maternal education, and family history of 
+atopy and chronic intestinal disorders, functional constipation was 
+significantly associated with early gluten introduction (odds ratio (OR): 1.35; 
+95% confidence interval (CI): 1.10-1.65). No association was found between 
+timing of introduction of cow's milk, hen's egg, soy, peanuts, and tree nuts 
+with functional constipation. A history of cow's milk allergy in the first year 
+of life was significantly associated with functional constipation in childhood 
+(OR: 1.57; 95% CI: 1.04-2.36).
+CONCLUSIONS: These results suggest that early gluten introduction in the first 
+year of life provide a trigger for functional constipation in a subset of 
+children. In case of functional constipation, there also might be a role for 
+cow's milk allergy initiated in the first year of life.
+
+DOI: 10.1038/ajg.2010.96
+PMID: 20197763 [Indexed for MEDLINE]
+
+
+8. Biotechnol Adv. 2005 Sep;23(6):409-14. doi: 10.1016/j.biotechadv.2005.05.006.
+
+Food allergy and its relevance to industrial food proteins.
+
+Mills EN(1), Breiteneder H.
+
+Author information:
+(1)Institute of Food Research, Norwich Research Park, Colney, Norwich, NR4 7UA, 
+UK. Clare.mills@bbsrc.ac.uk
+
+Food allergies can be defined as IgE-mediated hypersensitivity reactions and are 
+quite distinct from food intolerances, such as Coeliac disease, with symptoms 
+usually appearing within a matter of minutes of exposure. Around 1-2% of adults 
+and up to 5-7% of children suffer from some type of food allergy with foods such 
+as peanuts, tree nuts, wheat and soy, cow's milk, egg, fish and shellfish being 
+responsible for the majority of reactions. The macromolecules recognised by IgE 
+(generally proteinaceous in nature) are termed allergens. A brief description of 
+the allergenic components present in the major allergenic foods is given 
+followed by a short discussion regarding their importance in industrial proteins 
+in the light of recent food labelling legislation for allergens.
+
+DOI: 10.1016/j.biotechadv.2005.05.006
+PMID: 16002252 [Indexed for MEDLINE]
+
+
+9. Monatsschr Kinderheilkd. 1983 Mar;131(3):134-7.
+
+[Gastrointestinal allergy].
+
+[Article in German]
+
+Urbanek R.
+
+One of the more frequent problems in medicine is the question of a possible 
+association between ingestion of a particular food or drug, and symptoms 
+experienced by a patient. Food allergens are mainly cow's milk, egg, fish, nuts 
+and fruits. Ingested antigen/allergen may induce antibody production and thus 
+sensitization. But the presence of specific antibodies or a positive skin test 
+are not synonymous with allergic symptoms. The convincing diagnostic procedure 
+in adverse reactions to foods or drugs is a controlled exposition. The 
+thrombocytopenia test is a useful addition. Intestinal biopsy is helpful in 
+excluding celiac disease. Younger children are more likely to lose food 
+sensitivity than older ones. At present, the optimal therapy of food sensitivity 
+is to avoid the offending food or drug.
+
+PMID: 6343847 [Indexed for MEDLINE]

@@ -1,0 +1,533 @@
+1. Pediatrics. 2023 Feb 1;151(2):e2022058380. doi: 10.1542/peds.2022-058380.
+
+Complementary and Allergenic Food Introduction in Infants: An Umbrella Review.
+
+Soriano VX(1)(2), Ciciulla D(1)(2)(3), Gell G(2), Wang Y(2)(3)(4), Peters 
+RL(1)(2), McWilliam V(2)(3)(5), Dharmage SC(1)(6), Koplin JJ(1)(2)(3).
+
+Author information:
+(1)Centre for Food and Allergy Research.
+(2)Murdoch Children's Research Institute, Parkville, Australia.
+(3)Department of Paediatrics.
+(4)School of Psychology, Faculty of Health, Deakin University, Burwood, 
+Australia.
+(5)Department of Allergy, Royal Children's Hospital, Parkville, Australia.
+(6)School of Population and Global Health, University of Melbourne, Parkville, 
+Australia.
+
+BACKGROUND: Multiple systematic reviews examine the introduction of foods in 
+relation to individual health outcomes, but the balance of harms and benefits 
+has not been overviewed systematically.
+OBJECTIVES: We aimed to perform an overview of systematic reviews on age of 
+introduction of complementary and allergenic foods to the infant diet and long 
+and short-term health outcomes.
+DATA SOURCES: We searched Medline, Embase, Cochrane, and PubMed (July 25, 2022).
+STUDY SELECTION: Included systematic reviews examining the introduction of 
+complementary or allergenic foods before age 1. Outcomes included allergic, 
+autoimmune, and inflammatory diseases, neurodevelopment, nutrition, and weight.
+DATA EXTRACTION: Extraction and quality assessment were performed in duplicate 
+(A Measurement Tool to Assess Systematic Reviews) and strength of evidence was 
+assessed.
+RESULTS: We screened 4015 articles and included 32 systematic reviews. There was 
+moderate evidence that peanut and egg should be introduced from 4 to 11 months 
+to prevent food allergy (6 of 10 reviews). Complementary food introduction was 
+not associated with food allergy. Moderate certainty evidence suggested age of 
+complementary food introduction was not associated with eczema. Age at 
+introduction of gluten was not associated with celiac disease (high certainty 
+evidence; 3 of 4 reviews). Low certainty evidence indicated that introducing 
+solids before 4 months may increase the risk of childhood obesity, but not 
+growth. There was insufficient evidence regarding an association between any 
+food introduction and bone health, gastrointestinal diseases, autoimmune 
+disorders, asthma, or allergic rhinitis.
+LIMITATIONS: Gray literature was not included.
+CONCLUSIONS: Current evidence supports introducing complementary foods around 6 
+months and allergenic foods before 11 months.
+
+Copyright © 2023 by the American Academy of Pediatrics.
+
+DOI: 10.1542/peds.2022-058380
+PMID: 36704902 [Indexed for MEDLINE]
+
+
+2. Nutrients. 2022 Sep 2;14(17):3624. doi: 10.3390/nu14173624.
+
+Prevalence of Food Allergy in France up to 5.5 Years of Age: Results from the 
+ELFE Cohort.
+
+Tamazouzt S(1), Adel-Patient K(2), Deschildre A(3), Roduit C(4)(5)(6), Charles 
+MA(7)(8), de Lauzon-Guillain B(7), Divaret-Chauveau A(1)(9).
+
+Author information:
+(1)Pediatric Allergy Department, Children's Hospital, University Hospital of 
+Nancy, 54511 Vandoeuvre-lès-Nancy, France.
+(2)Paris-Saclay University, CEA, INRAE, DMTS, 91190 Gif-sur-Yvette, France.
+(3)CHU Lille, Pediatric Pulmonology and Allergy Unit, Lille University, Jeanne 
+de Flandre Hospital, 59000 Lille, France.
+(4)Christine Kühne Center for Allergy Research and Education (CK-CARE), 7265 
+Davos, Switzerland.
+(5)Children's Hospital, University of Zürich, 8032 Zürich, Switzerland.
+(6)Children's Hospital of Eastern Switzerland, 9000 St. Gallen, Switzerland.
+(7)Paris Cité University, Inserm, INRAE, CRESS, 75000 Paris, France.
+(8)Joined Unit Inserm-Ined-EFS Elfe, INED, 93300 Aubervilliers, France.
+(9)EA3450 DevAH, University of Lorraine, 54511 Vandoeuvre-lès-Nancy, France.
+
+BACKGROUND: In France, updated data on food allergies (FAs) are lacking, despite 
+the need for efficient FA management and prevention. This study aimed to 
+evaluate the prevalence of FAs in children in France, describe the most common 
+allergens and determine the prevalence of atopic diseases in children with FAs.
+METHODS: The ELFE study comprises a French nationwide birth cohort, including 
+18,329 children born in 2011. FAs were assessed by parental reports of food 
+avoidance based on medical advice related to FAs, provided at 2 months and 2, 
+3.5 and 5.5 years of age. Data regarding FAs were available for 16,400 children. 
+Data were weighted to account for selection and attrition bias.
+RESULTS: From birth to 5.5 years of age, FAs were reported for 5.94% (95% CI: 
+5.54-6.34) children. Milk was the most common allergen, followed by egg, peanut, 
+exotic fruits, tree nuts, gluten and fish. Among children with FAs, 20.5% had an 
+allergy to at least two different groups of allergens; 71% reported eczema at 
+least once before 5.5 years of age; 24.4% reported incidence of asthma; and 
+42.3% reported incidence of allergic rhinitis or conjunctivitis.
+CONCLUSION: In France, the prevalence of FAs in children up to 5.5 years of age 
+is approximately 6%. It was demonstrated that 1 in 5 children with allergies had 
+multiple FAs.
+
+DOI: 10.3390/nu14173624
+PMCID: PMC9459788
+PMID: 36079881 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest 
+relevant to this article to disclose.
+
+
+3. J Asthma Allergy. 2021 Apr 20;14:397-403. doi: 10.2147/JAA.S304444.
+eCollection  2021.
+
+Evaluation of Diagnosis and Management of Omega-5-Gliadin Allergy: A 
+Retrospective Survey.
+
+Zubrinich C(1)(2), Puy R(1)(3), O'Hehir R(1)(3), Hew M(1)(2).
+
+Author information:
+(1)Allergy, Asthma & Clinical Immunology, Alfred Health, Melbourne, Victoria, 
+Australia.
+(2)School of Public Health & Preventive Medicine, Monash University, Melbourne, 
+Victoria, Australia.
+(3)Allergy, Immunology and Respiratory Medicine, Central Clinical School, Monash 
+University, Melbourne, Victoria, Australia.
+
+BACKGROUND: Allergy to the omega-5-gliadin component of gluten (O-5-G allergy) 
+often manifests when wheat ingestion is followed by a co-factor, usually 
+exercise. There is no established best approach to management.
+OBJECTIVE: We sought to identify the beneficial effects, firstly of establishing 
+a firm diagnosis, and secondly of stringent management, either by avoiding 
+gluten ingestion altogether or separating it temporally from exercise by at 
+least 4 hours. We also determined how frequently patients adhered to their 
+physicians' clinical recommendations.
+METHODS: We undertook a survey of individuals diagnosed with O-5-G allergy at 
+our institution over 8 years, who had a consistent clinical history and 
+confirmatory laboratory evidence.
+RESULTS: Of 80 eligible individuals, 43 responded (54%). Symptoms began in 
+adulthood for all bar one, and concurrent asthma and eczema was uncommon (9% 
+prevalence, respectively). Median time to diagnosis was 2 years. Achieving a 
+diagnosis reduced the rate of reactions (0.35 per month vs 1.085 reactions per 
+month, p=0.029). Many patients (10/43) did not adhere to the recommended 
+stringent approach, to either avoid wheat/gluten or separate food and exercise 
+by 4 hours. However, those adopting a stringent approach had a substantially 
+lower risk of recurrent allergic reaction (0.22 per month vs 0.74 per month, 
+p=0.004).
+CONCLUSION: The epidemiology of O-5-G allergy implies pathogenic mechanisms 
+potentially distinct from those of childhood-onset food allergy. Accurate 
+diagnosis improves the clinical trajectory, primarily through the adoption of a 
+stringent management approach.
+
+© 2021 Zubrinich et al.
+
+DOI: 10.2147/JAA.S304444
+PMCID: PMC8068513
+PMID: 33907425
+
+Conflict of interest statement: MH has received grants-in-aid, speaker fees, and 
+fees for serving on the advisory boards of GlaxoSmithKline, AstraZeneca, 
+Novartis, Teva, Sanofi, and Seqirus, all paid to his institutional employer 
+Alfred Health. Interim Data presented in Poster Format at EAACI Barcelona 2015. 
+The remaining authors report no conflicts of interest in this work.
+
+
+4. Eur Rev Med Pharmacol Sci. 2019 Sep;23(18):8084-8086. doi: 
+10.26355/eurrev_201909_19025.
+
+Celiac disease in the context of airborne allergen-associated chronic 
+vulvo-vaginitis.
+
+Theodoropoulos DS(1), Kelly LE, Stockdale CK.
+
+Author information:
+(1)Allergy Associates of La Crosse, La Crosse, WI, USA. dsth8@yahoo.com.
+
+Comment in
+    Eur Rev Med Pharmacol Sci. 2019 Dec;23(23):10182-10183. doi: 
+10.26355/eurrev_201912_19651.
+
+We present a woman with a three-year history of severe chronic urticaria and 
+recurrent vulvo-vaginal Candidiasis in the setting of seasonal allergic 
+rhinitis. Her past medical history was significant only for Bell's palsy in her 
+childhood. Her review of systems was otherwise negative (specifically: no 
+history of diarrhea, weight loss, malabsorption, anemia, nor eczema). Extensive 
+testing revealed seasonal sensitivities to outdoor allergens and celiac disease. 
+Repeating the evaluation six months after initiating a wheat-free diet, her 
+vulvo-vaginal symptoms resolved.
+
+DOI: 10.26355/eurrev_201909_19025
+PMID: 31599434 [Indexed for MEDLINE]
+
+
+5. J Am Acad Dermatol. 2020 Mar;82(3):661-665. doi: 10.1016/j.jaad.2019.08.007. 
+Epub 2019 Aug 9.
+
+Gluten intake and risk of psoriasis, psoriatic arthritis, and atopic dermatitis 
+among United States women.
+
+Drucker AM(1), Qureshi AA(2), Thompson JM(3), Li T(4), Cho E(5).
+
+Author information:
+(1)Division of Dermatology, Department of Medicine, University of Toronto, 
+Toronto, Canada; Women's College Research Institute and Division of Dermatology, 
+Department of Medicine, Women's College Hospital, Toronto, Canada; Department of 
+Dermatology, Warren Alpert Medical School of Brown University, Providence, Rhode 
+Island. Electronic address: aaron.drucker@wchospital.ca.
+(2)Department of Dermatology, Warren Alpert Medical School of Brown University, 
+Providence, Rhode Island; Department of Dermatology, Rhode Island Hospital, 
+Providence, Rhode Island; Department of Epidemiology, School of Public Health, 
+Brown University, Providence, Rhode Island; Channing Division of Network 
+Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, 
+Massachusetts.
+(3)Department of Dermatology, Warren Alpert Medical School of Brown University, 
+Providence, Rhode Island.
+(4)Department of Dermatology, Warren Alpert Medical School of Brown University, 
+Providence, Rhode Island; Channing Division of Network Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+(5)Department of Dermatology, Warren Alpert Medical School of Brown University, 
+Providence, Rhode Island; Department of Epidemiology, School of Public Health, 
+Brown University, Providence, Rhode Island; Channing Division of Network 
+Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, 
+Massachusetts.
+
+BACKGROUND: Associations between gluten intake and psoriasis, psoriatic 
+arthritis, and atopic dermatitis are poorly understood.
+OBJECTIVE: To determine whether increased gluten intake is associated with 
+incident psoriasis, psoriatic arthritis, and atopic dermatitis.
+METHODS: Cohort studies among women in Nurses' Health Study II. Food frequency 
+questionnaires were used to calculate gluten content of participants' diet every 
+4 years (1991-2015 for psoriatic disease, 1995-2013 for atopic dermatitis). 
+Disease outcomes were assessed by self-report and subsequently validated. 
+Multivariable-adjusted Cox proportional hazards models were used to calculate 
+hazard ratios and 95% confidence intervals for the association between gluten 
+intake (quintiles) and psoriasis, psoriatic arthritis, and atopic dermatitis.
+RESULTS: We included 85,185 participants in the psoriasis analysis, 85,324 in 
+the psoriatic arthritis analysis, and 63,443 in the atopic dermatitis analysis. 
+Increased gluten intake was not associated with any of the outcomes (all P for 
+trend >.05). Comparing highest and lowest gluten intake quintiles, the 
+multivariable hazard ratios (95% confidence intervals) were 1.15 (0.98-1.36) for 
+psoriasis, 1.12 (0.78-1.62) for psoriatic arthritis, and 0.91 (0.66-1.25) for 
+atopic dermatitis.
+LIMITATIONS: No assessment of a strictly gluten-free diet.
+CONCLUSIONS: Our findings do not support the amount of dietary gluten intake as 
+a risk factor for psoriasis, psoriatic arthritis, or atopic dermatitis in adult 
+women.
+
+Copyright © 2019 American Academy of Dermatology, Inc. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jaad.2019.08.007
+PMCID: PMC7007848
+PMID: 31404570 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: In the last three years, 
+Dr. Drucker has served as an investigator and has received research funding from 
+Sanofi and Regeneron and has been a consultant for Sanofi, RTI Health Solutions, 
+Eczema Society of Canada and Canadian Agency for Drugs and Technology in Health. 
+He has received honoraria from Prime Inc, Spire Learning, CME Outfitters, Eczema 
+Society of Canada and the Canadian Dermatology Association. His institution has 
+received educational grants from Sanofi and Abbvie. Dr. Qureshi reports personal 
+fees from AbbVie, Amgen, CDC, Janssen, Pfizer, Novartis as a Consultant, 
+personal fees from Regeneron and Sanofi as an Investigator. All honoraria are 
+donated to charity. The other authors do not report any recent or relevant 
+disclosures.
+
+
+6. Eur J Gastroenterol Hepatol. 2019 Jul;31(7):893-895. doi: 
+10.1097/MEG.0000000000001421.
+
+Anaphylaxis after wheat ingestion in a patient with coeliac disease: two kinds 
+of reactions and the same culprit food.
+
+Mennini M(1), Fiocchi A(1), Trovato CM(2), Ferrari F(3), Iorfida D(2), Cucchiara 
+S(2), Montuori M(2).
+
+Author information:
+(1)Department of Pediatrics, Division of Allergy.
+(2)Pediatric Gastroenterology and Liver Unit, Department of Pediatrics, Sapienza 
+University of Rome, Rome, Italy.
+(3)Hepatology, Gastroenterology and Nutrition, Pediatrics Department, Bambino 
+Gesù Children's Hospital.
+
+In recent years, the role of atopic dermatitis epidermal skin barrier defects in 
+inducing a transcutaneous allergic sensitization is highly debated, possibly 
+explaining why some children with eczema are sensitized to foods they have never 
+eaten. In our specific situation, the association between coeliac disease and 
+wheat allergy might be particularly harmful owing to unavoidable strict food 
+avoidance. We describe the case of a young boy affected by coeliac disease who, 
+after an occasional unexpected ingestion of gluten, experienced a complete 
+anaphylactic reaction characterized by urticarial, labial angioedema, wheezing, 
+and hypotension. To better investigate the state of allergic sensitization to 
+wheat in our patient, we then performed the component resolved diagnosis, which 
+showed Tri a19 2 kU/l and Tri a14 0.3 kU/l. These results demonstrated the 
+association of IgE-mediated allergy to wheat and coeliac disease. The natural 
+course of specific IgE in allergic patients who are on a food-free diet needs 
+further investigation, such as the possible influence that the increasing 
+popularity of gluten-free diets may have on the epidemiology of wheat allergy in 
+westernized societies. National and International registers of cases of 
+anaphylaxis may improve the still limited knowledge in this field. The final 
+message of our contribution is that the decision to eliminate a food should to 
+take into account a patient's awareness of possible consequences.
+
+DOI: 10.1097/MEG.0000000000001421
+PMID: 30994495 [Indexed for MEDLINE]
+
+
+7. PLoS One. 2017 Nov 27;12(11):e0187999. doi: 10.1371/journal.pone.0187999. 
+eCollection 2017.
+
+Allergenic food introduction and risk of childhood atopic diseases.
+
+Elbert NJ(1)(2), Kiefte-de Jong JC(3)(4)(5), Voortman T(1)(3), Nijsten TEC(2), 
+de Jong NW(6), Jaddoe VWV(1)(3)(4), de Jongste JC(7), Gerth van Wijk R(6), 
+Duijts L(7)(8), Pasmans SGMA(2).
+
+Author information:
+(1)The Generation R Study Group, Erasmus MC, University Medical Center 
+Rotterdam, Rotterdam, The Netherlands.
+(2)Department of Dermatology, Erasmus MC, University Medical Center Rotterdam, 
+Rotterdam, The Netherlands.
+(3)Department of Epidemiology, Erasmus MC, University Medical Center Rotterdam, 
+Rotterdam, The Netherlands.
+(4)Department of Pediatrics, Erasmus MC, University Medical Center Rotterdam, 
+Rotterdam, The Netherlands.
+(5)Department of Global Public Health, Leiden University College, The Hague, The 
+Netherlands.
+(6)Department of Internal Medicine, Division of Allergology, Erasmus MC, 
+University Medical Center Rotterdam, Rotterdam, The Netherlands.
+(7)Department of Pediatrics, Division of Respiratory Medicine and Allergology, 
+Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands.
+(8)Department of Pediatrics, Division of Neonatology, Erasmus MC, University 
+Medical Center Rotterdam, Rotterdam, The Netherlands.
+
+BACKGROUND: The role of timing and diversity of allergenic food introduction in 
+the development of childhood allergic sensitization and atopic diseases is 
+controversial.
+OBJECTIVE: To examine whether timing and diversity of allergenic food 
+introduction are associated with allergic sensitization, allergy and eczema in 
+children until age 10 years.
+MATERIALS AND METHODS: This study among 5,202 children was performed in a 
+population-based prospective cohort. Timing (age ≤6 months vs. >6 months) and 
+diversity (0, 1, 2 and ≥3 foods) of allergenic food (cow's milk, hen's egg, 
+peanut, tree nuts, soy and gluten) introduction were assessed by questionnaires 
+at ages 6 and 12 months. At age 10 years, inhalant and food allergic 
+sensitization were measured by skin prick tests, and physician-diagnosed 
+inhalant and food allergy by questionnaire. Data on parental-reported 
+physician-diagnosed eczema were obtained from birth until age 10 years.
+RESULTS: Children introduced to gluten at age ≤6 months had a decreased risk of 
+eczema (aOR (95% CI): 0.84 (0.72, 0.99)), compared with children introduced to 
+gluten at age >6 months. However, timing of allergenic food introduction was not 
+associated with allergic sensitization or physician-diagnosed allergy. Children 
+introduced to ≥3 allergenic foods at age ≤6 months had a decreased risk of 
+physician-diagnosed inhalant allergy (0.64 (0.42, 0.98)), compared with children 
+not introduced to any allergenic food at age ≤6 months. However, diversity of 
+allergenic food introduction was not associated with allergic sensitization, 
+physician-diagnosed food allergy or eczema.
+CONCLUSION: Neither timing nor diversity of allergenic food introduction was 
+consistently associated with childhood allergic sensitization, allergy or 
+eczema.
+
+DOI: 10.1371/journal.pone.0187999
+PMCID: PMC5703454
+PMID: 29176842 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The Generation R Study is 
+made possible by financial support from the Erasmus MC, Rotterdam, the 
+University Medical Center Rotterdam and the Netherlands Organization for Health 
+Research and Development. Jessica Kiefte-de Jong and Trudy Voortman work in 
+ErasmusAGE, a research center that receives funding from Nestlé Nutrition 
+(Nestec Ltd.), and Metagenics Inc. There are no patents, products in development 
+or marketed products to declare. This does not alter our adherence to PLOS ONE 
+policies on sharing data and materials.
+
+
+8. J Pediatr Gastroenterol Nutr. 2017 Jan;64(1):119-132. doi: 
+10.1097/MPG.0000000000001454.
+
+Complementary Feeding: A Position Paper by the European Society for Paediatric 
+Gastroenterology, Hepatology, and Nutrition (ESPGHAN) Committee on Nutrition.
+
+Fewtrell M(1), Bronsky J, Campoy C, Domellöf M, Embleton N, Fidler Mis N, Hojsak 
+I, Hulst JM, Indrio F, Lapillonne A, Molgaard C.
+
+Author information:
+(1)*Childhood Nutrition Research Centre, UCL Great Ormond Street Institute of 
+Child Health, London, UK †Department of Paediatrics, University Hospital Motol, 
+Prague, Czech Republic ‡Department of Paediatrics, University of Granada, 
+Granada, Spain §Department of Clinical Sciences, Pediatrics, Umeå University, 
+Umeå, Sweden ||Newcastle Neonatal Service, Newcastle Hospitals NHS Trust and 
+Newcastle University, Newcastle upon Tyne, UK ¶Department of Gastroenterology, 
+Hepatology and Nutrition, University Children's Hospital, University Medical 
+Centre Ljubljana, Ljubljana, Slovenia #University Children's Hospital Zagreb, 
+Zagreb, Croatia **Erasmus MC, Sophia Children's Hospital, Rotterdam, The 
+Netherlands ††Ospedale Pediatrico Giovanni XXIII, University of Bari, Bari, 
+Italy ‡‡Paris Descartes University, APHP Necker-Enfants Malades Hospital, Paris, 
+France §§CNRC, Baylor College of Medicine, Houston, TX ||||Department of 
+Nutrition, Exercise and Sports, University of Copenhagen, København ¶¶Pediatric 
+Nutrition Unit, Copenhagen University Hospital, Rigshospitalet, Denmark.
+
+This position paper considers different aspects of complementary feeding (CF), 
+focussing on healthy term infants in Europe. After reviewing current knowledge 
+and practices, we have formulated these recommendations: Timing: Exclusive or 
+full breast-feeding should be promoted for at least 4 months (17 weeks, 
+beginning of the 5th month of life) and exclusive or predominant breast-feeding 
+for approximately 6 months (26 weeks, beginning of the 7th month) is a desirable 
+goal. Complementary foods (solids and liquids other than breast milk or infant 
+formula) should not be introduced before 4 months but should not be delayed 
+beyond 6 months.
+CONTENT: Infants should be offered foods with a variety of flavours and textures 
+including bitter tasting green vegetables. Continued breast-feeding is 
+recommended alongside CF. Whole cows' milk should not be used as the main drink 
+before 12 months of age. Allergenic foods may be introduced when CF is commenced 
+any time after 4 months. Infants at high risk of peanut allergy (those with 
+severe eczema, egg allergy, or both) should have peanut introduced between 4 and 
+11 months, following evaluation by an appropriately trained specialist. Gluten 
+may be introduced between 4 and 12 months, but consumption of large quantities 
+should be avoided during the first weeks after gluten introduction and later 
+during infancy. All infants should receive iron-rich CF including meat products 
+and/or iron-fortified foods. No sugar or salt should be added to CF and fruit 
+juices or sugar-sweetened beverages should be avoided. Vegan diets should only 
+be used under appropriate medical or dietetic supervision and parents should 
+understand the serious consequences of failing to follow advice regarding 
+supplementation of the diet.
+METHOD: Parents should be encouraged to respond to their infant's hunger and 
+satiety queues and to avoid feeding to comfort or as a reward.
+
+DOI: 10.1097/MPG.0000000000001454
+PMID: 28027215 [Indexed for MEDLINE]
+
+
+9. JAMA. 2016 Sep 20;316(11):1181-1192. doi: 10.1001/jama.2016.12623.
+
+Timing of Allergenic Food Introduction to the Infant Diet and Risk of Allergic 
+or Autoimmune Disease: A Systematic Review and Meta-analysis.
+
+Ierodiakonou D(1), Garcia-Larsen V(2), Logan A(3), Groome A(3), Cunha S(2), 
+Chivinge J(3), Robinson Z(3), Geoghegan N(3), Jarrold K(3), Reeves T(2), 
+Tagiyeva-Milne N(4), Nurmatov U(5), Trivella M(6), Leonardi-Bee J(7), Boyle 
+RJ(3).
+
+Author information:
+(1)Section of Paediatrics, Imperial College London, London, England2Respiratory 
+Epidemiology, Imperial College London, London, England.
+(2)Respiratory Epidemiology, Imperial College London, London, England.
+(3)Section of Paediatrics, Imperial College London, London, England.
+(4)Institute of Medical Sciences, University of Aberdeen, Aberdeen, Scotland.
+(5)University Division of Population Medicine, Cardiff University, Cardiff, 
+Wales.
+(6)Centre for Statistics in Medicine, University of Oxford, Oxford, England.
+(7)Division of Epidemiology and Public Health, University of Nottingham, 
+Nottingham, England.
+
+Comment in
+    JAMA. 2017 Jan 3;317(1):86. doi: 10.1001/jama.2016.18329.
+
+IMPORTANCE: Timing of introduction of allergenic foods to the infant diet may 
+influence the risk of allergic or autoimmune disease, but the evidence for this 
+has not been comprehensively synthesized.
+OBJECTIVE: To systematically review and meta-analyze evidence that timing of 
+allergenic food introduction during infancy influences risk of allergic or 
+autoimmune disease.
+DATA SOURCES: MEDLINE, EMBASE, Web of Science, CENTRAL, and LILACS databases 
+were searched between January 1946 and March 2016.
+STUDY SELECTION: Intervention trials and observational studies that evaluated 
+timing of allergenic food introduction during the first year of life and 
+reported allergic or autoimmune disease or allergic sensitization were included.
+DATA EXTRACTION AND SYNTHESIS: Data were extracted in duplicate and synthesized 
+for meta-analysis using generic inverse variance or Mantel-Haenszel methods with 
+a random-effects model. GRADE was used to assess the certainty of evidence.
+MAIN OUTCOMES AND MEASURES: Wheeze, eczema, allergic rhinitis, food allergy, 
+allergic sensitization, type 1 diabetes mellitus, celiac disease, inflammatory 
+bowel disease, autoimmune thyroid disease, and juvenile rheumatoid arthritis.
+RESULTS: Of 16 289 original titles screened, data were extracted from 204 titles 
+reporting 146 studies. There was moderate-certainty evidence from 5 trials (1915 
+participants) that early egg introduction at 4 to 6 months was associated with 
+reduced egg allergy (risk ratio [RR], 0.56; 95% CI, 0.36-0.87; I2 = 36%; 
+P = .009). Absolute risk reduction for a population with 5.4% incidence of egg 
+allergy was 24 cases (95% CI, 7-35 cases) per 1000 population. There was 
+moderate-certainty evidence from 2 trials (1550 participants) that early peanut 
+introduction at 4 to 11 months was associated with reduced peanut allergy (RR, 
+0.29; 95% CI, 0.11-0.74; I2 = 66%; P = .009). Absolute risk reduction for a 
+population with 2.5% incidence of peanut allergy was 18 cases (95% CI, 6-22 
+cases) per 1000 population. Certainty of evidence was downgraded because of 
+imprecision of effect estimates and indirectness of the populations and 
+interventions studied. Timing of egg or peanut introduction was not associated 
+with risk of allergy to other foods. There was low- to very low-certainty 
+evidence that early fish introduction was associated with reduced allergic 
+sensitization and rhinitis. There was high-certainty evidence that timing of 
+gluten introduction was not associated with celiac disease risk, and timing of 
+allergenic food introduction was not associated with other outcomes.
+CONCLUSIONS AND RELEVANCE: In this systematic review, early egg or peanut 
+introduction to the infant diet was associated with lower risk of developing egg 
+or peanut allergy. These findings must be considered in the context of 
+limitations in the primary studies.
+
+DOI: 10.1001/jama.2016.12623
+PMID: 27654604
+
+
+10. Ann Nutr Metab. 2015;67 Suppl 2:16-26. doi: 10.1159/000440990. Epub 2015 Nov
+26.
+
+Gluten Sensitivity.
+
+Catassi C(1).
+
+Author information:
+(1)Department of Pediatrics, Università Politecnica delle Marche, Ancona, Italy.
+
+Non-celiac gluten sensitivity (NCGS) is a syndrome characterized by intestinal 
+and extraintestinal symptoms related to the ingestion of gluten-containing food 
+in subjects who are not affected by either celiac disease (CD) or wheat allergy 
+(WA). The prevalence of NCGS is not clearly defined yet. Indirect evidence 
+suggests that NCGS is slightly more common than CD, the latter affecting around 
+1% of the general population. NCGS has been mostly described in adults, 
+particularly in females in the age group of 30-50 years; however, pediatric case 
+series have also been reported. Since NCGS may be transient, gluten tolerance 
+needs to be reassessed over time in patients with NCGS. NCGS is characterized by 
+symptoms that usually occur soon after gluten ingestion, disappear with gluten 
+withdrawal, and relapse following gluten challenge within hours/days. The 
+'classical' presentation of NCGS is a combination of irritable bowel 
+syndrome-like symptoms, including abdominal pain, bloating, bowel habit 
+abnormalities (either diarrhea or constipation), and systemic manifestations 
+such as 'foggy mind', headache, fatigue, joint and muscle pain, leg or arm 
+numbness, dermatitis (eczema or skin rash), depression, and anemia. In recent 
+years, several studies explored the relationship between the ingestion of 
+gluten-containing food and the appearance of neurological and psychiatric 
+disorders/symptoms like ataxia, peripheral neuropathy, schizophrenia, autism, 
+depression, anxiety, and hallucinations (so-called gluten psychosis). The 
+diagnosis of NCGS should be considered in patients with persistent intestinal 
+and/or extraintestinal complaints showing a normal result of the CD and WA 
+serological markers on a gluten-containing diet, usually reporting worsening of 
+symptoms after eating gluten-rich food. NCGS should not be an exclusion 
+diagnosis only. Unfortunately, no biomarker is sensitive and specific enough for 
+diagnostic purposes; therefore, the diagnosis of NCGS is currently based on 
+establishing a clear-cut cause-effect relationship between the ingestion of 
+gluten and the appearance of symptoms by a standardized double-blind, 
+placebo-controlled gluten challenge.
+
+© 2015 S. Karger AG, Basel.
+
+DOI: 10.1159/000440990
+PMID: 26605537 [Indexed for MEDLINE]

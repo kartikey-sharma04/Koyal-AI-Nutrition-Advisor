@@ -1,0 +1,491 @@
+1. Adv Nutr. 2022 Dec 22;13(6):2136-2148. doi: 10.1093/advances/nmac077.
+
+Consumption of Nuts and Seeds and Health Outcomes Including Cardiovascular 
+Disease, Diabetes and Metabolic Disease, Cancer, and Mortality: An Umbrella 
+Review.
+
+Balakrishna R(1), Bjørnerud T(1), Bemanian M(1)(2), Aune D(3)(4)(5)(6), Fadnes 
+LT(1)(2).
+
+Author information:
+(1)Department of Global Public Health and Primary Care, University of Bergen, 
+Bergen, Norway.
+(2)Department of Addiction Medicine, Haukeland University Hospital, Bergen, 
+Norway.
+(3)Department of Epidemiology and Biostatistics, School of Public Health, 
+Imperial College London, London, United Kingdom.
+(4)Department of Nutrition, Oslo New University College, Oslo, Norway.
+(5)Department of Endocrinology, Morbid Obesity and Preventive Medicine, Oslo 
+University Hospital, Oslo, Norway.
+(6)Unit of Cardiovascular and Nutritional Epidemiology, Institute of 
+Environmental Medicine, Karolinska Institute, Stockholm, Sweden.
+
+Consumption of nuts and seeds is associated with a range of health outcomes. 
+Summarizing the best evidence on essential health outcomes from the consumption 
+of nuts is essential to provide optimal recommendations. Our objective is to 
+comprehensively assess health outcome associations related to the consumption of 
+nuts and seeds, using a culinary definition including tree nuts and peanuts 
+(registered in PROSPERO: CRD42021258300). Health outcomes of interest include 
+cardiovascular disease, cancer, diabetes, obesity, respiratory disease, 
+mortality, and their disease biomarkers. We present associations for high 
+compared with low consumption, per serving, and dose-response relations. 
+MEDLINE, Embase, Cochrane, and Epistemonikos were searched and screened for 
+systematic reviews and meta-analyses. Evidence was extracted from 89 articles on 
+the consumption of nuts and relevant health outcomes, including 23 articles with 
+meta-analysis on disease and mortality, 66 articles on biomarkers for disease, 
+and 9 articles on allergy/adverse outcomes. Intake of nuts was associated with 
+reduced risk of cardiovascular diseases and related risk factors, with moderate 
+quality of evidence. An intake of 28 g/d nuts compared with not eating nuts was 
+associated with a 21% RR reduction of cardiovascular disease (including coronary 
+heart disease incidence and mortality, atrial fibrillation, and stroke 
+mortality), an 11% risk reduction of cancer deaths, and 22% reduction in 
+all-cause mortality. Nut consumption was also inversely associated with 
+mortality from respiratory diseases, infectious diseases, and diabetes; however, 
+associations between nut consumption and diabetes incidence were mixed. 
+Meta-analyses of trials on biomarkers for disease generally mirrored 
+meta-analyses from observational studies on cardiovascular disease, cancers, and 
+diabetes. Allergy and related adverse reactions to nuts were observed in 1-2% of 
+adult populations, with substantial heterogeneity between studies. Overall, the 
+current evidence supports dietary recommendations to consume a handful of nuts 
+and seeds per day for people without allergies to these foods.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+American Society for Nutrition.
+
+DOI: 10.1093/advances/nmac077
+PMCID: PMC9776667
+PMID: 36041171 [Indexed for MEDLINE]
+
+
+2. Nutrients. 2019 Dec 3;11(12):2941. doi: 10.3390/nu11122941.
+
+The Secrets of the Mediterranean Diet. Does [Only] Olive Oil Matter?
+
+Mazzocchi A(1)(2), Leone L(1)(2), Agostoni C(1)(2)(3), Pali-Schöll I(4)(5).
+
+Author information:
+(1)Department of Clinical Sciences and Community Health, University of Milan, 
+20126 Milan, Italy.
+(2)SIGENP (Italian Society of Pediatric Gastroenterology, Hepatology, and 
+Nutrition), via Libero Temolo 4 (Torre U8), 20126 Milan, Italy.
+(3)Pediatric Intermediate Care Unit, Fondazione IRCCS Ca' Granda Ospedale 
+Maggiore Policlinico, 20126 Milan, Italy.
+(4)Center for Pathophysiology, Infectiology and Immunology, Institute of 
+Pathophysiology and Allergy Research, Medical University of Vienna, 1090 Vienna, 
+Austria.
+(5)Comparative Medicine, The interuniversity Messerli Research Institute, 
+University of Veterinary Medicine, Medical University and University Vienna, 
+1090 Vienna, Austria.
+
+Diet plays a key role in the maintenance and optimal functioning of immune 
+cells. The Mediterranean dietary pattern is an example of a prudent choice of 
+lifestyle and scientifically accepted to help preserve human health by 
+protecting against major chronic and inflammatory diseases. Mediterranean diets 
+(MedDiets) are characteristically high in the consumption of fruits, vegetables 
+and salad, bread and whole grain cereals, potatoes, legumes/beans, nuts, and 
+seeds. Their common central feature is the usage of olive oil as the main source 
+of fat. The health benefits attributed to olive oil are specifically related to 
+extra virgin olive oil (EVOO) intake with its high nutritional quality and 
+multiple positive effects on health. Overall, MedDiets have direct 
+(mono-unsaturated fatty acids (MUFAs), tocopherols, polyphenols) and indirect 
+(low saturated fats, well-balanced linoleic/alpha linolenic acid) effects on the 
+immune system and inflammatory responses. In the present paper, we summarize the 
+current knowledge on the effect of olive oil per se and MedDiets generally on 
+immune-mediated and inflammatory diseases, such as coronary heart disease 
+(CHD)/cardiovascular diseases (CVD), obesity, type-2 diabetes, cancer, asthma, 
+and allergies.
+
+DOI: 10.3390/nu11122941
+PMCID: PMC6949890
+PMID: 31817038 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+3. Crit Rev Food Sci Nutr. 2020;60(16):2742-2762. doi: 
+10.1080/10408398.2019.1657062. Epub 2019 Sep 3.
+
+Nuts, cereals, seeds and legumes proteins derived emulsifiers as a source of 
+plant protein beverages: A review.
+
+Qamar S(1), Manrique YJ(1), Parekh H(1), Falconer JR(1).
+
+Author information:
+(1)School of Pharmacy, The University of Queensland, Brisbane, Queensland, 
+Australia.
+
+Milk beverages derived from plant-based protein have attracted the interest of 
+consumers and researchers as a health-promoting functional food. It can also be 
+considered as a substitute for animal milk due to various allergy concerns 
+associated with dairy milk. The plant-based emulsions are directed to prevent 
+diet-related chronic diseases including diabetes, cardiovascular, obesity and 
+other disorders due to the presence of healthy long-chain unsaturated fatty 
+acids as compared to bovine milk. Further, associations between nutritional 
+contents (vitamins, minerals and low fat) and pharmacological properties of 
+plant-based protein may have extra beneficial effects. The review aims to 
+summarize the four different groups of plant sources (nuts, cereals, seeds and 
+legumes) used for the preparation of plant-based milk beverages. In addition, it 
+also provides a detailed review of the general characteristics and functional 
+properties of these plant sources. Physicochemical composition, protein and fats 
+quality, functional properties, effect of heat and high-pressure treatment is 
+also provided in detail. It also covers fats digestibility, protein stability, 
+protein solubility and digestibility. Furthermore, the effect of processing, 
+possible comparative study and potential applications in healthcare have been 
+discussed.
+
+DOI: 10.1080/10408398.2019.1657062
+PMID: 31478387 [Indexed for MEDLINE]
+
+
+4. J Nutr. 2019 Jul 1;149(7):1215-1221. doi: 10.1093/jn/nxz048.
+
+Identification of Plasma Lipid Metabolites Associated with Nut Consumption in US 
+Men and Women.
+
+Malik VS(1), Guasch-Ferre M(1)(2), Hu FB(1)(3)(2), Townsend MK(4), Zeleznik 
+OA(2), Eliassen AH(2), Tworoger SS(3)(4), Karlson EW(5), Costenbader KH(5), 
+Ascherio A(1)(3)(2), Wilson KM(3)(2), Mucci LA(3)(2), Giovannucci EL(1)(3)(2), 
+Fuchs CS(6), Bao Y(2).
+
+Author information:
+(1)Department of Nutrition.
+(2)Channing Division of Network Medicine.
+(3)Department of Epidemiology, Harvard TH Chan School of Public Health, Boston, 
+MA.
+(4)Department of Cancer Epidemiology, Moffitt Cancer Center, Tampa, FL.
+(5)Division of Rheumatology, Immunology, and Allergy, Department of Medicine, 
+Brigham and Women's Hospital and Harvard Medical School, Boston, MA.
+(6)Yale Cancer Center, Yale University School of Medicine, New Haven, CT.
+
+BACKGROUND: Intake of nuts has been inversely associated with risk of type 2 
+diabetes and cardiovascular disease, partly through inducing a healthy lipid 
+profile. How nut intake may affect lipid metabolites remains unclear.
+OBJECTIVE: The aim of this study was to identify the plasma lipid metabolites 
+associated with habitual nut consumption in US men and women.
+METHODS: We analyzed cross-sectional data from 1099 participants in the Nurses' 
+Health Study (NHS), NHS II, and Health Professionals Follow-up Study. Metabolic 
+profiling was conducted on plasma by LC-mass spectrometry. Nut intake was 
+estimated from food-frequency questionnaires. We included 144 known lipid 
+metabolites that had CVs ≤25%. Multivariate linear regression was used to assess 
+the associations of nut consumption with individual plasma lipid metabolites.
+RESULTS: We identified 17 lipid metabolites that were significantly associated 
+with nut intake, based on a 1 serving (28 g)/d increment in multivariate models 
+[false discovery rate (FDR) P value <0.05]. Among these species, 8 were 
+positively associated with nut intake [C24:0 sphingomyelin (SM), C36:3 
+phosphatidylcholine (PC) plasmalogen-A, C36:2 PC plasmalogen, C24:0 ceramide, 
+C36:1 PC plasmalogen, C22:0 SM, C34:1 PC plasmalogen, and C36:2 
+phosphatidylethanolamine plasmalogen], with changes in relative metabolite level 
+(expressed in number of SDs on the log scale) ranging from 0.36 to 0.46 for 1 
+serving/d of nuts. The other 9 metabolites were inversely associated with nut 
+intake with changes in relative metabolite level ranging from -0.34 to -0.44. In 
+stratified analysis, 3 metabolites were positively associated with both peanuts 
+and peanut butter (C24:0 SM, C24:0 ceramide, and C22:0 SM), whereas 6 
+metabolites were inversely associated with other nuts (FDR P value <0.05).
+CONCLUSIONS: A panel of lipid metabolites was associated with intake of nuts, 
+which may provide insight into biological mechanisms underlying associations 
+between nuts and cardiometabolic health. Metabolites that were positively 
+associated with intake of nuts may be helpful in identifying potential 
+biomarkers of nut intake.
+
+Copyright © American Society for Nutrition 2019.
+
+DOI: 10.1093/jn/nxz048
+PMCID: PMC6602895
+PMID: 31095304 [Indexed for MEDLINE]
+
+
+5. Open Access Maced J Med Sci. 2019 Jan 28;7(3):341-346. doi: 
+10.3889/oamjms.2019.040. eCollection 2019 Feb 15.
+
+Angioedema - Our Experience Focused On Socio-Demographic, Etiological and 
+Clinical Characteristics of the Condition and Its Management.
+
+Dermendjiev S(1), Blagoeva VS(2).
+
+Author information:
+(1)Division of Occupational Disorders and Toxicology, 2nd Medicine Department, 
+Medical Faculty, Medical University, Plovdiv, Bulgaria.
+(2)Medical University, Plovdiv, Bulgaria.
+
+BACKGROUND: Angioedema (AE) is acute oedema of the skin and mucous surfaces, 
+involving the respiratory and gastrointestinal tracts. AE could be a 
+life-threatening medical condition. Regardless of its growing clinical 
+importance, many aspects of its aetiology and pathogenesis remain poorly 
+understood. Its incidence, demographic characteristics, diagnosis and therapy, 
+need further investigation.
+AIM: This study reports our experience with angioedema concerning its social and 
+demographic characteristics, aetiology, clinical features, diagnosis and 
+treatment outcomes. Study design: Eighty-eight patients with AE were enrolled. 
+The study is a retrospective analysis of patients treated in our Clinics.
+METHODS: All participants were asked on a voluntary basis to fill out a 
+specially designed questionnaire on the day of their discharge. Other important 
+data sources included: patients' history and notes during the hospital stay, 
+information from previous admissions, etc. Parametric and non-parametric 
+statistical methods were used for data processing. Data analysis was performed 
+using SPSS (SPSS Inc., IBM SPSS Statistica) version 20.0.
+RESULTS: Based on our results, AE affects more frequently patients over 50 years 
+of age, regardless of their sex. Urban residents prevail, among them - more 
+commonly working women. Non-steroidal anti-inflammatory drugs (NSAIDs), hormones 
+and antibiotics were among the most common triggers - in 8%, 4.5% and 11.4% of 
+the cases respectively. In 9.09% of the patients, food-induced AE was seen, the 
+most common foods reported, were - nuts, eggs and egg products. The common sites 
+of involvement were periorbital area and lips. In only 9.1% of the patients, 
+oedema progressed to spread to the upper respiratory tract. Cardiac conditions 
+were the most frequent underlying disorders - 33%, of the patients, auto-immune 
+thyroiditis was the second most common-14.8%, followed by musculo- skeletal 
+disorders (10.2%) and diabetes (4.5%) Family history of allergy was seen in 8.4% 
+of the patients, the most frequent allergic disorder, reported, was asthma. In 
+patients with HAE, family history was present in 2.9% of the patients.
+CONCLUSIONS: All patients received therapy with steroids and antihistamines, 
+resulting in resolution of symptoms and no invasive procedures were necessary. 
+Based on our results, the diagnosis of AE is often difficult and delayed and 
+requires specialist evaluation. If recognised on time and adequately treated, 
+the outcomes are favourable.
+
+DOI: 10.3889/oamjms.2019.040
+PMCID: PMC6390144
+PMID: 30833998
+
+
+6. Int J Vitam Nutr Res. 2020 Oct;90(5-6):564-574. doi:
+10.1024/0300-9831/a000529.  Epub 2019 Feb 12.
+
+Physicochemical properties and health benefits of pistachio nuts.
+
+Esmaeili Nadimi A(1)(2), Ahmadi Z(3), Falahati-Pour SK(4), Mohamadi M(4), Nazari 
+A(1)(5), Hassanshahi G(6)(7), Ekramzadeh M(8).
+
+Author information:
+(1)Non-Communicable Diseases Research Center, Rafsanjan University of Medical 
+Sciences, Rafsanjan, Iran.
+(2)Dep. of Cardiology, Medical School, Rafsanjan University of Medical Sciences, 
+Rafsanjan, Iran.
+(3)Occupational Environment Research Center, Rafsanjan University of Medical 
+Sciences, Rafsanjan, Iran.
+(4)Pistachio Safety Research Center, Rafsanjan University of Medical Sciences, 
+Rafsanjan, Iran.
+(5)Dept. of Surgery, School of Medicine, Rafsanjan University of Medical 
+Science, Rafsanjan, Iran.
+(6)Molecular Medicine Research Center, Research Institute of Basic Medical 
+Sciences, Rafsanjan University of Medical Sciences, Rafsanjan, Iran.
+(7)Dept. of Immunology, Medical School, Rafsanjan University of Medical 
+Sciences, Rafsanjan, Iran.
+(8)Nutrition Research Center, Department of Clinical Nutrition, School of 
+Nutritoin and Food Sciences, Shiraz University of Medical Sciences, Shiraz, 
+Iran.
+
+The genus of Pistacia plant systematically fits into the family of 
+Anacardiaceae. Pistachios contain protein, carbohydrate, dietary fibers, fat, 
+folic acid, vitamin K, magnesium and potassium, gama-tocopherols, 
+phytochemicals, and polyphenols. Collectively, these constituents have been 
+shown to possess antioxidant and anti-inflammatory functions to improve overall 
+health when consumed as a healthy diet. We searched the following keywords 
+within the literature databases: pistachio, heart disorders, lipids, weight, 
+antioxidants, and allergy. Further searching theses keywords, we have found 50 
+articles in PubMed, 40 articles in ISI web of knowledge and 30 articles in 
+Google Scholar. We have selected 100 articles, among them 80 articles were used 
+as the references of this review. In the current article, we have discussed the 
+most recent data published regarding the regulatory effects of pistachios on 
+several clinical states such as heart related disorders, hyperlipidemia, 
+hypertension, vascular stiffness and endothelial and gut functions, weight 
+management, glucose metabolism, kidney function and finally allergies.
+
+DOI: 10.1024/0300-9831/a000529
+PMID: 30747609 [Indexed for MEDLINE]
+
+
+7. Skinmed. 2017 Dec 1;15(6):477-479. eCollection 2017.
+
+Mast Cell Activation Syndrome.
+
+Kramer ON(1), Barkoff MS(2), Hernandez C(3).
+
+Author information:
+(1)University of Illinois at Chicago College of Medicine, Chicago, IL.
+(2)Division of Endocrinology, Diabetes, and Metabolism, University of Illinois 
+at Chicago College of Medicine, Chicago, IL.
+(3)Department of Dermatology, Rush University Medical Center, Chicago, IL; 
+Claudia_Hernandez@rush.edu.
+
+A 51-year-old woman with a history of asthma and Hashimoto's thyroiditis 
+presented to the dermatology service with a chief complaint of "itchy bumpy 
+rashes" that persisted beyond 24 hours. She noted that, 3 days prior to the 
+onset of urticaria, a pyrroloquinoline quinone supplement had been started. The 
+urticaria was accompanied by variable episodes of transient facial swelling and 
+difficulty breathing. The patient noted that exposure to fish, nuts, and 
+nonsteroidal anti-inflammatory drugs triggered facial swelling. Other reported 
+findings included a 5-year history of diarrhea, sense of memory deterioration, 
+concentration difficulties, and clinical manifestations of anomic aphasia. 
+Although her allergy testing was "negative," she had been given the diagnoses of 
+lactose intolerance and gastroesophageal reflux disease. Laboratory studies on 
+initial presentation were significant for a positive history of 
+antithyroperoxidase antibodies and elevated total complement activity. 
+Medications included budesonide/formoterol, fluticasone/salmeterol, 
+levothyroxine, albuterol, and fexofenadine 180 mg twice daily. Although her 
+"rash" had initially responded to fexofenadine, it soon became refractory to 
+treatment. Her family history was significant only for thyroid disease.
+
+PMID: 29282192 [Indexed for MEDLINE]
+
+
+8. Adv Exp Med Biol. 2016;928:213-244. doi: 10.1007/978-3-319-41334-1_10.
+
+Fisetin and Its Role in Chronic Diseases.
+
+Pal HC(1), Pearlman RL(1), Afaq F(2)(3).
+
+Author information:
+(1)Department of Dermatology, University of Alabama at Birmingham, Volker Hall, 
+Room 501, 1670 University Blvd., Birmingham, AL, 35294, USA.
+(2)Department of Dermatology, University of Alabama at Birmingham, Volker Hall, 
+Room 501, 1670 University Blvd., Birmingham, AL, 35294, USA. 
+farrukhafaq@uabmc.edu.
+(3)Comprehensive Cancer Center, University of Alabama at Birmingham, Birmingham, 
+AL, USA. farrukhafaq@uabmc.edu.
+
+Chronic inflammation is a prolonged and dysregulated immune response leading to 
+a wide variety of physiological and pathological conditions such as neurological 
+abnormalities, cardiovascular diseases, diabetes, obesity, pulmonary diseases, 
+immunological diseases, cancers, and other life-threatening conditions. 
+Therefore, inhibition of persistent inflammation will reduce the risk of 
+inflammation-associated chronic diseases. Inflammation-related chronic diseases 
+require chronic treatment without side effects. Use of traditional medicines and 
+restricted diet has been utilized by mankind for ages to prevent or treat 
+several chronic diseases. Bioactive dietary agents or "Nutraceuticals" present 
+in several fruits, vegetables, legumes, cereals, fibers, and certain spices have 
+shown potential to inhibit or reverse the inflammatory responses and several 
+chronic diseases related to chronic inflammation. Due to safe, nontoxic, and 
+preventive benefits, the use of nutraceuticals as dietary supplements or 
+functional foods has increased in the Western world. Fisetin 
+(3,3',4',7-tetrahydroxyflavone) is a dietary flavonoid found in various fruits 
+(strawberries, apples, mangoes, persimmons, kiwis, and grapes), vegetables 
+(tomatoes, onions, and cucumbers), nuts, and wine that has shown strong 
+anti-inflammatory, anti-oxidant, anti-tumorigenic, anti-invasive, 
+anti-angiogenic, anti-diabetic, neuroprotective, and cardioprotective effects in 
+cell culture and in animal models relevant to human diseases. In this chapter, 
+we discuss the beneficial pharmacological effects of fisetin against different 
+pathological conditions with special emphasis on diseases related to chronic 
+inflammatory conditions.
+
+DOI: 10.1007/978-3-319-41334-1_10
+PMID: 27671819 [Indexed for MEDLINE]
+
+
+9. Am J Clin Nutr. 2016 Sep;104(3):722-8. doi: 10.3945/ajcn.116.134205. Epub 2016
+ Jul 27.
+
+Associations between nut consumption and inflammatory biomarkers.
+
+Yu Z(1), Malik VS(2), Keum N(2), Hu FB(3), Giovannucci EL(3), Stampfer MJ(3), 
+Willett WC(3), Fuchs CS(4), Bao Y(5).
+
+Author information:
+(1)Division of Rheumatology, Allergy and Immunology, Section of Clinical 
+Sciences, Brigham and Women's Hospital, Boston, MA;
+(2)Departments of Nutrition and.
+(3)Departments of Nutrition and Epidemiology, Harvard T.H. Chan School of Public 
+Health, Boston, MA; Channing Division of Network Medicine, Department of 
+Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA; 
+and.
+(4)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, MA; and Department of 
+Medical Oncology, Dana-Farber Cancer Institute, Boston, MA.
+(5)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, MA; and 
+ying.bao@channing.harvard.edu.
+
+BACKGROUND: Increased nut consumption has been associated with reduced risk of 
+cardiovascular disease and type 2 diabetes, as well as a healthy lipid profile. 
+However, the associations between nut consumption and inflammatory biomarkers 
+are unclear.
+OBJECTIVE: We investigated habitual nut consumption in relation to inflammatory 
+biomarkers in 2 large cohorts of US men and women.
+DESIGN: We analyzed cross-sectional data from 5013 participants in the Nurses' 
+Health Study (NHS) and Health Professionals Follow-Up Study (HPFS) who were free 
+of diabetes. Nut intake, defined as intake of peanuts and other nuts, was 
+estimated from food-frequency questionnaires, and cumulative averages from 1986 
+and 1990 in the NHS and from 1990 and 1994 in the HPFS were used. Plasma 
+biomarkers were collected in 1989-1990 in the NHS and 1993-1995 in the HPFS. 
+Multivariate linear regression was used to assess the associations of nut 
+consumption with fasting plasma C-reactive protein (CRP, n = 4941), interleukin 
+6 (IL-6, n = 2859), and tumor necrosis factor receptor 2 (TNFR2, n = 2905).
+RESULTS: A greater intake of nuts was associated with lower amounts of a subset 
+of inflammatory biomarkers, after adjusting for demographic, medical, dietary, 
+and lifestyle variables. The relative concentrations (ratios) and 95% CIs 
+comparing subjects with nut intake of ≥5 times/wk and those in the categories of 
+never or almost never were as follows: CRP: 0.80 (0.69, 0.90), P-trend = 0.0003; 
+and IL-6: 0.86 (0.77, 0.97), P-trend = 0.006. These associations remained 
+significant after further adjustment for body mass index. No significant 
+association was observed with TNFR2. Substituting 3 servings of nuts/wk for 3 
+servings of red meat, processed meat, eggs, or refined grains/wk was associated 
+with significantly lower CRP (all P < 0.0001) and IL-6 (P ranges from 0.001 to 
+0.017).
+CONCLUSION: Frequent nut consumption was associated with a healthy profile of 
+inflammatory biomarkers.
+
+© 2016 American Society for Nutrition.
+
+DOI: 10.3945/ajcn.116.134205
+PMCID: PMC4997300
+PMID: 27465378 [Indexed for MEDLINE]
+
+
+10. J Dent Res. 2015 Mar;94(3):403-11. doi: 10.1177/0022034514566215. Epub 2015
+Jan  12.
+
+RAGE gene polymorphism and environmental factor in the risk of oral cancer.
+
+Su S(1), Chien M(2), Lin C(3), Chen M(4), Yang S(5).
+
+Author information:
+(1)Department of Dermatology, Drug Hypersensitivity Clinical and Research 
+Center, Chang Gung Memorial Hospitals, Linkou, Taiwan.
+(2)Graduate Institute of Clinical Medicine, Taipei Medical University, Taipei, 
+Taiwan Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan.
+(3)Institute of Oral Sciences, Chung Shan Medical University, Taichung, Taiwan 
+Department of Dentistry, Chung Shan Medical University Hospital, Taichung, 
+Taiwan.
+(4)Department of Otorhinolaryngology-Head and Neck Surgery, Changhua Christian 
+Hospital, Changhua, Taiwan Institute of Medicine, Chung Shan Medical University, 
+Taichung, Taiwan.
+(5)Institute of Medicine, Chung Shan Medical University, Taichung, Taiwan 
+Department of Medical Research, Chung Shan Medical University Hospital, 
+Taichung, Taiwan ysf@csmu.edu.tw.
+
+Oral squamous cell carcinoma is a common neoplasm that is known to be causally 
+associated with genetic factors and environmental carcinogens. The receptor for 
+advanced glycosylation endproducts (RAGE) is a transmembrane protein of the 
+immunoglobulin superfamily with broad specificity for multiple ligands, and it 
+has been shown to play vital roles in several pathophysiologic processes, 
+including diabetes, Alzheimer disease, renal disease, cardiovascular disease, 
+and cancer. The present study aimed to assess the influences of RAGE gene 
+polymorphisms, combined with environmental carcinogens on the predisposition to 
+oral tumorigenesis. Five polymorphisms of the RAGE gene-including -374T>A 
+(rs1800624), -429T>C (rs1800625), 1704G>T (rs184003), Gly82Ser (rs2070600), and 
+a 63-bp deletion allele (-407 to -345)-were examined from 592 controls and 618 
+patients with oral cancer. We found that individuals carrying the polymorphic 
+allele of rs1800625 are more susceptible to oral cancer (odds ratio [OR], 1.899; 
+95% confidence interval [CI], 1.355 to 2.661; adjusted OR [AOR], 2.053; 95% CI, 
+1.269 to 3.345) after adjustment for age, sex, betel nut chewing, and tobacco 
+consumption. Moreover, we observed a significant association of rs1800625 
+variants with late-stage tumors (stage III/IV, OR, 1.736; 95% CI, 1.126 to 
+2.677; AOR, 1.771; 95% CI, 1.101 to 2.851) and large-size tumors (>2 cm in the 
+greatest dimension; OR, 1.644; 95% CI, 1.083 to 2.493; AOR, 1.728; 95% CI, 1.089 
+to 2.741). Based on behavioral exposure of environmental carcinogens, the 
+presence of 4 RAGE single-nucleotide polymorphisms (SNPs), combined with betel 
+quid chewing and/or tobacco use, greatly augmented the risk of oral cancer. In 
+addition, carriers of particular haplotypes of the 4 RAGE SNPs examined are more 
+prone to develop oral cancer. These results indicate an involvement of RAGE SNP 
+rs1800625 in the development of oral squamous cell carcinoma and implicate the 
+interaction between RAGE gene polymorphisms and environmental mutagens as a 
+predisposing factor of oral carcinogenesis.
+
+© International & American Associations for Dental Research 2015.
+
+DOI: 10.1177/0022034514566215
+PMCID: PMC4814014
+PMID: 25582438 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors received no financial support and 
+declare no potential conflicts of interest with respect to the authorship and/or 
+publication of this article.

@@ -1,0 +1,170 @@
+1. J Intern Med. 2022 Mar;291(3):283-302. doi: 10.1111/joim.13422. Epub 2021 Dec 
+22.
+
+Food allergy and hypersensitivity reactions in children and adults-A review.
+
+Tedner SG(1)(2), Asarnoj A(1)(2), Thulin H(3)(4), Westman M(5)(6), Konradsen 
+JR(1)(2), Nilsson C(3)(4).
+
+Author information:
+(1)Department of Women's and Children's Health, Karolinska Institutet, 
+Stockholm, Sweden.
+(2)Pediatric Allergy and Pulmonology Unit at Astrid Lindgren Children's 
+Hospital, Karolinska University Hospital, Stockholm, Sweden.
+(3)Allergy and Lung Department, Sachs' Children and Youth Hospital, Stockholm, 
+Sweden.
+(4)Department of Clinical Science and Education Södersjukhuset, Karolinska 
+Institutet, Stockholm, Sweden.
+(5)Division of Immunology and Allergy, Department of Medicine Solna, Karolinska 
+Institutet, Stockholm, Sweden.
+(6)Asthma and Allergy Clinic S:t Göran, Stockholm, Sweden.
+
+Adverse reactions after food intake are commonly reported and a cause of concern 
+and anxiety that can lead to a very strict diet. The severity of the reaction 
+can vary depending on the type of food and mechanism, and it is not always easy 
+to disentangle different hypersensitivity diagnoses, which sometimes can exist 
+simultaneously. After a carefully taken medical history, hypersensitivity to 
+food can often be ruled out or suspected. The most common type of allergic 
+reaction is immunoglobulin E (IgE)-mediated food allergy (prevalence 5-10%). 
+Symptoms vary from mild itching, stomach pain, and rash to severe anaphylaxis. 
+The definition of IgE-mediated food allergy is allergic symptoms combined with 
+specific IgE-antibodies, and therefore only IgE-antibodies to suspected 
+allergens should be analyzed. Nowadays, methods of molecular allergology can 
+help with the diagnostic process. The most common allergens are milk and egg in 
+infants, peanut and tree nuts in children, and fish and shellfish in adults. In 
+young children, milk/egg allergy has a good chance to remit, making it important 
+to follow up and reintroduce the food when possible. Other diseases triggered by 
+food are non-IgE-mediated food allergy, for example, eosinophilic esophagitis, 
+celiac disease, food protein-induced enterocolitis syndrome, and 
+hypersensitivity to milk and biogenic amines. Some of the food 
+hypersensitivities dominate in childhood, others are more common in adults. 
+Interesting studies are ongoing regarding the possibilities of treating food 
+hypersensitivity, such as through oral immunotherapy. The purpose of this review 
+was to provide an overview of the most common types of food hypersensitivity 
+reactions.
+
+© 2021 The Association for the Publication of the Journal of Internal Medicine.
+
+DOI: 10.1111/joim.13422
+PMID: 34875122 [Indexed for MEDLINE]
+
+
+2. BMJ. 2017 Aug 21;358:j3468. doi: 10.1136/bmj.j3468.
+
+Medicines, excipients, and dietary intolerances.
+
+Drug and Therapeutics Bulletin.
+
+DOI: 10.1136/bmj.j3468
+PMID: 28827390 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Competing interests are in 
+line with DTB’s policy on conflicts of interests.
+
+
+3. Clin Rev Allergy Immunol. 2014 Jun;46(3):225-40. doi:
+10.1007/s12016-012-8339-6.
+
+Clinical spectrum of food allergies: a comprehensive review.
+
+Ho MH(1), Wong WH, Chang C.
+
+Author information:
+(1)The Division of Immunology, Rheumatology and Allergy, Department of 
+Paediatrics and Adolescent Medicine, Queen Mary Hospital, Li Ka Shing Faculty of 
+Medicine, The University of Hong Kong, Hong Kong, China, marcoho@hku.hk.
+
+Food allergy is defined as an adverse immune response towards food proteins or 
+as a form of a food intolerance associated with a hypersensitive immune 
+response. It should also be reproducible by a double-blind placebo-controlled 
+food challenge. Many reported that food reactions are not allergic but are 
+intolerances. Food allergy often presents to clinicians as a symptom complex. 
+This review focuses on the clinical spectrum and manifestations of various forms 
+of food allergies. According to clinical presentations and allergy testing, 
+there are three types of food allergy: IgE mediated, mixed (IgE/Non-IgE), and 
+non-IgE mediated (cellular, delayed type hypersensitivity). Recent advances in 
+food allergy in early childhood have highlighted increasing recognition of a 
+spectrum of delayed-onset non-IgE-mediated manifestation of food allergy. Common 
+presentations of food allergy in infancy including atopic eczema, infantile 
+colic, and gastroesophageal reflux. These clinical observations are frequently 
+associated with food hypersensitivity and respond to dietary elimination. 
+Non-IgE-mediated food allergy includes a wide range of diseases, from atopic 
+dermatitis to food protein-induced enterocolitis and from eosinophilic 
+esophagitis to celiac disease. The most common food allergies in children 
+include milk, egg, soy, wheat, peanut, treenut, fish, and shellfish. Milk and 
+egg allergies are usually outgrown, but peanut and treenut allergy tends to 
+persist. The prevalence of food allergy in infancy is increasing and may affect 
+up to 15-20 % of infants. The alarming rate of increase calls for a public 
+health approach in the prevention and treatment of food allergy in children.
+
+DOI: 10.1007/s12016-012-8339-6
+PMID: 23229594 [Indexed for MEDLINE]
+
+
+4. Curr Gastroenterol Rep. 2011 Oct;13(5):426-34. doi: 10.1007/s11894-011-0215-7.
+
+Differentiating food allergies from food intolerances.
+
+Guandalini S(1), Newland C.
+
+Author information:
+(1)Section of Pediatric Gastroenterology, Celiac Disease Center, University of 
+Chicago, 5839 S. Maryland Ave, MC 4065, Chicago, IL 60637, USA. 
+sguandalini@peds.bsd.uchicago.edu
+
+Adverse reactions to foods are extremely common, and generally they are 
+attributed to allergy. However, clinical manifestations of various degrees of 
+severity related to ingestion of foods can arise as a result of a number of 
+disorders, only some of which can be defined as allergic, implying an immune 
+mechanism. Recent epidemiological data in North America showed that the 
+prevalence of food allergy in children has increased. The most common food 
+allergens in the United States include egg, milk, peanut, tree nuts, wheat, 
+crustacean shellfish, and soy. This review examines the various forms of food 
+intolerances (immunoglobulin E [IgE] and non-IgE mediated), including celiac 
+disease and gluten sensitivity. Immune mediated reactions can be either IgE 
+mediated or non-IgE mediated. Among the first group, Immediate GI 
+hypersensitivity and oral allergy syndrome are the best described. Often, but 
+not always, IgE-mediated food allergies are entities such as eosinophilic 
+esophagitis and eosinophilic gastroenteropathy. Non IgE-mediated immune mediated 
+food reactions include celiac disease and gluten sensitivity, two increasingly 
+recognized disorders. Finally, non-immune mediated reactions encompass different 
+categories such as disorders of digestion and absorption, inborn errors of 
+metabolism, as well as pharmacological and toxic reactions.
+
+DOI: 10.1007/s11894-011-0215-7
+PMID: 21792544 [Indexed for MEDLINE]
+
+
+5. Biotechnol Adv. 2005 Sep;23(6):409-14. doi: 10.1016/j.biotechadv.2005.05.006.
+
+Food allergy and its relevance to industrial food proteins.
+
+Mills EN(1), Breiteneder H.
+
+Author information:
+(1)Institute of Food Research, Norwich Research Park, Colney, Norwich, NR4 7UA, 
+UK. Clare.mills@bbsrc.ac.uk
+
+Food allergies can be defined as IgE-mediated hypersensitivity reactions and are 
+quite distinct from food intolerances, such as Coeliac disease, with symptoms 
+usually appearing within a matter of minutes of exposure. Around 1-2% of adults 
+and up to 5-7% of children suffer from some type of food allergy with foods such 
+as peanuts, tree nuts, wheat and soy, cow's milk, egg, fish and shellfish being 
+responsible for the majority of reactions. The macromolecules recognised by IgE 
+(generally proteinaceous in nature) are termed allergens. A brief description of 
+the allergenic components present in the major allergenic foods is given 
+followed by a short discussion regarding their importance in industrial proteins 
+in the light of recent food labelling legislation for allergens.
+
+DOI: 10.1016/j.biotechadv.2005.05.006
+PMID: 16002252 [Indexed for MEDLINE]
+
+
+6. Clin Rev Allergy. 1985 Jul;3(3):331-49. doi: 10.1007/BF02992999.
+
+Food allergens.
+
+Metcalfe DD.
+
+DOI: 10.1007/BF02992999
+PMID: 3893676 [Indexed for MEDLINE]

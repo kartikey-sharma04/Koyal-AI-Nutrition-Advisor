@@ -1,0 +1,542 @@
+1. Nutrients. 2025 Apr 16;17(8):1359. doi: 10.3390/nu17081359.
+
+Food Hypersensitivity: Distinguishing Allergy from Intolerance, Main 
+Characteristics, and Symptoms-A Narrative Review.
+
+Hage G(1)(2), Sacre Y(1), Haddad J(2)(3), Hajj M(2), Sayegh LN(4), 
+Fakhoury-Sayegh N(1)(5).
+
+Author information:
+(1)Department of Nutrition and Food Science, Faculty of Arts and Sciences, Holy 
+Spirit University of Kaslik, Jounieh P.O. Box 446, Lebanon.
+(2)Hajj Medical Center-Medical & Dental Clinics, Green Zone A Building 71 Ground 
+Floor, Naccache P.O. Box 1201, Lebanon.
+(3)Faculty of Dental Medicine, Saint Joseph University of Beirut, Medical 
+Sciences Campus, Damascus Road, Riad Solh, Beirut P.O. Box 11-5076, Lebanon.
+(4)Yale New Haven Hospital, P.O. Box 1880, 20 York Street, New Haven, CT 06510, 
+USA.
+(5)Faculty of Pharmacy, Department of Nutrition, Saint Joseph University of 
+Beirut, Medical Sciences Campus, Damascus Road, Riad Solh, Beirut P.O. Box 
+11-5076, Lebanon.
+
+Background/Objectives: Food hypersensitivity remains an understudied and 
+overlooked subject globally. It is characterized by adverse reactions to dietary 
+substances, potentially triggered by various mechanisms. Food allergy, a subset 
+of food hypersensitivity, denotes an immune response to food proteins 
+categorized into immunoglobulin IgE-mediated or non-IgE-mediated reactions. 
+Conversely, food intolerance, another facet of food hypersensitivity, refers to 
+non-immunological reactions, in which the human body cannot properly digest 
+certain foods or components, leading to gastrointestinal discomfort and other 
+non-immune-related symptoms. The main objective of this study was to determine 
+and differentiate the differences, characteristics, and types of food 
+hypersensitivity. Methods: This study involved a comprehensive review of key 
+research from 1990 onward, including review articles, prospective studies, 
+nested case-control studies, and meta-analyses. Results: Recognizing these 
+differences is essential for healthcare professionals to ensure accurate 
+diagnosis, effective management, and improved patient outcomes, while also 
+aiding dietitians in providing optimal nutritional and dietary guidance. 
+Conclusions: there are big differences between the main characteristics, such as 
+symptoms, complications, and treatments between allergies, and food 
+intolerances. Commonly reported trigger foods include cow milk, gluten, eggs, 
+nuts, and seafood.
+
+DOI: 10.3390/nu17081359
+PMCID: PMC12029945
+PMID: 40284223 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Z Gastroenterol. 2024 Aug;62(8):1201-1206. doi: 10.1055/a-2258-8509. Epub 2024
+ May 15.
+
+Gastrointestinal adverse reaction to food (GARF) and endoscopic confocal laser 
+endomicroscopy (eCLE).
+
+[Article in English]
+
+Frieling T(1), Gjini B(1), Melchior I(1), Euler P(1), Kreysel C(1), Kalde S(1), 
+Krummen B(1), Kiesslich R(2), Hemmerlein B(3).
+
+Author information:
+(1)Medizinische Klinik II, HELIOS Klinikum Krefeld, Krefeld, Germany.
+(2)Regional Medical Managing Director, Helios Dr. Horst Schmidt Kliniken 
+Wiesbaden GmbH, Wiesbaden, Germany.
+(3)Institut für Pathologie, Helios Klinikum Krefeld, Krefeld, Germany.
+
+BACKGROUND AND STUDY AIMS: Gastrointestinal adverse reaction to food (GARF) is 
+reported frequently in the general population and even more in patients with 
+disorders of the gut brain axis. However, there is a significant difference 
+between self-reported and objective proven GARF. The aim of the study was to 
+characterize a mucosal correlate of GARF by endoscopic confocal laser 
+endomicroscopy (eCLE) with duodenal food challenge (DFC).
+PATIENTS AND METHODS: In an observational and proof of concept study we 
+evaluated 71 patients with disorders of the gut brain axis without (group I, 
+n=19) and with (group II, n=52) GARF by eCLE and DFC. Spontaneous and food 
+induced transfer of fluorescein into duodenal lumen was detected 10 minutes 
+following intravenously application of fluorescein and 10 minutes after DFC.
+RESULTS: According to Rom IV, the patients (group I/II) could be classified as 
+irritable bowel syndrome (IBS) 32%/31%, functional abdominal pain without 
+changes in bowel movement 47 %/48 %, functional abdominal bloating/distension 0 
+%/10 %, functional diarrhea 5 %/ 2 %, and unspecified functional bowel disorder 
+16 %/10 %, respectively. 21 %/27 % of the patients responded with a fluorescein 
+leakage into the duodenal lumen before and 74 %/69 % following to DFC. Frequency 
+rank order of food components that induced a response were soy (55.5 %/60 %), 
+wheat (60 %/45.5 %), egg (35.7 %/8.3), milk (30 %/18.2 %) and yeast (10 %/6.6 
+%), respectively. Histology of duodenal biopsies, number, form and distribution 
+of intraepithelial lymphocytes and mucosal mast cells as well as mast cell 
+function were normal. Overall, 14 %/79 % reported main symptom benefit following 
+a food exclusion therapy according to eCLE and DFC that was significant 
+different between the groups.
+CONCLUSION: The results of our study indicate that eCLE with DFC is a technique 
+to clinically evaluate patients with disorders of the gut brain axis and GARF 
+resulting in a high proportion of patients reporting symptom benefit upon food 
+exclusion dietary advice focussed on the results of eCLE.
+
+Publisher: HINTERGRUND UND STUDIENZIEL: Gastrointestinale 
+Nahrungsunverträglichkeiten (GARF) werden häufig in der Allgemeinbevölkerung und 
+insbesondere bei Patienten mit Störungen der Darm Hirn Achse berichtet. 
+Allerdings besteht eine große Diskrepanz zwischen der subjektiv empfundenen und 
+der objektivierten GARF. Das Studienziel war die Charakterisierung eines 
+mukosalen Korrelates durch die duodenale Nahrungsprovokation (DFC) mittels 
+endoskopischer konfokaler Laserendomikroskopie (eCLE).
+PATIENTEN UND METHODE: In einer Observations- und „proof of concept“-Studie 
+wurden 71 Patienten mit Störungen der Darm Hirn Achse ohne (Gruppe I, n=19) und 
+mit (Gruppe II, n=52) GARF durch eCLE und DFC untersucht. Hierbei wurden der 
+spontane und nahrungsinduzierte Transfer von Fluorescein in das Duodenallumen 10 
+Minuten nach intravenöser Gabe untersucht.
+ERGEBNISSE: Die Patienten (Gruppe I/II) wurden gemäß Rom IV-Kriterien in 
+Reizdarmsyndrom (IBS) 32%/31%, funktionelle Bauchschmerzen ohne 
+Stuhlgangverändeurngen 47%/48%, funktionelle Blähungen/Bauchdistension 0%/10%, 
+funktionelle Diarrhoe 5%/ 2%, and unspezifische funktionelle Bauchbeschwerden 
+16%/10% klassifiziert. 21%/27% der Patienten zeigten einen Transfer von 
+Fluorescein in das Duodenallumen vor und 74%/69% nach DFC. Die 
+Häufigkeitsrangfolge der Nahrungskomponenten, die eine Reaktion auslösten, waren 
+Soja (55,5%/60%), Weizen (60%/45,5%), Ei (35,7%/8,3%), Milch (30%/18,2%) und 
+Hefe (10%/6,6%). Sowohl die Histologie der Duodenalbiopsien, die Zahl, Form und 
+Verteilung der intraepithelialen Lymphozyten und Mastzellen als auch die 
+Funktion der Mastzellen waren unauffällig. Insgesamt berichteten 14%/79% über 
+eine Symptomenbesserung durch eine diätetische Ausschlusstherapie gemäß den 
+Ergebnissen der DFC, die zwischen den beiden Gruppen nicht signifikant 
+unterschiedlich war.
+SCHLUSSFOLGERUNG: Die Ergebnisse der Studie zeigen, dass eCLE mit DFC eine 
+Technik zur Untersuchung von Patienten mit Störungen der Darm Hirn Achse und 
+GARF ist. Hierdurch kann eine große Gruppe von Patienten charakterisiert werden, 
+die von einer diätetischen Auschlusstherapie gemäß den Ergebnissen der eCLE 
+profitieren.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-2258-8509
+PMID: 38749460 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+3. Sci Rep. 2023 Jun 9;13(1):9420. doi: 10.1038/s41598-023-36445-1.
+
+Postprandial effect of gastrointestinal hormones and gastric activity in 
+patients with irritable bowel syndrome.
+
+Furgała A(1), Ciesielczyk K(2), Przybylska-Feluś M(3)(4), Jabłoński K(5), Gil 
+K(2), Zwolińska-Wcisło M(3)(4).
+
+Author information:
+(1)Department of Pathophysiology, Faculty of Medicine, Jagiellonian University 
+Medical College, Czysta 18 Str, 31-121, Kraków, Poland. a.furgala@uj.edu.pl.
+(2)Department of Pathophysiology, Faculty of Medicine, Jagiellonian University 
+Medical College, Czysta 18 Str, 31-121, Kraków, Poland.
+(3)Department of Gastroenterology and Hepatology, Faculty of Medicine, 
+Jagiellonian University Medical College, Kraków, Poland.
+(4)Department of Gastroenterology and Hepatology, Faculty of Medicine, Institute 
+of Clinical Dietetics, Jagiellonian University Medical College, Kraków, Poland.
+(5)Department of Medical Education, Faculty of Medicine, Jagiellonian University 
+Medical College, Kraków, Poland.
+
+Altered gut regulation, including motor and secretory mechanisms, is 
+characteristic of irritable bowel syndrome (IBS). The severity of postprandial 
+symptoms in IBS patients is associated with discomfort and pain; gas-related 
+symptoms such as bloating and abdominal distension; and abnormal colonic 
+motility. The aim of this study was to assess the postprandial response, i.e., 
+gut peptide secretion and gastric myoelectric activity, in patients with 
+constipation-predominant IBS. The study was conducted on 42 IBS patients (14 
+males, 28 females, mean age 45.1 ± 15.3 years) and 42 healthy participants (16 
+males, 26 females, mean age 41.1 ± 8.7 years). The study assessed plasma gut 
+peptide levels (gastrin, CCK-Cholecystokinin, VIP-Vasoactive Intestinal Peptide, 
+ghrelin, insulin) and gastric myoelectric activity obtained from 
+electrogastrography (EGG) in the preprandial and postprandial period (meal-oral 
+nutritional supplement 300 kcal/300 ml). Mean preprandial gastrin and insulin 
+levels were significantly elevated in IBS patients compared to the control group 
+(gastrin: 72.27 ± 26.89 vs. 12.27 ± 4.91 pg/ml; p < 0.00001 and insulin: 
+15.31 ± 12.92 vs. 8.04 ± 3.21 IU/ml; p = 0.0001), while VIP and ghrelin levels 
+were decreased in IBS patients (VIP: 6.69 ± 4.68 vs. 27.26 ± 21.51 ng/ml; 
+p = 0.0001 and ghrelin: 176.01 ± 88.47 vs. 250.24 ± 84.55 pg/ml; p < 0.0001). A 
+nonsignificant change in the CCK level was observed. IBS patients showed 
+significant changes in postprandial hormone levels compared to the preprandial 
+state-specifically, there were increases in gastrin (p = 0.000), CCK 
+(p < 0.0001), VIP (p < 0.0001), ghrelin (p = 0.000) and insulin (p < 0.0001). 
+Patients with IBS showed reduced preprandial and postprandial normogastria 
+(59.8 ± 22.0 vs. 66.3 ± 20.2%) compared to control values (83.19 ± 16.7%; 
+p < 0.0001 vs. 86.1 ± 9.4%; p < 0.0001). In response to the meal, we did not 
+observe an increase in the percentage of normogastria or the average percentage 
+slow-wave coupling (APSWC) in IBS patients. The postprandial to preprandial 
+power ratio (PR) indicates alterations in gastric contractions; in controls, 
+PR = 2.7, whereas in IBS patients, PR = 1.7, which was significantly lower 
+(p = 0.00009). This ratio reflects a decrease in gastric contractility. 
+Disturbances in the postprandial concentration of gut peptides (gastrin, insulin 
+and ghrelin) in plasma may contribute to abnormal gastric function and 
+consequently intestinal motility, which are manifested in the intensification of 
+clinical symptoms, such as visceral hypersensitivity or irregular bowel 
+movements in IBS patients.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-36445-1
+PMCID: PMC10256731
+PMID: 37296188 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+4. J Allergy Clin Immunol Pract. 2022 Sep;10(9):2397-2403. doi: 
+10.1016/j.jaip.2022.05.006. Epub 2022 May 19.
+
+Food Protein-Induced Enterocolitis Syndrome in Adulthood: Clinical 
+Characteristics, Prognosis, and Risk Factors.
+
+González-Delgado P(1), Muriel J(2), Jiménez T(3), Cameo JI(4), Palazón-Bru A(2), 
+Fernández J(5).
+
+Author information:
+(1)Allergy Service, Alicante General University Hospital, Alicante Institute for 
+Health and Biomedical Research (ISABIAL), Alicante, Spain; Clinical Medicine 
+Department, University Miguel Hernández, San Juan, Alicante, Spain. Electronic 
+address: purifica60@gmail.com.
+(2)Clinical Medicine Department, University Miguel Hernández, San Juan, 
+Alicante, Spain.
+(3)Allergy Service, Alicante General University Hospital, Alicante Institute for 
+Health and Biomedical Research (ISABIAL), Alicante, Spain.
+(4)Gastroenterology Service, Alicante General University Hospital, Alicante 
+Institute for Health and Biomedical Research (ISABIAL), Alicante, Spain.
+(5)Allergy Service, Alicante General University Hospital, Alicante Institute for 
+Health and Biomedical Research (ISABIAL), Alicante, Spain; Clinical Medicine 
+Department, University Miguel Hernández, San Juan, Alicante, Spain.
+
+BACKGROUND: Food protein-induced enterocolitis syndrome (FPIES) in adults is 
+being increasingly recognized; however, little is known about its 
+characteristics.
+OBJECTIVE: To describe the clinical characteristics, prognosis, and associated 
+factors in adult FPIES.
+METHODS: A 10-year prospective study was conducted in the Allergy Section of 
+Alicante General Hospital in adults diagnosed with FPIES. Detailed interviews 
+with patients and oral food challenges (OFCs) were performed to confirm 
+diagnosis or evaluate for tolerance. Comorbidities and possible risk factors 
+were analyzed retrospectively through electronic medical records to assess their 
+association with the disease.
+RESULTS: One hundred and seven adults with FPIES (93.5% female) were followed 
+for a median of 6.2 years. Abdominal pain was the most common manifestation 
+(96.3%), followed by diarrhea (72%) and vomiting (60.7%). Seafood (59.8%), egg 
+(14%), and milk (10.3%) were the most common triggers, whereas 43.9% reacted to 
+more than 1 food group. We performed 49 OFCs: 9 to confirm diagnosis and 40 to 
+evaluate for tolerance. After a median 3.5 years, 16.8% achieved tolerance. 
+Resolution was correlated inversely with duration of the disease (P = .04) and 
+seafood (P = .023) but not with age of onset. The prevalence of gastrointestinal 
+pathologies such as irritable bowel syndrome (IBS), eosinophilic esophagitis, 
+inflammatory bowel disease, and celiac disease was higher than in the general 
+population. A higher number of FPIES triggers were correlated with also having a 
+diagnosis of IBS (P = .02).
+CONCLUSIONS: Although adult FPIES normally persists, some patients achieve 
+tolerance. Adults with FPIES have a relatively high prevalence of 
+gastrointestinal pathologies. The predominance of women may be related to 
+hormonal factors. The clinical differences with pediatric FPIES warrant a 
+revision of diagnostic criteria in adults.
+
+Copyright © 2022 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2022.05.006
+PMID: 35598865 [Indexed for MEDLINE]
+
+
+5. Gastroenterology. 2019 Jul;157(1):109-118.e5. doi:
+10.1053/j.gastro.2019.03.046.  Epub 2019 May 15.
+
+Many Patients With Irritable Bowel Syndrome Have Atypical Food Allergies Not 
+Associated With Immunoglobulin E.
+
+Fritscher-Ravens A(1), Pflaum T(2), Mösinger M(2), Ruchay Z(2), Röcken C(3), 
+Milla PJ(4), Das M(2), Böttner M(5), Wedel T(5), Schuppan D(6).
+
+Author information:
+(1)Unit Experimental Endoscopy, Department of Internal Medicine I, University 
+Hospital Schleswig-Holstein, Campus Kiel, Kiel, Germany. Electronic address: 
+fri.rav@btopenworld.com.
+(2)Unit Experimental Endoscopy, Department of Internal Medicine I, University 
+Hospital Schleswig-Holstein, Campus Kiel, Kiel, Germany.
+(3)Department of Pathology, University Hospital Schleswig-Holstein, Campus Kiel, 
+Kiel, Germany.
+(4)UCL Institute of Child Health, University College London, London, United 
+Kingdom.
+(5)Department of Anatomy, Christian Albrecht University, Kiel, Germany.
+(6)Institute of Translational Immunology, University Medical Center, Mainz, 
+Germany; Division of Gastroenterology, Beth Israel Deaconess Medical Center, 
+Harvard Medical School, Boston, Massachusetts.
+
+Comment in
+    Gastroenterology. 2019 Jul;157(1):15-17. doi: 10.1053/j.gastro.2019.05.042.
+
+BACKGROUND & AIMS: Confocal laser endomicroscopy (CLE) is a technique that 
+permits real-time detection and quantification of changes in intestinal tissues 
+and cells, including increases in intraepithelial lymphocytes and fluid 
+extravasation through epithelial leaks. Using CLE analysis of patients with 
+irritable bowel syndrome (IBS), we found that more than half have responses to 
+specific food components. Exclusion of the defined food led to long-term symptom 
+relief. We used the results of CLE to detect reactions to food in a larger 
+patient population and analyzed duodenal biopsy samples and fluid from patients 
+to investigate mechanisms of these reactions.
+METHODS: In a prospective study, 155 patients with IBS received 4 challenges 
+with each of 4 common food components via the endoscope, followed by CLE, at a 
+tertiary medical center. Classical food allergies were excluded by negative 
+results from immunoglobulin E serology analysis and skin tests for common food 
+antigens. Duodenal biopsy samples and fluid were collected 2 weeks before and 
+immediately after CLE and were analyzed by histology, immunohistochemistry, 
+reverse transcription polymerase chain reaction, and immunoblots. Results from 
+patients who had a response to food during CLE (CLE+) were compared with results 
+from patients who did not have a reaction during CLE (CLE-) or healthy 
+individuals (controls).
+RESULTS: Of the 108 patients who completed the study, 76 were CLE+ (70%), and 46 
+of these (61%) reacted to wheat. CLE+ patients had a 4-fold increase in 
+prevalence of atopic disorders compared with controls (P = .001). Numbers of 
+intraepithelial lymphocytes were significantly higher in duodenal biopsy samples 
+from CLE+ vs CLE- patients or controls (P = .001). Expression of claudin-2 
+increased from crypt to villus tip (P < .001) and was up-regulated in CLE+ 
+patients compared with CLE- patients or controls (P = .023). Levels of occludin 
+were lower in duodenal biopsy samples from CLE+ patients vs controls (P = .022) 
+and were lowest in villus tips (P < .001). Levels of messenger RNAs encoding 
+inflammatory cytokines were unchanged in duodenal tissues after CLE challenge, 
+but eosinophil degranulation increased, and levels of eosinophilic cationic 
+protein were higher in duodenal fluid from CLE+ patients than controls (P = 
+.03).
+CONCLUSIONS: In a CLE analysis of patients with IBS, we found that more than 50% 
+of patients could have nonclassical food allergy, with immediate disruption of 
+the intestinal barrier upon exposure to food antigens. Duodenal tissues from 
+patients with responses to food components during CLE had immediate increases 
+in expression of claudin-2 and decreases in occludin. CLE+ patients also had 
+increased eosinophil degranulation, indicating an atypical food allergy 
+characterized by eosinophil activation.
+
+Copyright © 2019 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2019.03.046
+PMID: 31100380 [Indexed for MEDLINE]
+
+
+6. Acta Gastroenterol Belg. 2018 Apr-Jun;81(2):253-256.
+
+Frequency of food hypersensitivity in patients with Functional Gastrointestinal 
+Disorders.
+
+Ismail FW(1), Abid S(1), Awan S(1), Lubna F(1).
+
+Author information:
+(1)Department of Medicine, Section Gastroenterology, Aga Khan, University 
+Hospital, Pakistan.
+
+BACKGROUND AND STUDY AIMS: Food hypersensitivity (FH), irritable bowel syndrome 
+(IBS) and functional dyspepsia (FD) have many overlapping symptoms, including 
+abdominal discomfort, bloating, and altered bowel habits. We aimed to determine 
+the frequency of FH in patients with IBS and functional FD.
+PATIENTS AND METHODS: Adult patients of either gender diagnosed with IBS and/or 
+FD as per the Rome III criteria were recruited. Patients underwent serological 
+testing against 6 food allergens: beef, shrimp, egg white, milk, peanut, and 
+soy-bean. Those testing positive were subjected to a food elimination diet for 4 
+weeks. Those showing improvement on elimination diet were subjected to 
+re-challenge. Changes in symptoms were documented by the Global overall 
+improvement scale (GOS) and Gastrointestinal symptom rating scale (GSRS).
+RESULTS: Two hundred patients were screened. Average age of the patients was 
+38.6, and 55 % were male. Nineteen (38%) patients tested positive, and were 
+subjected to a food elimination diet. The most common food hypersensitivity was 
+shrimp (17/89%), followed by 4/21% for egg-white, and peanut. Off these, 8 
+showed improvement. They were re-challenged, and were evaluated 2 weeks later, 
+when all suffered symptom relapse. These 8 (4%) patients were diagnosed with FH. 
+There was a statistically significant difference in both GSRS (total and 
+component) and GOS scores at baseline between patients testing (+) and (-) on 
+food allergen testing, mainly for diarrhoea (p=0.001), abdominal pain (p=0.001) 
+and indigestion p=<0.001).
+CONCLUSIONS: FH is present in 4 % of patients with a functional gastrointestinal 
+disorder.
+
+© Acta Gastro-Enterologica Belgica.
+
+PMID: 30024695 [Indexed for MEDLINE]
+
+
+7. BMC Gastroenterol. 2012 Nov 21;12:166. doi: 10.1186/1471-230X-12-166.
+
+IgG and IgG4 antibodies in subjects with irritable bowel syndrome: a case 
+control study in the general population.
+
+Ligaarden SC(1), Lydersen S, Farup PG.
+
+Author information:
+(1)Department of Medicine, Innlandet Hospital Trust, Kyrre Grepps gt 19, 2819, 
+Gjøvik, Norway. solveig.ligaarden@ntnu.no
+
+BACKGROUND: Patients with Irritable Bowel Syndrome (IBS) often relate their 
+symptoms to the intake of food and modify their diet. IgE-mediated food allergy 
+is uncommon in IBS, but the role of IgG-mediated food hypersensitivity remains 
+inconclusive. The primary aim of this study was to compare food- and 
+yeast-specific IgG and IgG4 antibodies in subjects with and without IBS.
+METHODS: This was a case control study in the general population for which 
+subjects completed questionnaires about abdominal complaints and their intake of 
+common food items. Blood samples were collected, and food- and yeast-specific 
+IgG and IgG4 antibodies were measured. Antibodies were measured in mg/L.
+RESULTS: We included 269 subjects with IBS and 277 control subjects. After 
+correction for subject characteristics and diet, there were no significant 
+differences with regard to food- and yeast-specific IgG and IgG4 antibodies 
+between subjects with IBS and controls. Lower values of IgG antibodies against 
+egg (OR 0.99 (0.98 to 1.00), p = 0.002) and beef (OR 0.75 (0.60 to 0.94), 
+p = 0.012) and higher values of IgG antibodies against chicken (OR 1.14 (1.03 to 
+1.27), p = 0.009) were associated with more severe symptoms.
+CONCLUSIONS: Our findings suggest that IgG-and IgG4-mediated food and yeast 
+hypersensitivity in IBS is unlikely. IgG antibodies against food and yeast may 
+reflect the diet.
+
+DOI: 10.1186/1471-230X-12-166
+PMCID: PMC3526446
+PMID: 23170971 [Indexed for MEDLINE]
+
+
+8. Clin Gastroenterol Hepatol. 2011 Nov;9(11):965-971.e3. doi: 
+10.1016/j.cgh.2011.07.030. Epub 2011 Aug 11.
+
+Fecal assays detect hypersensitivity to cow's milk protein and gluten in adults 
+with irritable bowel syndrome.
+
+Carroccio A(1), Brusca I, Mansueto P, Soresi M, D'Alcamo A, Ambrosiano G, Pepe 
+I, Iacono G, Lospalluti ML, La Chiusa SM, Di Fede G.
+
+Author information:
+(1)Internal Medicine, Ospedali Civili Riuniti di Sciacca (AG), and University of 
+Palermo, Palermo, Italy. acarroccio@hotmail.com
+
+BACKGROUND & AIMS: Some patients with irritable bowel syndrome (IBS)-like 
+symptoms suffer from food hypersensitivity (FH); their symptoms improve when 
+they are placed on elimination diets. No assays identify patients with FH with 
+satisfactory levels of sensitivity. We determined the frequency of FH among 
+patients with symptoms of IBS and the ability of fecal assays for tryptase, 
+eosinophil cationic protein (ECP), or calprotectin to diagnose FH.
+METHODS: The study included 160 patients with IBS, 40 patients with other 
+gastrointestinal diseases, and 50 healthy individuals (controls). At the start 
+of the study, patients completed a symptom severity questionnaire, fecal samples 
+were assayed, and levels of specific immunoglobulin E were measured. Patients 
+were observed for 4 weeks, placed on an elimination diet (without cow's milk and 
+derivatives, wheat, egg, tomato, and chocolate) for 4 weeks, and kept a diet 
+diary. Those who reported improvements after the elimination diet period were 
+then diagnosed with FH, based on the results of a double-blind, 
+placebo-controlled, oral food challenge (with cow's milk proteins and then with 
+wheat proteins).
+RESULTS: Forty of the patients with IBS (25%) were found to have FH. Levels of 
+fecal ECP and tryptase were significantly higher among patients with IBS and FH 
+than those without FH. The ECP assay was the most accurate assay for diagnosis 
+of FH, showing 65% sensitivity and 91% specificity.
+CONCLUSIONS: Twenty-five percent of patients with IBS have FH. These patients 
+had increased levels of fecal ECP and tryptase, indicating that they might cause 
+inflammation in patients with IBS. Fecal assays for ECP could be used to 
+identify FH in patients with IBS.
+
+Copyright © 2011 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cgh.2011.07.030
+PMID: 21839707 [Indexed for MEDLINE]
+
+
+9. Zhongguo Zhong Yao Za Zhi. 2010 Aug;35(15):2012-6. doi: 10.4268/cjcmm20101522.
+
+[Influence of tongxie prescription on CRF expression in spinal cord and brain of 
+hypersensitive viscera rats].
+
+[Article in Chinese]
+
+Chao G(1), Lv B, Meng L, Zhang S, Zahng L, Guo Y.
+
+Author information:
+(1)Sir Run Run Shaw Hospital, Zhejiang University, Hangzhou 310036, China.
+
+OBJECTIVE: To investigate the distribution and expression of corticotropin 
+releasing factor (CRF) in spinal cord, hypothalamus and third ventricle of 
+cerebrum, of the hypersensitive viscera rats, and to research on the mechanism 
+of CRF in the hypersensitive vicera signal conduction pathway in IBS (irritable 
+bowel syndrome) and to investigate possible active mechanisms of tongxie 
+prescription on IBS.
+METHOD: Forty SD rats were divided randomly into three groups. The rats of model 
+No. 1 were sensitized by injecting egg albumin into abdominal cavity. The rats 
+of model No. 2 were sensitised by conditional stimulus and unconditional 
+stimulus. The two model groups were both divided randomly into two groups. The 
+five groups were given intragastric administration with Tongxie prescription or 
+normal saline for four weeks. Then quantitative analysis of CRF in the 
+lumbosacral spinal cord and brain of rats were achieved by immunohistochemical 
+method and computerized image system.
+RESULT: The sensitivity of the groups being treated with tongxie prescription 
+were much lower than the model groups (P < 0.01). The immunohistochemical method 
+showed that CRF was expressed in the lumbar intumescentia of spinal cord, 
+hypothalamus and the diaphragmatic surface of third ventricle of cerebrum. The 
+CRF positive index of the model groups was higher than that of the blank group 
+(P < 0.01). The CRF positive index of the healing groups was lower than that of 
+the model groups (P < 0.01). The CRF positive index of the healing groups was 
+higher than that of the blank group (P < 0.01).
+CONCLUSION: The two model rats evoked by two different stimulation both appeared 
+visceral hypersensitivity state. CRF is related to stress. The increase of CRF 
+expression in the lumbar intumescentia of spinal cord, hypothalamus and the 
+diaphragmatic surface of third ventricle of cerebrum showed that CRF is critical 
+to the introduce of stimulus signal of vicera. Tongxie prescription can 
+significantly decrease CRF expression. This is one mechanism to decrease 
+sensitivity of hypersensitive viscera rats.
+
+DOI: 10.4268/cjcmm20101522
+PMID: 20931858 [Indexed for MEDLINE]
+
+
+10. Clin Gastroenterol Hepatol. 2010 Mar;8(3):254-60. doi: 
+10.1016/j.cgh.2009.11.010. Epub 2009 Nov 22.
+
+A cytologic assay for diagnosis of food hypersensitivity in patients with 
+irritable bowel syndrome.
+
+Carroccio A(1), Brusca I, Mansueto P, Pirrone G, Barrale M, Di Prima L, 
+Ambrosiano G, Iacono G, Lospalluti ML, La Chiusa SM, Di Fede G.
+
+Author information:
+(1)Internal Medicine, Ospedali Civili Riuniti, Sciacca (Agrigento), Sciacca, 
+Italy. acarroccio@hotmail.com
+
+BACKGROUND & AIMS: A percentage of patients with symptoms of irritable bowel 
+syndrome (IBS) suffer from food hypersensitivity (FH) and improve on a 
+food-elimination diet. No assays have satisfactory levels of sensitivity for 
+identifying patients with FH. We evaluated the efficacy of an in vitro basophil 
+activation assay in the diagnosis of FH in IBS-like patients.
+METHODS: Blood samples were collected from 120 consecutive patients diagnosed 
+with IBS according to Rome II criteria. We analyzed in vitro activation of 
+basophils by food allergens (based on levels of CD63 expression), as well as 
+total and food-specific immunoglobulin (Ig)E levels in serum. Effects of 
+elimination diets and double-blind food challenges were used as standards for FH 
+diagnosis.
+RESULTS: Twenty-four of the patients (20%) had FH (cow's milk and/or wheat 
+hypersensitivity); their symptom scores improved significantly when they were 
+placed on an elimination diet. Patients with FH differed from other IBS patients 
+in that they had a longer duration of clinical history, a history of FH as 
+children, and an increased frequency of self-reported FH; they also had 
+hypersensitivities to other antigens (eg, egg or soy). The basophil activation 
+assay diagnosed FH with 86% sensitivity, 88% specificity, and 87% accuracy; this 
+level of sensitivity was significantly higher than that of serum total IgE or 
+food-specific IgE assays.
+CONCLUSIONS: A cytometric assay that quantifies basophils after stimulation with 
+food antigens based on cell-surface expression of CD63 had high levels of 
+sensitivity, specificity, and accuracy in diagnosing FH. This assay might be 
+used to diagnose FH in patients with IBS-like symptoms.
+
+Copyright 2010 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cgh.2009.11.010
+PMID: 19932763 [Indexed for MEDLINE]

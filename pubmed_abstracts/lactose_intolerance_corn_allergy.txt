@@ -1,0 +1,284 @@
+1. Nutrients. 2020 Jul 29;12(8):2277. doi: 10.3390/nu12082277.
+
+Beneficial Effects of a Low-Nickel Diet on Relapsing IBS-Like and 
+Extraintestinal Symptoms of Celiac Patients during a Proper Gluten-Free Diet: 
+Nickel Allergic Contact Mucositis in Suspected Non-Responsive Celiac Disease.
+
+Borghini R(1), De Amicis N(1), Bella A(2), Greco N(1), Donato G(1), Picarelli 
+A(1).
+
+Author information:
+(1)Department of Translational and Precision Medicine, Sapienza University, 
+00185 Rome, Italy.
+(2)Department of Infectious Diseases, Istituto Superiore di Sanità, 00161 Rome, 
+Italy.
+
+BACKGROUND AND AIM: Nickel (Ni)-rich foods can induce allergic contact mucositis 
+(ACM) with irritable bowel syndrome (IBS)-like symptoms in predisposed subjects. 
+Ni ACM has a high prevalence (>30%) in the general population and can be 
+diagnosed by a Ni oral mucosa patch test (omPT). Many celiac disease (CD) 
+patients on a gluten-free diet (GFD) often show a recrudescence of 
+gastrointestinal and extraintestinal symptoms, although serological and 
+histological remission has been achieved. Since a GFD often results in higher 
+loads of ingested alimentary Ni (e.g., corn), we hypothesized that it would lead 
+to a consequent intestinal sensitization to Ni in predisposed subjects. We 
+wanted to (1) study Ni ACM prevalence in still symptomatic CD patients on a GFD 
+and (2) study the effects of a low-Ni diet (LNiD) on their recurrent symptoms.
+MATERIAL AND METHODS: We recruited 102 consecutive CD patients (74 female, 28 
+male; age range 18-65 years, mean age 42.3 ± 7.4) on a GFD since at least 12 
+months, in current serological and histological remission (Marsh-Oberhuber type 
+0-I) who complained of relapsing gastrointestinal and/or extraintestinal 
+symptoms.
+INCLUSION CRITERIA: presence of at least three gastrointestinal symptoms with a 
+score ≥5 on the modified Gastrointestinal Symptom Rating Scale (GSRS) 
+questionnaire.
+EXCLUSION CRITERIA: IgE-mediated food allergy; history of past or current 
+cancer; inflammatory bowel diseases; infectious diseases including Helicobacter 
+pylori; lactose intolerance. All patients enrolled underwent Ni omPT and 
+followed a LNiD for 3 months. A 24 symptoms questionnaire (GSRS modified 
+according to the Salerno Experts' Criteria, with 15 gastrointestinal and 9 
+extraintestinal symptoms) was administered at T0 (free diet), T1 (GFD, CD 
+remission), T2 (recurrence of symptoms despite GFD), and T3 (GFD + LNiD) for 
+comparisons. Comparisons were performed using Wilcoxon signed-rank test.
+RESULTS: Twenty patients (all female, age range 23-65 years, mean age 39.1 ± 
+2.9) out of 102 (19.6%) were finally included. All 20 patients enrolled (100%) 
+showed positive Ni omPT, confirming an Ni ACM diagnosis. A correct GFD (T0 vs. 
+T1) induced the improvement of 19 out of the total 24 (79.2%) symptoms, and 14 
+out of 24 (58.3%) were statistically significant (p-value < 0.0083 according to 
+Bonferroni correction). Prolonged GFD (T1 vs. T2) revealed the worsening of 20 
+out of the total 24 (83.3%) symptoms, and 10 out of 24 (41.7%) were 
+statistically significant. LNiD (T2 vs. T3) determined an improvement of 20 out 
+of the total 24 (83.4%) symptoms, and in 10 out of 24 (41.7%) symptoms the 
+improvement was statistically significant.
+CONCLUSIONS: Our data suggest that the recrudescence of gastrointestinal and 
+extraintestinal symptoms observed in CD subjects during GFD may be due to the 
+increase in alimentary Ni intake, once gluten contamination and persisting 
+villous atrophy are excluded. Ni overload can induce Ni ACM, which can be 
+diagnosed by a specific Ni omPT. Improvement of symptoms occurs after a proper 
+LNiD. These encouraging data should be confirmed with larger studies.
+
+DOI: 10.3390/nu12082277
+PMCID: PMC7468824
+PMID: 32751300 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2. Clin Nucl Med. 2015 Oct;40(10):796-8. doi: 10.1097/RLU.0000000000000913.
+
+Oral Cholecystagogue Cholescintigraphy: A Systematic Review of Fatty Meal 
+Options.
+
+Fotos JS(1), Tulchinsky M.
+
+Author information:
+(1)From the Section of Nuclear Medicine, Department of Radiology, Milton S. 
+Hershey Medical, Center, Penn State University, Hershey, PA.
+
+OBJECTIVES: Intermittent unavailability of sincalide for determination of 
+gallbladder ejection fraction (GBEF) prompted increased usage of fatty meal 
+cholecystagogues (FMCs). The aim of this systematic review was to identify the 
+state of current FMC options in cholescintigraphy, focusing on the quality of 
+corresponding normal GBEF values.
+METHODS: We performed an extensive literature search of the MEDLINE, Cochrane, 
+and CINAHL databases without date or language restrictions with a broad spectrum 
+of search terms. Selection criteria required both that the study use a FMC as 
+part of a stimulated GBEF examination to gather data on normal volunteers or 
+patients without evidence of gastrointestinal disease and that the meal used be 
+described sufficiently for emulation. A cumulative point system was used to 
+grade the quality of normal GBEF values: 1 point for screening ultrasound, 1 
+point for detailed screening questionnaire, 1 point for 20 or greater number of 
+participants in a study, 1 additional point for 60 or greater number of 
+participants in a study, 0.5 points for cursory screening questions, and 0 
+points when no screening process was mentioned. The meal was expressed in grams 
+of fat per volume, when available.
+RESULTS: Twelve studies met inclusion criteria out of 15 studies claiming to 
+report normal values. Two studies (17%) achieved a score of 3, 5 studies (42%) 
+at 2 to 2.5, 3 studies (25%) at 1 to 1.5, and the remaining 2 studies (17%) at 0 
+to 0.5. Total number of participants examined ranged from 6 to 100. Meal 
+composition varied widely. In 1 study, sham feeding was used. Most meals had 
+components that could present problems to patients with relatively common 
+dietary restrictions (ie, lactose intolerance, egg protein allergy, etc). 
+Results for proposed normal values varied widely (from 16.3% to 85.6%). The 
+commercial fatty meal products of Humana Infant Formula 1 and Ensure Plus 
+offered the highest-quality normal values.
+CONCLUSIONS: There is a need to establish high-quality normal GBEF range for a 
+ubiquitous fatty meal (ie, a meal that would be widely available, easy to 
+prepare, inexpensive, and free of sensitivity-provoking ingredients). A corn oil 
+emulsion, has immense potential as an ideal FMC, limited currently only by its 
+lack of established normal values. Currently, the highest-quality normal GBEF 
+values available for FMC exist for 2 commercial products, Humana Infant Formula 
+1 and Ensure Plus. However, these products may not be readily available at some 
+institutions, and neither one is free from dietary restrictions.
+
+DOI: 10.1097/RLU.0000000000000913
+PMID: 26222535 [Indexed for MEDLINE]
+
+
+3. Acta Biomed. 2008 Aug;79(2):144-50.
+
+Intestinal inflammation in nursing infants: different causes and a single 
+treatment ... but of protected origin.
+
+Pancaldi M(1), Mariotti I, Balli F.
+
+Author information:
+(1)Department of Pediatrics, University Hospital of Modena, Modena, Italy.
+
+Three case histories of nursing infants suffering from different forms of 
+intestinal problems, who underwent special dietary therapy in order to solve 
+situations that would be difficult to deal with using the special artificial 
+milk varieties on the market, are presented. These children were administered a 
+homemade food consisting ofParmigiano Reggiano cheese seasoned for at least 36 
+months, rice or maize custard and tapioca, sugar, maize oil. In the first case 
+the diagnosis of "widespread nonspecific acute colitis" was made compatible with 
+"antibiotic-associated colitis" and Clostridium difficile was isolated from the 
+feces. The second case, under the suspicion of cow's milk allergy, was fed by 
+soya and hydrolyzed milk with persitent disturbed alvus with greenish feces and 
+mucus. The third case was represented by a nursing child with persistent 
+diarrhoic alvus after an acute episode with subsequent intolerance to rice milk. 
+After the introduction of the food based on Parmigiano Reggiano cheese, all 
+cases showed a rapid and progressive improvement of symptoms and alvus 
+characteristics and were discharged with increased weight. The Parmigiano 
+Reggiano cheese shows a high concentration of easily absorbed amino acids and 
+oligopeptides like a hydrolyzed proteic preparation. As regards the lipoid 
+component the medium and short chain fatty acids are directly absorbed in the 
+bowel and immediately usable as a significant source of energy. Finally, another 
+relevant characteristic of Parmigiano Reggiano cheese is the complete absence of 
+lactose. The use of Parmigiano Reggiano cheese as a dietary therapy is 
+appropriate not only for its high nutritional value, but also for its 
+characteristics as a functional food that produces beneficial effects on health 
+with regards to the gastrointestinal tract and the inflammatory problems 
+resulting from alimentary intolerance, post-therapeutic antibiotic dismicrobism, 
+or post-infective conditions. Moreover, its efficay on these pathologic 
+conditions is further improved by the prebiotic and probiotic effects resulting 
+from the oligosaccharides and the bacterial flora of this natural food product, 
+only derived from the nature and the work of skilled artisans closely tied to 
+tradition.
+
+PMID: 18788512 [Indexed for MEDLINE]
+
+
+4. Am J Clin Nutr. 2003 Jun;77(6):1478-83. doi: 10.1093/ajcn/77.6.1478.
+
+Fortification of orange juice with vitamin D: a novel approach for enhancing 
+vitamin D nutritional health.
+
+Tangpricha V(1), Koutkia P, Rieke SM, Chen TC, Perez AA, Holick MF.
+
+Author information:
+(1)Vitamin D, Skin, and Bone Research Laboratory, Section of Endocrinology, 
+Diabetes, and Nutrition, Department of Medicine, Boston University School of 
+Medicine, MA 02118, USA.
+
+BACKGROUND: Fortification of milk with vitamin D may not be adequate for 
+satisfying the vitamin D requirement because of variability in vitamin D content 
+after fortification and because many persons have milk allergy or lactose 
+intolerance. Additional foods need to be fortified with vitamin D.
+OBJECTIVE: We determined whether vitamin D, a fat-soluble vitamin, is 
+bioavailable in orange juice and skim milk, 2 nonfat beverages.
+DESIGN: On 3 separate occasions, 18 adults ingested 25 000 IU vitamin D(2) in 
+240 mL whole milk or skim milk or in 0.1 mL corn oil applied to toast. A 
+separate, double-blind, randomized, controlled trial investigated whether the 
+consumption of orange juice fortified with vitamin D(3) would increase serum 
+25-hydroxyvitamin D [25(OH)D] concentrations: 14 subjects ingested 240 mL orange 
+juice fortified with 1000 IU vitamin D, and 12 subjects ingested a control 
+orange juice daily for 12 wk.
+RESULTS: Peak serum vitamin D(2) concentrations did not differ significantly 
+after the ingestion of vitamin D(2) in whole milk, skim milk, or corn oil on 
+toast. After subjects consumed orange juice fortified with 1000 IU vitamin D(3) 
+daily for 12 wk, serum 25(OH)D(3) concentrations increased by 150%, and serum 
+parathyroid hormone concentrations decreased by 25% compared with baseline; 
+control subjects had a seasonal increase of 45% in 25(OH)D and no significant 
+change in serum parathyroid hormone.
+CONCLUSIONS: The fat content of milk does not affect vitamin D bioavailability. 
+Vitamin D fortification at 1000 IU/240 mL orange juice for 12 wk safely 
+increased 25(OH)D(3) concentrations in adults.
+
+DOI: 10.1093/ajcn/77.6.1478
+PMID: 12791627 [Indexed for MEDLINE]
+
+
+5. Vopr Pitan. 1993 Oct-Dec;(5):50-3.
+
+[Effects of dietary fat composition on food anaphylaxis and formaldehyde 
+sensitization in guinea pigs].
+
+[Article in Russian]
+
+Malikova NA, Pestova MI, Krzhechkovskaia VV, Gmoshinskiĭ IV, Mazo VK.
+
+Adult guinea pigs were fed for 10-14 days with synthetic diets, fat constituting 
+11% of its total energy. Dietary fat was composed of coconut, corn, dairy and 
+soybean oils mixtures with ratio of polyunsaturated fatty acids (PUFA) omega-6 
+to PUFA omega-3 equal to 24.2 (K1) or 5.53 (K2). The animals were sensitized 
+orally by pasteurized cow milk (PCM) or epicutaneously by formaldehyde (F) 
+during these diets feeding. The degree of the sensitization was assessed in the 
+reaction of active anaphylactic shock (AAS) in PCM-sensitized animals and in the 
+reaction of leukocytes specific lysis (LSL) in F-sensitized guinea pigs. In the 
+latter pigs the concentration of serum antibodies (Ab) against dietary soya 
+protein was measured by ELISA. Animals fed by K1 and K2 were also tested for 
+histamine mean lethal dose resistance. The lowest lethality in AAS, number of 
+convulsions, of positive LSL cases and Ab level were found in animals fed by K1 
+compared to both K2 and to animals fed by common animal chew. Resistance to 
+histamine was similar in K1 and K2 groups, but was significantly higher compared 
+to control (chew) group. In convulsion, the changes in PUFA omega-6/PUFA omega-3 
+ratio have marked effect on different indices of allergic sensitivity.
+
+PMID: 8042314 [Indexed for MEDLINE]
+
+
+6. Bol Med Hosp Infant Mex. 1989 Aug;46(8):537-42.
+
+[Nutritional recovery in marasmus using soy formula enriched with L-methionine].
+
+[Article in Spanish]
+
+Vásquez-Garibay EM, Santos-Torres MI, Covarrubias-González MC.
+
+It was evaluated the nutritional recovery of infants with marasmus using two 
+different formulas: formula "X", soy based formula enriched con L-methionine; 
+formula "Y" modified milk based formula; both, added with corn syrup at 10%. 
+Seventeen infants were fed formula "X" and seventeen infants received formula 
+"Y". The calorie and water intake were similar in both groups (p greater than 
+0.05). The protein intake was higher with formula "X" (p less than 0.05). After 
+four weeks of study weight, height, triceps and sub-scapular skinfold, 
+weight/age, height/age and weight/height did not showed significative 
+differences (p greater than 0.05). Arm circumference was higher in the group fed 
+formula "Y" (p less than 0.025). The final serum concentration of total 
+proteins, albumin, calcium and magnesium was also higher in the group receiving 
+formula "Y". It was required a major amount of calories and proteins per unit of 
+gained body weight in the group of formula "X" (p less than 0.05 and p less than 
+0.005 respectively). Modified in fat and protein milk based formula represents a 
+better choice for nutritional recovery of infants with severe malnutrition under 
+one year of age. Soy based formulas enriched with l-methionine would be only 
+used when intolerance to lactose or milk protein allergy are present.
+
+PMID: 2508696 [Indexed for MEDLINE]
+
+
+7. Nutr Rep Int. 1986 Nov;34(5):915-9.
+
+Proposed weaning formula for developing countries.
+
+Hafez YS, Elqadri SS.
+
+PIP: This article proposes a process of combining soybean, corn and wheat to 
+make an inexpensive weaning formula, and suggests that animal feeding studies, 
+human organoleptic (taste) tests and finally feeding trials on infants be 
+conducted. The method combines 3 steps involving soybean yogurt, corn starch 
+solution and cracked wheat gruel. First a yogurt is fermented from cracked 
+soybeans cooked in sodium bicarbonate solution, with sucrose added, and 
+homogenized. Then corn is cracked, soaked, boiled, homogenized and sieved. Wheat 
+bulgar (cooked cracked wheat) is powdered and boiled. The soy, corn and wheat 
+components are mixed 3:2:1, sterilized and packaged. These operations would 
+require equipment to mill, cook, time, measure and adjust pH, incubate, 
+homogenize, sieve, weigh, compute dry weight, sterilize and package the formula. 
+The authors tabulate published amino acid analysis of soy, corn and wheat. They 
+propose to test the formula on laboratory animals to determine the feed 
+efficiency ratio compared to standard chow diets, to test organoleptic quality 
+on adult humans and finally to test the formula on weaned infants. It is 
+anticipated that this formula will be inexpensive and appropriate for children 
+with lactose or galactose intolerance or milk allergy.
+
+PMID: 12281326 [Indexed for MEDLINE]

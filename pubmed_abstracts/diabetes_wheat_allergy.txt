@@ -1,0 +1,554 @@
+1. Rev Alerg Mex. 2024 Feb 1;71(1):63. doi: 10.29262/ram.v71i1.1358.
+
+[Anaphylaxis due to legumes: case report].
+
+[Article in Spanish; Abstract available in Spanish from the publisher]
+
+Alzate-Pérez LJ(1), Aguirre-Morales N(2), Diez-Zuluaga LS(3).
+
+Author information:
+(1)Residente en Alergología Clínica, Universidad de Antioquia. Grupo de 
+Alergología Clínica y Experimental (GACE), Universidad de Antioquia, Medellín, 
+Colombia. leidyj.alzate@udea.edu.co.
+(2)Médica, especialista en Alergología Clínica, Universidad de Antioquia. Grupo 
+de Alergología Clínica y Experimental (GACE), Universidad de Antioquia, 
+Medellín, Colombia. Alergo SAS Y IPS CIGE.
+(3)Médica, especialista en Alergología Clínica, Universidad de Antioquia. Grupo 
+de Alergología Clínica y Experimental (GACE), docente de la Universidad de 
+Antioquia, Medellín, Colombia. Hospital Alma Mater.
+
+BACKGROUND: Legumes belonging to the family Fabaceae of the order Fabales are a 
+widely consumed source of protein. IgE-mediated hypersensitivity reactions to 
+legumes have been described, the most studied allergens being peanuts and 
+soybeans. In the Mediterranean region and India, lentils, chickpeas and peas 
+have been considered important allergens and legumes have been reported to 
+represent the fifth most common cause of food allergy in children under 5 years 
+of age in Spain. In Latin America, there are few reports of allergy to legumes 
+other than peanuts, and these are especially in the paediatric population.
+OBJECTIVE: To describe a case of IgE-mediated legume allergy in an adult female 
+patient.
+CASE REPORT: We describe the case of a 65-year-old female patient who reports a 
+20-year history of generalized urticaria, accompanied by angioedema and dyspnea 
+occurring immediately after consumption of lentils, beans, chickpeas, soya beans 
+and cold meats, requiring admission to the emergency department for this cause. 
+Tolerates peanuts. She does not report anaphylaxis in any context other than 
+those described. He has presented generalized pruritus with exposure to fumes 
+from cooking beans. Pathological history: Hypertension, type II diabetes 
+mellitus, hypothyroidism. Allergic: Anaphylaxis due to penicillin at the age of 
+30. Other history: extensive local reaction to hymenoptera sting. Prick test 
+trophoallergens: soya 3 mm. Prick to prick protein based on commercial soybean 
+7mm, chickpea 5mm, lentil 6mm and bean 7mm. He was negative for wheat and peanut 
+(Image 1) (Attached in separate file). It has a normal tryptase report. 
+Indication was given for adequate adrenaline and strict avoidance of legumes, 
+except peanuts.
+CONCLUSIONS: Legume allergy is little known in our environment and mainly 
+affects children. Clinical manifestations include mild reactions and 
+anaphylaxis. A high degree of cross-reactivity among legumes has been reported. 
+Lentils have cross-reactivity with chickpeas and beans. Peanut allergy may also 
+be associated with allergy to lentils, chickpeas, and peas, but is less 
+frequently reported.
+
+Publisher: ANTECEDENTES: Las leguminosas pertenecientes a la familia Fabaceae 
+del orden Fabales, son una fuente de proteína de amplio consumo. Se han descrito 
+reacciones de hipersensibilidad mediadas por IgE a las leguminosas, siendo los 
+alérgenos más estudiados el maní y la soya. En la región mediterránea y en 
+India, las lentejas, garbanzos y arvejas se han considerado alérgenos 
+importantes, y se ha informado que las leguminosas representan la quinta causa 
+más común de alergia alimentaria en niños menores de cinco años en España. En 
+América Latina, hay pocos reportes de alergia a las leguminosas diferentes al 
+maní, y éstos son, especialmente, en población pediátrica.
+OBJETIVO: Describir el caso de alergia mediada por IgE a leguminosas, en una 
+paciente adulta.
+REPORTE DE CASO: Se describe el caso de una paciente de 65 años, quien reporta 
+un cuadro de 20 años con evolución consistente de urticaria generalizada, 
+acompañada de angioedema y disnea, que ocurre, en forma inmediata, tras el 
+consumo lentejas, fríjoles, garbanzos, soya y carnes frías; y requiere de 
+ingresos al servicio de urgencias por esta causa. Tolera maní. No se reporta 
+anafilaxia en otro contexto diferente a los descritos. Ha presentado prurito 
+generalizado con la exposición a vapores de la cocción de fríjoles. Antecedentes 
+patológicos: hipertensión arterial, diabetes mellitus tipo II, hipotiroidismo. 
+Alérgicos: Anafilaxia por Penicilina a los 30 años. Otros antecedentes: Reacción 
+local extensa con picadura de himenópteros. Prick test trofoalérgenos: soya 3 
+mm. Prick to prick proteína a base de soya comercial 7mm, garbanzo 5mm, lenteja 
+6mm y fríjol 7mm. Fue negativa para trigo y maní (Imagen 1). (Adjunta en archivo 
+separado). Tiene reporte de triptasa normal. Se dio indicación de porte adecuado 
+de adrenalina y evitación estricta de leguminosas, excepto maní.
+CONCLUSIONES: La alergia a las leguminosas es poco conocida en nuestro medio, y 
+afecta principalmente a los niños. Sus manifestaciones clínicas incluyen 
+reacciones leves y anafilaxia. Se ha informado, un alto grado de reactividad 
+cruzada entre las leguminosas. Las lentejas tienen reactividad cruzada con 
+garbanzos y fríjoles. La alergia al maní también puede estar asociada con la 
+alergia a lentejas, garbanzos y guisantes, pero se informa con menos frecuencia.
+
+DOI: 10.29262/ram.v71i1.1358
+PMID: 38683081 [Indexed for MEDLINE]
+
+
+2. Compr Rev Food Sci Food Saf. 2019 Sep;18(5):1437-1452. doi: 
+10.1111/1541-4337.12475. Epub 2019 Jul 17.
+
+Adverse Reactions to Wheat or Wheat Components.
+
+Brouns F(1), van Rooy G(2), Shewry P(3), Rustgi S(4)(5), Jonkers D(2).
+
+Author information:
+(1)Dept. of Human Biology, NUTRIM School of Nutrition and Translational Research 
+in Metabolism, Faculty of Health, Medicine and Life Sciences, Maastricht Univ., 
+Universiteitssingel 40, 6229 ER, Maastricht, The Netherlands.
+(2)Div. of Gastroenterology-Hepatology, Dept. of Internal Medicine, NUTRIM 
+School of Nutrition and Translational Research in Metabolism, Maastricht Univ. 
+Medical Center, Maastricht, The Netherlands.
+(3)Rothamsted Research, Harpenden, Hertfordshire, U.K.
+(4)Dept. of Plant and Environmental Sciences, School of Health Research, Clemson 
+Univ., Florence, SC, 29505, U.S.A.
+(5)Dept. of Crop & Soil Sciences, Washington State Univ., Pullman, WA, U.S.A.
+
+Wheat is an important staple food globally, providing a significant contribution 
+to daily energy, fiber, and micronutrient intake. Observational evidence for 
+health impacts of consuming more whole grains, among which wheat is a major 
+contributor, points to significant risk reduction for diabetes, cardiovascular 
+disease, and colon cancer. However, specific wheat components may also elicit 
+adverse physical reactions in susceptible individuals such as celiac disease 
+(CD) and wheat allergy (WA). Recently, broad coverage in the popular and social 
+media has suggested that wheat consumption leads to a wide range of adverse 
+health effects. This has motivated many consumers to avoid or reduce their 
+consumption of foods that contain wheat/gluten, despite the absence of diagnosed 
+CD or WA, raising questions about underlying mechanisms and possible nocebo 
+effects. However, recent studies did show that some individuals may suffer from 
+adverse reactions in absence of CD and WA. This condition is called non-celiac 
+gluten sensitivity (NCGS) or non-celiac wheat sensitivity (NCWS). In addition to 
+gluten, wheat and derived products contain many other components which may 
+trigger symptoms, including inhibitors of α-amylase and trypsin (ATIs), lectins, 
+and rapidly fermentable carbohydrates (FODMAPs). Furthermore, the way in which 
+foods are being processed, such as the use of yeast or sourdough fermentation, 
+fermentation time and baking conditions, may also affect the presence and 
+bioactivity of these components. The present review systematically describes the 
+characteristics of wheat-related intolerances, including their etiology, 
+prevalence, the components responsible, diagnosis, and strategies to reduce 
+adverse reactions.
+
+© 2019 Institute of Food Technologists®.
+
+DOI: 10.1111/1541-4337.12475
+PMID: 33336916
+
+
+3. Indian J Gastroenterol. 2019 Jun;38(3):263-267. doi:
+10.1007/s12664-019-00958-3.  Epub 2019 Jun 28.
+
+Celiac disease: What the Indian pediatricians know about the disease.
+
+Malik I(1), Kumar K(2), Hussain H(3), Bhatia V(3), Sibal A(3), Malhotra S(3).
+
+Author information:
+(1)Department of Pediatrics, Government Medical College, Jammu and Kashmir, 
+Bemina, Srinagar 190 010, India.
+(2)Pediatric Gastroenterology, Indraprastha Apollo Hospitals, Sarita Vihar, New 
+Delhi 110 076, India. karuneshgastro@gmail.com.
+(3)Pediatric Gastroenterology, Indraprastha Apollo Hospitals, Sarita Vihar, New 
+Delhi 110 076, India.
+
+To ascertain the knowledge, awareness, and practices pertaining to celiac 
+disease (CD) among the Indian pediatricians. A survey link containing a 
+questionnaire was shared through electronic mail using a pediatric database. The 
+survey was kept active for 6 months; all responses received at the end of the 
+survey were analyzed. Two hundred and seventy one pediatricians out of more than 
+10,000 chose to respond to the survey. Most pediatricians agreed that more 
+patients with CD are being diagnosed than earlier. The reasons for higher 
+detection of CD were perceived to be higher index of clinical suspicion by 
+pediatricians (86.7%) followed by increased awareness among parents (45.8%). 
+Most pediatricians opined that clinical manifestations which prompted to a 
+diagnosis of CD were failure to thrive (96.2%) and chronic diarrhea (81.4%). 
+Knowledge about atypical manifestations of celiac disease was low.  Though 
+knowledge about the common association of CD with type 1 diabetes (62.1%) and 
+autoimmune hepatitis (55.8%) was there, awareness about its association with 
+other uncommon conditions was lacking. Though 68% of the pediatricians were of 
+the opinion that the confirmation of diagnosis by a mucosal biopsy is necessary, 
+26.5% of respondents believed that only a positive serology was sufficient for a 
+diagnosis. A trial of gluten-free diet (GFD) was thought to be a logical step if 
+serology was positive by 31.3% of respondents. While 87.7% of pediatricians 
+advocated lifelong adherence to GFD, 12.3% felt that GFD could be discontinued 
+in the future. This web-based survey revealed that though pediatricians are 
+seeing increasing number of celiac disease patients, there is a need to increase 
+awareness regarding the disease, its associated conditions, the need for mucosal 
+biopsy to confirm the diagnosis and the necessity of lifelong adherence to GFD.
+
+DOI: 10.1007/s12664-019-00958-3
+PMID: 31254168 [Indexed for MEDLINE]
+
+
+4. Gastroenterology. 2019 Jun;156(8):2266-2280. doi:
+10.1053/j.gastro.2019.02.028.  Epub 2019 Feb 22.
+
+Lactobacilli Degrade Wheat Amylase Trypsin Inhibitors to Reduce Intestinal 
+Dysfunction Induced by Immunogenic Wheat Proteins.
+
+Caminero A(1), McCarville JL(1), Zevallos VF(2), Pigrau M(1), Yu XB(3), Jury 
+J(1), Galipeau HJ(1), Clarizio AV(1), Casqueiro J(4), Murray JA(5), Collins 
+SM(1), Alaedini A(3), Bercik P(1), Schuppan D(6), Verdu EF(7).
+
+Author information:
+(1)Farncombe Family Digestive Health Research Institute, McMaster University, 
+Hamilton, Ontario, Canada.
+(2)Institute of Translational Immunology, University Medical Center, Johannes 
+Gutenberg University Mainz, Mainz, Germany.
+(3)Department of Medicine, Columbia University, New York, New York; Institute of 
+Human Nutrition, Columbia University, New York, New York.
+(4)Department of Microbiology, Universidad de Leon, Leon, Spain.
+(5)Division of Gastroenterology and Hepatology, Department of Immunology, Mayo 
+Clinic College of Medicine, Rochester, Minnesota.
+(6)Institute of Translational Immunology, University Medical Center, Johannes 
+Gutenberg University Mainz, Mainz, Germany; Division of Gastroenterology, Beth 
+Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts.
+(7)Farncombe Family Digestive Health Research Institute, McMaster University, 
+Hamilton, Ontario, Canada. Electronic address: verdue@mcmaster.ca.
+
+BACKGROUND & AIMS: Wheat-related disorders, a spectrum of conditions induced by 
+the ingestion of gluten-containing cereals, have been increasing in prevalence. 
+Patients with celiac disease have gluten-specific immune responses, but the 
+contribution of non-gluten proteins to symptoms in patients with celiac disease 
+or other wheat-related disorders is controversial.
+METHODS: C57BL/6 (control), Myd88-/-, Ticam1-/-, and Il15-/- mice were placed on 
+diets that lacked wheat or gluten, with or without wheat amylase trypsin 
+inhibitors (ATIs), for 1 week. Small intestine tissues were collected and 
+intestinal intraepithelial lymphocytes (IELs) were measured; we also 
+investigated gut permeability and intestinal transit. Control mice fed ATIs for 
+1 week were gavaged daily with Lactobacillus strains that had high or low 
+ATI-degrading capacity. Nonobese diabetic/DQ8 mice were sensitized to gluten and 
+fed an ATI diet, a gluten-containing diet or a diet with ATIs and gluten for 2 
+weeks. Mice were also treated with Lactobacillus strains that had high or low 
+ATI-degrading capacity. Intestinal tissues were collected and IELs, gene 
+expression, gut permeability and intestinal microbiota profiles were measured.
+RESULTS: In intestinal tissues from control mice, ATIs induced an innate immune 
+response by activation of Toll-like receptor 4 signaling to MD2 and CD14, and 
+caused barrier dysfunction in the absence of mucosal damage. Administration of 
+ATIs to gluten-sensitized mice expressing HLA-DQ8 increased intestinal 
+inflammation in response to gluten in the diet. We found ATIs to be degraded by 
+Lactobacillus, which reduced the inflammatory effects of ATIs.
+CONCLUSIONS: ATIs mediate wheat-induced intestinal dysfunction in wild-type mice 
+and exacerbate inflammation to gluten in susceptible mice. Microbiome-modulating 
+strategies, such as administration of bacteria with ATI-degrading capacity, may 
+be effective in patients with wheat-sensitive disorders.
+
+Copyright © 2019 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2019.02.028
+PMID: 30802444 [Indexed for MEDLINE]
+
+
+5. United European Gastroenterol J. 2019 Feb;7(1):78-89. doi: 
+10.1177/2050640618811485. Epub 2018 Nov 5.
+
+The association of celiac disease and allergic disease in a general adult 
+population.
+
+Kårhus LL(1), Skaaby T(1), Madsen AL(1), Thuesen BH(1), Schwarz P(2)(3), 
+Rumessen JJ(4), Linneberg A(1)(3).
+
+Author information:
+(1)Center for Clinical Research and Prevention, Bispebjerg and Frederiksberg 
+Hospital, Copenhagen, Denmark.
+(2)Department of Endocrinology & Diabetes and Bone-Metabolic Research Unit, 
+Rigshospitalet, Copenhagen, Denmark.
+(3)Department of Clinical Medicine, Faculty of Health and Medical Sciences, 
+University of Copenhagen, Denmark.
+(4)Q&D-Research Unit and Department of Gastroenterology, Herlev and Gentofte 
+Hospital, University of Copenhagen, Denmark.
+
+BACKGROUND: The relationship between allergy and celiac disease (CD) is not 
+clear.
+OBJECTIVE: The objective of this article is to investigate the association of CD 
+and CD antibody positivity with hay fever, asthma and immunoglobulin (Ig)E 
+sensitization in a general adult population.
+METHODS: A total of 2297 individuals were screened for CD antibodies and 
+underwent allergy testing. CD antibody-positive participants were invited to 
+undergo clinical evaluation including biopsies. Additionally, biobank blood 
+samples from four population-based studies (6423, 973, 1718 and 1101 
+participants) with data on IgE sensitization to inhalant allergens were screened 
+for CD antibodies. CD antibody-positive participants were screened for serum IgE 
+against food allergens in three biobank studies. CD-antibody positivity was 
+defined as IgA or IgG tissue transglutaminase ≥7 U/ml and/or IgG deamidated 
+gliadin peptide ≥10 U/ml.
+RESULTS: The nine participants (0.4%) diagnosed with CD had significantly higher 
+prevalence of IgE sensitization to wheat and dust mites. The prevalence of CD 
+antibody positivity was 0.8% (18/2297), and these participants had a 
+significantly higher prevalence of IgE sensitization to food allergens (Fx5), 
+egg, dust mites and mugwort. In the biobank studies, the prevalence of CD 
+antibody positivity was 0.8% to 1.2%. One study showed a positive association 
+between CD antibody positivity and IgE sensitization for dog, horse and food 
+allergens.
+CONCLUSION: We found a possible association of CD and IgE sensitization to some 
+food and inhalant allergens in the Health2006 study. In further studies, 
+however, we could not consistently replicate these associations.
+
+DOI: 10.1177/2050640618811485
+PMCID: PMC6374850
+PMID: 30788119 [Indexed for MEDLINE]
+
+
+6. Oncotarget. 2017 Sep 28;8(63):106661-106671. doi: 10.18632/oncotarget.21302. 
+eCollection 2017 Dec 5.
+
+Exacerbation of diabetic cardiac hypertrophy in OVE26 mice by angiotensin II is 
+associated with JNK/c-Jun/miR-221-mediated autophagy inhibition.
+
+Qian LB(1)(2)(3), Jiang SZ(3)(4), Tang XQ(1)(3), Zhang J(1)(3), Liang YQ(3)(4), 
+Yu HT(1)(3), Chen J(3), Xu Z(1)(3), Liu RM(5), Keller BB(1)(6), Ji HL(1)(3), Cai 
+L(1)(3).
+
+Author information:
+(1)Cardiovascular Center, The First Hospital of Jilin University, Changchun 
+130021, China.
+(2)Department of Basic Medical Sciences, Hangzhou Medical College, Hangzhou 
+310053, China.
+(3)Pediatric Research Institute, Department of Pediatrics of the University of 
+Louisville, Louisville, Kentucky 40202, USA.
+(4)Department of Pediatrics, The First Affiliated Hospital of Wenzhou Medical 
+University, Wenzhou 325000, China.
+(5)Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine, 
+University of Alabama at Birmingham School of Medicine, Birmingham, Alabama 
+35294, USA.
+(6)Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation 
+Institute, University of Louisville, Louisville, Kentucky 40202, USA.
+
+Both diabetes and angiotensin II (Ang II) excess trigger cardiac remodeling and 
+dysfunction, and diabetic cardiomyopathy. We hypothesized that cardiac 
+hypertrophy associated with the development of diabetic cardiomyopathy is 
+worsened by increased Ang II. Male type 1 diabetic OVE26 and wild-type mice were 
+given Ang II (sc., 1.15 mg/kg, twice a day) for 14 days. Diabetes-induced 
+cardiac dysfunction and hypertrophy was exacerbated by Ang II treatment as 
+determined by echocardiography, wheat germ agglutinin staining and atrial 
+natriuretic peptide. Ang II treatment dramatically exacerbated diabetes-caused 
+decreased LC3-II, a marker of autophagy, and increased p62, an indicator of 
+cytosolic protein clearance. Ang II treatment also augmented diabetes-associated 
+increased phosphorylated levels of c-Jun, JNK, mTOR, and miR-221, and decreased 
+of p27 expression, a direct target of miR-221. Chromatin immunoprecipitation 
+assay showed that Ang II elevated c-Jun binding to the promoter of miR-221 in 
+diabetic mice. These results suggest that Ang II accelerates cardiac hypertrophy 
+in the early stage of murine diabetes, probably through activation of the 
+JKN/c-Jun/miR-221 axis and inhibition of downstream autophagy. Therefore, 
+inhibition of Ang II or miR-221 in diabetic individuals may be a potential 
+approach for delaying the onset and/or reducing the severity of diabetic 
+cardiomyopathy.
+
+DOI: 10.18632/oncotarget.21302
+PMCID: PMC5739764
+PMID: 29290979
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors declare that 
+they have no conflicts of interest.
+
+
+7. J Clin Periodontol. 2018 Mar;45(3):303-310. doi: 10.1111/jcpe.12856. Epub 2018
+ Jan 11.
+
+The association between coeliac disease and periodontitis: Results from NHANES 
+2009-2012.
+
+Spinell T(1), DeMayo F(2), Cato M(2), Thai A(2), Helmerhorst EJ(3), Green 
+PHR(4), Lebwohl B(4), Demmer RT(2)(5).
+
+Author information:
+(1)Department of Operative Dentistry and Periodontology, University Hospital, 
+LMU Munich, Munich, Germany.
+(2)Department of Epidemiology, Columbia University Mailman School of Public 
+Health, New York, NY, USA.
+(3)Department of Molecular and Cell Biology, Boston University Henry M. Goldman 
+School of Dental Medicine, Boston, MA, USA.
+(4)Celiac Disease Center, Department of Medicine, Columbia University College of 
+Physicians and Surgeons, New York, NY, USA.
+(5)Division of Epidemiology and Community Health, School of Public Health, 
+University of Minnesota, Minnesota, MN, USA.
+
+AIM: To investigate whether coeliac disease (CD) was associated with 
+periodontitis among a nationally representative sample of US adults.
+MATERIALS AND METHODS: The National Health and Nutrition Examination Survey 
+(NHANES) 2009-2012 enrolled 6,661 subjects with full-mouth periodontal 
+examination and serological testing for antitissue transglutaminase (tTg) and 
+antiendomysial (EMA) antibodies. CD was defined as (i) self-reported physician 
+diagnosis while on a gluten-free diet; or (ii) tTg levels >10.0 U/ml and 
+positive EMA results. Positive serology without self-reported diagnosis was 
+defined as undiagnosed CD (UdxCD). Periodontitis was defined according to the 
+CDC/AAP definition. Multivariable linear and logistic models were used to 
+regress the mean probing depth (PD) or attachment loss (AL) outcomes across CD 
+categories (none, diagnosed and undiagnosed).
+RESULTS: The prevalence of moderate/severe periodontitis and 
+diagnosed/undiagnosed CD was 40% and 0.74%, respectively. Mean AL was lower 
+among those with CD although results were not statistically significant 
+(p = .67). The odds of periodontitis among individuals with diagnosed and 
+undiagnosed CD were: 0.5(0.22, 1.16) and 0.62(0.1, 3.75), respectively. Mean PD 
+levels among those without CD or with diagnosed or undiagnosed CD were 
+1.49 ± 0.02, 1.36 ± 0.11 and 1.31 ± 0.11 (p = .03).
+CONCLUSION: CD is associated with modestly lower levels of mean PD but was not 
+associated with mean AL or periodontitis. Larger studies are necessary to 
+enhance precision and strengthen conclusions.
+
+© 2017 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jcpe.12856
+PMCID: PMC5811334
+PMID: 29243293 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors report no 
+conflicts of interest.
+
+
+8. Acta Paediatr. 2017 Jul;106(7):1142-1149. doi: 10.1111/apa.13846. Epub 2017
+Apr  25.
+
+Eliminating cows' milk, but not wheat, barley or rye, increases the risk of 
+growth deceleration and nutritional inadequacies.
+
+Tuokkola J(1)(2), Luukkainen P(1), Nevalainen J(3), Ahonen S(2)(3)(4), Toppari 
+J(5), Ilonen J(6)(7), Veijola R(8), Knip M(1)(9)(10)(11), Virtanen 
+SM(2)(3)(4)(12), Kaila M(11)(13).
+
+Author information:
+(1)Children's Hospital, University of Helsinki and Helsinki University Hospital, 
+Helsinki, Finland.
+(2)Nutrition Unit, National Institute for Health and Welfare, Helsinki, Finland.
+(3)School of Health Sciences, University of Tampere, Tampere, Finland.
+(4)Science Centre, Tampere University Hospital, Tampere, Finland.
+(5)Department of Pediatrics, University of Turku, Turku, Finland.
+(6)Department of Clinical Microbiology, University of Eastern Finland, Kuopio, 
+Finland.
+(7)Immunogenetics Laboratory, University of Turku, Turku, Finland.
+(8)Department of Pediatrics, PEDEGO Research Unit, Medical Research Center, Oulu 
+University Hospital and University of Oulu, Oulu, Finland.
+(9)Research Programs Unit, Diabetes and Obesity, University of Helsinki, 
+Helsinki, Finland.
+(10)Folkhälsan Research Institute, Helsinki, Finland.
+(11)Department of Pediatrics, Tampere University Hospital, Tampere, Finland.
+(12)Center for Child Health Research, University of Tampere and Tampere 
+University Hospital, Tampere, Finland.
+(13)Public Health Medicine, University of Helsinki and Helsinki University 
+Hospital, Helsinki, Finland.
+
+AIM: Our study examined the growth and nutritional intake of children on milk 
+and/or wheat, barley or rye elimination diets.
+METHODS: This was a nested case-control study within the Finnish Type 1 Diabetes 
+Prediction and Prevention Study. It investigated 295 children born in the 
+Tampere University Hospital area between 1997 and 2004 on a diet without cows' 
+milk and/or wheat, barley or rye due to food allergies and 265 matched controls. 
+Nutritional intake was recorded with three-day food records at the ages of one, 
+two and three years. Serial growth measurements were recorded annually up to the 
+age of five years.
+RESULTS: Despite consuming a balanced diet with sufficient energy and protein, 
+the children on milk elimination diets grew slower than the control children (p 
+= 0.009). Wheat, barley or rye elimination was not associated with growth. The 
+intakes of protein and calcium were lower in children in the milk elimination 
+group than the controls, at p < 0.05 for all. However, children on elimination 
+diets consumed less saturated fats and sugar and more vitamin C and iron than 
+the control children.
+CONCLUSION: Children on elimination diets faced an increased risk of growth 
+deceleration and suboptimal intake of several micronutrients.
+
+©2017 Foundation Acta Paediatrica. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/apa.13846
+PMID: 28345135 [Indexed for MEDLINE]
+
+
+9. Gastroenterology. 2017 Jun;152(8):1922-1932.e2. doi: 
+10.1053/j.gastro.2017.02.012. Epub 2017 Feb 24.
+
+Lower Prevalence of Celiac Disease and Gluten-Related Disorders in Persons 
+Living in Southern vs Northern Latitudes of the United States.
+
+Unalp-Arida A(1), Ruhl CE(2), Choung RS(3), Brantner TL(3), Murray JA(3).
+
+Author information:
+(1)National Institute of Diabetes and Digestive and Kidney Diseases, National 
+Institutes of Health, Department of Health and Human Services, Bethesda, 
+Maryland.
+(2)Social & Scientific Systems, Inc, Silver Spring, Maryland. Electronic 
+address: cruhl@s-3.com.
+(3)Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, 
+Minnesota.
+
+BACKGROUND & AIMS: The association between prevalence of celiac disease and 
+geographic region is incompletely understood, but the occurrence of several 
+autoimmune disorders has been found to vary along a North-South gradient. We 
+examined geographic, demographic, and clinical factors associated with 
+prevalence of celiac disease and gluten-free diet in the United States.
+METHODS: In a population-based study, we analyzed data on gluten-related 
+conditions from the National Health and Nutrition Examination Survey, from 2009 
+through 2014, on 22,277 participants 6 years and older. We identified persons 
+with celiac disease based on results of serum tests for IgA against tissue 
+transglutaminase and endomysium or on both a health care provider diagnosis and 
+adherence to a gluten-free diet. Gluten avoidance without celiac disease was 
+defined as adherence to a gluten-free diet without a diagnosis of celiac 
+disease. We compared mean serum levels of biochemical and nutritional markers 
+based on status of gluten-related conditions.
+RESULTS: We found 0.7% of participants to have celiac disease and 1.1% of 
+participants to avoid gluten without celiac disease. Celiac disease was more 
+common among individuals who lived at latitudes of 35°-39° North (odds ratio, 
+3.2; 95% confidence interval, 1.4-7.1) or at latitudes of 40° North or more 
+(odds ratio, 5.4; 95% CI, 2.6-11.3) than individuals who lived at latitudes 
+below 35° North, independent of race or ethnicity, socioeconomic status, and 
+body mass index. Gluten avoidance without celiac disease was more common among 
+individuals who lived at latitudes of 40° North or more, independent of 
+demographic factors and body mass index. Participants with undiagnosed celiac 
+disease (identified by positive results from serologic tests) had lower mean 
+levels of vitamin B-12 and folate (data collected from 2009 through 2012) than 
+persons without celiac disease. Participants with a health care provider 
+diagnosis of celiac disease had a lower mean level of hemoglobin than persons 
+without celiac disease. Mean levels of albumin, calcium, iron, ferritin, 
+cholesterol, vitamin B-6, and vitamin D (data collected from 2009 through 2010) 
+did not differ between participants with gluten-related conditions and those 
+without.
+CONCLUSIONS: In the US population, a higher proportion of persons living at 
+latitudes of 35° North or greater have celiac disease or avoid gluten than 
+persons living south of this latitude, independent of race or ethnicity, 
+socioeconomic status, or body mass index. Mean levels of vitamin B-12 and folate 
+are lower in individuals with undiagnosed celiac disease, and levels of 
+hemoglobin are lower in participants with a diagnosis of celiac disease, 
+compared with individuals without celiac disease.
+
+Published by Elsevier Inc.
+
+DOI: 10.1053/j.gastro.2017.02.012
+PMCID: PMC7002016
+PMID: 28238771 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures: The authors have no conflicts of 
+interest.
+
+
+10. Minerva Gastroenterol Dietol. 2017 Mar;63(1):22-31. doi: 
+10.23736/S1121-421X.16.02344-8. Epub 2016 Oct 28.
+
+Animal models to study non-celiac gluten sensitivity.
+
+Amnuaycheewa P(1), Murray JA(2)(3), Marietta EV(4)(3)(5).
+
+Author information:
+(1)Department of Agro-Industrial, Food, and Environmental Technology, King 
+Mongkut's University of Technology North Bangkok (KMUTNB), Bangkok, Thailand.
+(2)Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN, USA.
+(3)Department of Immunology, Mayo Clinic, Rochester, MN, USA.
+(4)Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN, USA 
+- Marietta.Eric@mayo.edu.
+(5)Department of Dermatology, Mayo Clinic, Rochester, MN, USA.
+
+Non-celiac gluten sensitivity (NCGS), sometimes known as non-celiac wheat 
+sensitivity (NCWS), has recently received much attention, both scientific as 
+well as from the alternative medical community. Over the past 5 years, there are 
+over 200 publications on NCGS indexed on the PubMed database, the gluten-free 
+market has been growing bigger, and it is clear that the number of consumers who 
+are on a gluten-free diet (GFD) possibly because of a suspicion for NCGS appears 
+to grow even faster. Nevertheless, despite these three rising events, many 
+questions about NCGS remain unresolved. It is likely that NCGS represents a 
+heterogeneous group of disorders linked by a common response to a GFD. It is 
+still not fully understood how gluten, and likely other wheat proteins and 
+components, could activate and drive the pathophysiology of NCGS. As a result, 
+there are still no clear biomarkers, no robust clinical diagnostic criteria, nor 
+a conclusive definition for NCGS. This heterogeneity can be approached by 
+reducing the variables, in particular those of human behaviour and placebo 
+effect, by studying animal models to address specific biological effects of 
+wheat and/or gluten-related proteins. Herein we review the animal models and 
+their potential to be used to advance our understanding of these disorders and 
+potentially address their prevention and treatment.
+
+DOI: 10.23736/S1121-421X.16.02344-8
+PMID: 27792210 [Indexed for MEDLINE]

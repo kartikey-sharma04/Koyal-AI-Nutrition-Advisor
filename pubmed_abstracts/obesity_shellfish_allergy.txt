@@ -1,0 +1,183 @@
+1. Medicine (Baltimore). 2022 Aug 5;101(31):e29606. doi: 
+10.1097/MD.0000000000029606.
+
+Epidemiological survey of self-reported food allergy among university students 
+in China.
+
+Feng H(1), Liu Y(2), Xiong X(3), Xu Q(2), Zhang Z(2), Wu Y(4), Lu Y(2)(5).
+
+Author information:
+(1)State Key Laboratory of Food Science and Technology, Nanchang University, 
+School of Public Health, Nanchang University, Nanchang, Jiangxi, China.
+(2)School of Public Health, Nanchang University, Nanchang, Jiangxi, China.
+(3)Department of Pathology, Basic Medical College of Nanchang University, 
+Nanchang, Jiangxi, China.
+(4)NHC Key Lab of Food Safety Risk Assessment, Chinese Academy of Medical 
+Sciences Research Unit (2019RU014 Food Safety), China National Center for Food 
+Safety Risk Assessment (CFSA), Beijing, China.
+(5)Environmental Health Laboratory, Department of Public Health Sciences, 
+University of Hawaii, USA.
+
+The aim of this study was to investigate the prevalence of self-reported food 
+allergy among university students in China. A cluster-random sampling 
+population-based cross-sectional study using self - administrated questionnaire 
+was conducted with 2538 college students recruited from 6 universities in China. 
+The questionnaire included data on age, sex, weight, height, FA, comorbid 
+allergic diseases, family history, and understanding food allergy. Data were 
+analyzed by SPSS 25.0 statistical software. Multivariate logistic regression 
+analysis was performed to analyze the risk factors related to self-reported food 
+allergy and estimate the odds ratio. A total of 2538 questionnaires were 
+distributed to the undergraduate students and 2313 completely effective 
+questionnaires were collected, the effective response rate was 91.1%. 834 males 
+and 1479 females were recruited, and their age ranged from 18 to 25 years old. 
+The prevalence of self-reported food allergy was 15.7%, and the rate of 
+doctor-diagnosed food allergy was 8.4%. The leading food allergens included 
+shrimp, shellfish, milk, egg, peach, mango, beef, and peanut, and the prevalence 
+of shrimp allergy was the highest (5.8%). The main clinical manifestation 
+included skin mucous membrane and respiratory symptoms. The prevalence of food 
+allergy were statistically significant difference (P < .05) between different 
+age groups, family history, sun exposure times, smoking, and antibiotic use. 
+Over 45% college students know little about food allergy. The prevalence of 
+self-reported food allergy among Chinese college students was high (15.7%). 
+Shrimp was the main allergenic food, followed by shellfish, milk, egg, peach, 
+and mango. Family history, sun exposure, obesity, and using antibiotics may be 
+the influencing factors of food allergy. The Chinese undergraduates lacked the 
+knowledge about food allergy. Thus, it is necessary to strengthen the health 
+education program on food allergy for college students in China and other middle 
+high-income nations.
+
+Copyright © 2022 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000029606
+PMCID: PMC9351933
+PMID: 35945794 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+2. Int J Mol Sci. 2022 Feb 4;23(3):1801. doi: 10.3390/ijms23031801.
+
+Road to The Red Carpet of Edible Crickets through Integration into the Human 
+Food Chain with Biofunctions and Sustainability: A Review.
+
+Kemsawasd V(1), Inthachat W(1), Suttisansanee U(1), Temviriyanukul P(1).
+
+Author information:
+(1)Food and Nutrition Academic and Research Cluster, Institute of Nutrition, 
+Mahidol University, Salaya, Phuttamonthon, Nakhon Pathom 73170, Thailand.
+
+The Food and Agriculture Organization of the United Nations (FAO) estimates that 
+more than 500 million people, especially in Asia and Africa, are suffering from 
+malnutrition. Recently, livestock farming has increased to supply high-quality 
+protein, with consequent impact on the global environment. Alternative food 
+sources with high nutritive values that can substitute livestock demands are 
+urgently required. Recently, edible crickets have been promoted by the FAO to 
+ameliorate the food crisis. In this review, the distribution, nutritive values, 
+health-promoting properties (antioxidant, anti-inflammatory, anti-diabetic and 
+anti-obesity), safety, allergenicity as well as the potential hazards and risks 
+for human consumption are summarized. Cricket farming may help to realize the 
+United Nations sustainable development goal No. 2 Zero Hunger. The 
+sustainability of cricket farming is also discussed in comparison with other 
+livestock. The findings imply that edible crickets are safe for daily intake as 
+a healthy alternative diet due to their high protein content and 
+health-promoting properties. Appropriate use of edible crickets in the food and 
+nutraceutical industries represents a global business potential. However, people 
+who are allergic to shellfish should pay attention on cricket allergy. Thus, the 
+objective of this review was to present in-depth and up-to-date information on 
+edible crickets to advocate and enhance public perception of cricket-based food.
+
+DOI: 10.3390/ijms23031801
+PMCID: PMC8836810
+PMID: 35163720 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+3. J Allergy Clin Immunol Pract. 2021 Jan;9(1):193-199. doi: 
+10.1016/j.jaip.2020.07.039. Epub 2020 Aug 6.
+
+Prevalence of Physician-Reported Food Allergy in Canadian Children.
+
+Singer AG(1), Kosowan L(1), Soller L(2), Chan ES(2), Nankissoor NN(3), Phung 
+RR(4), Abrams EM(5).
+
+Author information:
+(1)Department of Family Medicine, University of Manitoba, Winnipeg, MB, Canada.
+(2)Department of Pediatrics, Division of Allergy and Immunology, University of 
+British Columbia, Vancouver, BC, Canada.
+(3)University College Dublin School of Medicine, Belfield, Dublin, Ireland.
+(4)Max Rady College of Medicine, University of Manitoba, Winnipeg, MB, Canada.
+(5)Department of Family Medicine, University of Manitoba, Winnipeg, MB, Canada; 
+Department of Pediatrics, Division of Allergy and Immunology, University of 
+British Columbia, Vancouver, BC, Canada. Electronic address: 
+elissa.abrams@gmail.com.
+
+BACKGROUND: Food allergy prevalence data have largely been derived from 
+self-report, and estimates vary.
+OBJECTIVE: Determine the prevalence of physician-reported food allergy in 
+children using electronic medical record data from the Canadian Primary Care 
+Sentinel Surveillance Network (CPSSN).
+METHODS: This was a retrospective cohort study using the CPCSSN repository, 
+Canada's only primary care practice-based surveillance system. Machine learning 
+algorithms were applied to assess for food allergy documentation. Demographic 
+information, chronic diseases of interest, prescribed medications, and health 
+behaviors from the CPCSSN repository were identified.
+RESULTS: The prevalence of physician-reported food allergy in Canadian children 
+was 2.53% (95% CI, 2.48%-2.59%). The most common food allergies documented were 
+peanut (0.8% of children), tree nut (0.6%), cow's milk (0.4%), egg (0.3%), fruit 
+(0.2%), finned fish (0.2%), and shellfish (0.2%). Among children with food 
+allergy, only 33.7% had an epinephrine autoinjector prescription. In logistic 
+regression analysis, children with food allergy were more likely to have an 
+atopic comorbidity (odds ratio [OR], 2.20; 95% CI, 2.06-2.35) and less likely to 
+be obese than children without food allergies (OR, 0.84; 95% CI, 0.78-0.90). In 
+the age- and sex-adjusted models, patients with food allergy were significantly 
+more likely to have a psychiatric morbidity, specifically: attention 
+deficit/hyperactivity disorder (OR, 1.81; 95% CI, 1.66-1.96), autism (OR, 1.89; 
+95% CI, 1.63-2.19), and depression (OR, 1.17; 95% CI, 1.02-1.35).
+CONCLUSIONS: Our study is the first to estimate national physician-reported 
+prevalence of food allergy, and demonstrates a lower rate than that based on 
+self-report. Further studies into the association of food allergy and 
+psychiatric comorbidities (attention deficit/hyperactivity disorder, autism, 
+depression) and the association of food allergy and obesity are needed.
+
+Copyright © 2020 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2020.07.039
+PMID: 32771686 [Indexed for MEDLINE]
+
+
+4. Recenti Prog Med. 2013 Oct;104(10):545-53. doi: 10.1701/1349.15001.
+
+[Swept away and squashed between myth based medicine and eminence based 
+medicine. Metaphor of medical meta-cognition. What are we doing wrong with our 
+patient?].
+
+[Article in Italian]
+
+Cervellin G, Rastelli G, Lippi G.
+
+Myths have played essential social functions throughout human history, and 
+modern medical culture makes no exception. Despite ongoing scientific efforts, 
+clinicians still encounter biological phenomena that they can hardly explain. In 
+this ocean of uncertainty they continue, either consciously or unconsciously, to 
+convey a number of myths, which are also used as professional tools. Although in 
+recent decades clinical research and randomized trials have emerged as the main 
+arbiters of truth in medicine, there are still large areas of uncertainty that 
+are consistently filled up with tradition, common sense and experience. In this 
+context, mysticism seldom represent a latent source of error, especially when it 
+penetrates education and medical literature, so growing to the role of 
+indisputable truth, which can hardly be eradicated. The aim of this article is 
+to discuss some paradigmatic examples of medical myths, such as the use of 
+beta-blockers in patients with heart failure, the risk of administering opioids 
+in patients with abdominal pain, the suggestion to drink at least eight glasses 
+of water per day, the risk of using contrast media in patients with shellfish 
+allergy, the indiscriminate prescription of a huge number of laboratory tests to 
+achieve an efficient diagnosis, the use of garlic for treat a kaleidoscope of 
+human disorders, fructose as a viable replacement for sucrose, the relationship 
+between obesity and mortality or between sex and caloric consumption, and the 
+cognitive biases.
+
+DOI: 10.1701/1349.15001
+PMID: 24326707 [Indexed for MEDLINE]

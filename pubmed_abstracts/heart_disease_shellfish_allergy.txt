@@ -1,0 +1,343 @@
+1. J Allergy Clin Immunol Glob. 2024 Jul 22;3(4):100309. doi: 
+10.1016/j.jacig.2024.100309. eCollection 2024 Nov.
+
+Fish and shellfish allergy: Presentation and management differences in the UK 
+and US-analysis of 945 patients.
+
+Nakonechna A(1)(2)(3), van Bergen A(4), Anantharachagan A(5), Arnold D(3), 
+Johnston N(6), Nadeau K(7), Rutkowski K(8), Sindher SB(9), Sriaroon P(10), 
+Thomas I(8), Vijayadurai P(5), Wagner A(11), Davis CM(12).
+
+Author information:
+(1)University of Liverpool, Liverpool, United Kingdom.
+(2)Department of Immunology and Allergy, Hull University Teaching Hospitals NHS 
+Foundation Trust, Hull, United Kingdom.
+(3)Clinical Immunology and Allergy Unit, Sheffield Teaching Hospitals Foundation 
+NHS Trust, Sheffield, United Kingdom.
+(4)Independent Scientific Advisor, Chester, United Kingdom.
+(5)Department of Allergy & Clinical Immunology, Royal Preston Hospital 
+Lancashire Teaching Hospitals NHS Foundation Trust, Preston, United Kingdom.
+(6)The University of Texas Health Science Center, McGovern Medical School, 
+Houston, Tex.
+(7)Department of Environmental Health, Harvard T.H. Chan School of Public 
+Health, Boston, Mass.
+(8)Department of Adult Allergy, Guy's and St Thomas' NHS Foundation Trust, 
+London, United Kingdom.
+(9)Sean N. Parker Center for Allergy and Asthma Research, Stanford University, 
+Palo Alto, Calif.
+(10)University of South Florida Morsani College of Medicine, Johns Hopkins All 
+Children's Hospital, St Petersburg, Fla.
+(11)Department of Allergy, Cambridge University Hospitals NHS Foundation Trust, 
+Cambridge, United Kingdom.
+(12)Division of Immunology, Allergy, and Retrovirology, Baylor College of 
+Medicine/Texas Children's Hospital, Houston, Tex.
+
+BACKGROUND: Seafood allergy (SA), including allergy to shellfish (crustacean and 
+mollusks) and fish, is among the 4 most common food allergies causing 
+anaphylaxis, but there are limited data showing SA clinical management in 
+different countries.
+OBJECTIVE: We sought to characterize a large cohort of patients with fish and 
+shellfish allergy and to facilitate standardization of future care for this 
+increasingly common allergic disease.
+METHODS: We performed a retrospective, observational, noninterventional study 
+from 945 patients from 2015 to 2019 in 7 hospitals in the United States and the 
+United Kingdom to evaluate SA. A chi-square test was used to detect differences 
+in family history, medical history, and current symptoms between patients in 2 
+countries.
+RESULTS: Underdiagnosed anaphylaxis in patients with SA was associated with 
+underuse of epinephrine (adrenaline) autoinjectors in both countries. Oral food 
+challenge was used only when skin or serologic test results were negative. 
+Asthma and allergic rhinitis were more common in the US patients with SA, but 
+eczema was more common in UK patients with SA (P < .001). Respiratory, 
+gastrointestinal, and neurological symptoms were higher in UK patients with SA 
+than in US patients with SA (P < .001).
+CONCLUSIONS: In international multicenter cohorts of patients with fish and 
+shellfish allergy, there are opportunities for improvement in management. 
+Physician identification of anaphylaxis, use of diagnostic oral food challenges, 
+and anaphylaxis treatment with epinephrine are areas with significant knowledge 
+gaps in need of improvement in the United Kingdom and the United States. There 
+is an opportunity for the development of unified, standardized diagnostic 
+protocols for SA with distribution for allergists and trainees.
+
+© 2024 The Author(s).
+
+DOI: 10.1016/j.jacig.2024.100309
+PMCID: PMC11381858
+PMID: 39253105
+
+Conflict of interest statement: Disclosure of potential conflict of interest: K. 
+Nadeau reported receiving grants from the 10.13039/100000060National Institute 
+of Allergy and Infectious Diseases, the National Heart, Lung, and Blood 
+Institute, the 10.13039/100000066National Institute of Environmental Health 
+Sciences, and Food Allergy Research and Education; serving as director of the 
+World Allergy Organization; serving as advisor for Cour Pharma; serving on the 
+National Scientific Committee of the 10.13039/100014247Immune Tolerance Network 
+and the National Institutes of Health clinical research centers; being cofounder 
+of Before Brands, Latitude, Alladapt, and IgGenix outside the submitted work; 
+and having patents for an oral formula for decreasing food allergy risk and 
+treatment for food allergy, for granulocyte-based methods for detecting and 
+monitoring immune system disorders issued, for methods and assays for detecting 
+and quantifying pure subpopulations of white blood cells in immune system 
+disorders, and for microfluidic device and diagnostic methods for allergy 
+testing based on detection of basophil activation pending. S. B. Sindher is 
+funded by the National Institute of Allergy and Infectious Disease, Consortium 
+for Food Allergy Research (CoFAR), Regeneron, DBV Technologies, Aimmune 
+Therapeutics, Novartis, and Sanofi, and is an advisory member for AstraZeneca. 
+P. Sriaroon is funded by Food Allergy Research and Education. C. M. Davis 
+receives research contract funding from DBV Technologies, Regeneron, and Aimmune 
+Therapeutics, grant funding from the National Institute of Allergy and 
+Infectious Disease (grant no. R34AI157948) (CoFAR and Consortium of Eosinophilic 
+Gastrointestinal Disease Researchers), and the Food Allergy Research and 
+Education. The rest of the authors declare that they have no relevant conflicts 
+of interest.
+
+
+2. Am J Case Rep. 2024 Jun 16;25:e943944. doi: 10.12659/AJCR.943944.
+
+Sinus Node Dysfunction Triggered by Tonsillar Abscess: Effects of Vagal Nerve 
+Compression.
+
+Yu H(1), Zaveri S(1), Schaible M(1), Butt N(1), Tfaili S(2), Budzikowski AS(3).
+
+Author information:
+(1)Department of Medicine, SUNY Downstate Health Sciences University, Brooklyn, 
+NY, USA.
+(2)Department of Medicine, University of Wisconsin School of Medicine and Public 
+Health, Medison, WI, USA.
+(3)Division of Cardiovascular Medicine - EP Section, SUNY Downstate Health 
+Sciences University, Brooklyn, NY, USA.
+
+BACKGROUND Compression of the vagus nerve by a pharyngeal mass is a 
+well-documented condition that can result in sinus node dysfunction (SND). 
+However, there is scarce literature on extrinsic vagal nerve compression from a 
+tonsillar abscess. CASE REPORT A 59-year-old woman with a history of asthma and 
+chronic throat discomfort presented to the Emergency Department with 
+bradycardia, palpitations, and voice changes. Following a shellfish allergy 
+hospitalization, an otolaryngology evaluation revealed an enlarged right tonsil, 
+recommending tonsillectomy, but scheduling challenges persisted. The patient 
+reported mild throat pain, dysphagia, hoarseness, rhinorrhea, and exertional 
+dyspnea and was admitted for the evaluation of peritonsillar mass. She was found 
+to be bradycardic with a heart rate of 47, with an electrocardiogram revealing 
+SND. Albuterol and ipratropium nebulizers, as well as dexamethasone and 
+pantoprazole, were initiated. With this treatment, the patient symptomatically 
+improved with a new heart rate of 68. She was discharged with outpatient 
+appointments, but was unfortunately lost to follow-up. CONCLUSIONS This case 
+reveals sinus node dysfunction resulting from extrinsic vagal nerve compression 
+by a tonsillar abscess. Pressure on the vagus nerve can trigger bradycardia and 
+low blood pressure, possibly due to compensatory overfiring of afferent vagal 
+nerve signals from local mass effect. Early recognition and antibiotic treatment 
+are essential to prevent cardiac complications. Clinicians must remain vigilant 
+for such extrinsic causes, particularly in patients with chronic sore throat and 
+cardiac symptoms. Further research and case reports are needed to deepen our 
+understanding of this rare yet significant association.
+
+DOI: 10.12659/AJCR.943944
+PMCID: PMC11193845
+PMID: 38879750 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared
+
+
+3. Acta Clin Belg. 2019 Oct;74(5):375-377. doi: 10.1080/17843286.2018.1535927.
+Epub  2018 Oct 16.
+
+Allergic myocardial infarction: Type I Kounis syndrome following blue crab 
+consumption.
+
+Dogan V(1), Çelik O(1), Özlek B(1), Özlek E(1), Çil C(1), Başaran Ö(1), Biteker 
+M(1).
+
+Author information:
+(1)Department of Cardiology, Faculty of Medicine, Mugla Sitki Kocman University 
+, Muğla , Turkey.
+
+Objectives: Allergic myocardial infarction, known as Kounis syndrome, is an 
+acute myocardial infarction after an allergic reaction to food, drugs, or insect 
+stings, etc. Kounis syndrome can also be caused by all kinds of seafood, such as 
+finned fish, molluscan shellfish, cephalopods, and crustacean shellfish. 
+Methods: Herein, we report a case of a 67-year-old man, with hypertension, 
+referred for itchiness, facial rash, chest pain, and palpitations developed 
+after consumption of blue crab. Results: Electrocardiogram showed ST elevations 
+in leads II,III,aVF. Transthoracic echocardiography revealed inferior wall 
+hypokinezia with a left ventricular ejection fraction of 55%. Coronary 
+angiography revealed no sign of atherosclerosis. The patient was diagnosed to 
+have Kounis Syndrome type I variant, secondary to blue crab ingestion. He was 
+treated with oral antihistamines and prednisolone.The repeated cardiac markers 
+were within normal limits, with resolution of electrocardiographic abnormalities 
+and inferior wall motion echocardiographic changes. Conclusion: All patients 
+admitted to the emergency department with chest pain and ST elevation on 
+electrocardiography should be asked about allergic insults.
+
+DOI: 10.1080/17843286.2018.1535927
+PMID: 30325266 [Indexed for MEDLINE]
+
+
+4. Acta Clin Belg. 2017 Apr;72(2):142-145. doi: 10.1080/17843286.2016.1265756.
+Epub  2016 Dec 20.
+
+Kounis syndrome following canned tuna fish ingestion.
+
+De Gennaro L(1), Brunetti ND(2), Locuratolo N(1), Ruggiero M(1), Resta M(1), 
+Diaferia G(3), Rana M(3), Caldarola P(1).
+
+Author information:
+(1)a Cardiology Department , Ospedale S. Paolo , Bari , Italy.
+(2)b Department of Medical & Surgical Sciences , University of Foggia , Foggia , 
+Italy.
+(3)c Cardiology Department , Ospedale Caduti di Tutte le Guerre , Canosa , 
+Italy.
+
+Comment in
+    Acta Clin Belg. 2017 Oct;72(5):297-299. doi: 10.1080/17843286.2016.1265737.
+
+Kounis syndrome (KS) is a complex of cardiovascular symptoms and signs following 
+either allergy or hypersensitivity and anaphylactic or anaphylactoid insults. We 
+report the case of 57-year-old man, with hypertension and history of allergy, 
+referred for facial rash and palpitations appeared after consumption of canned 
+tuna fish. Suddenly, the patient collapsed: electrocardiogram showed 
+ST-elevation in inferior leads. The patient was transferred from the spoke 
+emergency room for coronary angio, which did not show any sign of coronary 
+atherosclerosis. A transient coronary spasm was therefore hypothesized and the 
+final diagnosis was KS. To the best of our knowledge, this is one of the first 
+cases of KS following the ingestion of tuna fish. KS secondary to food allergy 
+has also been reported, and shellfish ingestion has been considered as one of 
+the most active KS inducer foods. Canned tuna fish too is well known as an 
+allergy inducer. Tuna fish allergy should be considered, however, within the 
+context of scombroid food poisoning, also called histamine fish poisoning. Fish 
+with high levels of free histidine, the enzyme substrate converted to histamine 
+by bacterial histidine decarboxylase, are those most often implicated in 
+scombroid poisoning. Inflammatory mediators such as histamine constitute the 
+pathophysiologic basis of Kounis hypersensitivity-associated acute coronary 
+syndrome. Patients with coronary risk factors, allergic reaction after food 
+ingestion, and suspected scombroid poisoning should be therefore carefully 
+monitored for a prompt diagnosis of possible coronary complications.
+
+DOI: 10.1080/17843286.2016.1265756
+PMID: 27997286 [Indexed for MEDLINE]
+
+
+5. Eur J Intern Med. 2013 Apr;24(3):222-6. doi: 10.1016/j.ejim.2012.12.011. Epub 
+2013 Jan 9.
+
+Mythmaking in medical education and medical practice.
+
+Kaufman E(1), Lagu T, Hannon NS, Sagi J, Rothberg MB.
+
+Author information:
+(1)Department of Surgery, New York Presbyterian Hospital, Weill Cornell Medical 
+College, New York, NY, USA.
+
+BACKGROUND: Despite the emergence of evidence-based medicine, gaps in medical 
+knowledge are filled by tradition, common sense, and experience, giving rise to 
+medical myths.
+METHODS: We explored the origins of and evidence related to four medical myths: 
+patients with shellfish allergies should not receive intravenous contrast, 
+patients with atrial fibrillation of less than 48 hours' duration do not require 
+anticoagulation before cardioversion, patients with suspected meningitis should 
+have a computed tomography (CT) scan before a lumbar puncture, and patients with 
+respiratory disease should not receive β-blockers. We conducted a literature 
+review to describe each myth's origins and the quality of supporting evidence.
+RESULTS: All patients with allergies, including but not limited to seafood 
+allergies, are at an increased risk for anaphylactoid reactions to 
+radiocontrast. No conclusive studies indicate that patients with atrial 
+fibrillation of less than 48 hours' duration do not require anticoagulation 
+before cardioversion. A CT scan before lumbar puncture in suspected acute 
+bacterial meningitis is a clinically inefficient precaution. β-blockers can be 
+safely used in patients with respiratory disease and may even prevent cardiac 
+events in these patients.
+CONCLUSIONS: These familiar myths have maintained prominent roles in medical 
+thinking because they represent wisdom passed down from eminent sources, they 
+teach physiology and medical skills, and they offer physicians a sense of 
+control in the face of uncertainty. In addition to providing scientific 
+evidence, changing physicians' practice requires acknowledging that even 
+meticulous care cannot always avert bad outcomes.
+
+Copyright © 2012 European Federation of Internal Medicine. Published by Elsevier 
+B.V. All rights reserved.
+
+DOI: 10.1016/j.ejim.2012.12.011
+PMID: 23312964 [Indexed for MEDLINE]
+
+
+6. Heart Vessels. 2010 May;25(3):263-6. doi: 10.1007/s00380-009-1187-5. Epub 2010
+ May 29.
+
+Coronary vasospasm secondary to allergic reaction following food ingestion: a 
+case of type I variant Kounis syndrome.
+
+Wada T(1), Abe M, Yagi N, Kokubu N, Kasahara Y, Kataoka Y, Otsuka Y, Goto Y, 
+Nonogi H.
+
+Author information:
+(1)Division of Cardiology, National Cardiovascular Center, 5-7-1 Fujishirodai, 
+Suita, Osaka 565-8565, Japan.
+
+Coronary vasospasm can be induced by allergic reactions with some chemical 
+mediators, and the angina and myocardial infarction secondary to allergy-induced 
+coronary vasospasm are referred to as "Kounis syndrome." Only two cases of 
+Kounis syndrome following food ingestion have been reported. However, they had 
+pre-existing atheromatous coronary artery disease, and no provocation test to 
+induce coronary vasospasm was done. We describe here another probable case of 
+allergic vasospasm after food intake. To the best of our knowledge, this is the 
+first documented report of a patient with food-induced allergic vasospasm 
+subsequent to the provocation test with ergometrine maleate.
+
+DOI: 10.1007/s00380-009-1187-5
+PMID: 20512455 [Indexed for MEDLINE]
+
+
+7. South Med J. 2007 Apr;100(4):405-6. doi: 10.1097/01.smj.0000257622.99973.74.
+
+Use of amiodarone in a patient with a shellfish allergy.
+
+Beall JW(1), Mahan EF 3rd, Blau AB.
+
+Author information:
+(1)St. Vincent's Hospital and the Department of Pharmacy Practice, McWhorter 
+School of Pharmacy, Samford University, Birmingham, AL 35229, USA.
+
+A 65-year-old Caucasian male with a shellfish allergy developed atrial 
+fibrillation and hypotension after coronary artery bypass and duodenal ulcer 
+surgery. Following electrical cardioversion, oral amiodarone was continued 
+chronically without an allergic reaction. There is a common misconception that a 
+shellfish allergy correlates to an iodine allergy. There is little documentation 
+of the association between an allergy to shellfish and an allergy to iodine. 
+Food allergies can be subcategorized based on the involvement of IgE. Upon 
+further investigation, it was discovered that shellfish allergies are not due to 
+the iodine component, but rather, to a protein found in the shellfish. 
+Amiodarone can be safely used in patients with shellfish allergies. A shellfish 
+allergy does not necessarily imply an iodine allergy.
+
+DOI: 10.1097/01.smj.0000257622.99973.74
+PMID: 17458403 [Indexed for MEDLINE]
+
+
+8. Int J Clin Pract. 2003 Sep;57(7):622-4.
+
+Kounis syndrome secondary to allergic reaction following shellfish ingestion.
+
+Zavras GM(1), Papadaki PJ, Kokkinis CE, Kalokairinov K, Kouni SN, Batsolaki M, 
+Gouvelou-Deligianni GV, Koutsojannis C.
+
+Author information:
+(1)Department of Medicine, KAT General Hospital, Athens, Greece.
+
+Two cases of allergic angina and allergic myocardial infarction (Kounis 
+syndrome) secondary to shellfish ingestion are described. The patients had 
+pre-existing quiescent coronary artery disease (type II variant of the syndrome) 
+and the allergic reaction following eating shellfish seemed to have triggered 
+the development of an acute myocardial infarction. The clinical implications are 
+also discussed.
+
+PMID: 14529065 [Indexed for MEDLINE]
+
+
+9. J Vasc Interv Radiol. 1996 Sep-Oct;7(5):713-5. doi: 
+10.1016/s1051-0443(96)70836-9.
+
+Contraindications to pulmonary angiography.
+
+[No authors listed]
+
+DOI: 10.1016/s1051-0443(96)70836-9
+PMID: 8897339 [Indexed for MEDLINE]

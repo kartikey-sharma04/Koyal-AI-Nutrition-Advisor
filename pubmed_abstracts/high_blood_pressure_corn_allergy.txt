@@ -1,0 +1,59 @@
+1. J AOAC Int. 2012 Jan-Feb;95(1):206-15. doi: 10.5740/jaoacint.11-042.
+
+Validation of a new enzyme-linked immunosorbent assay to detect the triggering 
+proteins and peptides for celiac disease: interlaboratory study.
+
+Mujico JR(1), Dekking L, Kooy-Winkelaar Y, Verheijen R, van Wichen P, Streppel 
+L, Sajic N, Drijfhout JW, Koning F.
+
+Author information:
+(1)Leiden University Medical Center, Department of Immunology and Blood 
+Transfusion, Leiden, The Netherlands. jrmujico@gmail.com
+
+The performance of Gluten-Tec (EuroProxima, Arnhem, The Netherlands) was tested 
+through an interlaboratory study in accordance with AOAC guidelines. Gluten-Tec 
+is a competitive ELISA that detects an immunostimulatory epitope of a-gliadin in 
+dietary food for celiacs. Fifteen laboratories, representing 14 different 
+countries, announced their interest in taking part in this study. Of the 12 
+laboratories that sent the results within the established timeframe, two 
+submitted inappropriate standard curves and were excluded from the statistical 
+analysis. Four different food matrixes (rice-based baby food, maize bread, 
+chocolate cake mix, and beer) were selected for preparing the test samples. Two 
+gliadin extraction procedures were used: the conventional 60% ethanol, and a new 
+method based on the reducing reagent dithiothreitol. The 38 samples (19 blind 
+duplicates) tested in this study were prepared by diluting the different 
+extracts in order to cover a wide range of gliadin levels. Both sample 
+extraction and dilution were performed by EuroProxima; the present 
+interlaboratory study was focused only on testing the ELISA part of the 
+Gluten-Tec kit protocol. Repeatability values (within-laboratory variance), 
+expressed as RSD(r) ranged from 6.2 to 25.7%, while reproducibility values 
+(interlaboratory variance), expressed as RSD(R), ranged from 10.6 to 45.9%. Both 
+statistical parameters were in the acceptable range of ELISAs under these 
+conditions, and the method will be presented to the Codex Alimentarius as a 
+preferred method for gluten analysis.
+
+DOI: 10.5740/jaoacint.11-042
+PMID: 22468361 [Indexed for MEDLINE]
+
+
+2. Lancet. 1979 May 5;1(8123):966-9. doi: 10.1016/s0140-6736(79)91735-5.
+
+Food allergies and migraine.
+
+Grant EC.
+
+60 migraine patients completed elimination diets after a 5-day period of 
+withdrawal from their normal diet. 52 (87%) of these patients had been using 
+oral contraceptive steroids, tobacco, and/or ergotamine for an average of 3 
+years, 22 years, and 7.4 years respectively. The commonest foods causing 
+reactions were wheat (78%), orange (65%), eggs (45%), tea and coffee (40% each), 
+chocolate and milk (37%) each), beef (35%), and corn, cane sugar, and yeast (33% 
+each). When an average of ten common foods were avoided there was a dramatic 
+fall in the number of headaches per month, 85% of patients becoming 
+headache-free. The 25% of patients with hypertension became normotensive. 
+Chemicals in the home environment can make this testing difficult for 
+outpatients. Both immunological and non-immunological mechanisms may play a part 
+in the pathogenesis of migraine caused by food intolerance.
+
+DOI: 10.1016/s0140-6736(79)91735-5
+PMID: 87628 [Indexed for MEDLINE]

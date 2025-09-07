@@ -1,0 +1,466 @@
+1. Compr Rev Food Sci Food Saf. 2025 Mar;24(2):e70147. doi: 
+10.1111/1541-4337.70147.
+
+Recent trends in human milk oligosaccharides: New synthesis technology, 
+regulatory effects, and mechanisms of non-intestinal functions.
+
+Chen Q(1)(2), Wang X(1)(2), Zhang P(1)(2), Li B(1)(2).
+
+Author information:
+(1)Food College, Northeast Agricultural University, Harbin, China.
+(2)Key Laboratory of Dairy Science, Ministry of Education, Northeast 
+Agricultural University, Harbin, China.
+
+Recently, the non-intestinal functions of human milk oligosaccharides (HMOs) 
+have been widely documented, including their roles in promoting brain 
+development and growth, as well as ameliorating anxiety, allergies, and obesity. 
+Understanding their mechanisms of action is becoming increasingly critical. 
+Furthermore, these effects are frequently associated with the type and structure 
+of HMOs. As an innovative technology, "plant factory" is expected to complement 
+traditional synthesis technology. This study reviews the novel "plant factory" 
+synthesis techniques. Particular emphasis is placed on the processes, 
+advantages, and limitations of "plant factory" synthesis of HMOs. This 
+technology can express genes related to HMO synthesis instantaneously in plant 
+leaves, thereby enabling the rapid and cost-effective generation of HMOs. 
+However, "plant factory" technology remains underdeveloped, and challenges 
+related to low yield and unsustainable production must be addressed. 
+Furthermore, we present an overview of the most recent clinical and preclinical 
+studies on the non-intestinal functions of HMOs. This review emphasizes the 
+mechanisms of action underlying the non-intestinal functions of HMOs. HMOs 
+primarily exert non-intestinal functions through the cleavage of beneficial 
+monomer components, metabolism to produce advantageous metabolites, and 
+regulation of immune responses.
+
+© 2025 Institute of Food Technologists®.
+
+DOI: 10.1111/1541-4337.70147
+PMID: 40091651 [Indexed for MEDLINE]
+
+
+2. Compr Rev Food Sci Food Saf. 2024 Nov;23(6):e70072. doi: 
+10.1111/1541-4337.70072.
+
+The health benefits of fermented fruits and vegetables and their underlying 
+mechanisms.
+
+Liu L(1), Li G(1), Cui L(1), Cai R(2), Yuan Y(2), Gao Z(1), Yue T(2), Wang Z(1).
+
+Author information:
+(1)College of Food Science and Engineering, Northwest A&F University, Xianyang, 
+Shaanxi, China.
+(2)College of Food Science and Technology, Northwest University, Xi'an, Shaanxi, 
+China.
+
+Fermented fruits and vegetables are rich in phenolic compounds, minerals, and 
+vitamins, which have potential health benefits for the prevention of many 
+diseases such as cardiovascular disease and Type 2 diabetes. There is a growing 
+demand for the development of nondairy probiotic products based on fruits and 
+vegetables in view of changing lifestyles (e.g., vegetarianism, veganism, and 
+allergy to dairy products) and the rise of nutritional diet therapy. In this 
+review, the processes and health potential of fermented fruits and vegetables 
+are described. The study focuses on the role of bacteria and fungi in fermented 
+fruits and vegetables, outlines the process of transformation of bioactive 
+components, and systematically summarizes the possible mechanisms of 
+antioxidant, anti-inflammatory, and blood pressure-lowering effects. The health 
+effects of fermented fruits and vegetables depend mainly on the microorganisms 
+present in the fermentation process and the bioactive components they produce, 
+such as phenols, vitamins, and organic acids. These active compounds exert many 
+health effects such as antioxidant, anti-inflammatory, anti-obesity, 
+hypotensive, hypoglycemic, and other health benefits. Therefore, the development 
+of fermented foods based on fruits and vegetables can be a promising way to 
+adapt to the market demand and to reduce the wastage of agriculturally produced 
+fruits and vegetables.
+
+© 2024 Institute of Food Technologists®.
+
+DOI: 10.1111/1541-4337.70072
+PMID: 39611544 [Indexed for MEDLINE]
+
+
+3. Microorganisms. 2024 May 27;12(6):1080. doi: 10.3390/microorganisms12061080.
+
+Probiotics and Cat Health: A Review of Progress and Prospects.
+
+Zha M(1), Zhu S(1), Chen Y(1).
+
+Author information:
+(1)Key Laboratory of Dairy Biotechnology and Engineering, Ministry of Education, 
+Inner Mongolia Agricultural University, Hohhot 010018, China.
+
+Cats are increasingly favored as companion animals; their health has drawn 
+widespread attention. Given the continuous improvements in the required living 
+standards of both humans and animals, inflammatory bowel disease, allergies, 
+diarrhea, constipation, periodontal disease, obesity, diabetes, and other health 
+issues have become recognized as valid pet problems. Antibiotics are commonly 
+used to treat pet diseases, greatly improving animal health. However, antibiotic 
+abuse is common, especially when seeking to treat bacterial infections. 
+Probiotics are beneficial microorganisms that may be directly ingested in food 
+or as feed additives; they improve the intestinal microflora balance, enhance 
+immunity, and ensure healthy growth. However, cat data are usually inferred from 
+reports on dogs or humans; cat research remains preliminary in nature. 
+Therefore, we here describe the current understanding of how probiotics improve 
+cat health, facilitating the further development and application of probiotics 
+for cats.
+
+DOI: 10.3390/microorganisms12061080
+PMCID: PMC11205573
+PMID: 38930462
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+4. Biomedicines. 2023 Dec 17;11(12):3335. doi: 10.3390/biomedicines11123335.
+
+Association between Food-Specific Immunoglobulin G(4) Antibodies in Adults with 
+Self-Reported Signs and Symptoms Attributed to Adverse Reactions to Foodstuffs.
+
+Pantoja-Arévalo L(1)(2), Gesteiro E(1)(2), Matthias T(3), Urrialde R(4)(5), 
+González-Gross M(1)(2)(6).
+
+Author information:
+(1)ImFINE Research Group, Department of Health and Human Performance, 
+Universidad Politécnica de Madrid, 28040 Madrid, Spain.
+(2)EXERNET Spanish Research Network on Physical Exercise and Health, Universidad 
+de Zaragoza, 50009 Zaragoza, Spain.
+(3)Department of Research and Development, Aesku.Diagnostics GmbH, 55234 
+Wendelsheim, Germany.
+(4)Department of Genetics, Physiology and Microbiology, Universidad Complutense 
+de Madrid, 28040 Madrid, Spain.
+(5)Department of Pharmaceutical and Health Sciences, Universidad San Pablo CEU, 
+28040 Madrid, Spain.
+(6)Biomedical Research Centre of Pathophysiology, Obesity and 
+Nutrition-CIBERobn, Carlos III Health Institute, 28040 Madrid, Spain.
+
+Signs and symptoms attributed to adverse reactions to foodstuffs (ARFS) need 
+tools for research and evaluation in clinical practice. The objectives of this 
+study were (a) to evaluate the most frequent self-reported signs and symptoms 
+attributed to ARFS in Spanish adults, (b) to determine the prevalence of 
+food-specific IgG4 antibody reactions (AbRs), and (c) to investigate the 
+association between self-reported ARFS symptomatology and food-specific IgG4 
+AbRs. Food-specific IgG4 AbRs against 57 common food and beverages 
+(AESKUCARE-T2FA® in vitro point-of-care test kit, Aesku.Diagnostics GmbH, 
+Germany) were determined in capillary blood samples of 205 volunteers living in 
+the Region of Madrid (Spain). The most frequent self-reported signs and symptoms 
+were related to skin (43%), digestive (41%), and nervous system (NS, 33%) 
+problems. The prevalence of food-specific IgG4 AbRs was cow's milk (73%), 
+sheep's milk (70%), casein (66%), and goat's milk (56.10%). Positive IgG4 AbRs 
+against tomato had a profile consisting of 3/4 of skin problems, more than half 
+of digestive, and 2/5 of NS self-reported signs and symptoms. In conclusion, at 
+least 1/3 of the studied sample reported skin, digestive, and NS signs and 
+symptoms. The most frequent food-specific IgG4 AbRs were related to dairy. Skin 
+problems were more frequent in positive tomato IgG4 AbRs.
+
+DOI: 10.3390/biomedicines11123335
+PMCID: PMC10742047
+PMID: 38137556
+
+Conflict of interest statement: T.M. is part of the Aesku.Diagnostics staff. 
+T.M. did not participate in the design of the protocol or in the analysis and 
+interpretation of the data outcomes. The rest of the authors have nothing to 
+report.
+
+
+5. J Dairy Sci. 2024 May;107(5):2573-2585. doi: 10.3168/jds.2023-23995. Epub 2023
+ Nov 16.
+
+Invited review: Camel milk and gut health-Understanding digestibility and the 
+effect on gut microbiota.
+
+Ali AH(1), Li S(2), Liu SQ(3), Gan RY(4), Li HB(5), Kamal-Eldin A(6), Ayyash 
+M(7).
+
+Author information:
+(1)Department of Food Science, Faculty of Agriculture, Zagazig University, 
+Zagazig 44511, Egypt.
+(2)Riddet Institute, Massey University, Palmerston North 4442, New Zealand.
+(3)Department of Food Science and Technology, Faculty of Science, National 
+University of Singapore, Singapore 117542, Singapore.
+(4)Singapore Institute of Food and Biotechnology Innovation (SIFBI), Agency for 
+Science, Technology and Research (A*STAR), Singapore 138669, Singapore.
+(5)Guangdong Provincial Key Laboratory of Food, Nutrition, and Health, 
+Department of Nutrition, School of Public Health, Sun Yat-Sen University, 
+Guangzhou 510080, China.
+(6)Department of Food Science, College of Agriculture and Veterinary Medicine, 
+United Arab Emirates University (UAEU), Al Ain 15551, United Arab Emirates.
+(7)Department of Food Science, College of Agriculture and Veterinary Medicine, 
+United Arab Emirates University (UAEU), Al Ain 15551, United Arab Emirates. 
+Electronic address: mutamed.ayyash@uaeu.ac.ae.
+
+Camel milk (CM), known for its immune-regulatory, anti-inflammatory, 
+antiapoptotic, and antidiabetic properties, is a natural healthy food. It is 
+easily digestible due to the high levels of β-casein and diverse secreted 
+antibodies, exhibiting superior antibacterial and antiviral activities compared 
+with bovine milk. β-casein is less allergic and more digestible because it is 
+more susceptible to digestive hydrolysis in the gut; therefore, higher levels of 
+β-casein make CM advantageous for human health. Furthermore, antibodies help the 
+digestive system by destroying the antigens, which are then overwhelmed and 
+digested by macrophages. The connection between the gut microbiota and human 
+health has gained substantial research attention, as it offers potential 
+benefits and supports disease treatment. The gut microbiota has a vital role in 
+regulating the host's health because it helps in several biological functions, 
+such as protection against pathogens, immune function regulation, energy 
+harvesting from digested foods, and reinforcement of digestive tract biochemical 
+barriers. These functions could be affected by the changes in the gut microbiota 
+profile, and gut microbiota differences are associated with several diseases, 
+such as inflammatory bowel disease, colon cancer, irritable bowel disorder, 
+mental illness, allergy, and obesity. This review focuses on the digestibility 
+of CM components, particularly protein and fat, and their influence on gut 
+microbiota modulation. Notably, the hypoallergenic properties and small fat 
+globules of CM contribute to its enhanced digestibility. Considering the rapid 
+digestion of its proteins under conditions simulating infant gastrointestinal 
+digestion, CM exhibits promise as a potential alternative for infant formula 
+preparation due to the high β-/αs-casein ratio and protective proteins, in 
+addition to the absence of β-lactoglobulin.
+
+The Authors. Published by Elsevier Inc. on behalf of the American Dairy Science 
+Association®. This is an open access article under the CC BY license 
+(http://creativecommons.org/licenses/by/4.0/).
+
+DOI: 10.3168/jds.2023-23995
+PMID: 37977446 [Indexed for MEDLINE]
+
+
+6. Nutrition. 2023 Nov;115:112154. doi: 10.1016/j.nut.2023.112154. Epub 2023 Jul
+7.
+
+Probiotic-fortified fruit juices: Health benefits, challenges, and future 
+perspective.
+
+Naseem Z(1), Mir SA(2), Wani SM(3), Rouf MA(1), Bashir I(1), Zehra A(1).
+
+Author information:
+(1)Division of Food Science and Technology, SKUAST-K, Shalimar, Srinagar, India.
+(2)Department of Food Science and Technology, University of Kashmir, Hazratbal 
+Srinagar, India.
+(3)Division of Food Science and Technology, SKUAST-K, Shalimar, Srinagar, India. 
+Electronic address: wanisajad82@gmail.com.
+
+Consumers' growing interest in using foods that improve health has motivated 
+researchers and the food industry to develop new functional products, such as 
+foods containing probiotics or live microbes. Probiotics have functional 
+attributes that could satisfy most basic nutritional and therapeutic 
+supplementation requirements. These microbes positively respond to clinical 
+therapies against diseases and illnesses such as rotavirus-associated diarrhea, 
+irritable bowel syndrome, and food allergies. Moreover, the role of probiotics 
+in the prevention and treatment of obesity, diabetes, cancer, and diseases 
+related to pathogenic microbes is an exciting and rapidly advancing research 
+arena. Probiotic supplementation usually involves dairy products. However, 
+because of the growing number of individuals affected by lactose intolerance 
+and/or vegans, other food matrices like fruits, vegetables, cereals, and so on, 
+have been studied as potential carriers for these microorganisms, presenting an 
+alternative and better source in the process of assessing novel probiotic 
+strains. The present review discusses the various factors affecting the survival 
+of probiotics during storage in fruit juices, the possible effect of probiotics 
+on sensory attributes and the overall acceptance of the products, and future 
+technologies to improve the viability of probiotics.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nut.2023.112154
+PMID: 37536023
+
+Conflict of interest statement: Declaration of competing interest Corresponding 
+author, on behalf of all the authors of a submission, disclose that they have no 
+any financial and personal relationships with other people or organizations that 
+could inappropriately influence (bias) their work.
+
+
+7. Curr Top Med Chem. 2023;23(21):2075-2096. doi: 
+10.2174/1568026623666230710162217.
+
+Therapeutic Potential and Molecular Mechanisms of the Multitargeted Flavonoid 
+Fisetin.
+
+Rauf A(1), Abu-Izneid T(2), Imran M(3), Hemeg HA(4), Bashir K(5), Aljohani 
+ASM(6), Aljohani MSM(7), Alhumaydhi FA(8), Khan IN(9), Bin Emran T(10)(11), 
+Gondal TA(12), Nath N(13), Ahmad I(14), Thiruvengadam M(15).
+
+Author information:
+(1)Department of Chemistry, University of Swabi, Anbar, KPK, Pakistan.
+(2)Department of Pharmaceutical Sciences, College of Pharmacy, Al Ain University 
+of Science and Technology, Al Ain Campus, Abu Dhabi, United Arab Emirates.
+(3)Department of Food Science and Technology, University of Narowal, Punjab, 
+Pakistan.
+(4)Department of Medical Laboratory Technology, College of Applied Medical 
+Sciences, Taibah University, P.O. Box 344, Al-Madinah Al-Monawra, 41411, Saudi 
+Arabia.
+(5)Department of Health and Biological Sciences, Abasyn University, Peshawar, 
+Pakistan.
+(6)Department of Veterinary Medicine, College of Agriculture and Veterinary 
+Medicine, Qassim University, Buraydah, Saudi Arabia.
+(7)Pharmaceutical Care Department, King Saud Hospital, Ministry of Health, 
+Unaizah, Saudi Arabia.
+(8)Department of Medical Laboratories, College of Applied Medical Sciences, 
+Qassim University, Buraydah, Saudi Arabia.
+(9)Institute of Basic Medical Sciences, Khyber Medical University, Peshawar, 
+25100, Pakistan.
+(10)Department of Pharmacy, BGC Trust University Bangladesh, Chittagong, 4381, 
+Bangladesh.
+(11)Department of Pharmacy, Faculty of Allied Health Sciences, Daffodil 
+International University, Dhaka, 1207, Bangladesh.
+(12)School of Exercise and Nutrition, Faculty of Health, Deakin University, 
+Victoria, 3125, Australia.
+(13)Department of Pharmacy, International Islamic University Chittagong, 
+Chittagong, 4318, Bangladesh.
+(14)Department of Dairy Technology, University of Veterinary and Animal 
+Sciences, Lahore, Pakistan.
+(15)Department of Crop Science, College of Sanghuh Life Science, Konkuk 
+University, Seoul, 05029, South Korea.
+
+Flavonoids effectively treat cancer, inflammatory disorders (cardiovascular and 
+nervous systems), and oxidative stress. Fisetin, derived from fruits and 
+vegetables, suppresses cancer growth by altering cell cycle parameters that lead 
+to cell death and angiogenesis without affecting healthy cells. Clinical trials 
+are needed in humans to prove the effectiveness of this treatment for a wide 
+range of cancers. According to the results of this study, fisetin can be used to 
+prevent and treat a variety of cancers. Despite early detection and treatment 
+advances, cancer is the leading cause of death worldwide. We must take proactive 
+steps to reduce the risk of cancer. The natural flavonoid fisetin has 
+pharmacological properties that suppress cancer growth. This review focuses on 
+the potential drug use of fisetin, which has been extensively explored for its 
+cancer-fighting ability and other pharmacological activities such as diabetes, 
+COVID-19, obesity, allergy, neurological, and bone disorders. Researchers have 
+focused on the molecular function of fisetin. In this review, we have 
+highlighted the biological activities against chronic disorders, including 
+cancer, metabolic illnesses, and degenerative illnesses, of the dietary 
+components of fisetin.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1568026623666230710162217
+PMID: 37431899 [Indexed for MEDLINE]
+
+
+8. J Formos Med Assoc. 2023 Sep;122(9):932-939. doi: 10.1016/j.jfma.2023.03.001. 
+Epub 2023 Mar 14.
+
+Parental risk factors for oesophageal atresia.
+
+Kapapa M(1), Weber D(2), Serra A(2).
+
+Author information:
+(1)Division of Paediatric Surgery, Department of Surgery, University Medical 
+Centre Ulm, Eythstrasse 24, 89075 Ulm, Germany. Electronic address: 
+melanie.kapapa@uniklinik-ulm.de.
+(2)Division of Paediatric Surgery, Department of Surgery, University Medical 
+Centre Ulm, Eythstrasse 24, 89075 Ulm, Germany.
+
+BACKGROUND: An Oesophageal atresia (OA) affects almost 1 in 3500 newborn and its 
+aetiology for development between 4th to 6th pregnancy weeks had not yet been 
+clarified.
+METHODS: This retrospective, observational control group-supported (n = 30) 
+examination was performed with OA mothers (n = 20) who were interrogated via 
+specialized questionnaires and interviews to evaluate data on medical pregnancy 
+history including hormonal treatment, changing of life habits (nutrition, diet, 
+medication), drug consumption (alcohol, smoking, illicit drugs) as well as 
+exposure to nuclear waste or poisonous substance exposition. Aim was to assess 
+risk factors during pregnancy and in particular in the first trimester.
+RESULTS: The body mass index (BMI) prior pregnancy of OA mothers was significant 
+lower (p = 0.022) and the number of mothers with obesity (BMI>30) did not differ 
+to control group mothers (p = 0.081). They had additionally more pre-existing 
+illnesses (p = 0.009) and allergies (p = 0.001). Control group mothers changed 
+dietary habits with higher meat (p = 0.032) and caffeine intake (p = 0.012) 
+compared to OA mothers, which had higher rates of abnormalities during pregnancy 
+(p < 0.001) and 38.7% of them suffered of ≥1 abortion in the past. The ethnical 
+background of OA mothers was more often German (p < 0.033), while OA fathers had 
+a lower socioeconomic status (p = 0.039).
+CONCLUSION: Maternal factors like previous abortions, obesity and immunological 
+predispositions like existence of allergies combined with increased daily dairy 
+consumption influenced obviously the occurrence of OA.
+
+Copyright © 2023 Formosan Medical Association. Published by Elsevier B.V. All 
+rights reserved.
+
+DOI: 10.1016/j.jfma.2023.03.001
+PMID: 36925362 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+have no conflict of interest to declare (financial or non-financial).
+
+
+9. Crit Rev Food Sci Nutr. 2024;64(17):5793-5817. doi: 
+10.1080/10408398.2022.2158451. Epub 2022 Dec 20.
+
+Early life gut microbiota: Consequences for health and opportunities for 
+prevention.
+
+Wang S(1)(2), Cui J(3), Jiang S(4)(5), Zheng C(4)(5), Zhao J(1)(2), Zhang 
+H(3)(6), Zhai Q(1)(2).
+
+Author information:
+(1)State Key Laboratory of Food Science and Technology, Jiangnan University, 
+Wuxi, Jiangsu, China.
+(2)School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu, 
+China.
+(3)Wuxi School of Medicine, Jiangnan University, Wuxi, China.
+(4)Nutrition and Metabolism Research Division, Innovation Center, Heilongjiang 
+Feihe Dairy Co., Ltd, Beijing, China.
+(5)PKUHSC-China Feihe Joint Research Institute of Nutrition and Healthy Lifespan 
+Development, Beijing, China.
+(6)Department of Child Health Care, Wuxi Maternity and Child Health Care 
+Hospital, Wuxi, Jiangsu, China.
+
+The gut microbiota influences many aspects of the host, including immune system 
+maturation, nutrient absorption and metabolism, and protection from pathogens. 
+Increasing evidences from cohort and animal studies indicate that changes in the 
+gut microbiota early in life increases the risk of developing specific diseases 
+early and later in life. Therefore, it is becoming increasingly important to 
+identify specific disease prevention or therapeutic solutions targeting the gut 
+microbiota, especially during infancy, which is the window of the human gut 
+microbiota establishment process. In this review, we provide an overview of 
+current knowledge concerning the relationship between disturbances in the gut 
+microbiota early in life and health consequences later in life (e.g., 
+necrotizing enterocolitis, celiac disease, asthma, allergies, autism spectrum 
+disorders, overweight/obesity, diabetes and growth retardation), with a focus on 
+changes in the gut microbiota prior to disease onset. In addition, we summarize 
+and discuss potential microbiota-based interventions early in life (e.g., diet 
+adjustments, probiotics, prebiotics, fecal microbiota transplantation, 
+environmental changes) to promote health or prevent the development of specific 
+diseases. This knowledge should aid the understanding of early life microbiology 
+and inform the development of prediction and prevention measures for short- and 
+long-term health disorders based on the gut microbiota.
+
+DOI: 10.1080/10408398.2022.2158451
+PMID: 36537331 [Indexed for MEDLINE]
+
+
+10. Nutrients. 2022 May 18;14(10):2097. doi: 10.3390/nu14102097.
+
+Human Milk Metabolomics Are Related to Maternal Adiposity, Infant Growth Rate 
+and Allergies: The Chinese Human Milk Project.
+
+Zhang W(1)(2), Li K(1)(2), Zheng C(1)(2), Sun H(1)(2), Pan J(1)(2), Li Y(1)(2), 
+Liu Y(1)(2), Wang W(1)(2), Ju M(1)(2), Xu Y(2)(3)(4), Jiang S(1)(2).
+
+Author information:
+(1)Nutrition and Metabolism Research Division, Innovation Center, Heilongjiang 
+Feihe Dairy Co., Ltd., C-16, 10A Jiuxianqiao Rd., Chaoyang, Beijing 100015, 
+China.
+(2)PKUHSC-China Feihe Joint Research Institute of Nutrition and Healthy Lifespan 
+Development, Xueyuan Road 38, Haidian, Beijing 100083, China.
+(3)Department of Nutrition and Food Hygiene, School of Public Health, Peking 
+University, Xueyuan Road 38, Haidian, Beijing 100083, China.
+(4)Beijing Key Laboratory of Toxicological Research and Risk Assessment for Food 
+Safety, Peking University, Xueyuan Road 38, Haidian, Beijing 100083, China.
+
+The metabolomic profiles of Chinese human milk have been poorly documented. The 
+objective of the study was to explore associations between human milk 
+metabotypes, maternal adiposity, infant growth patterns, and risk of allergies. 
+Two hundred mother−infant dyads from seven cities were randomly selected from 
+the Chinese Human Milk Project (CHMP). Untargeted human milk metabolomic 
+profiles were determined using HPLC-MS/MS. Two human milk metabotypes were 
+identified using principal component analysis. Principal component (PC) 1 was 
+characterized by high linoleic acid metabolites with low purine nucleosides and 
+metabolites of glutamate and glutathione metabolism. PC 2 was characterized by 
+high glycerophospholipids and sphingomyelins content. Higher PC1 scores were 
+associated with slower infant growth rate and higher ambient temperature (p < 
+0.05). Higher PC 2 scores were related to higher maternal BMI and increased risk 
+of infant allergies (p < 0.05). Future work is needed to understand the biologic 
+mechanisms of these human milk metabotypes.
+
+DOI: 10.3390/nu14102097
+PMCID: PMC9144552
+PMID: 35631238 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

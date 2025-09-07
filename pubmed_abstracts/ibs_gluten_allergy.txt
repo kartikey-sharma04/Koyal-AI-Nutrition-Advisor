@@ -1,0 +1,498 @@
+1. Nutrients. 2025 Apr 16;17(8):1359. doi: 10.3390/nu17081359.
+
+Food Hypersensitivity: Distinguishing Allergy from Intolerance, Main 
+Characteristics, and Symptoms-A Narrative Review.
+
+Hage G(1)(2), Sacre Y(1), Haddad J(2)(3), Hajj M(2), Sayegh LN(4), 
+Fakhoury-Sayegh N(1)(5).
+
+Author information:
+(1)Department of Nutrition and Food Science, Faculty of Arts and Sciences, Holy 
+Spirit University of Kaslik, Jounieh P.O. Box 446, Lebanon.
+(2)Hajj Medical Center-Medical & Dental Clinics, Green Zone A Building 71 Ground 
+Floor, Naccache P.O. Box 1201, Lebanon.
+(3)Faculty of Dental Medicine, Saint Joseph University of Beirut, Medical 
+Sciences Campus, Damascus Road, Riad Solh, Beirut P.O. Box 11-5076, Lebanon.
+(4)Yale New Haven Hospital, P.O. Box 1880, 20 York Street, New Haven, CT 06510, 
+USA.
+(5)Faculty of Pharmacy, Department of Nutrition, Saint Joseph University of 
+Beirut, Medical Sciences Campus, Damascus Road, Riad Solh, Beirut P.O. Box 
+11-5076, Lebanon.
+
+Background/Objectives: Food hypersensitivity remains an understudied and 
+overlooked subject globally. It is characterized by adverse reactions to dietary 
+substances, potentially triggered by various mechanisms. Food allergy, a subset 
+of food hypersensitivity, denotes an immune response to food proteins 
+categorized into immunoglobulin IgE-mediated or non-IgE-mediated reactions. 
+Conversely, food intolerance, another facet of food hypersensitivity, refers to 
+non-immunological reactions, in which the human body cannot properly digest 
+certain foods or components, leading to gastrointestinal discomfort and other 
+non-immune-related symptoms. The main objective of this study was to determine 
+and differentiate the differences, characteristics, and types of food 
+hypersensitivity. Methods: This study involved a comprehensive review of key 
+research from 1990 onward, including review articles, prospective studies, 
+nested case-control studies, and meta-analyses. Results: Recognizing these 
+differences is essential for healthcare professionals to ensure accurate 
+diagnosis, effective management, and improved patient outcomes, while also 
+aiding dietitians in providing optimal nutritional and dietary guidance. 
+Conclusions: there are big differences between the main characteristics, such as 
+symptoms, complications, and treatments between allergies, and food 
+intolerances. Commonly reported trigger foods include cow milk, gluten, eggs, 
+nuts, and seafood.
+
+DOI: 10.3390/nu17081359
+PMCID: PMC12029945
+PMID: 40284223 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Curr Opin Gastroenterol. 2025 May 1;41(3):164-174. doi: 
+10.1097/MOG.0000000000001090. Epub 2025 Feb 17.
+
+The role of gluten and wheat in irritable bowel syndrome and noncoeliac gluten 
+or wheat sensitivity.
+
+van Gils T(1), Simrén M(1)(2).
+
+Author information:
+(1)Department of Molecular and Clinical Medicine, Institute of Medicine, 
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(2)Center for Functional Gastrointestinal and Motility Disorders, University of 
+North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.
+
+PURPOSE OF REVIEW: The role of gluten and wheat in irritable bowel syndrome 
+(IBS) is unclear, whereas it plays a key-role in the diagnosis and treatment of 
+noncoeliac gluten or wheat sensitivity (NCGWS). This review aims to provide the 
+most recent insights in pathophysiological mechanisms and to summarize the 
+evidence for a gluten- or wheat-free diet in IBS and NCGWS.
+RECENT FINDINGS: The exact role of gluten and wheat in IBS and NCGWS 
+pathophysiological mechanisms remains complex. However, recent findings suggest 
+a role for antigliadin antibodies to identify those IBS patients who may benefit 
+from a gluten-free diet and low levels of fecal calprotectin to differentiate 
+IBS and NCGWS. The importance of gut-brain interactions in self-reported gluten 
+sensitive individuals was shown by a strong nocebo effect, although a role of 
+gluten could not be excluded. Evidence for a gluten-free diet remains debatable 
+in both conditions, whereas a wheat-free diet may have more potential, 
+especially in NCGWS.
+SUMMARY: IBS and NCGWS are two closely related conditions with a complex and 
+largely unrevealed pathophysiology. The role of gluten may have been 
+overestimated in the past, but it is likely that certain wheat components, along 
+with gut-brain interactions, play a role in both conditions.
+
+Copyright © 2025 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MOG.0000000000001090
+PMID: 39998947 [Indexed for MEDLINE]
+
+
+3. Nutrients. 2024 Dec 8;16(23):4236. doi: 10.3390/nu16234236.
+
+Gluten-Free Diet for Fashion or Necessity? Review with New Speculations on 
+Irritable Bowel Syndrome-like Disorders.
+
+Borghini R(1), Spagnuolo A(2), Donato G(3), Borghini G(4).
+
+Author information:
+(1)Stella Maris S.T.P.-Gastroenterology Unit, Via Giuseppe Prina, 8, 00139 Rome, 
+Italy.
+(2)Medical Oncology, Department of Radiology, Oncology and Pathology, Sapienza 
+University of Rome, 00155 Rome, Italy.
+(3)Gastroenterology Unit, Department of Translational and Precision Medicine, 
+Sapienza University of Rome, 00155 Rome, Italy.
+(4)Stella Maris S.T.P.-Food and Human Nutrition Unit, 00139 Rome, Italy.
+
+Nowadays, the gluten-free diet (GFD) has become much more than the dietary 
+treatment for celiac disease. Due to its presumed beneficial effects even in 
+non-celiac subjects, it has become a new fashion statement and it is promoted by 
+some healthcare professionals, social media and marketing strategists. On the 
+other hand, regardless of a proper medical indication, a GFD may present side 
+effects, such as poor palatability, high costs and socio-psychological 
+adversities. Moreover, it can be an obstacle to correct clinical practice and 
+may induce nutritional deficiency due to a low-quality diet. In addition, a GFD 
+can trigger or exacerbate many irritable bowel syndrome (IBS)-like disorders in 
+predisposed subjects: reactivity to dietary nickel, the increased consumption of 
+FODMAP-rich foods and histamine intolerance seem to frequently play a relevant 
+role. The possible intersections between high-risk foods in these categories of 
+patients, as well as the possible overlaps among IBS-like disorders during GFD, 
+are described. In conclusion, it is advisable to undergo a careful clinical 
+evaluation by a gastroenterologist and a nutritionist (in some cases, also a 
+psychotherapist) before starting and during a GFD, because both benefits and 
+risks are possible. It is also important to take into account IBS-like disorders 
+that can be exacerbated by a GFD and that are still underestimated today.
+
+DOI: 10.3390/nu16234236
+PMCID: PMC11644447
+PMID: 39683629 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Food Res Int. 2024 Dec;197(Pt 1):115238. doi: 10.1016/j.foodres.2024.115238. 
+Epub 2024 Oct 20.
+
+Do cooking techniques influence copper bioaccesibility in foods after in vitro 
+digestion/fermentation in adults and children?
+
+García-Conde Ú(1), Navarro-Moreno M(2), Navajas-Porras B(2), Hinojosa-Nogueira 
+D(2), Delgado-Osorio A(2), Pastoriza S(1), Moriki D(3), Douros K(3), 
+Navarro-Alarcón M(4), Ángel Rufián-Henares J(5).
+
+Author information:
+(1)Departamento de Nutrición y Bromatología, Facultad de Farmacia, Universidad 
+de Granada, Spain.
+(2)Departamento de Nutrición y Bromatología, Facultad de Farmacia, Universidad 
+de Granada, Spain; Instituto de Nutrición y Tecnología de los Alimentos, INyTA 
+(IBS), Universidad de Granada, Spain.
+(3)Pediatric Allergy and Respiratory Unit, 3rd Department of Pediatrics, 
+"Attikon" University Hospital, National and Kapodistrian University of Athens, 
+School of Medicine, 11527 Athens, Greece.
+(4)Departamento de Nutrición y Bromatología, Facultad de Farmacia, Universidad 
+de Granada, Spain; Instituto de Nutrición y Tecnología de los Alimentos, INyTA 
+(IBS), Universidad de Granada, Spain. Electronic address: nalarcon@ugr.es.
+(5)Departamento de Nutrición y Bromatología, Facultad de Farmacia, Universidad 
+de Granada, Spain; Instituto de Nutrición y Tecnología de los Alimentos, INyTA 
+(IBS), Universidad de Granada, Spain; Instituto de Investigación Biosanitaria 
+(IBS), Universidad de Granada, Granada, Spain.
+
+Cu is essential for the growth and organism health. Classically, its available 
+fraction has been studied by in vitro digestion studies as a measure of 
+bioaccessibility of Cu (Cu-BA). In this work we applied a novel in vitro 
+digestion/fermentation method to multiple foods subjected to different home 
+cooking techniques (raw form vs. frying, roasting, toasting, boiling and 
+grilling) by metabolization with faecal inoculate from healthy adults (HE-AD), 
+and healthy children (HE-CH) and sick children (children with gluten related 
+disorders, GRD-CH; children with obesity, OB-CH; and children with 
+allergy/intolerance to cow's milk proteins, AICM-CH). In raw and cooked foods 
+the bioaccessibility of Cu in the small intestine (Cu-BASI) was higher vs. that 
+in the Cu bioaccessibility in the large intestine (Cu-BALI) (30.8 ± 15.4 and 
+28.2 ± 14.7 vs. 18.4 ± 21.2 and 22.8 ± 22.1 %, respectively; p < 0.001). Total 
+Cu-BA in cooked foods (51.0 ± 24.4 %) was higher than that in raw foods 
+(49.0 ± 25.1 %). In cereals, total Cu-BA was higher in the raw form, as well as 
+in whole grains and those with gluten (p < 0.05). In vegetables, the most 
+drastic cooking techniques (roasting and frying) show higher values of total 
+Cu-BA compared to raw form and boiling. The Cu-BALI in HE-CH (37.7 ± 23.7 %) is 
+higher than that determined in HE-AD (14.1 ± 18.5 %) and sick children (GRD-CH: 
+14.6 ± 19.8; OB-CH: 15.5 ± 17.8; and AICM-CH: 26.9 ± 19.3 %; p < 0.001). In 
+conclusion, cooking techniques influence Cu-BA depending on the food group. 
+Total Cu-BA, as well as that determined in the large and small intestine varied 
+according to the category, group and specific foods, which is related to their 
+different composition and species of the element. In healthy children, total 
+Cu-BALI is higher than in adults and celiac, obese and allergic children 
+probably due to growth requirements and specific microbiota.
+
+Copyright © 2024 Universidad de Granada. Published by Elsevier Ltd.. All rights 
+reserved.
+
+DOI: 10.1016/j.foodres.2024.115238
+PMID: 39593320 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Gut. 2024 Jun 6;73(7):1199-1211. doi: 10.1136/gutjnl-2023-331833.
+
+Postprandial symptoms in disorders of gut-brain interaction and their potential 
+as a treatment target.
+
+Ford AC(1), Staudacher HM(2), Talley NJ(3).
+
+Author information:
+(1)Leeds Gastroenterology Institute, St James's University Hospital, Leeds, UK 
+alexford@nhs.net.
+(2)Deakin University-Geelong Waterfront Campus, Geelong, Victoria, Australia.
+(3)Health, University of Newcastle, Callaghan, New South Wales, Australia.
+
+Postprandial, or meal-related, symptoms, such as abdominal pain, early 
+satiation, fullness or bloating, are often reported by patients with disorders 
+of gut-brain interaction, including functional dyspepsia (FD) or irritable bowel 
+syndrome (IBS). We propose that postprandial symptoms arise via a distinct 
+pathophysiological process. A physiological or psychological insult, for 
+example, acute enteric infection, leads to loss of tolerance to a previously 
+tolerated oral food antigen. This enables interaction of both the microbiota and 
+the food antigen itself with the immune system, causing a localised 
+immunological response, with activation of eosinophils and mast cells, and 
+release of inflammatory mediators, including histamine and cytokines. These have 
+more widespread systemic effects, including triggering nociceptive nerves and 
+altering mood. Dietary interventions, including a diet low in fermentable 
+oligosaccharides, disaccharides, monosaccharides and polyols, elimination of 
+potential food antigens or gluten, IgG food sensitivity diets or salicylate 
+restriction may benefit some patients with IBS or FD. This could be because the 
+restriction of these foods or dietary components modulates this 
+pathophysiological process. Similarly, drugs including proton pump inhibitors, 
+histamine-receptor antagonists, mast cell stabilisers or even tricyclic or 
+tetracyclic antidepressants, which have anti-histaminergic actions, all of which 
+are potential treatments for FD and IBS, act on one or more of these mechanisms. 
+It seems unlikely that food antigens driving intestinal immune activation are 
+the entire explanation for postprandial symptoms in FD and IBS. In others, 
+fermentation of intestinal carbohydrates, with gas release altering reflex 
+responses, adverse reactions to food chemicals, central mechanisms or nocebo 
+effects may dominate. However, if the concept that postprandial symptoms arise 
+from food antigens driving an immune response in the gastrointestinal tract in a 
+subset of patients is correct, it is paradigm-shifting, because if the choice of 
+treatment were based on one or more of these therapeutic targets, patient 
+outcomes may be improved.
+
+© Author(s) (or their employer(s)) 2024. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/gutjnl-2023-331833
+PMID: 38697774 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+6. Intern Emerg Med. 2024 Aug;19(5):1255-1266. doi: 10.1007/s11739-024-03595-7. 
+Epub 2024 Apr 12.
+
+Fecal calprotectin levels in patients with non-celiac wheat sensitivity: a proof 
+of concept.
+
+Seidita A(1)(2)(3), Giuliano A(1)(2), Soresi M(4), Chiavetta M(1)(2), Nardi 
+E(5), Mogavero G(6), Giannone G(7), Carroccio A(8)(9), Mansueto P(4).
+
+Author information:
+(1)Unit of Internal Medicine, "V. Cervello" Hospital, Ospedali Riuniti "Villa 
+Sofia-Cervello", Via Trabucco, 180, 90146, Palermo, Italy.
+(2)Department of Health Promotion Sciences, Maternal and Infant Care, Internal 
+Medicine and Medical Specialties (PROMISE), University of Palermo, Palermo, 
+Italy.
+(3)Institute for Biomedical Research and Innovation (IRIB), National Research 
+Council (CNR), Palermo, Italy.
+(4)Unit of Internal Medicine, Department of Health Promotion Sciences, Maternal 
+and Infant Care, Internal Medicine and Medical Specialties (PROMISE), University 
+of Palermo, Palermo, Italy.
+(5)Unit of Internal Medicine II, Department of Health Promotion Sciences, 
+Maternal and Infant Care, Internal Medicine and Medical Specialties (PROMISE), 
+University of Palermo, Palermo, Italy.
+(6)Unit of Gastroenterology, "V. Cervello" Hospital, Ospedali Riuniti "Villa 
+Sofia-Cervello", Palermo, Italy.
+(7)Pathology Unit, Department of Health Promotion Sciences, Maternal and Infant 
+Care, Internal Medicine and Medical Specialties (PROMISE), University of 
+Palermo, Palermo, Italy.
+(8)Unit of Internal Medicine, "V. Cervello" Hospital, Ospedali Riuniti "Villa 
+Sofia-Cervello", Via Trabucco, 180, 90146, Palermo, Italy. 
+antonio.carroccio@unipa.it.
+(9)Department of Health Promotion Sciences, Maternal and Infant Care, Internal 
+Medicine and Medical Specialties (PROMISE), University of Palermo, Palermo, 
+Italy. antonio.carroccio@unipa.it.
+
+Some data suggest the existence of intestinal inflammation in patients with 
+non-celiac wheat sensitivity (NCWS). We aimed to verify whether fecal 
+calprotectin (FCP), a marker of intestinal inflammation, could be used to 
+confirm this inflammatory status and to test its diagnostic performance in 
+differentiating NCWS from irritable bowel syndrome/functional dyspepsia 
+(IBS/FD). We conducted a multicenter study, comparing NCWS patients, diagnosed 
+by a double-blind placebo-controlled wheat challenge, with IBS/FD subjects. In 
+the retrospective phase, FCP values were analyzed to define the prevalence of 
+its positivity and its role as a NCWS diagnostic biomarker. In the prospective 
+phase we tested the effects of a strict 6-month wheat-free diet (WFD) on FCP 
+values. 31.3% (n = 63/201) of NCWS patients had above normal FCP values (NCWS 
+FCP +), whereas all IBS/FD patients proved negative (P = 0.0001). FCP using a 
+cut-off value > 41 µg/g showed a 58.6% sensitivity and a 98.0% specificity (AUC 
+0.755, 95% C.I. 0.702-0.837) in distinguishing NCWS from IBS/FD patients. Of the 
+63 NCWS FCP+, 65.1% had negative FCP values after ≥ 6 months of WFD, with a 
+significant reduction in FCP values (P < 0.0001). All NCWS FCP- subjects still 
+preserved negative FCP values after ≥ 6 months of WFD. Our study showed that FCP 
+can be a useful but supplementary diagnostic marker for differentiating between 
+NCWS and IBS/FD. Strict WFD adherence reduced FCP values, normalizing them in 
+65.1% of NCWS FCP + subjects. These data suggest the existence of two NCWS 
+subgroups: NCWS FCP + characterized by a probable predominantly 
+inflammatory/immunologic pattern and NCWS FCP- featuring non-immuno-mediated 
+etiopathogenetic mechanisms. (Registration number NCT01762579).
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s11739-024-03595-7
+PMCID: PMC11364563
+PMID: 38609737 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no conflicts 
+of interest regarding the publication of this paper.
+
+
+7. Cureus. 2024 Feb 15;16(2):e54244. doi: 10.7759/cureus.54244. eCollection 2024 
+Feb.
+
+The Role of Diet in the Management of Irritable Bowel Syndrome: A Comprehensive 
+Review.
+
+Jayasinghe M(1), Karunanayake V(2), Mohtashim A(3), Caldera D(4), Mendis P(2), 
+Prathiraja O(5), Rashidi F(1), Damianos JA(6).
+
+Author information:
+(1)Medicine, Nanjing Medical University, Nanjing, CHN.
+(2)Internal Medicine, Nanjing Medical University, Nanjing, CHN.
+(3)Medicine, Allama Iqbal Medical College, Lahore, PAK.
+(4)Medicine, 37 Military Hospital, Accra, GHA.
+(5)Medicine and Surgery, Nanjing Medical University, Nanjing, CHN.
+(6)Gastroenterology and Hepatology, Mayo Clinic, Rochester, USA.
+
+Irritable bowel syndrome (IBS) is a highly prevalent gastrointestinal disorder 
+that has a significant impact on the general population. The suboptimal medical 
+treatments available for IBS contribute to its large economic burden. The 
+pathophysiology of IBS is complex, and treatments often focus on managing 
+specific symptoms. Many individuals with IBS associate their symptoms with 
+specific food intake, leading to increased scientific research on the role of 
+diet in managing IBS. Dietary management has become a crucial aspect of IBS 
+treatment, with initial recommendations focusing on adopting a healthy eating 
+pattern and lifestyle. This comprehensive review aims to synthesise the current 
+literature on the impact of diet on IBS, exploring various dietary approaches to 
+managing IBS, including the low fermentable oligosaccharides, disaccharides, 
+monosaccharides, and polyols (FODMAP) diet, gluten-free diet, Mediterranean 
+diet, and tritordeum-based diet. It presents evidence from both experimental and 
+observational studies and summarises the underlying dietary triggers in IBS, 
+including gut microbiota dysbiosis, visceral hypersensitivity, and immune 
+activation. In addition, it explores the efficacy and limitations of the key 
+diet and lifestyle recommendations provided by dietary guidelines and scientific 
+literature, highlighting the importance of individualised dietary strategies 
+tailored to the unique needs of different types of IBS patients. By elucidating 
+the complex interplay between diet and IBS pathophysiology, this review provides 
+valuable insights into optimising dietary management approaches for improving 
+symptom control and enhancing the quality of life for individuals with IBS.
+
+Copyright © 2024, Jayasinghe et al.
+
+DOI: 10.7759/cureus.54244
+PMCID: PMC10944297
+PMID: 38496157
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+8. Nutrients. 2024 Jan 16;16(2):265. doi: 10.3390/nu16020265.
+
+Food Intolerances, Food Allergies and IBS: Lights and Shadows.
+
+Pasta A(1), Formisano E(2)(3), Calabrese F(1)(3), Plaz Torres MC(1)(3), Bodini 
+G(1)(3), Marabotto E(1)(3), Pisciotta L(2)(3), Giannini EG(1)(3), Furnari 
+M(1)(3).
+
+Author information:
+(1)Gastroenterology Unit, Department of Internal Medicine, University of Genoa, 
+16132 Genoa, Italy.
+(2)Dietetics and Clinical Nutrition Unit, Department of Internal Medicine, 
+University of Genoa, 16132 Genoa, Italy.
+(3)IRCCS Ospedale Policlinico San Martino, 16132 Genoa, Italy.
+
+This narrative review delves into the intricate relationship between irritable 
+bowel syndrome (IBS) and food intolerances. IBS, a chronic functional 
+gastrointestinal disorder, is characterized by symptoms like abdominal pain and 
+altered bowel habits. The prevalence of IBS has increased globally, especially 
+among young adults. Food and dietary habits play a crucial role in IBS 
+management. About 85-90% of IBS patients report symptom exacerbation linked to 
+specific food consumption, highlighting the strong connection between food 
+intolerances and IBS. Food intolerances often exhibit a dose-dependent pattern, 
+posing a challenge in identifying trigger foods. This issue is further 
+complicated by the complex nature of gastrointestinal physiology and varying 
+food compositions. This review discusses various dietary patterns and their 
+impact on IBS, including the low-FODMAP diet, gluten-free diet, and 
+Mediterranean diet. It highlights the importance of a personalized approach in 
+dietary management, considering individual symptom variability and dietary 
+history. In conclusion, this review emphasizes the need for accurate diagnosis 
+and holistic management of IBS, considering the complex interplay between 
+dietary factors and gastrointestinal pathophysiology. It underlines the 
+importance of patient education and adherence to treatment plans, acknowledging 
+the challenges posed by the variability in dietary triggers and the 
+psychological impact of dietary restrictions.
+
+DOI: 10.3390/nu16020265
+PMCID: PMC10821155
+PMID: 38257158 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+9. J Pers Med. 2023 Jul 20;13(7):1165. doi: 10.3390/jpm13071165.
+
+The Occurrence of Gluten-Related Antibodies, Sensitization to Selected Food 
+Allergens, and Antibodies against Intrinsic Factor in Adult Patients with 
+Diarrhea-Predominant Irritable Bowel Syndrome.
+
+Bierła JB(1), Cukrowska B(1), Skrzydło-Radomańska B(2), Prozorow-Król B(2), 
+Kurzeja-Mirosław A(2), Cichoż-Lach H(2), Laskowska K(2), Sowińska A(1), Majsiak 
+E(3).
+
+Author information:
+(1)Department of Pathomorphology, The Children's Memorial Health Institute, 
+Aleja Dzieci Polskich 20, 04-730 Warsaw, Poland.
+(2)Department of Gastroenterology, Medical University of Lublin, Jaczewskiego 8, 
+20-950 Lublin, Poland.
+(3)Department of Health Promotion, Faculty Health of Sciences, Medical 
+University of Lublin, Staszica 4/6, 20-081 Lublin, Poland.
+
+Irritable bowel syndrome (IBS) is a common functional gastrointestinal disorder. 
+Due to the possible overlap of IBS clinical symptoms with gluten-related 
+diseases, food allergies, and autoimmune gastritis (AIG), the aim of this study 
+was to present the frequency of anti-tissue transglutaminase 2 (TTG2) 
+autoantibodies, anti-deamidated gluten peptide (DGP) antibodies, specific 
+immunoglobulin E antibodies (sIgE) to selected food allergens, and 
+anti-intrinsic factor (IF) autoantibodies in adult patients with 
+diarrhea-predominant IBS (IBS-D). The study involved 244 patients (170 women) 
+aged 18-75 years. The antibodies were measured with the use of multiparametric 
+immunoassays. Elevated antibody concentrations, irrespective of the class of 
+tested antibody, occurred in 44 patients (17.6%), including 11 patients (4.5%) 
+with positive DGP antibodies, four patients (1.6%) with TTG2 autoantibodies, six 
+patients (2.5%) with IF autoantibodies, and 31 patients (12.7%) with sIgE to 
+food allergens. Sensitization to gluten, proteins from cow's milk, and bovine 
+serum albumin was found in 2.1%, 5.3%, and 9.0% of patients, respectively. Our 
+study showed a high percentage of positive results for the tested antibodies in 
+the IBD-D patients, which indicates the need to perform serological tests for 
+CD, food allergies, and AIG in this group of patients.
+
+DOI: 10.3390/jpm13071165
+PMCID: PMC10381837
+PMID: 37511778
+
+Conflict of interest statement: The authors declare no conflict of interest. 
+Nordic Biotic Sp. z o.o. company did not participate in the planning of the 
+study’s design or in the writing of the study’s protocol.
+
+
+10. Nutrients. 2023 May 17;15(10):2353. doi: 10.3390/nu15102353.
+
+New Insights and Evidence on "Food Intolerances": Non-Celiac Gluten Sensitivity 
+and Nickel Allergic Contact Mucositis.
+
+Greco N(1), Pisano A(2), Mezzatesta L(2), Pettinelli M(1), Meacci A(1), 
+Pignataro MG(2), Giordano C(2), Picarelli A(1).
+
+Author information:
+(1)Department of Translational and Precision Medicine, Sapienza University of 
+Rome, 00185 Rome, Italy.
+(2)Department of Radiology, Oncology and Pathology, Sapienza University of Rome, 
+00185 Rome, Italy.
+
+The clinical examination of patients often includes the observation of the 
+existence of a close relationship between the ingestion of certain foods and the 
+appearance of various symptoms. Until now, the occurrence of these events has 
+been loosely defined as food intolerance. Instead, these conditions should be 
+more properly defined as adverse food reactions (AFRs), which can consist of the 
+presentation of a wide variety of symptoms which are commonly identified as 
+irritable bowel syndrome (IBS). In addition, systemic manifestations such as 
+neurological, dermatological, joint, and respiratory disorders may also occur in 
+affected patients. Although the etiology and pathogenesis of some of them are 
+already known, others, such as non-celiac gluten sensitivity and adverse 
+reactions to nickel-containing foods, are not yet fully defined. The study aimed 
+to evaluate the relationship between the ingestion of some foods and the 
+appearance of some symptoms and clinical improvements and detectable 
+immunohistochemical alterations after a specific exclusion diet. One hundred and 
+six consecutive patients suffering from meteorism, dyspepsia, and nausea 
+following the ingestion of foods containing gluten or nickel were subjected to 
+the GSRS questionnaire which was modified according to the "Salerno experts' 
+criteria". All patients underwent detection of IgA antibodies to tissue 
+transglutaminase, oral mucosal patch tests with gluten and nickel (OMPT), and 
+EGDS, including biopsies. Our data show that GSRS and OMPT, the use of APERIO 
+CS2 software, and the endothelial marker CD34 could be suggested as useful tools 
+in the diagnostic procedure of these new pathologies. Larger, multi-center 
+clinical trials could be helpful in defining these emerging clinical problems.
+
+DOI: 10.3390/nu15102353
+PMCID: PMC10222428
+PMID: 37242236 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

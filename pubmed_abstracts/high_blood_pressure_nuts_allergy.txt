@@ -1,0 +1,333 @@
+1. J Allergy Clin Immunol Pract. 2023 Aug;11(8):2524-2533.e3. doi: 
+10.1016/j.jaip.2023.03.005. Epub 2023 Mar 15.
+
+Severe Anaphylactic Reactions to Home Doses of Oral Immunotherapy for Food 
+Allergy.
+
+Nachshon L(1), Schwartz N(2), Levy MB(3), Goldberg M(4), Epstein-Rigbi N(4), 
+Katz Y(4), Elizur A(4).
+
+Author information:
+(1)Institute of Allergy, Immunology, and Pediatric Pulmonology, Yitzhak Shamir 
+Medical Center, Beer Yaakov, Israel; Department of Medicine, Sackler Faculty of 
+Medicine, Tel Aviv University, Tel Aviv, Israel. Electronic address: 
+Liatna2@gmail.com.
+(2)School of Public Health, University of Haifa, Haifa, Israel.
+(3)Institute of Allergy, Immunology, and Pediatric Pulmonology, Yitzhak Shamir 
+Medical Center, Beer Yaakov, Israel.
+(4)Institute of Allergy, Immunology, and Pediatric Pulmonology, Yitzhak Shamir 
+Medical Center, Beer Yaakov, Israel; Department of Pediatrics, Sackler Faculty 
+of Medicine, Tel Aviv University, Tel Aviv, Israel.
+
+Comment in
+    J Allergy Clin Immunol Pract. 2024 Mar;12(3):797. doi: 
+10.1016/j.jaip.2023.11.015.
+
+BACKGROUND: Severe anaphylactic reactions to home doses may occur during food 
+allergy oral immunotherapy (OIT).
+OBJECTIVE: To study the rate and risk factors for such reactions.
+METHODS: We studied all patients aged greater than 3.5 years who completed OIT 
+in a single center between April 2010 and January 2020. All home 
+epinephrine-treated reactions (HETRs) were identified. High-grade HETRs 
+(HG-HETRs) were defined as HETRs involving respiratory (SpO2 of 94% or less), 
+cardiovascular (low blood pressure), or central nervous system impairment (loss 
+of consciousness). We investigated the rate and risk factors for HG-HETRs.
+RESULTS: A total of 1,637 OIT treatments were studied: milk (880), peanut (346), 
+tree nuts (221), sesame (115), and egg (75). Of 390 identified HETRs, 30 
+HG-HETRs occurred during 27 treatments (1.65% of all treatments). Nearly all (26 
+of 30) were during milk OIT in patients with house dust mite (HDM) sensitization 
+and asthma (26 of 30 each). Of the 30 patients with HG-HETRs, 21 recovered with 
+one or two epinephrine treatments, but nine (0.55% of all treatments) did not 
+respond to a second dose of epinephrine and were deemed to have refractory 
+anaphylaxis. Three patients required intensive care unit admission and three 
+received epinephrine drip, but none required ventilatory support. Risk factors 
+for HG-HETRs included milk OIT (P = .031), asthma (P = .02) and HDM 
+sensitization (P = .02). No specific triggers for HG-HETR were identified. Of 
+patients with HG-HETRs, 25.9% were fully desensitized, including the four 
+non-milk treated patients; 22.2% were partially desensitized; and 51.9% failed.
+CONCLUSIONS: High-grade HETRs are uncommon, particularly refractory anaphylactic 
+reactions to home OIT doses. Although milk OIT, asthma, and HDM sensitization 
+are the main risk factors for such reactions, identification of patients who are 
+at risk is challenging.
+
+Copyright © 2023 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2023.03.005
+PMID: 36925102 [Indexed for MEDLINE]
+
+
+2. Food Res Int. 2019 Nov;125:108640. doi: 10.1016/j.foodres.2019.108640. Epub
+2019  Aug 27.
+
+Identification and characterization of major IgE binding of purified allergenic 
+protein (11 kDa) from Buchanania lanzan.
+
+Kumar S(1), Khan S(1), Verma AK(2), Dwivedi PD(3).
+
+Author information:
+(1)Food, Drug, and Chemical Toxicology Group, CSIR-Indian Institute of 
+Toxicology Research (CSIR-IITR), VishVigyan Bhawan, 31, M.G. Marg, Lucknow 
+226001, Uttar Pradesh, India; Academy of Scientific and Innovative Research 
+(AcSIR), CSIR-IITR Campus, Lucknow, India.
+(2)Department of Respiratory Medicine, King George's Medical University, Lucknow 
+226001, Uttar Pradesh, India.
+(3)Food, Drug, and Chemical Toxicology Group, CSIR-Indian Institute of 
+Toxicology Research (CSIR-IITR), VishVigyan Bhawan, 31, M.G. Marg, Lucknow 
+226001, Uttar Pradesh, India; Academy of Scientific and Innovative Research 
+(AcSIR), CSIR-IITR Campus, Lucknow, India. Electronic address: 
+pddwivedi@yahoo.com.
+
+Tree nut along with peanut are among the most potent food allergens, responsible 
+for frequently inducing the IgE-mediated hypersensitivity reaction. Our aim was 
+identification, purification of Buchanania lanzan (Bl-11 kDa) protein along with 
+characterization and assessment of allergenic potential of clinically relevant 
+allergen. Further study was executed in clinical samples of sensitive patients, 
+BALB/c mice, and in-vitro. A major IgE binding 11-kDa protein from Buchanania 
+lanzan was purified by anion exchange chromatography, reverse phase high 
+pressure liquid chromatography (RP-HPLC) and characterized using peptide mass 
+fingerprinting (PMF). Buchanania lanzan (Bl-11 kDa) protein shows the pepsin 
+resistance and depicts IgE interacting capacity to Buchanania lanzan allergic 
+patient's sera as well as sensitized mice sera. It also showed increase in the 
+allergic mediator's like IgE, IgG1, histamine levels in sensitized mice sera. 
+Further study was carried out in-vitro (RBL-2H3 cells) and increased release 
+mast cell degranulation mediators such as β-hexosaminidase, histamine, CysL and 
+PGD2 in the culture supernatant was found. The activation of Th2 
+cytokines/transcription factors and expression of molecular markers in the 
+downstream of mast cell signaling were up-regulated while the Th1 
+transcriptional factor (T-bet) was decreased in Bl-11 kDa protein treated mice. 
+Conclusively, our study demonstrates Buchanania lanzan purified protein to be 
+potential allergen that may generate an allergic reaction in sensitized 
+individuals, and one of the most important IgE binding protein responsible for 
+its allergenicity.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodres.2019.108640
+PMID: 31554061 [Indexed for MEDLINE]
+
+
+3. Int J Vitam Nutr Res. 2020 Oct;90(5-6):564-574. doi:
+10.1024/0300-9831/a000529.  Epub 2019 Feb 12.
+
+Physicochemical properties and health benefits of pistachio nuts.
+
+Esmaeili Nadimi A(1)(2), Ahmadi Z(3), Falahati-Pour SK(4), Mohamadi M(4), Nazari 
+A(1)(5), Hassanshahi G(6)(7), Ekramzadeh M(8).
+
+Author information:
+(1)Non-Communicable Diseases Research Center, Rafsanjan University of Medical 
+Sciences, Rafsanjan, Iran.
+(2)Dep. of Cardiology, Medical School, Rafsanjan University of Medical Sciences, 
+Rafsanjan, Iran.
+(3)Occupational Environment Research Center, Rafsanjan University of Medical 
+Sciences, Rafsanjan, Iran.
+(4)Pistachio Safety Research Center, Rafsanjan University of Medical Sciences, 
+Rafsanjan, Iran.
+(5)Dept. of Surgery, School of Medicine, Rafsanjan University of Medical 
+Science, Rafsanjan, Iran.
+(6)Molecular Medicine Research Center, Research Institute of Basic Medical 
+Sciences, Rafsanjan University of Medical Sciences, Rafsanjan, Iran.
+(7)Dept. of Immunology, Medical School, Rafsanjan University of Medical 
+Sciences, Rafsanjan, Iran.
+(8)Nutrition Research Center, Department of Clinical Nutrition, School of 
+Nutritoin and Food Sciences, Shiraz University of Medical Sciences, Shiraz, 
+Iran.
+
+The genus of Pistacia plant systematically fits into the family of 
+Anacardiaceae. Pistachios contain protein, carbohydrate, dietary fibers, fat, 
+folic acid, vitamin K, magnesium and potassium, gama-tocopherols, 
+phytochemicals, and polyphenols. Collectively, these constituents have been 
+shown to possess antioxidant and anti-inflammatory functions to improve overall 
+health when consumed as a healthy diet. We searched the following keywords 
+within the literature databases: pistachio, heart disorders, lipids, weight, 
+antioxidants, and allergy. Further searching theses keywords, we have found 50 
+articles in PubMed, 40 articles in ISI web of knowledge and 30 articles in 
+Google Scholar. We have selected 100 articles, among them 80 articles were used 
+as the references of this review. In the current article, we have discussed the 
+most recent data published regarding the regulatory effects of pistachios on 
+several clinical states such as heart related disorders, hyperlipidemia, 
+hypertension, vascular stiffness and endothelial and gut functions, weight 
+management, glucose metabolism, kidney function and finally allergies.
+
+DOI: 10.1024/0300-9831/a000529
+PMID: 30747609 [Indexed for MEDLINE]
+
+
+4. BMJ. 2017 May 9;357:j1794. doi: 10.1136/bmj.j1794.
+
+The Dietary Approaches to Stop Hypertension (DASH) diet, Western diet, and risk 
+of gout in men: prospective cohort study.
+
+Rai SK(1)(2)(3), Fung TT(4)(5), Lu N(1)(2), Keller SF(1), Curhan GC(2)(6), Choi 
+HK(7)(2)(3).
+
+Author information:
+(1)Division of Rheumatology, Allergy and Immunology, Massachusetts General 
+Hospital, Harvard Medical School, Boston, MA, 02114, USA.
+(2)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA.
+(3)Arthritis Research Canada, Richmond, BC, Canada.
+(4)Department of Nutrition, Simmons College, Boston, MA, USA.
+(5)Department of Nutrition, Harvard TH Chan School of Public Health, Boston, MA, 
+USA.
+(6)Division of Renal (Kidney) Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA.
+(7)Division of Rheumatology, Allergy and Immunology, Massachusetts General 
+Hospital, Harvard Medical School, Boston, MA, 02114, USA hchoi@partners.org.
+
+Objective To prospectively examine the relation between the Dietary Approaches 
+to Stop Hypertension (DASH) and Western diets and risk of gout (ie, the clinical 
+endpoint of hyperuricemia) in men.Design Prospective cohort study.Setting The 
+Health Professionals Follow-up Study.Participants 44 444 men with no history of 
+gout at baseline. Using validated food frequency questionnaires, each 
+participant was assigned a DASH dietary pattern score (based on high intake of 
+fruits, vegetables, nuts and legumes, low fat dairy products, and whole grains, 
+and low intake of sodium, sweetened beverages, and red and processed meats) and 
+a Western dietary pattern score (based on high intake of red and processed 
+meats, French fries, refined grains, sweets, and desserts).Main outcome 
+measure Risk of incident gout meeting the preliminary American College of 
+Rheumatology survey criteria for gout, adjusting for potential confounders, 
+including age, body mass index, hypertension, diuretic use, and alcohol 
+intake.Results During 26 years of follow-up, 1731 confirmed cases of incident 
+gout were documented. A higher DASH dietary pattern score was associated with a 
+lower risk for gout (adjusted relative risk for extreme fifths 0.68, 95% 
+confidence interval 0.57 to 0.80, P value for trend <0.001). In contrast, a 
+higher Western dietary pattern score was associated with an increased risk for 
+gout (1.42, 1.16 to 1.74, P=0.005).Conclusion The DASH diet is associated with a 
+lower risk of gout, suggesting that its effect of lowering uric acid levels in 
+individuals with hyperuricemia translates to a lower risk of gout. Conversely, 
+the Western diet is associated with a higher risk of gout. The DASH diet may 
+provide an attractive preventive dietary approach for men at risk of gout.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.j1794
+PMCID: PMC5423545
+PMID: 28487277 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and 
+declare: no support from any organization for the submitted work other than that 
+described above; no financial relationships with any organizations that might 
+have an interest in the submitted work in the previous three years. HKC reports 
+grants from AstraZeneca, consulting fees from Takeda, and consulting fees from 
+Selecta outside the submitted work.
+
+
+5. Food Addit Contam Part A Chem Anal Control Expo Risk Assess. 
+2015;32(10):1607-16. doi: 10.1080/19440049.2015.1070235. Epub 2015 Jul 29.
+
+High-resolution Orbitrap™-based mass spectrometry for rapid detection of peanuts 
+in nuts.
+
+Monaci L(1), De Angelis E(1), Bavaro SL(1), Pilolli R(1).
+
+Author information:
+(1)a Institute of Sciences of Food Production , National Research Council of 
+Italy (ISPA-CNR) , Bari , Italy.
+
+Peanut represents one of the most harmful allergenic foods capable of triggering 
+severe and sometimes lethal reactions in allergic consumers upon ingestion of 
+even small amounts. Several proteins capable of inducing allergic reactions that 
+have been recognised by patients' IgE antibodies have been identified from this 
+nut source. Methods mainly based on ELISA assays have been developed in order to 
+detect peanuts in several food commodities. In addition LC-MS/MS methods based 
+on different mass analysers have also been devised for tracing peanut 
+contamination in different foods achieving low limits of detection. The 
+applicability of a benchtop high-resolution Exactive™ mass spectrometer has 
+never been investigated for the rapid screening of peanut contamination in 
+complex food matrices like mixtures of nuts. We report in this paper the design 
+of suitable peanut markers and the development of an high-resolution Orbitrap™ 
+mass spectrometer-based method for peanut detection in a mixture of nuts 
+species. With this aim, different types of samples were prepared: (1) nuts-based 
+powder made up of a mixture of hazelnuts, pistachios, almonds and walnuts; and 
+(2) nuts powder fortified with peanuts. Different levels of fortifications were 
+produced and the applicability of the method was tested. Finally, a subset of 
+six peptides fulfilling specific analytical requirements was chosen to check the 
+suitability of the method tailored to the detection of peanuts in nuts-based 
+products, and two of them, peptides VYD and WLG, were selected as quantitative 
+markers. The method proved to be a suitable screening tool to assess the 
+presence of traces of peanuts in other tree nuts with a limit of detection as 
+low as 4 µg of peanuts proteins or 26 µg of peanuts in 1 g of matrix.
+
+DOI: 10.1080/19440049.2015.1070235
+PMID: 26156033 [Indexed for MEDLINE]
+
+
+6. Nutrients. 2010 Jul;2(7):652-682. doi: 10.3390/nu2070652. Epub 2010 Jun 24.
+
+Health benefits of nut consumption.
+
+Ros E(1).
+
+Author information:
+(1)Lipid Clinic, Endocrinology and Nutrition Service, Institutd'Investigacions 
+Biomèdiques August Pii Sunyer, Hospital Clínic, Barcelona and Ciber 
+Fisiopatología de la Obesidady Nutrición (CIBERobn), Instituto de Salud Carlos 
+III (ISCIII), Spain.
+
+Nuts (tree nuts and peanuts) are nutrient dense foods with complex matrices rich 
+in unsaturated fatty and other bioactive compounds: high-quality vegetable 
+protein, fiber, minerals, tocopherols, phytosterols, and phenolic compounds. By 
+virtue of their unique composition, nuts are likely to beneficially impact 
+health outcomes. Epidemiologic studies have associated nut consumption with a 
+reduced incidence of coronary heart disease and gallstones in both genders and 
+diabetes in women. Limited evidence also suggests beneficial effects on 
+hypertension, cancer, and inflammation. Interventional studies consistently show 
+that nut intake has a cholesterol-lowering effect, even in the context of 
+healthy diets, and there is emerging evidence of beneficial effects on oxidative 
+stress, inflammation, and vascular reactivity. Blood pressure, visceral 
+adiposity and the metabolic syndrome also appear to be positively influenced by 
+nut consumption. Thus it is clear that nuts have a beneficial impact on many 
+cardiovascular risk factors. Contrary to expectations, epidemiologic studies and 
+clinical trials suggest that regular nut consumption is unlikely to contribute 
+to obesity and may even help in weight loss. Safety concerns are limited to the 
+infrequent occurrence of nut allergy in children. In conclusion, nuts are 
+nutrient rich foods with wide-ranging cardiovascular and metabolic benefits, 
+which can be readily incorporated into healthy diets.
+
+DOI: 10.3390/nu2070652
+PMCID: PMC3257681
+PMID: 22254047 [Indexed for MEDLINE]
+
+
+7. J Nutr. 2001 Nov;131(11):2837-42. doi: 10.1093/jn/131.11.2837.
+
+Walnut polyphenolics inhibit in vitro human plasma and LDL oxidation.
+
+Anderson KJ(1), Teuber SS, Gobeille A, Cremin P, Waterhouse AL, Steinberg FM.
+
+Author information:
+(1)Department of Internal Medicine, Division of Rheumatology, Allergy and 
+Clinical Immunology, School of Medicine, University of California, Davis, CA, 
+USA.
+
+Recent epidemiologic studies have associated nut consumption with a reduced 
+incidence of cardiovascular mortality. However, little is known about the 
+contribution of nut polyphenols to antioxidant and cardiovascular protection. In 
+this investigation, polyphenol-rich extracts from English walnuts (Juglans 
+regia) were studied and compared with ellagic acid for their ability to inhibit 
+in vitro plasma and LDL oxidation, as well as their effects on LDL 
+alpha-tocopherol during oxidative stress. In addition, the Trolox equivalent 
+antioxidant activity (TEAC) was determined and liquid chromatography 
+electrospray detection mass spectrometry (LC-ELSD/MS) analyses of the walnut 
+extracts were performed. 2,2'-Azobis'(2-amidino propane) hydrochloride 
+(AAPH)-induced LDL oxidation was significantly inhibited by 87 and 38% with the 
+highest concentration (1.0 micromol/L) of ellagic acid and walnut extract, 
+respectively. In addition, copper-mediated LDL oxidation was inhibited by 14 and 
+84% in the presence of ellagic acid and walnut extract, respectively, with a 
+modest, significant LDL alpha-tocopherol sparing effect observed. Plasma 
+thiobarbituric acid reacting substance (TBARS) formation was significantly 
+inhibited by walnut extracts and ellagic acid in a dose-dependent manner, and 
+the extracts exhibited a TEAC value greater than that of alpha-tocopherol. 
+LC-ELSD/MS analysis of the walnut extracts identified ellagic acid monomers, 
+polymeric ellagitannins and other phenolics, principally nonflavonoid compounds. 
+These results demonstrate that walnut polyphenolics are effective inhibitors of 
+in vitro plasma and LDL oxidation. The polyphenolic content of walnuts should be 
+considered when evaluating their antiatherogenic potential.
+
+DOI: 10.1093/jn/131.11.2837
+PMID: 11694605 [Indexed for MEDLINE]

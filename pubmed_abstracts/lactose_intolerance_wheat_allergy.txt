@@ -1,0 +1,426 @@
+1. Nutrients. 2023 Nov 30;15(23):4969. doi: 10.3390/nu15234969.
+
+Myths and Facts about Food Intolerance: A Narrative Review.
+
+Zingone F(1)(2), Bertin L(1)(2), Maniero D(1), Palo M(1), Lorenzon G(1), 
+Barberio B(2), Ciacci C(3), Savarino EV(1)(2).
+
+Author information:
+(1)Department of Surgery, Oncology and Gastroenterology, University of Padua, 
+35124 Padua, Italy.
+(2)Gastroenterology Unit, Azienda Ospedale-Università Padova, 35128 Padua, 
+Italy.
+(3)Department of Medicine, Surgery and Dentistry, Scuola Medica Salernitana, 
+University of Salerno, 84081 Salerno, Italy.
+
+Most adverse reactions to food are patient self-reported and not based on 
+validated tests but nevertheless lead to dietary restrictions, with patients 
+believing that these restrictions will improve their symptoms and quality of 
+life. We aimed to clarify the myths and reality of common food intolerances, 
+giving clinicians a guide on diagnosing and treating these cases. We performed a 
+narrative review of the latest evidence on the widespread food intolerances 
+reported by our patients, giving indications on the clinical presentations, 
+possible tests, and dietary suggestions, and underlining the myths and reality. 
+While lactose intolerance and hereditary fructose intolerance are based on 
+well-defined mechanisms and have validated diagnostic tests, non-coeliac gluten 
+sensitivity and fermentable oligosaccharide, disaccharide, monosaccharide, and 
+polyol (FODMAP) intolerance are mainly based on patients' reports. Others, like 
+non-hereditary fructose, sorbitol, and histamine intolerance, still need more 
+evidence and often cause unnecessary dietary restrictions. Finally, the main 
+outcome of the present review is that the medical community should work to 
+reduce the spread of unvalidated tests, the leading cause of the problematic 
+management of our patients.
+
+DOI: 10.3390/nu15234969
+PMCID: PMC10708184
+PMID: 38068827 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2. J Allergy Clin Immunol Pract. 2024 Mar;12(3):607-619. doi: 
+10.1016/j.jaip.2023.09.027. Epub 2023 Sep 30.
+
+Nonallergic Diseases Associated With Foods.
+
+Patel PK(1), Tanpowpong P(2), Sriaroon P(1), Lockey RF(3).
+
+Author information:
+(1)Department of Pediatric Medicine, Johns Hopkins All Children's Hospital, St 
+Petersburg, Fla; Division of Allergy and Immunology, Department of Pediatrics, 
+University of South Florida Morsani College of Medicine, Tampa, Fla.
+(2)Division of Gastroenterology, Department of Pediatrics, Faculty of Medicine 
+Ramathibodi Hospital, Mahidol University, Bangkok, Thailand.
+(3)Division of Allergy and Immunology, Department of Internal Medicine, 
+University of South Florida Morsani College of Medicine, Tampa, Fla. Electronic 
+address: rlockey@usf.edu.
+
+Clinicians are faced with evaluating real and alleged reactions to foods that 
+may be allergic or nonallergic. Pathogenesis, diagnosis, and treatment of 
+various non-IgE-mediated diseases are discussed in this review. These 
+food-related conditions range from mild to severe. Referral for an allergy 
+workup may be pursued despite the lack of IgE-mediated symptoms. Diagnostic 
+testing is available for defined non-IgE-mediated food diseases that are either 
+immunologic or nonimmunologic. These include celiac disease and related 
+disorders, carbohydrate maldigestion, pancreatic insufficiency, and histamine 
+intolerance. In contrast, there is a paucity of definitive studies to prove food 
+intolerance diseases. There are no definitive diagnostic criteria or testing for 
+nonceliac gluten sensitivity. Functional gastrointestinal disorders, such as 
+irritable bowel syndrome, are better stratified diagnostically but still lack 
+reliable testing. Both nonceliac gluten sensitivity and irritable bowel syndrome 
+are linked to dietary triggers including fermentable oligosaccharides, 
+disaccharides, monosaccharides, and polyols. Therefore, dietary alteration alone 
+may be diagnostic and therapeutic when all other conditions are ruled out. These 
+conditions are important considerations when evaluating a patient with history 
+of a food reaction. There is little evidence that foods are causative in other 
+ailments such as acne, migraines, and nasal congestion and hypersecretion.
+
+Copyright © 2023 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2023.09.027
+PMID: 37783385 [Indexed for MEDLINE]
+
+
+3. Internist (Berl). 2022 Mar;63(3):281-290. doi: 10.1007/s00108-021-01257-w.
+Epub  2022 Feb 9.
+
+[Food sensitivities of the digestive tract-Part 2: Food intolerances].
+
+[Article in German; Abstract available in German from the publisher]
+
+Bischoff SC(1).
+
+Author information:
+(1)Institut für Ernährungsmedizin, Universität Hohenheim, Fruwirthstr. 12, 
+70593, Stuttgart, Deutschland. bischoff.stephan@uni-hohenheim.de.
+
+Adverse reactions to food affect about one third of the population. They are 
+based on very different mechanisms and are triggered by specific foods. They are 
+divided into food intolerances, which manifest mainly in the gastrointestinal 
+tract and food allergies, which can also cause extraintestinal symptoms and have 
+an immunological genesis. In adults, food intolerances are significantly more 
+common than food allergies with a prevalence of approximately 10-20%. The most 
+important food intolerances are sugar intolerances, such as lactose and fructose 
+intolerance but intolerances to wheat also play an increasing role. The 
+diagnostics of food intolerances require extensive exclusion diagnostics, 
+whereby in particular irritable bowel syndrome and intestinal dysbiosis must be 
+differentiated. The therapy of food intolerance is primarily based on a targeted 
+elimination diet. In this advanced education article the most important food 
+intolerances are discussed.
+
+Publisher: Nahrungsmittelunverträglichkeiten (NMU) betreffen etwa ein Drittel 
+der Bevölkerung. Sie werden durch umschriebene Nahrungsmittel ausgelöst, wobei 
+sehr unterschiedliche Mechanismen zugrunde liegen. NMU werden unterteilt in 
+Nahrungsmittelintoleranzen (NMI), die sich vor allem im Gastrointestinaltrakt 
+manifestieren, und Nahrungsmittelallergien (NMA), die auch extraintestinal 
+Symptome hervorrufen können und eine immunologische Genese haben. Bei 
+Erwachsenen sind NMI mit einer Prävalenz von etwa 10–20 % deutlich häufiger als 
+NMA. Die wichtigsten NMI sind Zuckerintoleranzen wie Laktose- und 
+Fruktoseintoleranz, aber auch Intoleranzen gegen Weizen spielen eine zunehmende 
+Rolle. Die Diagnostik von NMI erfordert eine umfangreiche Ausschlussdiagnostik, 
+wobei insbesondere das Reizdarmsyndrom und die intestinale Dysbiose abgegrenzt 
+werden müssen. Die Therapie der NMI basiert primär auf einer gezielten 
+Eliminationsdiät. Im vorliegenden Fortbildungsbeitrag wird auf die wichtigsten 
+NMI eingegangen.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00108-021-01257-w
+PMID: 35138431 [Indexed for MEDLINE]
+
+
+4. Nutrients. 2021 Dec 21;14(1):2. doi: 10.3390/nu14010002.
+
+Nutrition in Patients with Lactose Malabsorption, Celiac Disease, and Related 
+Disorders.
+
+Alkalay MJ(1).
+
+Author information:
+(1)Department of Pediatrics, Division of Pediatric Gastroenterology, Hepatology 
+and Nutrition, University of Texas Southwestern, Dallas, TX 75235, USA.
+
+Lactose malabsorption (LM), celiac disease (CD), non-celiac gluten sensitivity 
+(NCGS), and irritable bowel syndrome (IBS) are conditions associated with food 
+triggers, improvement after withdrawal, treatment with dietary restriction, and 
+subsequent nutritional detriments. LM occurs when there is incomplete hydrolysis 
+of lactose due to lactase deficiency and frequently produces abdominal symptoms; 
+therefore, it can cause lactose intolerance (LI). A lactose-restricted diet is 
+frequently recommended, although it can potentially lead to nutrient 
+deficiencies. Furthermore, lactose is an essential component of fermentable 
+oligo-, di-, and monosaccharides and polyols (FODMAPs) and is subsequently 
+associated with intolerance to these compounds, especially in IBS. LM commonly 
+presents in CD. Nutritional deficits are common in CD and can continue even on a 
+gluten-free diet (GFD). Conditions triggered by gluten are known as 
+gluten-related disorders (GRDs), including CD, wheat allergy, and NCGS. IBS can 
+also be associated with a gluten sensitivity. A GFD is the treatment for CD, 
+GRDs, and gluten sensitive IBS, although compliance with this restricted diet 
+can be difficult. Strict dietary therapies can have a negative effect on quality 
+of life. This review aims to provide an overview of the difficult nutritional 
+elements of these disorders, which are critical for medical providers to 
+recognize when managing these patients.
+
+DOI: 10.3390/nu14010002
+PMCID: PMC8746545
+PMID: 35010876 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+5. Nutrients. 2021 Jul 9;13(7):2357. doi: 10.3390/nu13072357.
+
+Living with Food Hypersensitivity as an Adolescent Impairs Health Related 
+Quality of Life Irrespective of Disease Severity: Results from a 
+Population-Based Birth Cohort.
+
+Jonsson M(1)(2)(3), Ekström S(1)(2), Protudjer JLP(4)(5)(6)(7), Bergström 
+A(1)(2), Kull I(3)(8).
+
+Author information:
+(1)Institute of Environmental Medicine, Karolinska Institutet, 171 77 Stockholm, 
+Sweden.
+(2)Centre for Occupational and Environmental Medicine, Region Stockholm, 
+Solnavägen 4, 113 65 Stockholm, Sweden.
+(3)Department of Clinical Science and Education, Södersjukhuset, Karolinska 
+Institutet, 118 83 Stockholm, Sweden.
+(4)Department of Pediatrics and Child Health, Rady Faculty of Health Sciences, 
+University of Manitoba, Winnipeg, MB R3A 1S1, Canada.
+(5)George and Fay Yee Centre for Healthcare Innovation, Winnipeg, MB R3E 0T6, 
+Canada.
+(6)The Children's Hospital Research Institute of Manitoba, Winnipeg, MB R3E 3P4, 
+Canada.
+(7)The Centre for Allergy Research, Karolinska Institutet, 171 77 Stockholm, 
+Sweden.
+(8)Sachs' Children and Youth Hospital, 118 83 Stockholm, Sweden.
+
+Food hypersensitivity (FHS) refers to food-related symptoms, with or without 
+concurrent Immunoglobulin E (IgE) antibodies related to food(s). It remains 
+unclear how different FHS phenotypes affect health-related quality of life 
+(HRQoL). We examined self-reported HRQoL (with the generic instrument EQ-5D 
+(dimensions and a Visual Analogue Scale (VAS), range 0-100) in association with 
+phenotypes of FHS, and food-specific symptoms among adolescents (n = 2990) from 
+a population-based birth cohort. Overall, 22% of the adolescents had FHS. 
+Compared to adolescents without FHS, those with FHS reported more problems in 
+the dimensions of pain/discomfort (p < 0.001), and anxiety/depression (p = 
+0.007). Females with FHS reported more problems than males in these dimensions 
+(p < 0.001). Different FHS phenotypes (IgE-sensitization, allergic co-morbidity, 
+and severity of symptoms) were not associated with differences in HRQoL. EQ-VAS 
+scores were lowest for adolescents with symptoms for wheat vs. no wheat, median 
+80 vs. 89, p = 0.04) and milk vs. no milk (median 85 vs. 90, p = 0.03). 
+Physician-diagnosed lactose intolerance median EQ-VAS was 80 vs. 90, p = 0.03 
+and also associated with more problems in the dimension of anxious/depression. 
+In conclusion, FHS is associated with lower HRQoL in adolescence, irrespective 
+of phenotypes, but differentially affects females vs. males, and those with vs. 
+without symptoms for milk or wheat.
+
+DOI: 10.3390/nu13072357
+PMCID: PMC8308910
+PMID: 34371866 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+6. Nutrients. 2021 Feb 9;13(2):575. doi: 10.3390/nu13020575.
+
+Impact of Diet on Symptoms of the Irritable Bowel Syndrome.
+
+Spiller R(1).
+
+Author information:
+(1)NIHR Nottingham Biomedical Research Centre, Nottingham NG7 2UH, UK.
+
+Irritable bowel syndrome (IBS), with its key features of abdominal pain and 
+disturbed bowel habit, is thought by both patients and clinicians to be strongly 
+influenced by diet. However, the complexities of diet have made identifying 
+specific food intolerances difficult. Eating disorders can masquerade as IBS and 
+may need specialist treatment. While typical food allergy is readily 
+distinguished from IBS, the mechanisms of gut-specific adverse reactions to food 
+are only just being defined. These may include gut-specific mast cell activation 
+as well as non-specific activation by stressors and certain foods. Visceral 
+hypersensitivity, in some cases mediated by mast cell activation, plays a key 
+part in making otherwise innocuous gut stimuli painful. Rapidly fermented poorly 
+absorbed carbohydrates produce gaseous distension as well as short-chain fatty 
+acids and lowering of colonic pH which may cause symptoms in IBS patients. 
+Limiting intake of these in low FODMAP and related diets has proven popular and 
+apparently successful in many patients. Existing diet, colonic microbiota and 
+their metabolic products may be helpful in predicting who will respond. Wheat 
+intolerance may reflect the fact that wheat is often a major source of dietary 
+FODMAPs. It may also be either a forme fruste of coeliac disease or non-specific 
+immune activation. Wheat exclusion can be successful in some of these patients. 
+More research is needed to fully understand the mechanisms of food intolerances 
+and how to best ameliorate them in a personalised medicine approach to diet in 
+IBS.
+
+DOI: 10.3390/nu13020575
+PMCID: PMC7915127
+PMID: 33572262 [Indexed for MEDLINE]
+
+Conflict of interest statement: RS has received grant support from Ironwood 
+Pharmaceuticals, Zespri International, Sanofi-Aventis and lecture fees from 
+Menarini and Alfawasserman.
+
+
+7. Food Res Int. 2020 Dec;138(Pt B):109780. doi: 10.1016/j.foodres.2020.109780. 
+Epub 2020 Oct 15.
+
+Food and food products associated with food allergy and food intolerance - An 
+overview.
+
+Muthukumar J(1), Selvasekaran P(1), Lokanadham M(1), Chidambaram R(2).
+
+Author information:
+(1)Instrumental and Food Analysis Laboratory, School of Biosciences and 
+Technology, Vellore Institute of Technology, Vellore, Tamil Nadu 632014, India.
+(2)Instrumental and Food Analysis Laboratory, School of Biosciences and 
+Technology, Vellore Institute of Technology, Vellore, Tamil Nadu 632014, India. 
+Electronic address: cramalingam@vit.ac.in.
+
+Immune-mediated food allergy and non-immune mediated food intolerance are 
+categorized as the most common adverse reactions resulting from the ingestion of 
+certain foods. As there is no standard treatment, the possible remedy to avoid 
+exposure to these adverse reactions is adhering to a strict diet that eliminates 
+allergic and intolerant foods. The commonly consumed foods including dairy 
+products, egg, fish, shellfish, tree nuts, peanut, soybean, and wheat-based 
+products are proven to cause food allergy. Foods containing lactose, gluten, 
+high FODMAPs, biogenic amines, and certain food additives leads to potential 
+health risks in intolerant individuals. Besides, there are various foods whose 
+mechanism of action in triggering food allergy and intolerance is yet to be 
+defined. However, the public in-depth understanding of natural foods, processed 
+foods, and packaged food products that induce allergic reactions and intolerance 
+remains low. Therefore, awareness of diet that partially or completely excludes 
+the intake of certain foods associated with these reactions should be widespread 
+among the consumers.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodres.2020.109780
+PMID: 33288166 [Indexed for MEDLINE]
+
+
+8. FP Essent. 2018 Sep;472:16-19.
+
+Allergy and Asthma: Food Allergies.
+
+Mehta R(1).
+
+Author information:
+(1)Florida Hospital Family Medicine Residency, 133 Benmore Drive, Winter Park, 
+FL 32792.
+
+Food allergies are immune-mediated allergic adverse reactions that occur after 
+exposure to specific foods. The most commonly recognized food allergies are 
+immunoglobulin E (IgE)-mediated reactions (eg, urticaria, angioedema, 
+anaphylaxis) that result from exposure to milk, egg, peanut, tree nuts, 
+shellfish, fish, wheat, or soy. However, other foods can cause food allergies. 
+Oral allergy syndrome is a common but underrecognized condition characterized by 
+transient oropharyngeal symptoms that result from ingestion of uncooked fruits 
+or vegetables. Non-IgE-mediated food allergies manifest with more delayed 
+symptoms than IgE-mediated food allergies, and predominately cause 
+gastrointestinal symptoms. Food allergies often are overreported because they 
+may be confused with food intolerances or nonimmunologic adverse food reactions 
+(eg, lactose intolerance, food poisoning, caffeine intolerance). Food allergies 
+are diagnosed using IgE skin tests, IgE serum tests, or oral food challenge 
+tests. These allergies are best managed by avoidance of the food or foods 
+related to the allergy because they require ingestion rather than contact to 
+precipitate symptoms. Injectable epinephrine should be prescribed for patients 
+at risk of anaphylaxis. Careful food label reading and food preparation, 
+awareness, and education are keys to prevention.
+
+Written permission from the American Academy of Family Physicians is required 
+for reproduction of this material in whole or in part in any form or medium.
+
+PMID: 30152669 [Indexed for MEDLINE]
+
+
+9. Clin Transl Allergy. 2017 Jul 3;7:20. doi: 10.1186/s13601-017-0156-9. 
+eCollection 2017.
+
+Health Related Quality of Life among schoolchildren aged 12-13 years in relation 
+to food hypersensitivity phenotypes: a population-based study.
+
+Strinnholm Å(1)(2), Hedman L(1)(3), Winberg A(4), Jansson SA(1), Lindh V(2), 
+Rönmark E(1).
+
+Author information:
+(1)Department of Public Health and Clinical Medicine, Occupational and 
+Environmental Medicine, OLIN Unit, Umeå University, 901 87 Umeå, Sweden.
+(2)Department of Nursing, Umeå University, 901 87 Umeå, Sweden.
+(3)Division of Nursing, Department of Health Sciences, Luleå University of 
+Technology, 971 87 Luleå, Sweden.
+(4)Department of Clinical Sciences, Pediatrics, Umeå University, 901 87 Umeå, 
+Sweden.
+
+BACKGROUND: While Health Related Quality of Life has been investigated among 
+children with IgE-mediated food allergy, less is known about quality of life 
+among children with other types of hypersensitivity to food. The aim of this 
+study was to investigate Health Related Quality of Life (HRQL) in children with 
+and without food hypersensitivity. Further, we compared HRQL between children 
+with different phenotypes of food hypersensitivity.
+METHODS: In a large population-based cohort of schoolchildren in Northern 
+Sweden, the parents of 2612 (96% of invited) completed a questionnaire. All 125 
+(5%) children who reported complete elimination of milk, egg, fish or wheat due 
+to food hypersensitivity were invited to a clinical examination and 94 children 
+participated. Of these, 75 children also completed a generic (KIDSCREEN-52) and 
+a disease-specific HRQL questionnaire (FAQLQ-TF). Thereafter, these children 
+were categorised into the different phenotypes: current food allergy, outgrown 
+food allergy, and lactose intolerance. Additionally, 209 children with 
+unrestricted diets answered the generic questionnaire.
+RESULTS: The median score of all KIDSCREEN-52 domains were above the population 
+norm of 50 both in children with and without food hypersensitivity. No 
+significant differences in distribution in generic or disease-specific HRQL were 
+found between children with or without food hypersensitivity. There were no 
+significant differences in HRQL between children with different phenotypes of 
+food hypersensitivity. However, children with current food allergy tended to 
+have the lowest HRQL. Further, poor HRQL defined as ≥75th percentile for the 
+disease specific score was significantly more common in the current food allergy 
+phenotype in the domain Emotional impact and the total FAQLQ, compared to the 
+other phenotypes.
+CONCLUSIONS: In this population-based study, 12-13 year old children reported 
+good HRQL regardless of having food hypersensitivity or not. However, the 
+children with the current phenotype reported lower HRQL than the other 
+phenotypes.
+
+DOI: 10.1186/s13601-017-0156-9
+PMCID: PMC5494861
+PMID: 28680560
+
+
+10. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. 2016 
+Jun;59(6):705-22. doi: 10.1007/s00103-016-2356-1.
+
+[Food Allergy and Intolerance : Distinction, Definitions and Delimitation].
+
+[Article in German]
+
+Kleine-Tebbe J(1), Waßmann-Otto A(2), Mönnikes H(3).
+
+Author information:
+(1)Allergie- und Asthma-Zentrum Westend, Praxis Hanf, Ackermann u. Kleine-Tebbe, 
+Spandauer Damm 130, Haus 9, 14050, Berlin, Deutschland. 
+kleine-tebbe@allergie-experten.de.
+(2)Ernährungsberatung und -therapie, Dermatologisches Ambulatorium 
+Hamburg-Alstertal, Hamburg, Deutschland.
+(3)Martin-Luther-Krankenhaus, Klinik für Innere Medizin, Berlin, Deutschland.
+
+Immunologically mediated hypersensitivity to foods is defined as food allergy, 
+mainly due to immunglobulins of class E (IgE) triggering immediate reactions 
+(type I hypersensitivity) with possible involvement of mucosa, skin, airways, 
+intestinal tract, and the vascular system. Primary food allergy is based on 
+(early) IgE sensitization against animal (e. g., cow's milk, hen's eggs) or 
+plant proteins (e. g. peanut, hazelnut or wheat). In the case of secondary food 
+allergies, IgE against pollen proteins (e. g., birch) reacts to structurally 
+related food proteins (with cross-reactions to stone and pit fruits). 
+Non-immunological food intolerance reactions are mostly based on carbohydrate 
+malassimilation (e. g., lactose intolerance, fructose malabsorption) and are 
+rarely due to pseudo-allergies (e. g., flavors, dyes, preservatives) primarily 
+in patients with chronic urticaria. Common intestinal symptoms are mainly due to 
+functional disorders (e. g., irritable bowel disease), rarely because of 
+inflammatory intestinal diseases (e. g., celiac disease). Histamine intolerance, 
+gluten hypersensitivity, and so-called food type III hypersensitivities are 
+controversial diagnoses. The aforementioned disease entities/models are of 
+variable importance for the affected individuals, the public health system, and 
+society in general.
+
+DOI: 10.1007/s00103-016-2356-1
+PMID: 27215624 [Indexed for MEDLINE]

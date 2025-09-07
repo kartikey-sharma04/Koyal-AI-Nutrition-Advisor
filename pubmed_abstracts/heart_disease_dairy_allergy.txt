@@ -1,0 +1,1213 @@
+1. Clin Gastroenterol Hepatol. 2025 May 19:S1542-3565(25)00318-0. doi: 
+10.1016/j.cgh.2025.02.015. Online ahead of print.
+
+Clinical Practice Updates: AGA Clinical Practice Update on GI Manifestations and 
+Autonomic or Immune Dysfunction in Hypermobile Ehlers-Danlos Syndrome: Expert 
+Review.
+
+Aziz Q(1), Harris LA(2), Goodman BP(3), Simrén M(4), Shin A(5).
+
+Author information:
+(1)Blizard Institute, Wingate Institute of Neurogastroenterology, Centre for 
+Neuroscience, Surgery and Trauma, Barts and the London School of Medicine and 
+Dentistry, Queen Mary University, London, United Kingdom.
+(2)Division of Gastroenterology and Hepatology, Mayo Clinic, Scottsdale, 
+Arizona. Electronic address: harris.lucinda@mayo.edu.
+(3)Department of Neurology, Mayo Clinic, Scottsdale, Arizona.
+(4)Department of Molecular and Clinical Medicine, Institute of Medicine, 
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(5)Vatche and Tamar Manoukian Division of Digestive Diseases, University of 
+California, Los Angeles, Los Angeles, California.
+
+DESCRIPTION: The purpose of this Clinical Practice Update Expert Review is to 
+describe key principles in the evaluation and management of patients with 
+disorders of gut-brain interaction (DGBI) and hypermobile Ehlers-Danlos syndrome 
+(hEDS) or hypermobility spectrum disorders (HSDs) with coexisting postural 
+orthostatic tachycardia syndrome (POTS) and/or mast cell activation syndrome 
+(MCAS).
+METHODS: This expert review/commentary was commissioned and approved by the 
+American Gastroenterological Association (AGA) Institute Clinical Practice 
+Updates Committee and the AGA Governing Board to provide timely guidance on a 
+topic of high clinical importance to the AGA membership, and underwent internal 
+peer review by the Clinical Practice Updates Committee and external peer review 
+through standard procedures of Clinical Gastroenterology and Hepatology. These 
+Best Practice Advice statements were drawn from a review of the published 
+literature and from expert opinion. Because systematic reviews were not 
+performed, these Best Practice Advice statements do not carry formal ratings 
+regarding the quality of evidence or strength of the presented considerations. 
+BEST PRACTICE ADVICE 1: Clinicians should be aware of the observed associations 
+between hEDS or HSDs and POTS and/or MCAS and their overlapping gastrointestinal 
+(GI) manifestations; while theoretical explanations exist, experimental evidence 
+of the biological mechanisms that explain relationships is limited and evolving. 
+BEST PRACTICE ADVICE 2: Testing for POTS/MCAS should be targeted to patients 
+presenting with clinical manifestations of POTS/MCAS, but universal testing for 
+POTS/MCAS in all patients with hEDS/HSDs is not supported by the current 
+evidence. BEST PRACTICE ADVICE 3: Gastroenterologists seeing patients with DGBI 
+should inquire about joint hypermobility and strongly consider incorporating the 
+Beighton score for assessing joint hypermobility into their practice as a 
+screening tool; if the screen is positive, gastroenterologists may consider 
+applying 2017 diagnostic criteria to diagnose hEDS 
+(https://www.ehlers-danlos.com/wp-content/uploads/2017/05/hEDS-Dx-Criteria-checklist-1.pdf) 
+or offer appropriate referral to a specialist where resources are available. 
+BEST PRACTICE ADVICE 4: Testing for POTS through postural vital signs (eg, 
+symptomatic increase in heart rate of 30 beats/min or more with 10 minutes of 
+standing during an active stand or head-up tilt table test in the absence of 
+orthostasis) and referral to specialty practices (eg, cardiology or neurology) 
+for autonomic testing should be considered in patients with hEDS/HSDs and 
+refractory GI symptoms who also report orthostatic intolerance after exclusion 
+of medication side effects and appropriate lifestyle or behavioral modifications 
+(eg, adequate hydration and physical exercise) have been attempted but is not 
+required for all patients with hEDS/HSDs who report GI symptoms alone. BEST 
+PRACTICE ADVICE 5: In patients presenting to gastroenterology providers, testing 
+for mast cell disorders including MCAS should be considered in patients with 
+hEDS/HSDs and DGBI who also present with episodic symptoms that suggest a more 
+generalized mast cell disorder (eg, visceral and somatic pain, pruritus, 
+flushing, sweating, urticaria, angioedema, wheezing, tachycardia, abdominal 
+cramping, vomiting, nausea, diarrhea, urogynecological and neurological 
+complaints) involving 2 or more physiological systems (eg, cutaneous, GI, 
+cardiac, respiratory, and neuropsychiatric), but current data do not support the 
+use of these tests for routine evaluation of GI symptoms in all patients with 
+hEDS/HSDs without clinical or laboratory evidence of a primary or secondary mast 
+cell disorder. BEST PRACTICE ADVICE 6: If MCAS is suspected, diagnostic testing 
+with serum tryptase levels collected at baseline and 1-4 hours following symptom 
+flares may be considered by the gastroenterologist; increases of 20% above 
+baseline plus 2 ng/mL are necessary to demonstrate evidence of mast cell 
+activation. BEST PRACTICE ADVICE 7: If a diagnosis of MCAS is supported through 
+clinical and/or laboratory features, patients should be referred to an allergy 
+specialist or mast cell disease research center where additional testing (eg, 
+urinary N-methylhistamine, leukotriene E4, 11β-prostaglandin F2) may be 
+performed. BEST PRACTICE ADVICE 8: Diagnostic evaluation of GI symptoms 
+consistent with DGBI in patients with hEDS/HSDs and comorbid POTS and/or MCAS 
+should follow a similar approach to the evaluation of DGBI as in the general 
+population including the use of a positive symptom-based diagnostic strategy and 
+limited noninvasive testing. BEST PRACTICE ADVICE 9: Testing for celiac disease 
+may be considered earlier in the diagnostic evaluation of patients with 
+hEDS/HSDs who report a variety of GI symptoms and not only limited to those with 
+diarrhea. There is insufficient research to support routine testing for 
+disaccharidase deficiencies or other diet-mediated mechanisms as causes of GI 
+symptoms in hEDS/HSDs. BEST PRACTICE ADVICE 10: Diagnostic testing for 
+functional defecation disorders with anorectal manometry, balloon expulsion 
+test, or defecography should be considered in patients with hEDS/HSDs and lower 
+GI symptoms such as incomplete evacuation given the high prevalence of pelvic 
+floor dysfunction, especially rectal hyposensitivity, in this population. BEST 
+PRACTICE ADVICE 11: In patients with hEDS/HSDs and comorbid POTS who report 
+chronic upper GI symptoms, timely diagnostic testing of gastric motor functions 
+(eg, measurement of gastric emptying and/or accommodation) should be considered 
+after appropriate exclusion of anatomical and structural diseases, as abnormal 
+gastric emptying may be more common than in the general population. BEST 
+PRACTICE ADVICE 12: Medical management of GI symptoms in hEDS/HSDs and POTS/MCAS 
+should focus on treating the most prominent GI symptoms and abnormal GI function 
+test results. In addition to general DGBIs and GI motility disorder treatment, 
+management should also include treating any symptoms attributable to POTS and/or 
+MCAS. BEST PRACTICE ADVICE 13: Treatment of POTS may include increasing fluid 
+and salt intake, exercise training, and use of compression garments. Special 
+pharmacological treatments for volume expansion, heart rate control, and 
+vasoconstriction with integrated care from multiple specialties (eg, cardiology, 
+neurology) should be considered in patients who do not respond to conservative 
+lifestyle measures. BEST PRACTICE ADVICE 14: When MCAS is suspected, patients 
+can benefit from treatment with histamine receptor antagonists and/or mast cell 
+stabilizers, in addition to avoiding triggers such as certain foods, alcohol, 
+strong smells, temperature changes, mechanical stimuli (eg, friction), emotional 
+distress (eg, pollen, mold), or specific medications (eg, opioids, nonsteroidal 
+anti-inflammatory agents, iodinated contrast). BEST PRACTICE ADVICE 15: Besides 
+general nutritional support, special diets including a gastroparesis diet (ie, 
+small particle diet) and various elimination diets (eg, low fermentable 
+carbohydrates, gluten- or dairy-free, low-histamine diets) can be considered for 
+improving GI symptoms. Dietary interventions should be delivered with 
+appropriate nutritional counseling or guidance to avoid the pitfalls of 
+restrictive eating. BEST PRACTICE ADVICE 16: Management of chronic GI symptoms 
+in patients with hEDS/HSDs who do not exhibit symptoms consistent with POTS or 
+MCAS should align with existing approaches to management of DGBI and GI motility 
+disorders in the general population, including integrated multidisciplinary care 
+involving multiple specialties, where appropriate (eg, cardiology, rheumatology, 
+dietician, psychology).
+
+Copyright © 2025. Published by Elsevier Inc.
+
+DOI: 10.1016/j.cgh.2025.02.015
+PMID: 40387691
+
+
+2. PLoS Pathog. 2025 Apr 9;21(4):e1013080. doi: 10.1371/journal.ppat.1013080. 
+eCollection 2025 Apr.
+
+Genome-wide analysis of fitness determinants of Staphylococcus aureus during 
+growth in milk.
+
+Mårli MT(1), Nordraak AOO(1), de Bakker V(2), Winther AR(1), Liu X(2)(3), 
+Veening JW(2), Porcellato D(1), Kjos M(1).
+
+Author information:
+(1)Faculty of Chemistry, Biotechnology and Food Science, Norwegian University of 
+Life Sciences, Ås, Norway.
+(2)Department of Fundamental Microbiology, University of Lausanne, Lausanne, 
+Switzerland.
+(3)Guangdong Provincial Key Laboratory of Regional Immunity and Diseases, 
+Department of Pathogen Biology, Shenzhen University Medical School, Shenzhen, 
+Guangdong, China.
+
+Staphylococcus aureus is a major concern in the dairy industry due to its 
+significance as a pathogen causing bovine mastitis as well as a source of food 
+poisoning. The nutrient-rich milk environment supports bacterial growth, but the 
+specific genetic determinants that facilitate S. aureus proliferation and 
+persistence in milk are poorly understood. In this study, we conducted a 
+genome-wide CRISPR interference sequencing (CRISPRi-seq) screen with the 
+laboratory strain S. aureus NCTC8325-4, to identify fitness determinants 
+essential for S. aureus growth and survival in milk. We identified 282 
+milk-essential genes, including those with key roles in DNA replication, protein 
+synthesis, and metabolism. Comparative analysis with brain heart infusion (BHI) 
+as growth medium, revealed 79 genes with differential fitness, highlighting 
+specific adaptations required for growth in milk. Notably, we found that purine 
+biosynthesis, folate cycle pathways, and metal acquisition were particularly 
+important in this environment. Based on this, we further demonstrate that S. 
+aureus is more sensitive to the folate inhibitors trimethoprim-sulfamethoxazole 
+(TMP-SMX) in milk and identify several genes whose knockdown results in 
+hypersensitivity to TMP-SMX in milk. Additionally, our analysis showed a 
+relatively reduced importance of cell wall components, such as teichoic acids, 
+for S. aureus fitness in milk, which is also reflected in reduced efficiency of 
+antimicrobials targeting teichoic acids. Together, these findings provide new 
+insights into the genetic basis of S. aureus fitness and antibiotic 
+susceptibility in milk, offering directions for novel treatment strategies 
+against bovine mastitis.
+
+Copyright: © 2025 Mårli et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.ppat.1013080
+PMCID: PMC12011298
+PMID: 40203072 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+3. Cell Mol Immunol. 2025 Mar;22(3):211-242. doi: 10.1038/s41423-025-01261-2.
+Epub  2025 Feb 17.
+
+Type 2 immunity in allergic diseases.
+
+Ogulur I(#)(1), Mitamura Y(#)(1), Yazici D(1), Pat Y(1), Ardicli S(1)(2), Li 
+M(1), D'Avino P(1), Beha C(1), Babayev H(1), Zhao B(1), Zeyneloglu C(1), 
+Giannelli Viscardi O(1), Ardicli O(1)(3), Kiykim A(1)(4), Garcia-Sanchez 
+A(1)(5), Lopez JF(1), Shi LL(1)(6), Yang M(1), Schneider SR(1), Skolnick 
+S(1)(7), Dhir R(7), Radzikowska U(1), Kulkarni AJ(1), Imam MB(1), Veen WV(1), 
+Sokolowska M(1), Martin-Fontecha M(8), Palomares O(9), Nadeau KC(10), Akdis 
+M(1), Akdis CA(11).
+
+Author information:
+(1)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+Davos, Switzerland.
+(2)Department of Genetics, Faculty of Veterinary Medicine, Bursa Uludag 
+University, Bursa, Turkey.
+(3)Division of Food Processing, Milk and Dairy Products Technology Program, 
+Karacabey Vocational School, Bursa Uludag University, Bursa, Turkey.
+(4)Department of Pediatrics, Division of Pediatric Allergy and Immunology, 
+Cerrahpasa School of Medicine, Istanbul University-Cerrahpasa, Istanbul, Turkey.
+(5)Department of Biomedical and Diagnostic Science, School of Medicine, 
+University of Salamanca, Salamanca, Spain.
+(6)Department of Otolaryngology-Head and Neck Surgery, Tongji Hospital, Tongji 
+Medical College, Huazhong University of Science and Technology, Wuhan, P.R. 
+China.
+(7)Seed Health Inc., Los Angeles, CA, USA.
+(8)Departamento de Quimica Organica, Facultad de Optica y Optometria, 
+Complutense University of Madrid, Madrid, Spain.
+(9)Department of Biochemistry and Molecular Biology, School of Chemistry, 
+Complutense University of Madrid, Madrid, Spain.
+(10)Department of Environmental Health, Harvard T.H. Chan School of Public 
+Health, Boston, MA, USA.
+(11)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+Davos, Switzerland. akdisac@siaf.uzh.ch.
+(#)Contributed equally
+
+Significant advancements have been made in understanding the cellular and 
+molecular mechanisms of type 2 immunity in allergic diseases such as asthma, 
+allergic rhinitis, chronic rhinosinusitis, eosinophilic esophagitis (EoE), food 
+and drug allergies, and atopic dermatitis (AD). Type 2 immunity has evolved to 
+protect against parasitic diseases and toxins, plays a role in the expulsion of 
+parasites and larvae from inner tissues to the lumen and outside the body, 
+maintains microbe-rich skin and mucosal epithelial barriers and counterbalances 
+the type 1 immune response and its destructive effects. During the development 
+of a type 2 immune response, an innate immune response initiates starting from 
+epithelial cells and innate lymphoid cells (ILCs), including dendritic cells and 
+macrophages, and translates to adaptive T and B-cell immunity, particularly IgE 
+antibody production. Eosinophils, mast cells and basophils have effects on 
+effector functions. Cytokines from ILC2s and CD4+ helper type 2 (Th2) cells, 
+CD8 + T cells, and NK-T cells, along with myeloid cells, including IL-4, IL-5, 
+IL-9, and IL-13, initiate and sustain allergic inflammation via T cell cells, 
+eosinophils, and ILC2s; promote IgE class switching; and open the epithelial 
+barrier. Epithelial cell activation, alarmin release and barrier dysfunction are 
+key in the development of not only allergic diseases but also many other 
+systemic diseases. Recent biologics targeting the pathways and effector 
+functions of IL4/IL13, IL-5, and IgE have shown promising results for almost all 
+ages, although some patients with severe allergic diseases do not respond to 
+these therapies, highlighting the unmet need for a more detailed and 
+personalized approach.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41423-025-01261-2
+PMCID: PMC11868591
+PMID: 39962262 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: S.S. is currently a 
+salaried employee of Seed Health, a probiotic retailer. R.D. is a cofounder and 
+CEO in Seed Health. W.V. has received research grants from PROMEDICA Stiftung, 
+Switzerland, and EoE Stiftung, Switzerland, and consulting fees from Mabylon AG, 
+Switzerland. M.S. has received research grants from the Swiss National Science 
+Foundation (SNSF nr 310030_189334/1 and 320030E_224154), GSK, Novartis, Stiftung 
+vorm. Bündner Heilstätte Arosa, Thermofisher and OM Pharma, speaker’s fee from 
+AstraZeneca and consults for Roche. She is a member-at-large of the European 
+Academy of Allergy and Clinical Immunology (EAACI) and EAACI Educational Events 
+Committee Chair. O.P. received research grants from MINECO, Ministerio de 
+Ciencia e Innovación, CAM, Inmunotek S.L., Novartis, and AstraZeneca and fees 
+for giving scientific lectures or participation in Advisory Boards from 
+AstraZeneca, Pfizer, GlaxoSmithKline, Inmunotek S.L., Novartis and 
+Sanofi-Genzyme. K.C.N. reports grants from the National Institute of Allergy and 
+Infectious Diseases (NIAID), National Heart, Lung, and Blood Institute (NHLBI), 
+and from the National Institute of Environmental Health Sciences (NIEHS), other 
+from the Immune Tolerance Network (ITN), other from National Institutes of 
+Health (NIH) clinical research centers, during the conduct of the study; other 
+from IgGenix, other from Seed Health, other from ClostraBio, other from Cour, 
+other from Alladapt, other from Excellergy, other from Red Tree Ventures, other 
+from Regeneron, other from Latitude, outside the submitted work. In addition, 
+K.C.N. has the following patents: “Mixed allergen composition and methods for 
+using the same”, “Granulocyte-based methods for detecting and monitoring immune 
+system disorders”, and “Methods and Assays for Detecting and Quantifying Pure 
+Subpopulations of White Blood Cells in Immune System Disorders”. M.A. has 
+received research grants from the Swiss National Science Foundation, Bern; 
+research grants from Stanford University; Leading House for the Latin American 
+Region; and Seed Money Grants. She is a Scientific Advisory Board member of 
+Stanford University-Sean Parker Asthma Allergy Center, CA; an Advisory Board 
+member of the LEO Foundation Skin Immunology Research Center, Copenhagen; and a 
+Scientific Co-Chair of the World Allergy Congress (WAC) Istanbul, 2022, 
+Scientific Programme Committee Chair, EAACI. C.A.A. has received research grants 
+from the Swiss National Science Foundation, European Union (EU CURE, EU 
+Syn-Air-G), Novartis Research Institutes (Basel, Switzerland), Stanford 
+University (Redwood City, Calif), Seed Health (Boston, USA), AO Research 
+Institute (Davos, Switzerland) and SciBase (Stockholm, Sweden). He is the 
+cochair for the EAACI Guidelines on Environmental Science in Allergic Diseases 
+and Asthma; Chair of the EAACI Epithelial Cell Biology Working Group. Serves on 
+the Advisory Boards of Sanofi/Regeneron (Bern, Switzerland, New York, USA), 
+Stanford University Sean Parker Asthma Allergy Center (CA, USA), Novartis 
+(Basel, Switzerland), GlaxoSmithKline (Zurich, Switzerland), Bristol-Myers 
+Squibb (New York, USA), Seed Health (Boston, USA) and SciBase (Stockholm, 
+Sweden). C.A.A. is the Editor-in-Chief of Allergy. I.O., Y.M., D.Y., Y.P., S.A., 
+M.L., P.D’A., C.B., H.B., B.Z., C.Z., O.G.V., O.A., A.K., A.G.-S., J.-F.L., 
+L.S., M.Y., S.R.S., U.R., A.J.K., M.B.I, and M.M.-F. declare no relevant 
+conflicts of interest.
+
+
+4. Allergy. 2024 Dec;79(12):3192-3237. doi: 10.1111/all.16318. Epub 2024 Oct 7.
+
+The epithelial barrier theory and its associated diseases.
+
+Sun N(1)(2), Ogulur I(1), Mitamura Y(1), Yazici D(1), Pat Y(1), Bu X(1), Li 
+M(1), Zhu X(1), Babayev H(1), Ardicli S(1)(3), Ardicli O(1)(4), D'Avino P(1), 
+Kiykim A(1)(5), Sokolowska M(1), van de Veen W(1), Weidmann L(6), Akdis D(7), 
+Ozdemir BG(8), Brüggen MC(9)(10)(11), Biedermann L(12), Straumann A(12), 
+Kreienbühl A(12), Guttman-Yassky E(13), Santos AF(14)(15)(16), Del Giacco S(17), 
+Traidl-Hoffmann C(18), Jackson DJ(19)(20), Wang DY(21), Lauerma A(22), 
+Breiteneder H(23), Zhang L(24)(25), O'Mahony L(26)(27), Pfaar O(28), O'Hehir 
+R(29)(30), Eiwegger T(31)(32)(33)(34), Fokkens WJ(35), Cabanillas B(36), Ozdemir 
+C(37)(38), Kistler W(39)(40)(41), Bayik M(42), Nadeau KC(43), Torres MJ(44), 
+Akdis M(1), Jutel M(45), Agache I(46), Akdis CA(1).
+
+Author information:
+(1)Swiss Institute of Allergy and Asthma Research (SIAF), University of Zurich, 
+Davos, Switzerland.
+(2)SKL of Marine Food Processing & Safety Control, National Engineering Research 
+Center of Seafood, School of Food Science and Technology, Dalian Polytechnic 
+University, Dalian, P. R. China.
+(3)Department of Genetics, Faculty of Veterinary Medicine, Bursa Uludag 
+University, Bursa, Turkey.
+(4)Division of Food Processing, Milk and Dairy Products Technology Program, 
+Karacabey Vocational School, Bursa Uludag University, Bursa, Turkey.
+(5)Department of Pediatrics, Division of Pediatric Allergy and Immunology, 
+Cerrahpasa School of Medicine, Istanbul University-Cerrahpasa, Istanbul, Turkey.
+(6)Department of Nephrology, University Hospital Zurich, Zurich, Switzerland.
+(7)Department of Cardiology, University Hospital Zurich, Zurich, Switzerland.
+(8)Obstetrician and Gynecologist, Nisantasi, Istanbul, Turkey.
+(9)Christine Kühne-Center for Allergy Research and Education (CK-CARE), Davos, 
+Switzerland.
+(10)Faculty of Medicine, University of Zurich, Zurich, Switzerland.
+(11)Department of Dermatology, University Hospital Zurich, Zurich, Switzerland.
+(12)Department of Gastroenterology and Hepatology, University Hospital Zurich, 
+Zurich, Switzerland.
+(13)Department of Dermatology, and Laboratory of Inflammatory Skin Diseases, 
+Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+(14)Department of Women and Children's Health (Pediatric Allergy), School of 
+Life Course Sciences, Faculty of Life Sciences and Medicine, King's College 
+London, London, UK.
+(15)Children's Allergy Service, Evelina London Children's Hospital, Guy's and 
+St. Thomas' Hospital, London, UK.
+(16)Peter Gorer Department of Immunobiology, School of Immunology and Microbial 
+Sciences, King's College London, London, UK.
+(17)Department of Medical Sciences and Public Health, University of Cagliari, 
+Cagliari, Italy.
+(18)Environmental Medicine, Faculty of Medicine, University of Augsburg, 
+Augsburg, Germany.
+(19)Guy's Severe Asthma Centre, Guy's Hospital, Guy's & St Thomas' NHS Trust, 
+London, UK.
+(20)School of Immunology & Microbial Sciences, King's College London, London, 
+UK.
+(21)Department of Otolaryngology, Infectious Diseases Translational Research 
+Programme, Yong Loo Lin School of Medicine, National University of Singapore, 
+National University Health System, Singapore City, Singapore.
+(22)Department of Dermatology, Helsinki University Hospital and University of 
+Helsinki, Helsinki, Finland.
+(23)Department of Pathophysiology and Allergy Research, Medical University of 
+Vienna, Vienna, Austria.
+(24)Department of Otolaryngology Head and Neck Surgery, Beijing Tongren 
+Hospital, Capital Medical University, Beijing, China.
+(25)Beijing Laboratory of Allergic Diseases and Beijing Key Laboratory of Nasal 
+Diseases, Beijing Institute of Otolaryngology, Beijing, China.
+(26)Department of Medicine and School of Microbiology, University College Cork, 
+Cork, Ireland.
+(27)APC Microbiome Ireland, Cork, Ireland.
+(28)Department of Otorhinolaryngology, Head and Neck Surgery, Section of 
+Rhinology and Allergy, University Hospital Marburg, Philipps-Universität 
+Marburg, Marburg, Germany.
+(29)Allergy, Asthma & Clinical Immunology, The Alfred Hospital, Melbourne, 
+Victoria, Australia.
+(30)Department of Immunology, School of Translational Medicine, Monash 
+University, Melbourne, Victoria, Australia.
+(31)Translational Medicine Program, Research Institute, Hospital for Sick 
+Children, Toronto, Ontario, Canada.
+(32)Department of Immunology, Temerty Faculty of Medicine, University of 
+Toronto, Toronto, Ontario, Canada.
+(33)Karl Landsteiner University of Health Sciences, Krems an der Donau, Austria.
+(34)Department of Pediatric and Adolescent Medicine, University Hospital St. 
+Pölten, St. Pölten, Austria.
+(35)Department of Otorhinolaryngology & Head and Neck Surgery, Amsterdam UMC, 
+University of Amsterdam, Amsterdam, The Netherlands.
+(36)Department of Allergy, Instituto de Investigación Biosanitaria Hospital 12 
+de Octubre (imas12), Madrid, Spain.
+(37)Department of Pediatric Basic Sciences, Institute of Child Health, Istanbul 
+University, Istanbul, Turkey.
+(38)Istanbul Faculty of Medicine, Department of Pediatrics, Division of 
+Pediatric Allergy and Immunology, Istanbul University, Istanbul, Turkey.
+(39)Department of Sports Medicine, Davos Hospital, Davos, Switzerland.
+(40)Swiss Research Institute for Sports Medicine (SRISM), Davos, Switzerland.
+(41)Medical Committee International Ice Hockey Federation (IIHF), Zurich, 
+Switzerland.
+(42)Department of Internal Medicine and Hematology, Marmara University, 
+Istanbul, Turkey.
+(43)Department of Environmental Health, Harvard T.H. Chan School of Public 
+Health, Boston, Massachusetts, USA.
+(44)Allergy Unit, IBIMA-Hospital Regional Universitario de Málaga-ARADyAL, UMA, 
+Málaga, Spain.
+(45)Department of Clinical Immunology, Wrocław Medical University, Wroclaw, 
+Poland.
+(46)Faculty of Medicine, Department of Allergy and Clinical Immunology, 
+Transylvania University, Brasov, Romania.
+
+The prevalence of many chronic noncommunicable diseases has been steadily rising 
+over the past six decades. During this time, over 350,000 new chemical 
+substances have been introduced to the lives of humans. In recent years, the 
+epithelial barrier theory came to light explaining the growing prevalence and 
+exacerbations of these diseases worldwide. It attributes their onset to a 
+functionally impaired epithelial barrier triggered by the toxicity of the 
+exposed substances, associated with microbial dysbiosis, immune system 
+activation, and inflammation. Diseases encompassed by the epithelial barrier 
+theory share common features such as an increased prevalence after the 1960s or 
+2000s that cannot (solely) be accounted for by the emergence of improved 
+diagnostic methods. Other common traits include epithelial barrier defects, 
+microbial dysbiosis with loss of commensals and colonization of opportunistic 
+pathogens, and circulating inflammatory cells and cytokines. In addition, 
+practically unrelated diseases that fulfill these criteria have started to 
+emerge as multimorbidities during the last decades. Here, we provide a 
+comprehensive overview of diseases encompassed by the epithelial barrier theory 
+and discuss evidence and similarities for their epidemiology, genetic 
+susceptibility, epithelial barrier dysfunction, microbial dysbiosis, and tissue 
+inflammation.
+
+© 2024 The Author(s). Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.16318
+PMCID: PMC11657050
+PMID: 39370939 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.S. has received research grants from the Swiss 
+National Science Foundation (SNSF no.: 310030_189334/1), GSK, Novartis, Stiftung 
+vorm. Bündner Heilstätte Arosa and OM Pharma as well as speaker's fee from 
+AstraZeneca. W.V. has received research grants from PROMEDICA Stiftung, 
+Switzerland, and EoE Stiftung, Switzerland, and consulting fees form Mabylon AG, 
+Switzerland. M.C.B. reports grants from the Swiss National Science Foundation, 
+Christine Kühne‐Center for Allergy Research and Education, Leo Foundation, LEO 
+Pharmacy, and Freenovation, advisory board fees from AstraZeneca, Almirall, LEO 
+Pharma, lecture honorarium from Almirall and AstraZeneca, and patient education 
+grant from AstraZeneca and GSK. A.S. has currently consultant contracts with 
+Astra‐Seneca, BMS‐Receptos, Calypso, EsoCap, Falk‐Pharma, GSK, and 
+Sanofi‐Regeneron. E.G.Y. is an employee of Mount Sinai and has received research 
+grants from and/or is a consultant for: Research Grants (paid to the 
+institution): Boehringer Ingelheim, Leo Pharma, Pfizer, Cara Therapeutics, UCB, 
+Kyowa Kirin, RAPT, Amgen, GSK, Incyte, Sanofi, Bristol Meyers Squibb, Aslan, 
+Regeneron, Anaptysbio, Concert, Janssen. Consultant: Abbvie, Aclaris, Almirall, 
+Amgen, AnaptysBio, Apogee Therapeutics, Apollo Therapeutics Limited, Artax 
+Biopharma Inc., AstraZeneca, Bristol Meyers Squibb, Boerhinger‐Ingelhiem, Cara 
+Therapeutics, Centrexion Therapeutics Corporation, Connect Biopharm, DBV 
+TECHNOLOGIES, Eli Lilly, Enveda Biosciences, Escient Pharmaceuticals, Inc., 
+Fairmount Funds Management LLC, Forest Laboratories Galderma, Gate Bio, Google 
+Ventures (GV), GSK Immunology, Horizon Therapeutics USA, Inc., Incyte, Inmagene, 
+Janssen Biotech, JT Central Pharmaceutical Research Institute, Jasper 
+Therapeutics, Kyowa Kirin, Leo Pharma, Merck, Nektar Therapeutics, Novartis 
+Pharmaceuticals Corporation, NUMAB Therapeutics AG, OrbiMed Advisors LLC, 
+OTSUKA, Pfizer, Pharmaxis Ltd, Pioneering Medicine VII, Inc., Proteologix US 
+Inc, RAPT, Regeneron Pharmaceuticals, RibonTherapeutics, Inc., Sanofi, SATO, 
+Schrödinger Inc., Sun Pharma Advanced Research Company (SPARC), Teva Branded 
+Pharmaceutical Products R&D, UCB. A.F.S. reports grants from the Medical 
+Research Council (MR/M008517/1; MC/PC/18052; MR/T032081/1), Food Allergy 
+Research and Education (FARE), the Immune Tolerance Network/National Institute 
+of Allergy and Infectious Diseases (NIAID, NIH), Asthma UK (AUK‐BC‐2015‐01), 
+BBSRC, Rosetrees Trust and the NIHR through the Biomedical Research Centre (BRC) 
+award to Guy's and St Thomas' NHS Foundation Trust, during the conduct of the 
+study; personal fees from Thermo Scientific, Nestle, Novartis, Allergy 
+Therapeutics, IgGenix, Buhlmann, as well as research support from IgGenix, 
+Buhlmann, and Thermo Fisher Scientific through a collaboration agreement with 
+King's College London. S.D.G. reports speaker fees from AstraZeneca, Chiesi, 
+GSK, Novartis, Sanofi, Stallergenes and Takeda; advisory board fees from 
+AstraZeneca, Chiesi, CSL‐Behring, GSK, Novartis, Sanofi, Takeda; unrestricted 
+research grants from AstraZeneca, CSL‐Behring, GSK, Novartis, and Sanofi. O.P. 
+reports grants and/or personal fees and/or travel support from ALK‐Abelló, 
+Allergopharma, Stallergenes Greer, HAL Allergy Holding B.V./HAL Allergie GmbH, 
+Bencard Allergie GmbH/Allergy Therapeutics, Laboratorios LETI/LETI Pharma, 
+GlaxoSmithKline, ROXALL Medizin, Novartis, Sanofi‐Aventis and Sanofi‐Genzyme, 
+Med Update Europe GmbH, streamedup! GmbH, Pohl‐Boskamp, Inmunotek S.L., John 
+Wiley and Sons/AS, Paul‐Martini‐Stiftung (PMS), Regeneron Pharmaceuticals Inc., 
+RG Aerztefortbildung, Institut für Disease Management, Springer GmbH, 
+AstraZeneca, IQVIA Commercial, Ingress Health, Wort&Bild Verlag, Verlag ME, 
+Procter&Gamble, ALTAMIRA, Meinhardt Congress GmbH, Deutsche 
+Forschungsgemeinschaft, Thieme, Deutsche AllergieLiga e.V., AeDA, Alfried‐Krupp 
+Krankenhaus, Red Maple Trials Inc., Königlich Dänisches Generalkonsulat, 
+Medizinische Hochschule Hannover, ECM Expro&Conference Management, Technical 
+University Dresden, Lilly, Japanese Society of Allergy, Forum für Medizinische 
+Fortbildung, Dustri‐Verlag, Pneumolive, ASIT Biotech, LOFARMA, Almirall, 
+Paul‐Ehrlich‐Institut, outside the submitted work, and he is member of EAACI 
+Excom, member of ext. board of directors DGAKI; coordinator, main‐ or co‐author 
+of different position papers and guidelines in rhinology, allergology and 
+allergen‐immunotherapy; he is associate editor (AE) of Allergy and Clinical 
+Translational Allergy. T.E. reports personal fees from Danone/Nutricia/Milupa, 
+grants from DBV, non‐financial support from Novartis, personal fees from Thermo 
+Fisher, personal fees from Aimmune, grants and personal fees from ALK, 
+non‐financial support from MADX, personal fees from EFSA, outside the submitted 
+work, and I am the Co‐I or scientific lead in three investigator‐initiated oral 
+immunotherapy trials supported by the Food Allergy and Anaphylaxis Program 
+Sickkids and serve as associate editor for Allergy. Site PI of company sponsored 
+trials by DBV, Novartis, and Stallergen. C.O. is Assistant Editor of Allergy, 
+EAACI Allied Health & Primary Care Section chair. K.N. currently reports grants 
+from National Institute of Allergy and Infectious Diseases (NIAID), National 
+Heart, Lung, and Blood Institute (NHLBI), National Institute of Environmental 
+Health Sciences (NIEHS); Stock options from IgGenix, Seed Health, ClostraBio, 
+Cour, Alladapt; Consultant for Excellergy, Red tree ventures, Regeneron, and 
+IgGenix; Co‐founder of Alladapt, Latitude, and IgGenix; National Scientific 
+Committee member at Immune Tolerance Network (ITN), and National Institutes of 
+Health (NIH) clinical research centers; patents include, “Mixed allergen 
+com‐position and methods for using the same,” “Granulocyte‐based methods for 
+detecting and monitoring immune system disorders,” and “Methods and Assays for 
+Detecting and Quantifying Pure Subpopulations of White Blood Cells in Immune 
+System Disorders.” M.A. has received research grants from the Swiss National 
+Science Foundation, Bern; research grant from the Stanford University; Leading 
+House for the Latin American Region, Seed Money Grant. She is in the Scientific 
+Advisory Board member of Stanford University Sean Parker Asthma Allergy Center, 
+CA; Advisory Board member of LEO Foundation Skin Immunology Research Center, 
+Copenhagen; and Scientific Co‐Chair of World Allergy Congress (WAC) Istanbul, 
+2022, Scientific Programme Committee Chair, EAACI. M.J. reports personal fees 
+outside of submitted work from Allergopharma, ALK‐Abello, Stallergenes, Anergis, 
+Allergy Therapeutics, Leti, HAL, GSK, Novartis, Teva, Takeda, Chiesi, Pfizer, 
+Regeneron, Astra‐Zeneka, Lallemand, Shire, Celltrion Inc., Genentech, Roche, 
+Verona, Lek Pharmaceuticals, Arcutis Biotherapeutics and FAES FARMA. I.A. 
+reports Deputy Editor of Allergy journal. C.A.A. has received research grants 
+from the Swiss National Science Foundation, European Union (EU CURE, EU 
+Syn‐Air‐G), Novartis Research Institutes (Basel, Switzerland), Stanford 
+University (Redwood City, Calif), Seed Health (Boston, USA) and SciBase 
+(Stockholm, Sweden); is the Co‐Chair for EAACI Guidelines on Environmental 
+Science in Allergic diseases and Asthma; Chair of the EAACI Epithelial Cell 
+Biology Working Group is on the Advisory Boards of Sanofi/Regeneron (Bern, 
+Switzerland, New York, USA), Stanford University Sean Parker Asthma Allergy 
+Center (CA, USA), Novartis (Basel, Switzerland), Glaxo Smith Kline (Zurich, 
+Switzerland), Bristol‐Myers Squibb (New York, USA), Seed Health (Boston, USA), 
+and SciBase (Stockholm, Sweden); and is the Editor‐in‐Chief of Allergy. N.S., 
+I.O., Y.M., D.Y., Y.P., X.B., M.L., X.Z., H.B., S.A., O.A., P.D., A.K., L.W., 
+D.A., B.G.O. L.B., A.K., C.T.H., D.J.J., D.Y.W., A.L., H.B., L.Z., L.O.M., 
+R.O.H., W.J.F., B.C., K.W., M.B., and M.J.T declare no relevant conflict of 
+interest. N.S. reports grants from CSC scholarship program of China (No. 
+202008210164). D.A. reports grants and personal fees, outside the submitted 
+work, from the Swiss National Science Foundation, the Swiss Heart Foundation and 
+Boehringer Ingelheim. L.B. reports advisory from Abbvie, Amgen, BMS, Falk, 
+Janssen, Pfizer, Lilly, Takeda, Sanofi, Esocap, and speaker fees from Takeda, 
+Sanofi, Abbvie, Lilly, Falk, BMS and Pfizer. D.J.J. has received speaker fees 
+and consultancy fees from AZ, GSK and Sanofi. L.O.M. is a consultant to 
+PrecisionBiotics and has received research funding from GSK, Chiesi, Reckitt and 
+Fonterra. He has participated in speaker's bureau for Nestle, Nutricia, Reckitt 
+and Abbott.
+
+
+5. BMC Pediatr. 2023 Oct 16;23(1):514. doi: 10.1186/s12887-023-04262-0.
+
+Timing of introduction to solid food, eczema and wheezing in later childhood: a 
+longitudinal cohort study.
+
+D'Hollander CJ(1)(2)(3), Keown-Stoneman CDG(3)(4), Birken CS(5)(6)(7)(8)(9), 
+O'Connor DL(1)(10), Maguire JL(11)(12)(13)(14)(15); TARGet Kids! collaboration.
+
+Collaborators: Allen C, Anderson LN, D'Annunzio D, Jaleel M, McFarlane NL, Omand 
+JA, Thadani S, Aglipay M, Bayoumi I, Borkhoff CM, Carsley S, Charach A, Cost K, 
+Fuller A, Kinlin L, Kucab M, Li P, Parkin P, Persaud N, Rae S, Socynska I, 
+Vanderhout S, Vanderloo L, Wong P, Mudiyanselage PK, Li X, Liu J, Mitchell M, 
+Yoshida-Montezuma Y, Zaffar N, Bondoc T, Buckley TA, Flores PR, Kurt K, 
+Loganathan S, Mali T, Thompson L, Batten J, Chan J, Clark J, Craig A, De 
+Castris-Garcia K, Dharman S, Kelleher S, Nasser S, Pabon T, Rhodes M, Salsa R, 
+Skelding J, Stern D, Stewart K, Tavares ES, Weir S, Cho MZ, Janus M, Duku E, 
+Reid-Westoby C, Raso P, Offord A, Abraham E, Ali S, Anderson K, Arbess G, Baker 
+J, Barozzino T, Bergeron S, Bloch G, Bonifacio J, Bowry A, Calpin C, Campbell D, 
+Cheema S, Cheng E, Chisamore B, Constantin E, Danayan K, Das P, De Guerra V, 
+Derocher MB, Do A, Doukas K, Egger A, Farber A, Freedman A, Freeman S, Gazeley 
+S, Grewal K, Guiang C, Ha D, Handford C, Hanson L, Harrington L, Jacobson S, 
+Jagiello L, Jansz G, Kadar P, Keiswetter L, Kiran T, Knowles H, Kwok B, Lahiry 
+P, Lakhoo S, Lam-Antoniades M, Lau E, Leduc D, Leung FH, Li A, Li P, Male R, 
+Meret A, Mok E, Moodie R, Nash K, Owen J, Peer M, Perlmutar M, Persaud N, Pinto 
+A, Porepa M, Qi V, Ramji N, Raza D, Rouleau K, Ruderman C, Saunderson J, 
+Schiralli V, Sgro M, Shuja H, Siam F, Shepherd S, Srikanthan C, Taylor C, 
+Treherne S, Turner S, Uddin F, van den Heuvel M, Weisdorf T, Wong P, Yaremko J, 
+Ying E, Young E, Zajdman M, Begum EA, Lakhanpal G, Lebovic G, Nnorom IS, Nunez 
+MD, Stitt A, Thorpe K, Assan R, Bondar H, Charames G, Djolovic A, Gorscak-Dunn 
+C, Hassan M, Kandel R, Rodrigues M.
+
+Author information:
+(1)Department of Nutritional Sciences, University of Toronto, Toronto, ON, 
+Canada.
+(2)Department of Pediatrics, St Michael's Hospital, Toronto, ON, Canada.
+(3)Applied Health Research Centre, Unity Health Toronto, Toronto, ON, Canada.
+(4)Dalla Lana School of Public Health, University of Toronto, Toronto, ON, 
+Canada.
+(5)Division of Pediatric Medicine, Hospital for Sick Children, Toronto, ON, 
+Canada.
+(6)Child Health Evaluative Sciences, SickKids Research Institute, Toronto, ON, 
+Canada.
+(7)Department of Pediatrics, Faculty of Medicine, University of Toronto, 
+Toronto, ON, Canada.
+(8)Institute of Health Policy Management and Evaluation, University of Toronto, 
+Toronto, ON, Canada.
+(9)Joannah & Brian Lawson Centre for Child Nutrition, Department of Nutritional 
+Sciences, University of Toronto, Toronto, ON, Canada.
+(10)Translational Medicine Program, Hospital for Sick Children, Toronto, ON, 
+Canada.
+(11)Department of Pediatrics, St Michael's Hospital, Toronto, ON, Canada. 
+jonathon.maguire@utoronto.ca.
+(12)Department of Pediatrics, Faculty of Medicine, University of Toronto, 
+Toronto, ON, Canada. jonathon.maguire@utoronto.ca.
+(13)Institute of Health Policy Management and Evaluation, University of Toronto, 
+Toronto, ON, Canada. jonathon.maguire@utoronto.ca.
+(14)Joannah & Brian Lawson Centre for Child Nutrition, Department of Nutritional 
+Sciences, University of Toronto, Toronto, ON, Canada. 
+jonathon.maguire@utoronto.ca.
+(15)Li Ka Shing Knowledge Institute, St. Michael's Hospital, Toronto, ON, 
+Canada. jonathon.maguire@utoronto.ca.
+
+BACKGROUND: The timing of introduction to solid food has been associated with 
+eczema and wheezing in childhood. Our aim was to determine whether differences 
+persist within the recommended 4 to 6 month age range.
+METHODS: A longitudinal cohort study with repeated measures was conducted among 
+children from birth to 10 years of age who were participating in the TARGet 
+Kids! practice based research network in Toronto, Canada. The primary exposure 
+was the timing of introduction to infant cereal as the first solid food. The 
+primary outcome was eczema and the secondary outcome was wheezing collected by 
+parent report using the validated International Study of Asthma and Allergies in 
+Childhood (ISAAC) questionnaire. Multinomial generalized estimating equations 
+were used and effect modification by family history of asthma and breastfeeding 
+duration were explored.
+RESULTS: Of the 7843 children included, the mean (standard deviation) age of 
+introduction to infant cereal was 5.7 (1.9) months. There was evidence for 
+family history of asthma and breastfeeding duration to be effect modifiers in 
+the eczema (P = 0.04) and wheezing (P = 0.05) models. Introduction to infant 
+cereal at 4 vs. 6 months of age was associated with higher odds of eczema (OR 
+1.62; 95% CI: 1.12, 2.35; P = 0.01) among children without a family history of 
+asthma who were not breastfeeding when solid foods were introduced. Introduction 
+to infant cereal at 4 vs. 6 months of age was associated with a higher odds of 
+wheezing (OR 1.31; 95% CI: 1.13, 1.52; P < .001) among children without a family 
+history of asthma who were breastfeeding when solid foods were introduced. There 
+was little evidence of an association among the remaining strata for either 
+outcome.
+CONCLUSION: The findings of this study support recommendations to introduce 
+solid food around 6 months of age.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12887-023-04262-0
+PMCID: PMC10577938
+PMID: 37845652 [Indexed for MEDLINE]
+
+Conflict of interest statement: JM has received research funding from the 
+Canadian Institutes of Health Research, Physician Services Inc., Ontario SPOR 
+Support Unit as well as an unrestricted research grant for a completed 
+investigator-initiated study from the Dairy Farmers of Canada (2011–2012) and 
+Ddrops provided non-financial support (vitamin D supplements) for an 
+investigator initiated study on vitamin D and respiratory tract infections 
+(2011–2015). CB has received research funding from the Canadian Institute for 
+Health Research, Heart and Stroke Foundation of Canada, Physician Services Inc, 
+The Leong Center at the University of Toronto, Centre for Addictions and Mental 
+Health, Ontario Child Health Support Unit (OCHSU) Impact Child Health Award, and 
+a Walmart Community Grant through the SickKids Foundation for a study on food 
+insecurity in the inpatient hospital setting. CD, CK, and DO have no competing 
+interests to disclose.
+
+
+6. Nutr Res Pract. 2022 Jun;16(3):344-353. doi: 10.4162/nrp.2022.16.3.344. Epub 
+2021 Sep 7.
+
+A partially hydrolyzed whey formula provides adequate nutrition in high-risk 
+infants for allergy.
+
+Yang J(1)(2), Yang SI(3), Jeong K(4), Kim KW(5), Kim YH(5), Min TK(6), Pyun 
+BY(6), Lee J(4)(7), Jung JA(2), Kim JH(8), Lee S(4).
+
+Author information:
+(1)Department of Integrated Biomedical and Life Science, Graduate School, Korea 
+University, Seoul 02841, Korea.
+(2)Maeil Innovation Center, Maeil Dairies Co., Ltd., Pyeongtaek 17714, Korea.
+(3)Department of Pediatrics, Hallym University Sacred Heart Hospital, Hallym 
+University College of Medicine, Anyang 14068, Korea.
+(4)Department of Pediatrics, Ajou University School of Medicine, Suwon 16499, 
+Korea.
+(5)Department of Pediatrics, Yonsei University College of Medicine, Seoul 03722, 
+Korea.
+(6)Department of Pediatrics, Soonchunhyang University Hospital, Seoul 04401, 
+Korea.
+(7)Department of Pediatrics, Yonsei University Wonju College of Medicine, Wonju 
+26426, Korea.
+(8)Department of Pediatrics, Inha University Hospital, Inha University College 
+of Medicine, Incheon 22332, Korea.
+
+BACKGROUND/OBJECTIVES: Hydrolyzed formula is often fed to infants with 
+gastrointestinal or immune issues, such as malabsorption or cow's milk allergy, 
+because enzymatic treatment has rendered it more digestible and less allergenic 
+than standard cow's milk formula (SF). Partially hydrolyzed formula (PHF) should 
+be considered for those infants who are intolerant to extensively hydrolyzed 
+formula. However, there are concerns about the nutritional insufficiencies of 
+PHF. We aimed to evaluate the effects of PHF on the growth and health indicators 
+in infants who were at high-risk of allergic disease and potential candidates 
+for consuming PHF.
+SUBJECTS/METHODS: A total of 83 infants aged 0-2 mon with a family history of 
+allergies were assigned to consume either PHF or SF until 24 weeks of age. 
+Anthropometric measures were obtained at baseline, 12 weeks, and 24 weeks; blood 
+samples were drawn and evaluated at the end of the study.
+RESULTS: No significant differences were observed in weight, height, and 
+weight-for-height at any time point in each sex between the PHF and SF groups. 
+At 24 weeks of age, the weight-for-age and height-for-age z-scores of the SF 
+group were higher than those of the PHF group, but there was no significant 
+difference in the weight-for-height z-score. There were no significant 
+differences in levels of white blood cells, hemoglobin, ferritin, protein, 
+albumin, aspartate aminotransferase, alanine aminotransferase, eosinophil 
+cationic protein, and immunoglobulin E.
+CONCLUSIONS: In this study, there were no differences in growth and blood panels 
+between the infants consuming PHF or SF. Therefore, infants who are unable to 
+tolerate SF can be fed PHF without nutritional concerns about growth.
+
+©2021 The Korean Nutrition Society and the Korean Society of Community 
+Nutrition.
+
+DOI: 10.4162/nrp.2022.16.3.344
+PMCID: PMC9149326
+PMID: 35663446
+
+Conflict of interest statement: Conflict of Interest: The authors declare a 
+potential conflict of interest with J Yang and JA Jung, employees of the Maeil 
+Innovation Center, regarding the research, authorship, and/or publication of 
+this article.
+
+
+7. Cochrane Database Syst Rev. 2021 Feb 5;2(2):CD013534. doi: 
+10.1002/14651858.CD013534.pub2.
+
+Skin care interventions in infants for preventing eczema and food allergy.
+
+Kelleher MM(1), Cro S(2), Cornelius V(2), Lodrup Carlsen KC(3)(4), Skjerven 
+HO(3), Rehbinder EM(4)(5), Lowe AJ(6), Dissanayake E(7), Shimojo N(8), Yonezawa 
+K(9), Ohya Y(10), Yamamoto-Hanada K(10), Morita K(11), Axon E(12), Surber 
+C(13)(14), Cork M(15), Cooke A(16), Tran L(2), Van Vogt E(2), Schmitt J(17), 
+Weidinger S(18), McClanahan D(19), Simpson E(19), Duley L(20), Askie LM(21), 
+Chalmers JR(12), Williams HC(12), Boyle RJ(1)(12).
+
+Author information:
+(1)National Heart & Lung Institute, Section of Inflammation and Repair, Imperial 
+College London, London, UK.
+(2)Imperial Clinical Trials Unit, Imperial College London, London, UK.
+(3)Division of Paediatric and Adolescent Medicine, Oslo University Hospital, 
+Oslo, Norway.
+(4)Faculty of Medicine, Institute of Clinical Medicine, University of Oslo, 
+Oslo, Norway.
+(5)Department of Dermatology, Oslo University Hospital, Oslo, Norway.
+(6)Allergy and Lung Health Unit, Melbourne School of Population and Global 
+Health, University of Melbourne, Melbourne, Australia.
+(7)Department of Pediatrics, University of Wisconsin School of Medicine and 
+Public Health, Madison, Wisconsin, USA.
+(8)Center for Preventive Medical Sciences, Chiba University, Chiba, Japan.
+(9)Department of Midwifery and Women's Health, Graduate School of Medicine, The 
+University of Tokyo, Tokyo, Japan.
+(10)Allergy Center, National Center for Child Health and Development, Tokyo, 
+Japan.
+(11)Department of Pediatrics, Keio University School of Medicine, Tokyo, Japan.
+(12)Centre of Evidence Based Dermatology, University of Nottingham, Nottingham, 
+UK.
+(13)Department of Dermatology, University Hospital Zurich, Zurich, Switzerland.
+(14)Department of Dermatology, University Hospital Basel, Basel, Switzerland.
+(15)Sheffield Dermatology Research, Department of Infection, Immunity & 
+Cardiovascular Disease, The University of Sheffield, Sheffield, UK.
+(16)Division of Nursing, Midwifery and Social Work, School of Health Sciences, 
+The University of Manchester, Manchester, UK.
+(17)Center for Evidence-Based Healthcare, Faculty of Medicine Carl Gustav Carus, 
+Technischen Universität (TU) Dresden, Dresden, Germany.
+(18)Department of Dermatology and Allergy, University Hospital 
+Scheswig-Holstein, Kiel, Germany.
+(19)Department of Dermatology, Oregon Health & Science University, Portland, 
+Oregon, USA.
+(20)Nottingham Clinical Trials Unit, University of Nottingham, Nottingham, UK.
+(21)NHMRC Clinical Trials Centre, University of Sydney, Camperdown, Australia.
+
+Update in
+    Cochrane Database Syst Rev. 2022 Nov 14;11:CD013534. doi: 
+10.1002/14651858.CD013534.pub3.
+
+BACKGROUND: Eczema and food allergy are common health conditions that usually 
+begin in early childhood and often occur together in the same people. They can 
+be associated with an impaired skin barrier in early infancy. It is unclear 
+whether trying to prevent or reverse an impaired skin barrier soon after birth 
+is effective in preventing eczema or food allergy.
+OBJECTIVES: Primary objective To assess effects of skin care interventions, such 
+as emollients, for primary prevention of eczema and food allergy in infants 
+Secondary objective To identify features of study populations such as age, 
+hereditary risk, and adherence to interventions that are associated with the 
+greatest treatment benefit or harm for both eczema and food allergy.
+SEARCH METHODS: We searched the following databases up to July 2020: Cochrane 
+Skin Specialised Register, CENTRAL, MEDLINE, and Embase. We searched two trials 
+registers and checked reference lists of included studies and relevant 
+systematic reviews for further references to relevant randomised controlled 
+trials (RCTs). We contacted field experts to identify planned trials and to seek 
+information about unpublished or incomplete trials.
+SELECTION CRITERIA: RCTs of skin care interventions that could potentially 
+enhance skin barrier function, reduce dryness, or reduce subclinical 
+inflammation in healthy term (> 37 weeks) infants (0 to 12 months) without 
+pre-existing diagnosis of eczema, food allergy, or other skin condition were 
+included. Comparison was standard care in the locality or no treatment. Types of 
+skin care interventions included moisturisers/emollients; bathing products; 
+advice regarding reducing soap exposure and bathing frequency; and use of water 
+softeners. No minimum follow-up was required.
+DATA COLLECTION AND ANALYSIS: This is a prospective individual participant data 
+(IPD) meta-analysis. We used standard Cochrane methodological procedures, and 
+primary analyses used the IPD dataset. Primary outcomes were cumulative 
+incidence of eczema and cumulative incidence of immunoglobulin 
+(Ig)E-mediated food allergy by one to three years, both measured by the closest 
+available time point to two years. Secondary outcomes included adverse events 
+during the intervention period; eczema severity (clinician-assessed); parent 
+report of eczema severity; time to onset of eczema; parent report of immediate 
+food allergy; and allergic sensitisation to food or inhalant allergen.
+MAIN RESULTS: This review identified 33 RCTs, comprising 25,827 participants. A 
+total of 17 studies, randomising 5823 participants, reported information on one 
+or more outcomes specified in this review. Eleven studies randomising 5217 
+participants, with 10 of these studies providing IPD, were included in one or 
+more meta-analysis (range 2 to 9 studies per individual meta-analysis). Most 
+studies were conducted at children's hospitals. All interventions were compared 
+against no skin care intervention or local standard care. Of the 17 studies that 
+reported our outcomes, 13 assessed emollients. Twenty-five studies, including 
+all those contributing data to meta-analyses, randomised newborns up to age 
+three weeks to receive a skin care intervention or standard infant skin care. 
+Eight of the 11 studies contributing to meta-analyses recruited infants at high 
+risk of developing eczema or food allergy, although definition of high risk 
+varied between studies. Durations of intervention and follow-up ranged from 24 
+hours to two years. We assessed most of this review's evidence as low certainty 
+or had some concerns of risk of bias. A rating of some concerns was most often 
+due to lack of blinding of outcome assessors or significant missing data, which 
+could have impacted outcome measurement but was judged unlikely to have done 
+so. Evidence for the primary food allergy outcome was rated as high risk of bias 
+due to inclusion of only one trial where findings varied when different 
+assumptions were made about missing data. Skin care interventions during infancy 
+probably do not change risk of eczema by one to two years of age (risk ratio 
+(RR) 1.03, 95% confidence interval (CI) 0.81 to 1.31; moderate-certainty 
+evidence; 3075 participants, 7 trials) nor time to onset of eczema (hazard 
+ratio 0.86, 95% CI 0.65 to 1.14; moderate-certainty evidence; 3349 participants, 
+9 trials). It is unclear whether skin care interventions during infancy change 
+risk of IgE-mediated food allergy by one to two years of age (RR 2.53, 95% CI 
+0.99 to 6.47; 996 participants, 1 trial) or allergic sensitisation to a food 
+allergen at age one to two years (RR 0.86, 95% CI 0.28 to 2.69; 1055 
+participants, 2 trials) due to very low-certainty evidence for these outcomes. 
+Skin care interventions during infancy may slightly increase risk of parent 
+report of immediate reaction to a common food allergen at two years (RR 1.27, 
+95% CI 1.00 to 1.61; low-certainty evidence; 1171 participants, 1 trial). 
+However, this was only seen for cow's milk, and may be unreliable due to 
+significant over-reporting of cow's milk allergy in infants. Skin care 
+interventions during infancy probably increase risk of skin infection over the 
+intervention period (RR 1.34, 95% CI 1.02 to 1.77; moderate-certainty evidence; 
+2728 participants, 6 trials) and may increase risk of infant slippage over the 
+intervention period (RR 1.42, 95% CI 0.67 to 2.99; low-certainty evidence; 2538 
+participants, 4 trials) or stinging/allergic reactions to moisturisers (RR 2.24, 
+95% 0.67 to 7.43; low-certainty evidence; 343 participants, 4 trials), although 
+confidence intervals for slippages and stinging/allergic reactions are wide and 
+include the possibility of no effect or reduced risk. Preplanned subgroup 
+analyses show that effects of interventions were not influenced by age, duration 
+of intervention, hereditary risk, FLG mutation,  or classification of 
+intervention type for risk of developing eczema. We could not evaluate these 
+effects on risk of food allergy. Evidence was insufficient to show whether 
+adherence to interventions influenced the relationship between skin care 
+interventions and risk of developing eczema or food allergy.
+AUTHORS' CONCLUSIONS: Skin care interventions such as emollients during the 
+first year of life in healthy infants are probably not effective for preventing 
+eczema, and probably increase risk of skin infection. Effects of skin care 
+interventions on risk of food allergy are uncertain. Further work is needed to 
+understand whether different approaches to infant skin care might promote or 
+prevent eczema and to evaluate effects on food allergy based on robust outcome 
+assessments.
+
+Copyright © 2021 The Cochrane Collaboration. Published by John Wiley & Sons, 
+Ltd.
+
+DOI: 10.1002/14651858.CD013534.pub2
+PMCID: PMC8094581
+PMID: 33545739 [Indexed for MEDLINE]
+
+Conflict of interest statement: MaeveKelleher: I have received honoraria 
+(personal payment) for speaking at educational conferences organised by Allergy 
+UK, University of Oslo, and Nutricia, which does not manufacture/market any of 
+the interventions or potential comparators in this review. Suzie Cro: None 
+known. Victoria Cornelius: None known. Emma Axon: None known. Karin C Lodrup 
+Carlsen: My institution received money from multiple sources: the Regional 
+Health Board South East, the Norwegian Research Council, Oslo University 
+Hospital, the University of Oslo, Health and Rehabilitation Norway, Østfold 
+Hospital Trust, Norwegian Association of Asthma and Allergy, the Kloster 
+Foundation, Norwegian Society of Dermatology and Venereology, Arne 
+Ingels' legacy, Fürst Medical Laboratory, the Foundation for Healthcare and 
+Allergy Research (in Sweden), the Vårdal Foundation, Swedish Asthma and Allergy 
+Association’s Research Foundation, Swedish Research Council, the Initiative for 
+Clinical Therapy Research, the Swedish Heart‐Lung Foundation, SFO‐V Karolinska 
+Institutet, Hesselman Research Foundation, and Thermo‐Fisher (Uppsala, Sweden). 
+My institution received an honorarium and travel expenses from Thermo‐Fisher 
+(Uppsala, Sweden) for a lecture at the European Academy of Allergy and Clinical 
+Immunology (EAACI) Congress 2018. Håvard Ove Skjerven: My institution received 
+money for the PreventADALL study from the two largest governmental grant 
+agencies in Norway, The South‐Eastern Norway Regional Health Authority and the 
+Norwegian Research Council, which are not commercial sponsors (Lødrup 2018). Eva 
+Maria Rehbinder: I declare no real or perceived conflict of interest for the 
+present review; however, I have personally received honoraria in the last 36 
+months for presentations on atopic dermatitis and psoriasis from Sanofi Genzyme, 
+Perrigo, MEDA, Novartis, and Norwegian patient organisations for atopic 
+dermatitis and psoriasis. Adrian Lowe: My institution has received National 
+Health and Medical Research Council grant and fellowship funding to undertake a 
+skin barrier intervention study. I also declare that Primus Pharmaceuticals and 
+PuraCap Pharmaceuticals have donated EpiCream (a skin barrier treatment) for use 
+in these studies, free of charge. Eishika Dissanayake: None known. Naoki 
+Shimojo: My institution has received grants from the Japan Agency for Medical 
+Research and Development (AMED‐CREST) (15652274). I have received personal 
+payment for the development of educational presentations from AstraZeneca, 
+Maruho, Novartis, Torii, and Miyarisan. Funding and payments for educational 
+lectures from these pharmaceutical companies do not influence any activities 
+related to this review article. Kaori Yonezawa: My institution has received 
+grants from the Mitsubishi Foundation (this grant supported the following 
+published research: doi: 10.1111/1346‐8138.14080) and the Mishima Kaiun Memorial 
+Foundation (which supported the following published research: doi: 
+10.1186/s13223‐019‐0385‐7), as well as from Hoyu Science Foundation and JSPS 
+KAKENHI Grant Number 17K17676 12288;20H03995. YukihiroOhya: I have received 
+honorarium for lectures from AbbVie, Kao, Kyorin Pharmaceutical, Maruho, Mylan, 
+Natural science, Sanofi, Taiho Pharma, and Torii pharmaceutical. I received 
+payment for consultancy from Maruho for opening a forum and a grant from Yakult. 
+All were personal payments. Kiwako Yamamoto‐Hanada: My institution has received 
+grants from The Japan Society for the Promotion of Science (JSPS) KAKENHI, Japan 
+Health Foundation, the Environmental Restoration and Conservation Agency (ERCA), 
+the National Center for Child Health and development, and the Japanese Society 
+of Allergology. I have personally received travel/accommodations/meeting 
+expenses unrelated to activities listed from Thermo‐Fisher Scientific. Kumiko 
+Morita: Outside this work, I have personally received speakers' honoraria from 
+Maruho, Japan, and Astellas Pharma, Japan. Christian Surber: I have personally 
+received money for consultancy, lectures, and development of educational 
+presentations from LEO Pharma (Switzerland, Germany, & Denmark), for explaining 
+galenical concepts including supersaturation; and for lectures and development 
+of educational presentations for explaining galenical concepts including nano 
+emulsions, from Almirall, Germany. Michael Cork: My institution received a grant 
+from Hyphens Pharma for ‘An investigation of the effects of a barrier repair 
+cream on the structure and function of the skin (BARRIER)’ (clinical trial). My 
+institution received a grant from L'Oreal (La Roche Possay) for ‘An 
+investigation of the skin barrier restoring effects of a cream containing 
+ceramides in a multi vesicular emulsion in people with dry, eczema‐prone, skin 
+(RESTORE)’ (clinical trial). My institution received a grant from Johnson & 
+Johnson for ‘A randomised controlled trial of a specially designed wash product 
+and lotion for the maintenance of healthy skin and mind in babies (BOND)’. My 
+institution and I personally received payment for study design and steering, for 
+travel to meetings for study or other purposes, and for participation in review 
+activities (such as data monitoring boards, statistical analysis, end point 
+committees) from Hyphens Pharma, L'Oreal (La Roche Possay), and Johnson & 
+Johnson. I received personal payment for consultancy, 
+travel/accommodations/meeting expenses unrelated to activities pre‐mentioned, 
+and lectures from Regeneron in collaboration with Sanofi Genzyme with regard to 
+biologic drug trials for atopic eczema; Pfizer with regard to biologic and 
+topical drug trials for atopic eczema; and Galapagos and Kymab with regard to 
+biologic drug trials for atopic eczema. My institution received grants/grants 
+pending from Regeneron in collaboration with Sanofi Genzyme with regard to 
+biologic drug trials for atopic eczema; Pfizer with regard to biologic and 
+topical drug trials for atopic eczema; and Galapagos and Kymab with regard to 
+biologic drug trials for atopic eczema. My institution and I personally received 
+payment for review preparation from Regeneron in collaboration with Sanofi 
+Genzyme with regard to biologic drug trials for atopic eczema; Pfizer with 
+regard to biologic and topical drug trials for atopic eczema; and Galapagos and 
+Kymab with regard to Biologic drug trials for atopic eczema. My institution 
+received payment for development of educational presentations from Regeneron in 
+collaboration with Sanofi Genzyme with regard to biologic drug trials for atopic 
+eczema. I am or have been an Investigator and Consultant for the following 
+organisations: Astellas, Boots, Dermavant, Galapagos, Galderma, Hyphens, Johnson 
+& Johnson, Kymab, LEO Pharma, L’Oreal, Menlo, Novartis, Oxagen, Pfizer, Procter 
+& Gamble, Reckitt Benckiser, Regeneron, and Sanofi Genzyme.  Alison Cooke: I was 
+funded by a National Institute for Health Research Doctoral Research Fellowship 
+paid to my institution for the OBSeRvE (Oil in Baby Skincare) study (Cooke 
+2015). This work was independent research supported by the National Institute 
+for Health Research (Doctoral Research Fellowship DRF‐2012‐05‐160). The views 
+expressed in any Cochrane publication are those of the authors and not 
+necessarily those of the NHS, the National Institute for Health Research or the 
+Department of Health. I was an invited expert to an advisory panel on infant 
+skin care; my consultancy fee from Johnson and Johnson was paid to my 
+institution. I was an invited expert speaker at a neonatal skin care symposium 
+at the Royal College of Midwives Annual Conference and at the European Midwives 
+Association Conference, for which I received personal payment from Johnson and 
+Johnson. Danielle McClanahan: None known. Lien Tran: None known. Lisa M Askie: 
+None known. LeliaDuley: None known. Eleanor Van Vogt: None known. Jochen 
+Schmitt: I have acted as a consultant for Lilly and Sanofi (personal payment), 
+and received institutional grants for investigator‐initiated trials outside the 
+submitted work from Novartis, LaRoche, Sanofi, ALK, and Pfizer. Eric Simpson: I 
+have received personal payment for the following: board membership (from 
+TARGET‐DERM, LEO, and Pfizer); consultancy (from AbbVie, Eli Lilly, and Pfizer); 
+travel/accommodations/meeting expenses unrelated to activities listed (from 
+Lilly, LEO Pharmaceutical, and Sanofi Genzyme); and review preparation (from 
+Regeneron, Dermira, and Sanofi Genzyme). My institution received grants/grants 
+pending from Eli Lilly, Incyte, and Kyowa Hakko Kirin. My institution and I 
+personally received payment for lectures including service on speakers bureaus 
+from Forte Bio Rx, Incyte, and Sanofi Genzyme. For more than 17 years, I have 
+been actively involved in epidemiological, clinical and translational research 
+centered on atopic dermatitis (AD). My experience leading multi‐centre AD 
+clinical trials and directing our clinical research center for over 10 years 
+shows my commitment to AD research and specifically disease prevention, clinical 
+trial quality, and team science regardless of any previous financial support and 
+activities. Stephan Weidinger: My institution received grants from La Roche 
+Posay for investigator‐initiated study NCT03376243 and from LEO Pharma for 
+investigator‐initiated study 2019‐000598‐22. I received personal payment for 
+advisory board membership from Sanofi Genzyme, Regeneron, LEO Pharma, AbbVie, 
+Pfizer, Kymab, and Eli Lilly. I received personal payment for lectures from 
+Sanofi Genzyme, Regeneron, LEO Pharma, AbbVie, Eli Lilly, and Novartis, as well 
+as a personal payment for development of educational presentations from Sanofi 
+Genzyme. I am an investigator in a number of clinical trials in atopic 
+dermatitis and psoriasis sponsored by a wide range of pharmaceutical companies. 
+I have received institutional research grants from Sanofi Genzyme, LEO Pharma, 
+and L'Oreal. I have acted as a consultant for Sanofi Genzyme, Regeneron, LEO 
+Pharma, Eli Lilly, AbbVie, Pfizer, Kymab, and Novartis. I have lectured at 
+educational events sponsored by Sanofi Genzyme, Regeneron, LEO Pharma, AbbVie, 
+and Galderma, outside of the submitted work. Joanne R Chalmers: My institution 
+received money from NIHR for a research for patient benefit grant to conduct 
+this IPD, on which I am a co‐applicant. I am co‐applicant on the BEEP trial and 
+the BEEP pilot trial, both of which are included in this review (Chalmers 2020). 
+Hywel C Williams: I was director of the NIHR Health Technology Assessment (HTA) 
+Programme until 1 October 2020. HTA is part of the NIHR, which also supports the 
+NIHR systematic reviews programme from which this work is funded. I am chief 
+investigator for the BEEP study (Chalmers 2020), which was funded by NIHR HTA 
+and is included in this review. Funds go to my University (Nottingham) from the 
+National Institute for Health Research (public funds) as a result of open 
+competition. Robert J Boyle: I have received personal payment for participating 
+in advisory boards for DBV Technologies and Prota Therapeutics, which develop 
+allergy diagnostics or treatments; have received payment for designing a 
+clinical trial for Dairy Goat Co‐operative; and have received personal payment 
+for providing expert testimony in a class action related to an infant formula 
+health claim concerning the development of allergic conditions. Reports an NIHR 
+RfPB grant awarded to Nottingham University Hospitals Trust. My employing 
+institution, Imperial College London, has a formal research and innovation 
+partnership with Nestle. This partnership does not directly involve me, and I do 
+not think it is relevant to this review, but Nestle do have skin care products 
+and products for prevention or treatment of allergic conditions within their 
+portfolio.
+
+
+8. J Allergy Clin Immunol Pract. 2020 Jan;8(1):15-23.e1. doi: 
+10.1016/j.jaip.2019.09.017. Epub 2019 Sep 28.
+
+Diagnosis and Management of Patients with the α-Gal Syndrome.
+
+Platts-Mills TAE(1), Li RC(2), Keshavarz B(2), Smith AR(2), Wilson JM(2).
+
+Author information:
+(1)Division of Allergy & Clinical Immunology, University of Virginia, 
+Charlottesville, Va. Electronic address: tap2z@virginia.edu.
+(2)Division of Allergy & Clinical Immunology, University of Virginia, 
+Charlottesville, Va.
+
+The galactose-α-1,3-galactose (α-Gal) syndrome has many novel features that are 
+relevant to diagnosis and management. In most cases, the diagnosis can be made 
+on a history of delayed allergic reactions to mammalian meat and the blood test 
+for IgE to the oligosaccharide α-Gal. In general, the diagnosis also dictates 
+the primary treatment, that is, avoiding mammalian meat and also dairy in some 
+cases. In the United States, the lone star tick is the primary cause of this 
+disease, but different ticks are responsible in other countries. Blood levels of 
+IgE to α-Gal often drop in patients who avoid recurrent tick bites, but the rate 
+of decline is variable. Similarly, the delay before reactions is variable and 
+the severity of the allergic reactions is not predicted by the delay or the 
+titer of specific IgE. Some mammalian-derived products such as heart valves, 
+gelatin-based plasma expanders, and pancreatic enzymes are relevant to only 
+select patient groups. A minority of cases may benefit from avoiding a wide 
+range of products that are prepared with mammalian-derived constituents, such as 
+gelatin. This review focuses on the nature of the syndrome, common challenges in 
+diagnosis and management, and also gaps in our current knowledge that would 
+benefit from additional investigation.
+
+Copyright © 2019 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2019.09.017
+PMCID: PMC6980324
+PMID: 31568928 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures: TPM has a patent on an IgE assay to 
+α-Gal and has received assay support from Thermo-Fisher/Phadia. JMW has received 
+research support from Thermo-Fisher/Phadia. The remaining authors declare that 
+they have no conflicts.
+
+
+9. World J Pediatr Congenit Heart Surg. 2019 Sep;10(5):632-634. doi: 
+10.1177/2150135119846047.
+
+A Case of Ewing Sarcoma Presenting With Cardiac Metastasis.
+
+Murad R(1), Bakkar R(1), Sukkar R(1), Mahmoud F(2), Al-Dairy A(2).
+
+Author information:
+(1)Department of Cardiology, Damascus University Cardiac Surgery Hospital, 
+Damascus, Syria.
+(2)Damascus University Cardiac Surgery Hospital, Damascus, Syria.
+
+Ewing sarcoma is the second most prevalent primary malignant bone tumor. 
+Metastases from Ewing sarcoma to the heart are very rare. Herein, we present a 
+case of undiagnosed Ewing sarcoma in a 12-year-old boy who presented with 
+metastasis to the left atrium. The mass was prolapsing across the mitral valve. 
+In view of the potential risk of embolization, urgent cardiac surgery was 
+performed before the establishment of a definitive diagnosis. Histopathology was 
+consistent with Ewing sarcoma. Subsequent magnetic resonance imaging revealed a 
+mass in his left fibula. The patient was referred to the oncology center and 
+received chemotherapy. One year later, he is alive with no evidence of recurrent 
+cardiac involvement.
+
+DOI: 10.1177/2150135119846047
+PMID: 31496409 [Indexed for MEDLINE]
+
+
+10. J Am Coll Nutr. 2019 Mar-Apr;38(3):197-208. doi:
+10.1080/07315724.2018.1491016.  Epub 2018 Sep 24.
+
+Cow's Milk Consumption and Health: A Health Professional's Guide.
+
+Marangoni F(1), Pellegrino L(2), Verduci E(3), Ghiselli A(4), Bernabei R(5), 
+Calvani R(5), Cetin I(6), Giampietro M(7), Perticone F(8), Piretta L(9), Giacco 
+R(10), La Vecchia C(11), Brandi ML(12), Ballardini D(13), Banderali G(14), 
+Bellentani S(15), Canzone G(16), Cricelli C(17), Faggiano P(18), Ferrara N(19), 
+Flachi E(20), Gonnelli S(21), Macca C(22), Magni P(23), Marelli G(24), Marrocco 
+W(25), Miniello VL(26), Origo C(27), Pietrantonio F(28), Silvestri P(29), Stella 
+R(30), Strazzullo P(31), Troiano E(32), Poli A(1).
+
+Author information:
+(1)a NFI-Nutrition Foundation of Italy , Milano , Italy.
+(2)b Department of Food, Environmental and Nutritional Sciences , Università 
+degli Studi di Milano , Milano , Italy.
+(3)c Department of Health Sciences, San Paolo Hospital , ASST Santi Paolo e 
+Carlo, Università degli Studi di Milano and SIP-Italian Society of Pediatrics , 
+Milano , Italy.
+(4)d CREA-Alimenti e Nutrizione, Consiglio per la ricerca in agricoltura e 
+l'analisi dell'economia agraria, Roma and SISA-Italian Society of Nutritional 
+Science , Roma , Italy.
+(5)e Institute of Internal Medicine and Geriatrics- Catholic University of the 
+Sacred Heart , Roma , Italy.
+(6)f Department of Biomedical and Clinical Sciences , Unit of Obstetrics and 
+Gynecology, Hospital Vittore Buzzi , Milano , Italy.
+(7)g School of Sports , CONI-Italian National Olympic Committee , Roma , Italy.
+(8)h Unit of Obstetrics and Gynecology, Hospital Vittore Buzzi , Università 
+degli Studi "Magna Graecia", Catanzaro and SIMI-Italian Society of Internal 
+Medicine , Catanzaro , Italy.
+(9)i Alimentary Science and Human Nutrition, Università Campus Biomedico , Roma 
+, Italy.
+(10)j Institute of Food Science, National Research Council, Avellino and SID - 
+Italian Diabetes Society , Avellino , Italy.
+(11)k Department of Clinical Sciences and Community Health , Università degli 
+Studi di Milano , Milano , Italy.
+(12)l Fondazione F.I.R.M.O , Firenze , Italy.
+(13)m ANSISA-Italian Association of Food Science Specialists , Milano , Italy.
+(14)n Department of Health Sciences, San Paolo Hospital , ASST Santi Paolo e 
+Carlo, Università degli Studi di Milano and SINUPE-Italian Society of Pediatric 
+Nutrition , Milano , Italy.
+(15)o SIGE-Italian Society of Gastroenterology and Digestive Endoscopy , Modena 
+, Italy.
+(16)p Obstetrics and Gynecology Unit , San Cimino Hospital, Termini Imerese and 
+SIGO-Italian Society of Gynecology and Obstetrics , Termini Imerese , Italy.
+(17)q SIMG-Italian Society of General Medicine , Firenze , Italy.
+(18)r Cardiology Division , Spedali Civili and University of Brescia and 
+GICR-Italian Association for Cardiovascular Prevention and Rehabilitation , 
+Brescia , Italy.
+(19)s Department of Translational Medical Sciences , University of Naples 
+'Federico II' and SIGG-Italian Society of Gerontology and Geriatrics , Naples , 
+Italy.
+(20)t SIPREC-Italian Society for Cardiovascular Prevention , Milan , Italy.
+(21)u Department of Medicine, Surgery and Neuroscience , University of Siena and 
+SIOMMS-Italian Society for Osteoporosis, Mineral Metabolism and Bone Diseases , 
+Siena , Italy.
+(22)v Dietetics and Clinical Nutrition Unit , Spedali Civili Brescia and ADI - 
+Italian Association of Dietetics , Brescia , Italy.
+(23)w Department of Pharmacological and Biomolecular Sciences , Università degli 
+Studi di Milano and SISA-Italian Society for the Study of Atherosclerosis , 
+Milano , Italy.
+(24)x Department of Diabetology Endocrinology and Clinical Nutrition , ASST di 
+Vimercate and AMD - Italian Association of Diabetologists , Vimercate , Italy.
+(25)y FIMMG-Italian Federation of General Medicine Doctors and SIMPeSV-Italian 
+Society of Preventive and Lifestyle Medicine , Rome , Italy.
+(26)z Department of Paediatrics , University of Bari and SIPPS-Italian Society 
+of Preventive and Social Pediatrics , Bari , Italy.
+(27)aa Department of Pediatric Orthoaedics , A.O. SS Antonio e Biagio e Cesare 
+Arrigo, Alessandria and SITOP-Italian Society of Orthopaedics and Traumatology , 
+Alessandria , Italy.
+(28)ab Internal Medicine Unit , - H2-Albano Hospital Center, ASL Roma 6, Roma 
+and FADOI-Federation of the Associations of Internist Hospital Managers , 
+Manerbio , Italy.
+(29)ac Interventional Cardiology-CCU Department , G. Rummo Hospital, Benevento 
+and ANMCO-Italian National Association of Hospital Cardiologists , Benevento , 
+Italy.
+(30)ad SNaMID-National Interdisciplinary Medical Society Primary Care , Milan , 
+Italy.
+(31)ae Department of Clinical Medicine and Surgery , ESH Excellence Center of 
+Hypertension, "Federico II" University of Naples and SINU-Italian Society of 
+Human Nutrition , Napoli , Italy.
+(32)af ANDID-Italian Association of Dietitians , Rome , Italy.
+
+The most recent scientific evidence supports the consumption of cow's milk and 
+dairy products as part of a balanced diet. However, these days, the public and 
+practicing physicans are exposed to a stream of inconsistent (and often 
+misleading) information regarding the relationship between cow's milk intake and 
+health in the lay press and in the media. The purpose of this article, in this 
+context, is to facilitate doctor-patient communication on this topic, providing 
+physicians with a series of structured answers to frequently asked patient 
+questions. The answers range from milk and milk-derived products' nutritional 
+function across the life span, to their relationship with diseases such as 
+osteoporosis and cancer, to lactose intolerance and milk allergy, and have been 
+prepared by a panel of experts from the Italian medical and nutritional 
+scientific community. When consumed according to appropriate national 
+guidelines, milk and its derivatives contribute essential micro- and 
+macronutrients to the diet, especially in infancy and childhood where bone mass 
+growth is in a critical phase. Furthermore, preliminary evidence suggests 
+potentially protective effects of milk against overweight, obesity, diabetes, 
+and cardiovascular disease, while no clear data suggest a significant 
+association between milk intake and cancer. Overall, current scientific 
+literature suggests that an appropriate consumption of milk and its derivatives, 
+according to available nutritional guidelines, may be beneficial across all age 
+groups, with the exception of specific medical conditions such as lactose 
+intolerance or milk protein allergy. Key teaching points: Milk and its 
+derivatives contribute essential micro and macronutrients to the diet, when 
+consumed according to appropriate national guidelines, especially in infancy and 
+childhood where bone mass growth is in a critical phase. Preliminary evidence 
+suggests potentially protective effects of milk against overweight, obesity, 
+diabetes and cardiovascular disease No clear data are available about the 
+association between milk intake and cancer. Current scientific literature 
+suggests that an appropriate consumption of milk and its derivatives may be 
+beneficial at all ages, with the exception of specific medical conditions such 
+as lactose intolerance or milk protein allergy.
+
+DOI: 10.1080/07315724.2018.1491016
+PMID: 30247998 [Indexed for MEDLINE]

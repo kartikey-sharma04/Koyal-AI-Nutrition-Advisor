@@ -1,0 +1,697 @@
+1. Allergol Select. 2024 May 3;8:90-198. doi: 10.5414/ALX02444E. eCollection
+2024.
+
+AWMF mold guideline "Medical clinical diagnostics for indoor mold exposure" - 
+Update 2023 AWMF Register No. 161/001.
+
+Hurraß J(1)(2)(3), Heinzow B(4)(2), Walser-Reichenbach S(4)(2)(3), Aurbach 
+U(5)(6)(2), Becker S(7)(2), Bellmann R(8)(2), Bergmann KC(9)(2)(3), Cornely 
+OA(10)(2), Engelhart S(11)(2)(3), Fischer G(12)(2), Gabrio T(13)(2), Herr 
+CEW(14)(15)(2)(3), Joest M(16)(2), Karagiannidis C(17)(18)(2), Klimek 
+L(19)(2)(3), Köberle M(20)(2)(3), Kolk A(21)(2), Lichtnecker H(22)(2), 
+Lob-Corzilius T(23)(2)(3), Mülleneisen N(24)(2)(3), Nowak D(25)(2)(3), Rabe 
+U(26)(2)(3), Raulf M(27)(2)(3), Steinmann J(28)(2), Steiß JO(29)(30)(2)(3), 
+Stemler J(10)(2), Umpfenbach U(31)(2), Valtanen K(32)(2), Werchan B(33)(2), 
+Willinger B(34)(2)(3), Wiesmüller GA(5)(6)(35)(2)(3).
+
+Author information:
+(1)Section for Hygiene in Healthcare Facilities, Division of Infection Control 
+and Environmental Hygiene, Cologne Health Department, Cologne.
+(2)Co-author.
+(3)Member of a scientific medical society, a society or a medical association 
+with voting rights.
+(4)Formerly: State Agency for Social Services (LAsD) Schleswig-Holstein, Kiel.
+(5)Laboratory Dr. Wisplinghoff.
+(6)ZfMK - Center for Environment, Hygiene and Mycology Cologne, Cologne.
+(7)Department for Otorhinolaryngology, Head and Neck Surgery, University Medical 
+Center Tübingen, Tübingen, Germany.
+(8)Department of Internal Medicine I, Medical University of Innsbruck, 
+Innsbruck, Austria.
+(9)Institute of Allergology Charité, Charité - University Medicine Berlin, 
+Berlin.
+(10)Institute for Translational Research, CECAD Cluster of Excellence, 
+University of Cologne, Cologne, Germany and Department I for Internal Medicine, 
+Cologne University Hospital, Cologne.
+(11)Institute for Hygiene and Public Health, University Hospital Bonn, Bonn.
+(12)Baden-Württemberg State Health Office in the Stuttgart Regional Council, 
+Stuttgart.
+(13)Formerly: Baden-Württemberg State Health Office in the Stuttgart Regional 
+Council, Stuttgart.
+(14)Bavarian Health and Food Safety Authority, Munich.
+(15)Environmental Health and Prevention, Institute and Polyclinic for 
+Occupational, Social and Environmental Medicine, University of Munich Hospital 
+Ludwig-Maximilians-University, Munich.
+(16)Allergological-Immunological Laboratory, Helios Lung and Allergy Center 
+Bonn, Bonn.
+(17)Faculty of Health, Professorship for Extracorporeal Lung Replacement 
+Procedures, University of Witten/Herdecke, Witten/Herdecke.
+(18)Lung Clinic Cologne Merheim, Clinics of the City of Cologne, Cologne.
+(19)Center for Rhinology and Allergology, Wiesbaden.
+(20)Department of Dermatology and Allergy Biederstein, School of Medicine, 
+Technical University of Munich, Munich.
+(21)Institute for Occupational Safety and Health (IFA) of the German Social 
+Accident Insurance (DGUV), Unit Biological Agents, Sankt Augustin.
+(22)Medical Institute for Environmental and Occupational Medicine MIU GmbH 
+Erkrath, Erkrath.
+(23)Scientific working group of environmental medicine of the German Society of 
+Pediatric Allergology (GPAU).
+(24)Asthma and Allergy Center Leverkusen, Leverkusen.
+(25)Institute and Polyclinic for Occupational, Social and Environmental 
+Medicine, member of the German Center for Lung Research, Hospital of the 
+University of Munich, Munich.
+(26)Center for Allergology and Asthma, Johanniter Hospital Treuenbrietzen, 
+Treuenbrietzen.
+(27)Institute for Prevention and Occupational Medicine of the German Statutory 
+Accident Insurance, Institute of the Ruhr University Bochum (IPA), Bochum.
+(28)Center for Pediatrics and Adolescent Medicine, University Hospital Giessen 
+and Marburg GmbH, Giessen.
+(29)Specialized Practice in Allergology and Pediatric Pulmonology in Fulda, 
+Fulda.
+(30)Institute for Clinical Hygiene, Medical Microbiology and Clinical 
+Infectiology, Paracelsus Private Medical University Nuremberg Clinic, Nuremberg.
+(31)Doctor for Pediatrics and Adolescent Medicine, Pediatric Pulmonology, 
+Environmental Medicine, Classical Homeopathy, Asthma Trainer, Neurodermatitis 
+Trainer, Viersen.
+(32)FG II 1.4 Microbiological Risks, German Environment Agency, Berlin.
+(33)German Pollen Information Service Foundation (PID), Berlin, Germany.
+(34)Department of Laboratory Medicine, Division of Clinical Microbiology - 
+Medical University of Vienna, Vienna, Austria, and.
+(35)Institute for Occupational, Social and Environmental Medicine, Uniclinic 
+RWTH Aachen, Aachen, Germany.
+
+None.
+
+© Dustri-Verlag Dr. K. Feistle.
+
+DOI: 10.5414/ALX02444E
+PMCID: PMC11097193
+PMID: 38756207
+
+Conflict of interest statement: See Table 14. Figure 1Incubation period [775, 
+778].Figure 2Temporal relationship between sensitization and first allergic 
+reaction [775, 778].Figure 3Latency period [775, 778]. Figure 4Annual course of 
+the occurrence of mold spores in the outdoor air, spore concentrations as weekly 
+values in spores/m3 air, pollen trap in Leverkusen. Source: Mülleneisen 2023, 
+unpublished data. A volumetric spore trap based on the Hirst principle was used 
+to determine the concentration [269] with associated microscopic analysis of the 
+samples. The measurement method is standardized [738].Figure 5Monthly course of 
+spore concentrations (in spores/m3 of air) in the outdoor air for several mold 
+genera as an example for one year and one measuring station in Germany: a) 
+Pleospora 2021 – Berlin measuring station, b) Cladosporium 2021 – Chemnitz 
+measuring station, c) Alternaria 2021 – Berlin measuring station, d) Epicoccum 
+2021 – Berlin measuring station. Missing data at the Chemnitz station in the 
+periods: February 24, 2021 to March 1, 2021 and April 1, 2021 to April 6, 2021. 
+The figure was provided by the German Pollen Information Service Foundation 
+(Stiftung Deutscher Polleninformationsdienst). The concentration was determined 
+using volumetric spore traps based on the Hirst principle [269] followed by 
+microscopic analysis of the samples. The measurement procedure is standardized 
+[738].Risk matrix 1. Risk of infection by mold (The darker a box, the greater 
+the possible health risk.). Risk matrix 2.Risk of sensitization/risk of allergy 
+caused by mold (the darker the color, the greater the possible health risk). 
+*Proof of the clinical relevance of a sensitization determined in the allergy 
+test required! Table 2.Important sources of frequently occurring mold species 
+and genera (examples from practical investigations). Species or genusImportant 
+sourcesCladosporium herbarum, Alternaria alternata, Botrytis cinereaVegetation, 
+outdoor air-associatedAspergillus versicolor complex and Scopulariopsis 
+brevicaulisDamp plasterXerophilic Aspergillus species of the Restrictus complex 
+(esp. A. penicillioides and A. restrictus) as well as Aspergillus 
+glaucus/pseudoglaucus and A. montevidensis, Wallemia sebiCellulose-containing 
+materials with only slightly increased moistureAspergillus fumigatusComposting, 
+rotting of plant material, indicator for thermotolerant processesChaetomium 
+spp., Trichoderma spp., Phialophora spp.Colonizer of damp wood and cellulose 
+materials such as cardboardPenicillium speciesPerishable food, waste, organic 
+waste and wallpaper, house dustSarocladium strictum, Parengyodontium album, 
+Lecanicillium psalliotae and Simplicillium spp.Polystyrene floor insulation with 
+prolonged moisture penetrationStachybotrys chartarum, Acremonium spp, Chaetomium 
+spp.Very moist, cellulose-containing building materialsWallemia sebi, 
+Aspergillus restrictus complexKeeping caged animals with bedding Table 
+3.Examples of species complexes based on molecular analyses (modified according 
+to [297]). Complex or groupSelected speciesMolecular markers for 
+differentiationAspergillus versicolor complexA. versicolor, A. amoenus, A. 
+creber, A. jensenii, A. protuberus, et al.CaM, β-TubAspergillus niger complexA. 
+niger, A. acidus, A. aculeatus, A. brasiliensis, A. tubingensis, et al.CaM, 
+β-TubAspergillus fumigatus complexA. fumigatus, A. lentulus, A. novofumigatus, 
+A. fumigatiaffinis, et al.CaM, β-Tub (Note: Cultivation at 37 °C; 
+Differentiation A. lentulus)Fusarium solani complexF. solani, F. 
+keratoplasticum, F. petroliphilum, F. lichenicola, et al.EF-1α, RPB-1 and/or 
+RPB-2 Table 4.Evidence for the relationship between indoor moisture/mold 
+exposure and disease (in alphabetical order), modified from [7, 39, 45, 58, 59, 
+74, 78, 79, 80, 101, 108,111, 116, 119, 131, 133, 162, 169, 175, 181, 182, 183, 
+201, 202, 204, 211, 212, 245, 263, 273, 275, 287, 289, 291, 298, 303, 316, 319, 
+322, 338, 363, 370, 394, 437, 442, 444, 445, 449, 450, 451, 462, 465, 466, 467, 
+490, 499, 501, 504, 509, 514, 520, 521, 522, 525, 526, 528, 532, 534, 537, 540, 
+546, 547, 552, 553, 568, 569, 596, 598, 632, 635, 642, 643, 644, 645, 652, 655, 
+694, 698, 717, 722, 742, 746, 754, 756, 757, 777, 783, 790, 791, 794, 797]. 
+Causal relationship Sufficient evidence for an association1Allergic 
+bronchopulmonary aspergillosis (ABPA) Allergic bronchopulmonary mycoses (ABPM) 
+Allergic respiratory diseases Allergic rhinitis Allergic rhinoconjunctivitis 
+Aspergilloma Aspergillosis Aspergillus bronchitis Asthma (manifestation, 
+progression, exacerbation) Bronchitis (acute, chronic) Community-acquired 
+aspergillus pneumonia Favoring respiratory infections Hypersensitivity 
+pneumonitis (HP); extrinsic allergic alveolitis (EAA) Invasive aspergillosis 
+Mycoses Organic dust toxic syndrome (ODTS) (workplace) Pulmonary aspergillosis 
+(subacute, chronic) Rhinosinusitis (acute, chronic invasive or granulomatous, 
+allergic)Limited or suspected evidence of an associationAtopic eczema / atopic 
+dermatitis / neurodermatitis (manifestation) Chronic obstructive pulmonary 
+disease (COPD) Mood disorders Mucous membrane irritation (MMI) Odor effects 
+SarcoidosisInadequate or insufficient evidence for an associationAcute 
+idiopathic pulmonary hemorrhage in children Airborne mycotoxicosis Arthritis 
+Autoimmune diseases Cancer Chronic fatigue syndrome (CFS) Endocrinopathies 
+Gastrointestinal effects Multiple Chemical Sensitivity (MCS) Multiple sclerosis 
+Neuropsychological effects Neurotoxic effects Sudden infant death syndrome Renal 
+effects Reproductive disorders Rheumatism Sick building syndrome (SBS) 
+Teratogenicity Thyroid diseases Urticaria 1The diseases listed here can be 
+subsumed under the term Building Related Illness (BRI), even though BRI requires 
+that the etiology, pathology, pathophysiology, diagnosis, treatment, prevention 
+and prognosis are clearly known [429, 663]. Table 5.Examples of typical antigens 
+and antigen sources for hypersensitivity pneumonitis (HP; extrinsic allergic 
+alveolitis (EAA) (mod. after Costabel et al. 2020 [113]). AntigenAntigen 
+sourceHP typeBacteria   Thermophilic actinomycetesMoldy hay and straw Farmer’s 
+lungSugar cane dustBagassosis   Klebsiella oxytocaHumidifierHumidifier lung 
+Mycobacteria   Mycobacterium avium complexWhirlpoolsWhirlpool lung (hot tub 
+lung)   Mycobacterium immunogenumCooling lubricantsMachinist’s 
+lungMushrooms   Absidia corymbiferaMoldy hay and straw Farmer’s 
+lung   Trichosporon cutaneumInteriorsSummer-type alveolitis   Penicillium 
+roquefortiCheese production/industrial sourcesCheese washer lung 
+   Purpureocillium lilacinum, Aspergillus spp. Wind instrumentsWind instrument 
+alveolitisAnimal proteins   Feathers and excrementBirdsBird keeper lung   Serum 
+and urineRatsRat protein alveolitisPlant proteins   Nut dustTiger nutsTigernut 
+alveolitis   Soy dustSoy productsSoy dust alveolitis   Wood dustVarious wood 
+dustsWoodworker’s alveolitisEnzymes   PhytaseAnimal feed productionPhytase 
+alveolitis   Enzymes from Bacillus subtilisBiological cleaning agentDetergent 
+lung Table 6.Diagnostic criteria for allergic bronchopulmonary aspergillosis. a) 
+Diagnostic criteria for allergic bronchopulmonary aspergillosis according to 
+Rosenberg et al. [586]:Main criteria:   1. Bronchial asthma    2. Positive 
+immediate reaction in the skin test for Aspergillus fumigatus   3. Total IgE > 
+417 IU/mL   4. Positive specific IgE against Aspergillus fumigatus   5. IgG 
+antibodies against Aspergillus fumigatus   6. Blood eosinophilia (> 1,000 
+Eos/µL)   7. Central bronchiectasis   8. Radiological volatile or permanent 
+pulmonary infiltratesSecondary criteria   Tough mucus plugs   Positive sputum 
+culture for Aspergillus fumigatus   Late reaction in the intradermal test for 
+Aspergillus fumigatusb) Modified ISHAM diagnostic criteria for allergic 
+bronchopulmonary aspergillosis 2021 [616]:Combination of criteria with best 
+sensitivity/specificity:   1. Bronchial asthma   2. Aspergillus 
+fumigatus-specific IgE > 0.35 kU/L   3. Total IgE > 500 IU/mLand at least two of 
+the following criteria:   1. Aspergillus fumigatus-specific IgG > 27 mgA/dL   2. 
+Bronchiectasis in CT thorax   3. Eosinophilia in the blood count > 500/µL Table 
+7.Mold mycoses and their pathogens [712]. Infectious disease (invasive 
+mycosis)Pathogen (risk group according. TRBA 460 (2016) [712]AspergillosisA. 
+fumigatus (2)A. flavus (2)A. niger (complex) (1, 2)A. terreus (2)A. nidulans 
+(1)MucormycosisRhizopus oryzae (2)Mucor sp. (1)Rhizomucor 
+(1)PhaeohyphomycosesCurvularia sp. (1)Bipolaris sp. (1)Alternaria sp. 
+(1)HyalohyphomycosesFusarium sp. (1, 2)Pseudallescheria sp.= Scedosporium sp. 
+(2)PenicilliosesTalaromyces (formerly Penicillium) marneffei (2) Table 
+8.Differential diagnosis of extrinsic allergic alveolitis (EAA) and organic dust 
+toxic syndrome (ODTS) [354]. FeaturesEAAODTSExposureVarious allergensEndotoxins, 
+high exposureIncidence2 – 30 / 10,00010 – 100 / 10,000Latency4 – 8 hours4 – 12 
+hoursAuscultationEnd-expiratory rales on both sides basalNormal, possibly 
+rattling noisesLung functionRestriction (rarely obstruction, DLCO reducedNormal 
+(possible restriction)PrecipitinsOften specific IgGMostly negative Table 
+9.Immunosuppression risk groups of the Commission for Hospital Hygiene and 
+Infection Prevention (KRINKO) at the Robert Koch Institute [349]. Risk group 1 
+(moderate immunosuppression/deficiency)– Granulocytopenia < 0.5 × 109 /L; (< 
+500/µL) probably up to 10 days (analogous to leukopenia < 1 × 109 /L; < 
+1,000/µL), – Autologous stem cell transplantation up to 3 months after day 0 
+(day of stem cell return) – Lack of CD4-positive T helper cells < 200/µL 
+(Caveat: age-appropriate normal values in children) – Autologous stem cell 
+transplantation up to 3 months after intensive therapy phase Patients who have 
+more than one characteristic of the immunosuppression/deficiency listed under 
+risk group 1 are assigned to risk group 2.Risk group 2 (severe 
+immunosuppression/deficiency)– Granulocytopenia < 0.5 × 109 /L (< 500/μL) for 
+more than 10 days (analogous to leukopenia < 1× 109 /L; < 1,000/μL) – Severe 
+aplastic anemia or macrophage activation syndrome during intensive 
+immunosuppressive therapy – Allogeneic bone marrow or stem cell transplantation 
+up to 6 months after completion of the intensive therapy phase (important: 
+extent of GVHD and ongoing iatrogenic immunosuppression) – Acute inpatient 
+treatment phase for autologous stem cell transplantation or after solid organ 
+transplantation (until discharge)Risk group 3 (very severe 
+immunosuppression/deficiency)– Allogeneic BMT/PBSCT in intensive therapy phase 
+(until engraftment = regeneration of granulopoiesis) – Severe GVHD grade III or 
+IV under intensive immunosuppression The decision to assign patients after 
+allogeneic stem cell transplantation to group 3 is ultimately made by the 
+treating hematologist-oncologist after reviewing all findings.GVHD = 
+graft-versus-host-disease = graft-versus-host-reaction; BMT = mone marrow 
+transplantation; PBSCT = peripheral blood stem cell transplantation. Table 
+1.Medline search on the topic of the guideline (as of 12-2014 and 6-2022). 
+KeywordsNumber of publications found Status 12-2014 [777]Number of publications 
+found Status 6-2022Indoor mo(u)ld or indoor dampness and human 
+health1,9493,145Indoor mo(u)ld or indoor dampness and human health and 
+allergy1,8753,126Indoor mo(u)ld asthma440805Indoor mo(u)ld health 
+asthma285564Indoor mo(u)ld human health asthma494Indoor mo(u)ld 
+allergy1,198Indoor mo(u)ld health allergy434774Indoor mo(u)ld human health 
+allergy689Indoor mo(u)ld atopy89Indoor mo(u)ld health atopy2459Indoor mo(u)ld 
+human health atopy55Indoor mo(u)ld arthritis8Indoor mo(u)ld health 
+arthritis4Indoor mo(u)ld human health arthritis3Indoor mo(u)ld rheumatism5Indoor 
+mo(u)ld health rheumatism4Indoor mo(u)ld human health rheumatism3Mo(u)ld 
+arthritis rheumatism4662Indoor mo(u)ld arthritis rheumatism2Indoor mo(u)ld 
+health arthritis rheumatism2Indoor mo(u)ld human health arthritis 
+rheumatism1Indoor mo(u)ld infection750Indoor mo(u)ld health infection74435Indoor 
+mo(u)ld human health infection357Indoor mo(u)ld irritation113Indoor mo(u)ld 
+health irritation4295Indoor mo(u)ld human health irritation85Indoor mo(u)ld 
+symptoms1,159Indoor mo(u)ld health symptoms449724Indoor mo(u)ld human health 
+symptoms594Indoor mo(u)ld ergosterol50Indoor mo(u)ld health ergosterol2436Indoor 
+mo(u)ld human health ergosterol27Indoor mo(u)ld review450Indoor mo(u)ld health 
+review301Indoor mo(u)ld human health review160266Indoor mo(u)ld trial67Indoor 
+mo(u)ld health trial40Indoor mo(u)ld human health trial1732Indoor mo(u)ld 
+clinical diagnosis89194Indoor mo(u)ld health clinical diagnosis113Indoor mo(u)ld 
+human health clinical diagnosis93Indoor mo(u)ld diagnostic / 
+diagnostics800Indoor mo(u)ld health diagnostic / diagnostics273449Indoor mo(u)ld 
+human health diagnostic / diagnostics353Indoor mo(u)ld prevention654Indoor 
+mo(u)ld health prevention216433Indoor mo(u)ld human health prevention358Indoor 
+mo(u)ld treatment650Indoor mo(u)ld health treatment229360Indoor mo(u)ld human 
+health treatment293Indoor mo(u)ld therapy507Indoor mo(u)ld health 
+therapy196291Indoor mo(u)ld human health therapy250Indoor mo(u)ld air 
+filter174Indoor mo(u)ld health air filter5494Indoor mo(u)ld human health air 
+filter55 Table 10.Stage I - IV after conjunctival provocation test (CPT) [235]. 
+Stage IForeign body sensation, reddening of the conjunctiva, onset of 
+itchingStage IIAs I, plus lacrimation, more intense itching, reddening of the 
+conjunctiva tarsi of the lower eyelidStage IIIAs II, additionally reddening of 
+the conjunctiva tarsi of the upper eyelid, severe itching, blepharospasmStage 
+IVAs III, additionally chemosis, eyelid swelling, irresistible itching Table 
+11.Selection of diagnostic methods without sufficient scientific evidence or 
+without a medical or scientific basis in environmental medicine [5, 73, 232, 
+283, 350, 351, 352, 353, 355, 357, 512, 535, 684]. Diagnostic methods without 
+sufficient scientific evidenceStress tests in body mediae.g., molds in the 
+bloodAllergological examinationse.g., serial dilution titration, cytotoxic blood 
+tests, determination of IgG and IgA antibodies directed against molds in type I 
+allergiesInvestigations into disorders of the immune systeme.g., lymphocyte 
+stimulation test, determination of lymphocyte subpopulations, determination of 
+cytokinesInvestigations of the oxidative systeme.g., determination of oxidative 
+stressOphthalmological examinationse.g., visual contrast sensitivity Test (VCS 
+test)Diagnostic methods without a medical or scientific basisHolistic or 
+bioenergetic diagnostic procedurese.g., electro-acupuncture according to Voll, 
+bioresonance procedures, pendulum, Vega test, decoder dermography, biotonometry, 
+biotensor, Kirlian photography (plasma print procedure, energetic terminal point 
+diagnosis), regulation thermography according to Rost, auriculodiagnostics, 
+kinesiology, aurascopy, iris diagnostics“Clinical ecology” proceduree.g., 
+cytotoxic blood tests, provocation and neutralization test (PN test) Table 
+12.Examples of treatment methods without sufficient scientific evidence or 
+without a medical or scientific basis in environmental medicine [5, 73, 160, 
+384, 512, 762]. Treatment methods without sufficient scientific evidence 
+Antifungal treatment not in line with guidelines Detoxification therapy, e.g., 
+with cholestyramine (CSM therapy) Dietary changes Homeopathic treatments 
+Symbiosis controlTreatment methods without a medical or scientific basis 
+Bioresonance therapy (Moratherapy) Autologous blood and urine treatment Holistic 
+intestinal cleansing Salt therapy Clinical ecology procedures (e.g., provocation 
+and neutralization test (PN test)) Table 13.Cochrane EBM Review by Sauni et al. 
+(2011) [614] on the success of remediation measures after moisture or mold 
+damage in relation to asthma and respiratory symptoms as well as the frequency 
+of colds in adults and children. MeasureEffect on adultsEffect on childrenHome 
+renovation (Evidence level: moderate)Wheezing (asthma): OR 0.64 (KI: 0.55 – 
+0.75) Rhinitis: OR 0.57 (CI: 0.55 – 0.66) Acute treatments (mean difference): MD 
+–0.45 (KI: –0.76 – –0.14) Table 14.The authors’ declarations of conflicts of 
+interest and their assessment are presented below: Consultant or expert 
+activityCollaboration in a scientific advisory boardPaid lecturing or training 
+activitiesPaid authors or co-author-shipResearch projects / conducting clinical 
+studiesProprietary interests (patent, copyright, share ownership)Indirect 
+interestsTopics of the guideline affected by COI; classification of the conflict 
+of interest (IC) with regard to relevance, consequenceDr. med. Ute 
+AurbachNoNoNoNoNoNoNoClassification: no IC Consequence: nonePriv.-Doz. Dr. med. 
+Sven BeckerNoYesYesNoYesNoBoard member AeDAClassification: moderate IC; 
+consequence: no voting authorization for allergological topicsProf. Dr. med. 
+Romuald BellmannYesYesYesNoNoNoMandate holder ÖGMMClassification: moderate IC; 
+consequence: no eligibility for antifungal therapyProf. Dr. med. Karl-Christian 
+BergmannYesYesYesNoNoNoMandate holder DGPClassification: moderate IC; 
+consequence: not eligible to vote on asthma-related issuesProf. Dr. med. Oliver 
+A. CornelyYesYesYesNoNoNoNoClassification: moderate IC; consequence: no voting 
+rights for mycosis-related topicsProf. Dr. med. Steffen 
+EngelhartNoNoNoNoNoNoMandate holder GHUP and DGKH, Member of the Board 
+GHUPClassification: no IC; Consequence: noneDr. rer. nat. Guido 
+FischerNoNoNoNoNoNoNoClassification: no IC; Consequence: noneDr. rer. nat. 
+Thomas GabrioNoNoNoNoNoNoNoClassification: no IC; Consequence: noneDr. med. 
+Birger HeinzowNoNoNoNoNoNoNoClassification: no IC; Consequence: noneProf. Dr. 
+med. Caroline E.W. HerrNoNoNoNoNoNoMandate holder and President of the 
+GHUPClassification: no IC; Consequence: noneDr. rer. nat. Julia 
+HurraßNoNoNoNoNoNoMandate holder and board member of the GHUPClassification: no 
+IC; Consequence: noneDr. med. Marcus JoestNoNoYesNoNoNoNoClassification: low IC; 
+consequence: no management function (coordination/AG management)Prof. Dr. med. 
+Christian KaragiannidisNot specifiedNot specifiedNot specifiedNot specifiedNot 
+specifiedNot specifiedNot specifiedClassification: not possible; consequence: 
+not entitled to voteProf. Dr. med. Ludger KlimekNoYesYesNoYesNoMandate holder 
+AeDAClassification: moderate IC; consequence: no voting rights for 
+immunotherapyDr. rer. nat. Martin KöberleNoNoYesNoNoNoMandate holder 
+DDGClassification: low IC; consequence: no management function (coordination/AG 
+management)Dr. rer. nat. Annette KolkNot specifiedNot specifiedNot specifiedNot 
+specifiedNot specifiedNot specifiedNot specifiedClassification: not possible; 
+consequence: not entitled to voteDr. med. Dipl.-Chem. Herbert LichtneckerNot 
+specifiedNot specifiedNot specifiedNot specifiedNot specifiedNot specifiedNot 
+specifiedClassification: not possible; consequence: not entitled to voteDr. med. 
+Thomas Lob-CorziliusNoNoNoNoNoNoMandate holder GPAUClassification: no IC; 
+Consequence: noneNorbert MülleneisenNoNoNoNoNoNoMandate holder 
+DGPClassification: no IC; Consequence: noneProf. Dr. med. Dennis 
+NowakNoNoYesNoNoNoDGAUM and DGP elected representativesClassification: low IC; 
+consequence: no management function (coordination/AG management)Dr. med. Uta 
+RabeNoNoYesNoNoNoMandate holder AeDAClassification: low IC; consequence: no 
+management function (coordination/AG management)Prof. Dr. rer. nat. Monika 
+RaulfNoNoYesNoNoNoMandate holder DGAKI and DGAUMClassification: low IC; 
+consequence: no management function (coordination/AG management)Prof. Dr. med. 
+Jörg SteinmannNoNoYesNoNoNoNoClassification: low IC; consequence: no management 
+function (coordination/AG management)Prof. Dr. med. Jens-Oliver 
+SteißNoNoYesNoNoNoMandate holder BAPPClassification: low IC; consequence: no 
+management function (coordination/AG management)Dr. med. Jannik 
+StemlerNoNoYesNoNoNoNoClassification: low IC; consequence: no management 
+function (coordination/AG management)Dr. med. Ulli UmpfenbachNoNoNoNoNoNoBoard 
+member BAPP, WAPPA, AGAS, FAAKClassification: no IC; Consequence: noneDr. rer. 
+nat. Kerttu ValtanenNot specifiedNot specifiedNot specifiedNot specifiedNot 
+specifiedNot specifiedNot specifiedClassification: not possible; consequence: 
+not entitled to voteDr. rer. nat. Sandra Walser-ReichenbachNoNoNoNoNoNoMandate 
+holder GHUPClassification: no IC; Consequence: noneDr. rer. medic. Barbora 
+WerchanNoNoNoNoNoNoNoClassification: no IC; Consequence: noneProf. Dr. med. 
+Gerhard A. WiesmüllerNoNoNoNoNoNoMandate holder and Board member 
+GHUPClassification: no IC; Consequence: noneProf. Dr. med. Birgit 
+WillingerNoYesYesNoNoNoMandate holder DMykGClassification: low IC; consequence: 
+no management function (coordination/AG management)
+
+
+2. JAMA. 2024 Feb 13;331(6):510-521. doi: 10.1001/jama.2023.26857.
+
+Management of Food Allergies and Food-Related Anaphylaxis.
+
+Iglesia EGA(1), Kwan M(2), Virkud YV(3), Iweala OI(2)(3).
+
+Author information:
+(1)Division of Allergy, Pulmonary and Critical Care Medicine, Department of 
+Medicine, Vanderbilt University Medical Center, Nashville, Tennessee.
+(2)Thurston Arthritis Research Center, Division of Rheumatology, Allergy, and 
+Immunology, Department of Medicine, University of North Carolina School of 
+Medicine, Chapel Hill.
+(3)University of North Carolina Food Allergy Initiative, Division of Allergy and 
+Immunology, Department of Pediatrics, University of North Carolina School of 
+Medicine, Chapel Hill.
+
+IMPORTANCE: An estimated 7.6% of children and 10.8% of adults have IgE-mediated 
+food-protein allergies in the US. IgE-mediated food allergies may cause 
+anaphylaxis and death. A delayed, IgE-mediated allergic response to the 
+food-carbohydrate galactose-α-1,3-galactose (alpha-gal) in mammalian meat 
+affects an estimated 96 000 to 450 000 individuals in the US and is currently a 
+leading cause of food-related anaphylaxis in adults.
+OBSERVATIONS: In the US, 9 foods account for more than 90% of IgE-mediated food 
+allergies-crustacean shellfish, dairy, peanut, tree nuts, fin fish, egg, wheat, 
+soy, and sesame. Peanut is the leading food-related cause of fatal and 
+near-fatal anaphylaxis in the US, followed by tree nuts and shellfish. The 
+fatality rate from anaphylaxis due to food in the US is estimated to be 0.04 per 
+million per year. Alpha-gal syndrome, which is associated with tick bites, is a 
+rising cause of IgE-mediated food anaphylaxis. The seroprevalence of 
+sensitization to alpha-gal ranges from 20% to 31% in the southeastern US. 
+Self-injectable epinephrine is the first-line treatment for food-related 
+anaphylaxis. The cornerstone of IgE-food allergy management is avoidance of the 
+culprit food allergen. There are emerging immunotherapies to desensitize to one 
+or more foods, with one current US Food and Drug Administration-approved oral 
+immunotherapy product for treatment of peanut allergy.
+CONCLUSIONS AND RELEVANCE: IgE-mediated food allergies, including delayed 
+IgE-mediated allergic responses to red meat in alpha-gal syndrome, are common in 
+the US, and may cause anaphylaxis and rarely, death. IgE-mediated anaphylaxis to 
+food requires prompt treatment with epinephrine injection. Both food-protein 
+allergy and alpha-gal syndrome management require avoiding allergenic foods, 
+whereas alpha-gal syndrome also requires avoiding tick bites.
+
+DOI: 10.1001/jama.2023.26857
+PMCID: PMC11060332
+PMID: 38349368 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Iglesia 
+reported receiving grants from the Robert Wood Johnson Foundation during the 
+conduct of the study. Dr Kwan reported receiving grants from Pfizer QI outside 
+the submitted work. Dr Iweala reported serving as on the advisory boards of 
+Blueprint Medicines and Novartis and receiving consulting fees from Allakos Inc 
+outside the submitted work; and was a coauthor of an article sponsored by 
+Genentech. No other disclosures were reported.
+
+
+3. J Ethnopharmacol. 2019 May 10;235:248-254. doi: 10.1016/j.jep.2019.02.014.
+Epub  2019 Feb 12.
+
+Aleurites moluccanus and its main active constituent, the flavonoid 
+2″-O-rhamnosylswertisin, in experimental model of rheumatoid arthritis.
+
+Quintão NLM(1), Pastor MVD(2), Antonialli CD(3), da Silva GF(3), Rocha LW(3), 
+Berté TE(3), de Souza MM(4), Meyre-Silva C(2), Lucinda-Silva RM(4), Bresolin 
+TMB(4), Cechinel Filho V(4).
+
+Author information:
+(1)Programa de Pós-Graduação em Ciências Farmacêuticas, Universidade do Vale do 
+Itajaí (UNIVALI), Itajaí, Santa Catarina, Brazil. Electronic address: 
+nara.quintao@univali.br.
+(2)Pharmacy Course, Universidade do Vale do Itajaí (UNIVALI), Itajaí, Santa 
+Catarina, Brazil.
+(3)Programa de Pós-Graduação em Ciências Farmacêuticas, Universidade do Vale do 
+Itajaí (UNIVALI), Itajaí, Santa Catarina, Brazil.
+(4)Programa de Pós-Graduação em Ciências Farmacêuticas, Universidade do Vale do 
+Itajaí (UNIVALI), Itajaí, Santa Catarina, Brazil; Pharmacy Course, Universidade 
+do Vale do Itajaí (UNIVALI), Itajaí, Santa Catarina, Brazil.
+
+ETHNOPHARMMACOLOGICAL RELEVANCE: Aleurites moluccana is used in folk medicine to 
+treat pain, fever, asthma, hepatitis, gastric ulcer and inflammatory process in 
+general, and the nut oil had been topically applied to treat arthritis and other 
+joint pain, however the seeds are classified as toxic for oral use.
+AIM: Faced with the need for new alternative to treat the symptoms and modify 
+rheumatoid arthritis (RA) the aim of this work was to evaluate the effects of A. 
+moluccanus' leaves dried extract in rats and mice submitted to complete Freund 
+adjuvant (CFA)-induced RA.
+MATERIAL AND METHODS: Wistar Rats and Swiss mice were submitted to CFA-induced 
+RA in the right hindpaw. They received A. moluccanus extract (orally; p.o.), 
+dexamethasone (subcutaneously), 2″-O-rhamnosylswertisin (p.o.) or vehicle 
+(p.o.), from the 14th day after the CFA injection for up to 8 days. The 
+mechanical hypersensitivity was evaluated using the von Frey filaments and the 
+paw-oedema was measured using a plethysmometer. The rats' injected hindpaw was 
+used to perform the histological analysis.
+RESULTS: A. moluccanus was able to significantly reduce the mechanical 
+hypersensitivity in both ipsi- and contralateral hindpaws of mice injected with 
+CFA, in a dose dependent manner. Furthermore, the paw-oedema was progressively 
+reduced by A. moluccanus. Similar results were obtained for the positive-control 
+drug dexamethasone and the isolated compound 2″-O-rhamnosylswertisin. Besides 
+the effects mentioned above, the extract was also effective to repair the joint 
+damage in CFA-induced RA rats, including reduction of fibrosis, cartilage 
+degradation and bone erosion scores.
+CONCLUSION: These results together with the literature data reinforce the 
+anti-hypersensitivity and anti-inflammatory activity of A. moluccanus extract. 
+Part of the observed effects is due to the presence of the compound 
+2″-O-rhamnosylswertisin. The fact that the extract acted as a disease modifier 
+point this herbal product as a promisor and safe tool to treat RA and other 
+associated chronic diseases.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jep.2019.02.014
+PMID: 30769038 [Indexed for MEDLINE]
+
+
+4. BMJ. 2017 May 9;357:j1794. doi: 10.1136/bmj.j1794.
+
+The Dietary Approaches to Stop Hypertension (DASH) diet, Western diet, and risk 
+of gout in men: prospective cohort study.
+
+Rai SK(1)(2)(3), Fung TT(4)(5), Lu N(1)(2), Keller SF(1), Curhan GC(2)(6), Choi 
+HK(7)(2)(3).
+
+Author information:
+(1)Division of Rheumatology, Allergy and Immunology, Massachusetts General 
+Hospital, Harvard Medical School, Boston, MA, 02114, USA.
+(2)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA.
+(3)Arthritis Research Canada, Richmond, BC, Canada.
+(4)Department of Nutrition, Simmons College, Boston, MA, USA.
+(5)Department of Nutrition, Harvard TH Chan School of Public Health, Boston, MA, 
+USA.
+(6)Division of Renal (Kidney) Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA.
+(7)Division of Rheumatology, Allergy and Immunology, Massachusetts General 
+Hospital, Harvard Medical School, Boston, MA, 02114, USA hchoi@partners.org.
+
+Objective To prospectively examine the relation between the Dietary Approaches 
+to Stop Hypertension (DASH) and Western diets and risk of gout (ie, the clinical 
+endpoint of hyperuricemia) in men.Design Prospective cohort study.Setting The 
+Health Professionals Follow-up Study.Participants 44 444 men with no history of 
+gout at baseline. Using validated food frequency questionnaires, each 
+participant was assigned a DASH dietary pattern score (based on high intake of 
+fruits, vegetables, nuts and legumes, low fat dairy products, and whole grains, 
+and low intake of sodium, sweetened beverages, and red and processed meats) and 
+a Western dietary pattern score (based on high intake of red and processed 
+meats, French fries, refined grains, sweets, and desserts).Main outcome 
+measure Risk of incident gout meeting the preliminary American College of 
+Rheumatology survey criteria for gout, adjusting for potential confounders, 
+including age, body mass index, hypertension, diuretic use, and alcohol 
+intake.Results During 26 years of follow-up, 1731 confirmed cases of incident 
+gout were documented. A higher DASH dietary pattern score was associated with a 
+lower risk for gout (adjusted relative risk for extreme fifths 0.68, 95% 
+confidence interval 0.57 to 0.80, P value for trend <0.001). In contrast, a 
+higher Western dietary pattern score was associated with an increased risk for 
+gout (1.42, 1.16 to 1.74, P=0.005).Conclusion The DASH diet is associated with a 
+lower risk of gout, suggesting that its effect of lowering uric acid levels in 
+individuals with hyperuricemia translates to a lower risk of gout. Conversely, 
+the Western diet is associated with a higher risk of gout. The DASH diet may 
+provide an attractive preventive dietary approach for men at risk of gout.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.j1794
+PMCID: PMC5423545
+PMID: 28487277 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and 
+declare: no support from any organization for the submitted work other than that 
+described above; no financial relationships with any organizations that might 
+have an interest in the submitted work in the previous three years. HKC reports 
+grants from AstraZeneca, consulting fees from Takeda, and consulting fees from 
+Selecta outside the submitted work.
+
+
+5. PLoS One. 2016 Jul 27;11(7):e0159585. doi: 10.1371/journal.pone.0159585. 
+eCollection 2016.
+
+ADAMTS14 Gene Polymorphism and Environmental Risk in the Development of Oral 
+Cancer.
+
+Su SC(1)(2), Hsieh MJ(3)(4)(5), Liu YF(6)(7), Chou YE(7)(8), Lin CW(9)(10), Yang 
+SF(3)(7).
+
+Author information:
+(1)Whole-Genome Research Core Laboratory of Human Diseases, Chang Gung Memorial 
+Hospital, Keelung, Taiwan.
+(2)Department of Dermatology, Drug Hypersensitivity Clinical and Research 
+Center, Chang Gung Memorial Hospital, Linkou, Taiwan.
+(3)Institute of Medicine, Chung Shan Medical University, Taichung, Taiwan.
+(4)Cancer Research Center, Changhua Christian Hospital, Changhua, Taiwan.
+(5)Graduate Institute of Biomedical Sciences, China Medical University, 
+Taichung, Taiwan.
+(6)Department of Biomedical Sciences, Chung Shan Medical University, Taichung, 
+Taiwan.
+(7)Department of Medical Research, Chung Shan Medical University Hospital, 
+Taichung, Taiwan.
+(8)School of Medicine, Chung Shan Medical University, Taichung, Taiwan.
+(9)Institute of Oral Sciences, Chung Shan Medical University, Taichung, Taiwan.
+(10)Department of Dentistry, Chung Shan Medical University Hospital, Taichung, 
+Taiwan.
+
+BACKGROUND: Oral cancer is a common malignancy that is shown to be causally 
+associated with hereditary and acquired factors. ADAMTS14 is a member of the 
+ADAMTS (a disintegrin-like and metalloproteinase domain with thrombospondin 
+motifs) metalloproteinase family that plays an important role in extracellular 
+matrix (ECM) assembly and degradation. Elevation or deficiency of certain ADAMTS 
+proteinases has been known to be implicated in a wide range of pathological 
+processes including atherosclerosis, arthritis, and cancer. The present study 
+aimed to explore the impact of ADAMTS14 gene polymorphisms, combined with 
+environmental risks on the susceptibility to oral tumorigenesis.
+METHODOLOGY/PRINCIPAL FINDINGS: Four single-nucleotide polymorphisms (SNPs) of 
+the ADAMTS14 gene, including rs10823607, rs12774070, rs4747096, and rs61573157 
+were evaluated from 1200 normal controls and 850 patients with oral cancer. We 
+failed to detect a significant association of four individual SNPs with oral 
+cancer between case and control group. However, while considering behavioral 
+exposure of environmental carcinogens, the presence of four ADAMTS14 SNPs, 
+combined with betel nut chewing and/or smoking, profoundly leveraged the risk of 
+oral cancer. Moreover, we observed a significant association of rs12774070, 
+which is predicted to alter the expression and function of ADAMTS14 by in silico 
+and bioinformatics analyses, with poor tumor cell differentiation (AOR: 0.59; 
+95% CI: 0.38-0.92; p = 0.02) in patients who chewed betel nuts.
+CONCLUSIONS: These results implicate the interaction between ADAMTS14 gene 
+polymorphisms and environmental mutagens as a risk factor of oral tumorigenesis 
+and suggest a correlation of rs12774070 with the degree of oral tumor cell 
+differentiation.
+
+DOI: 10.1371/journal.pone.0159585
+PMCID: PMC4962993
+PMID: 27463966 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+6. J Allergy Clin Immunol. 2016 Jan;137(1):137-146. doi: 
+10.1016/j.jaci.2015.05.042. Epub 2015 Jul 17.
+
+Distinct transcriptome profiles differentiate nonsteroidal anti-inflammatory 
+drug-dependent from nonsteroidal anti-inflammatory drug-independent food-induced 
+anaphylaxis.
+
+Muñoz-Cano R(1), Pascal M(2), Bartra J(3), Picado C(4), Valero A(4), Kim DK(5), 
+Brooks S(6), Ombrello M(6), Metcalfe DD(5), Rivera J(7), Olivera A(5).
+
+Author information:
+(1)Mast Cell Biology Section, Laboratory of Allergic Diseases, National 
+Institute of Allergy and Infectious Diseases, National Institutes of Health, 
+Bethesda, Md; Unitat d'Al.lergia, Servei de Neumologia i Al.lergia Respiratoria, 
+Hospital Clinic, Universitat de Barcelona, Barcelona, Spain; Institut 
+d'Investigacions Biomediques August Pi i Sunyer (IDIBAPS), Barcelona, Spain. 
+Electronic address: rmunoz@clinic.ub.es.
+(2)Institut d'Investigacions Biomediques August Pi i Sunyer (IDIBAPS), 
+Barcelona, Spain; Servei d'Immunologia, CDB, Hospital Clinic, Universitat de 
+Barcelona, Barcelona, Spain; Spanish Research Network on Adverse Reactions to 
+Allergens and Drugs (RIRAAF: Red de Investigacion de Reacciones Adversas a 
+Alergenos y Farmacos) of the Carlos III Health Institute, Madrid, Spain.
+(3)Unitat d'Al.lergia, Servei de Neumologia i Al.lergia Respiratoria, Hospital 
+Clinic, Universitat de Barcelona, Barcelona, Spain; Institut d'Investigacions 
+Biomediques August Pi i Sunyer (IDIBAPS), Barcelona, Spain; Spanish Research 
+Network on Adverse Reactions to Allergens and Drugs (RIRAAF: Red de 
+Investigacion de Reacciones Adversas a Alergenos y Farmacos) of the Carlos III 
+Health Institute, Madrid, Spain.
+(4)Unitat d'Al.lergia, Servei de Neumologia i Al.lergia Respiratoria, Hospital 
+Clinic, Universitat de Barcelona, Barcelona, Spain; Institut d'Investigacions 
+Biomediques August Pi i Sunyer (IDIBAPS), Barcelona, Spain.
+(5)Mast Cell Biology Section, Laboratory of Allergic Diseases, National 
+Institute of Allergy and Infectious Diseases, National Institutes of Health, 
+Bethesda, Md.
+(6)Office of Science and Technology and Translational Genetics and Genomics 
+Unit, National Institute of Arthritis and Musculoskeletal and Skin Diseases, 
+National Institutes of Health, Bethesda, Md.
+(7)Laboratory of Molecular Immunogenetics, National Institute of Arthritis and 
+Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda, Md.
+
+BACKGROUND: Lipid transfer protein (LTP), an abundant protein in fruits, 
+vegetables, and nuts, is a common food allergen in Mediterranean areas causing 
+diverse allergic reactions. Approximately 40% of food-related anaphylaxis 
+induced by LTPs requires nonsteroidal anti-inflammatory drugs (NSAIDs) as a 
+triggering cofactor.
+OBJECTIVE: We sought to better understand the determinants of NSAID-dependent 
+and NSAID-independent LTP-induced anaphylaxis (LTP-A).
+METHODS: Selection of patients was based on a proved clinical history of 
+NSAID-dependent or NSAID-independent anaphylaxis to LTPs, positive skin prick 
+test response to LTPs, and serum LTP IgE. Whole-transcriptome (RNA sequencing) 
+analysis of blood cells from 14 patients with NSAID-related LTP-A (NSAID-LTP-A), 
+7 patients with LTP-A, and 13 healthy control subjects was performed to identify 
+distinct gene expression signatures.
+RESULTS: Expression of genes regulating gastrointestinal epithelial renewal was 
+altered in both patient sets, particularly in those with LTP-A, who also 
+presented with gene expression profiles characteristic of an inflammatory 
+syndrome. These included altered B-cell pathways, increased neutrophil 
+activation markers, and increased reactive oxygen species levels. Increased 
+expression of the IgG receptor (CD64) in patients with LTP-A was mirrored by the 
+presence of LTP-specific IgG1 and IgG3. Conversely, patients with NSAID-LTP-A 
+were characterized by reduced expression of IFN-γ-regulated genes and IFN-γ 
+levels, as well as upregulated expression of adenosine receptor 3 (ADORA3) and 
+genes related to adenosine metabolism.
+CONCLUSIONS: Gene ontology analysis suggests disturbances in gut epithelial 
+homeostasis in both groups with LTP-A, with potential integrity breaches in 
+patients with LTP-A that might explain their distinct inflammatory signatures. 
+Differential regulation in patients with LTP-A and those with NSAID-LTP-A of the 
+IFN-γ pathway, IgG receptors, and ADORA3 might provide the pathogenic basis of 
+their distinct responses.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.jaci.2015.05.042
+PMCID: PMC4715677
+PMID: 26194548 [Indexed for MEDLINE]
+
+
+7. J Ethnopharmacol. 1989 Apr;25(2):159-64. doi: 10.1016/0378-8741(89)90017-2.
+
+Studies on the mechanism of action of Semecarpus anacardium in rheumatoid 
+arthritis.
+
+Saraf MN(1), Ghooi RB, Patwardhan BK.
+
+Author information:
+(1)College of Pharmacy, Shreemati Nathibai Damodar Thakarsi Women's University, 
+Bombay, India.
+
+Semecarpus anacardium nuts are used for variety of disorders in Ayurveda. A 
+chloroform extract of the nut significantly reduced acute carrageenan-induced 
+paw oedema in rats and was active against the secondary lesions of 
+adjuvant-induced arthritis. Delayed hypersensitivity induced in mice by sheep 
+red blood cells as an antigen was potentiated by the extract.
+
+DOI: 10.1016/0378-8741(89)90017-2
+PMID: 2747250 [Indexed for MEDLINE]

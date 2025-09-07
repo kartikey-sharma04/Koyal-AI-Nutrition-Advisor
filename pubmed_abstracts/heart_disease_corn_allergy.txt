@@ -1,0 +1,297 @@
+1. Sci Rep. 2021 Jul 5;11(1):13856. doi: 10.1038/s41598-021-93459-3.
+
+All trans retinoic acid alleviates coronary stenosis by regulating smooth muscle 
+cell function in a mouse model of Kawasaki disease.
+
+Suganuma E(1), Sato S(2), Honda S(3), Nakazawa A(3).
+
+Author information:
+(1)Division of Infectious Diseases and Immunology, Allergy, Saitama Children's 
+Medical Center, 1-2 Shintoshin Chuou-ku Saitama-shi, Saitama, 330-8777, Japan. 
+eisuke1525vandy@gmail.com.
+(2)Division of Infectious Diseases and Immunology, Allergy, Saitama Children's 
+Medical Center, 1-2 Shintoshin Chuou-ku Saitama-shi, Saitama, 330-8777, Japan.
+(3)Division of Clinical Research, Saitama Children's Medical Center, Saitama, 
+Japan.
+
+Coronary artery (CA) stenosis is a detrimental and often life-threatening 
+sequela in Kawasaki disease (KD) patients with coronary artery aneurysm (CAA). 
+Therapeutic strategies for these patients have not yet been established. 
+All-trans-retinoic acid (atRA) is a modulator of smooth muscle cell functions. 
+The purpose of this study was to investigate the effect of atRA on CA stenosis 
+in a mouse model of KD. Lactobacillus casei cell wall extract (LCWE) was 
+intraperitoneally injected into 5-week-old male C57BL/6 J mice to induce CA 
+stenosis. Two weeks later, the mice were orally administered atRA (30 mg/kg) 
+5 days per week for 14 weeks (LCWE + atRA group, n = 7). Mice in the untreated 
+group (LCWE group, n = 6) received corn oil alone. Control mice were injected 
+with phosphate-buffered saline (PBS, n = 5). Treatment with atRA significantly 
+suppressed CA inflammation (19.3 ± 2.8 vs 4.4 ± 2.8, p < 0.0001) and reduced the 
+incidence of CA stenosis (100% vs 18.5%, p < 0.05). In addition, atRA suppressed 
+the migration of human coronary artery smooth muscle cells (HCASMCs) induced by 
+platelet-derived growth factor subunit B homodimer (PDGF-BB). In conclusion, 
+atRA dramatically alleviated CA stenosis by suppressing SMC migration. 
+Therefore, it is expected to have clinical applications preventing CA stenosis 
+in KD patients with CAA.
+
+DOI: 10.1038/s41598-021-93459-3
+PMCID: PMC8257698
+PMID: 34226641 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+2. Br J Nutr. 2018 May;119(10):1157-1167. doi: 10.1017/S0007114518000417. Epub
+2018  Mar 28.
+
+Excess free fructose, high-fructose corn syrup and adult asthma: the Framingham 
+Offspring Cohort.
+
+DeChristopher LR(1), Tucker KL(2).
+
+Author information:
+(1)1Independent Researcher,Eugene, OR 97405,USA.
+(2)2Department of Biomedical and Nutritional Sciences,University of 
+Massachusetts Lowell,Lowell,MA 01854,USA.
+
+There is growing evidence that intakes of high-fructose corn syrup (HFCS), 
+HFCS-sweetened soda, fruit drinks and apple juice - a high-fructose 100 % juice 
+- are associated with asthma, possibly because of the high fructose:glucose 
+ratios and underlying fructose malabsorption, which may contribute to enteral 
+formation of pro-inflammatory advanced glycation end products, which bind 
+receptors that are mediators of asthma. Cox proportional hazards models were 
+used to assess associations between intakes of these beverages and asthma risk, 
+with data from the Framingham Offspring Cohort. Diet soda and orange juice - a 
+100 % juice with a 1:1 fructose:glucose ratio - were included for comparison. 
+Increasing intake of any combination of HFCS-sweetened soda, fruit drinks and 
+apple juice was significantly associated with progressively higher asthma risk, 
+plateauing at 5-7 times/week v. never/seldom, independent of potential 
+confounders (hazard ratio 1·91, P<0·001). About once a day consumers of 
+HFCS-sweetened soda had a 49 % higher risk (P<0·011), moderate apple juice 
+consumers (2-4 times/week) had a 61 % higher risk (P<0·007) and moderate fruit 
+drink consumers had a 58 % higher risk (P<0·009), as compared with never/seldom 
+consumers. There were no associations with diet soda/orange juice. These 
+associations are possibly because of the high fructose:glucose ratios, and 
+fructose malabsorption. Recommendations to reduce consumption may be inadequate 
+to address asthma risk, as associations are evident even with moderate intake of 
+these beverages, including apple juice - a 100 % juice. The juice reductions in 
+the US Special Supplemental Nutrition Program for Women, Infants, and Children 
+in 2009, and the plateauing/decreasing asthma prevalence (2010-2013), 
+particularly among non-Hispanic black children, may be related. Further research 
+regarding the consequences of fructose malabsorption is needed.
+
+DOI: 10.1017/S0007114518000417
+PMID: 29587887 [Indexed for MEDLINE]
+
+
+3. Front Plant Sci. 2014 Sep 8;5:440. doi: 10.3389/fpls.2014.00440. eCollection 
+2014.
+
+Flavone-rich maize: an opportunity to improve the nutritional value of an 
+important commodity crop.
+
+Casas MI(1), Duarte S(2), Doseff AI(2), Grotewold E(3).
+
+Author information:
+(1)Center for Applied Plant Sciences, The Ohio State University Columbus, OH, 
+USA ; Molecular Cellular and Developmental Biology Graduate Program, The Ohio 
+State University Columbus, OH, USA ; Department of Molecular Genetics, The Ohio 
+State University Columbus, OH, USA.
+(2)Department of Molecular Genetics, The Ohio State University Columbus, OH, USA 
+; Division of Pulmonary, Allergy, Critical Care, and Sleep, Department of 
+Internal Medicine, Heart and Lung Research Institute, The Ohio State University 
+Columbus, OH, USA.
+(3)Center for Applied Plant Sciences, The Ohio State University Columbus, OH, 
+USA ; Department of Molecular Genetics, The Ohio State University Columbus, OH, 
+USA.
+
+Agricultural outputs have resulted in food production continuously expanding. To 
+satisfy the needs of a fast growing human population, higher yields, more 
+efficient food processing, and food esthetic value, new crop varieties with 
+higher caloric intake have and continue to be developed, but which lack many 
+phytochemicals important for plant protection and adequate human nutrition. The 
+increasing incidence of chronic diseases such as obesity, diabetes and 
+cardiovascular diseases, combined with social disparity worldwide prompted the 
+interest in developing enhanced crops that can simultaneously address the two 
+sides of the current malnutrition sword, increasing yield while providing added 
+nutritional value. Flavones, phytochemicals associated with the beneficial 
+effects of the Mediterranean diet, have potent anti-inflammatory and 
+anti-carcinogenic activities. However, many Mediterranean diet-associated 
+vegetables are inaccessible, or lowly consumed, in many parts of the world. 
+Maize is the most widely grown cereal crop, yet most lines used for hybrid maize 
+production lack flavones. As a first step toward a sustainable strategy to 
+increasing the nutritional value of maize-based diets, we investigated the 
+accumulation and chemical properties of flavones in maize seeds of defined 
+genotypes. We show that the pericarps of the P1-rr genotype accumulate flavones 
+at levels comparable to those present in some flavone-rich vegetables, and are 
+mostly present in their C- and O-glycosylated forms. Some of these glycosides 
+can be readily converted into the corresponding more active health beneficial 
+aglycones during food processing. Our results provide evidence that 
+nutritionally beneficial flavones could be re-introduced into elite lines to 
+increase the dietary benefits of maize.
+
+DOI: 10.3389/fpls.2014.00440
+PMCID: PMC4157551
+PMID: 25250036
+
+
+4. PLoS One. 2009 Oct 12;4(10):e7420. doi: 10.1371/journal.pone.0007420.
+
+Searching for new clues about the molecular cause of endomyocardial fibrosis by 
+way of in silico proteomics and analytical chemistry.
+
+Wayengera M(1).
+
+Author information:
+(1)Division of Molecular Pathology, Department of Pathology, School of 
+Biomedical Sciences, College of Health Sciences, Makerere University, Kampala, 
+Uganda. wmisaki@yahoo.com
+
+BACKGROUND: Endomyocardial Fibrosis (EMF) -is a chronic inflammatory disease of 
+the heart with related pathology to that of late stage Chaga's disease. Indeed, 
+both diseases are thought to result from auto-immune responses against 
+myocardial tissue. As is the case that molecular mimicry between the acidic 
+termini of Trypanosoma cruzi ribosomal P0, P1 and P2beta (or simply TcP0, TcP1, 
+and TcP2beta) proteins and myocardial tissue causes Chaga's disease, excessive 
+exposure to certain infections, toxins including cassava ones, allergy and 
+malnutrition has been suggested as the possible cause for EMF. Recent studies 
+have defined the proteomic characteristics of the T. cruzi ribosomal P 
+protein-C-termini involved in mediating auto-immunity against Beta1-adrenergic 
+receptors of the heart in Chaga's disease. This study aimed to investigate the 
+similarity of C-termini of TcP0/TcP2beta to sequences and molecules of several 
+plants, microbial, viral and chemical elements- most prior thought to be 
+possible causative agents for EMF.
+METHODS AND PRINCIPAL FINDINGS: Comparative Sequence alignments and phylogeny 
+using the BLAST-P tool at the Swiss Institute of Biotechnology (SIB) revealed 
+homologs of C-termini of TcP0 and TcP2beta among related proteins from several 
+eukaryotes including the animals (Homo sapiens, C. elegans, D. melanogaster), 
+plants (Arabidopsis thaliana, Zea mays, Glycina Max, Oryza sativa, Rhizopus 
+oryzae) and protozoa (P. falciparum, T. gondii, Leishmania spp).The chemical 
+formulae of the two T.cruzi ribosomal protein C-terminal peptides were found to 
+be C(61)H(83)N(13)O(26)S(1)and C(64)H(87)N(13)O(28)S(1) respectively by 
+Protparam. Both peptides are heavily negatively charged. Constitutively, both 
+auto-antigens predominantly contain Asparagine (D), Glycine (G) and Phenylamine 
+(F), with a balanced Leucine (L) and Methionine (M) percent composition of 7.7%. 
+The afore going composition, found to be non-homologous to all molecules of 
+chemical species in the databases searched, suggests the possible role of a 
+metabolic pathway in the pathogenesis of EMF if aligned with our "molecular 
+mimicry" hypothesis.
+CONCLUSIONS: Our findings provide a "window" to suggest that cross reactivity of 
+antibodies against C-terminal sequences of several animal, plant and protozoal 
+ribosomal P proteins with heart tissue may mediate EMF in a similar manner as C- 
+termini of T. cruzi do for Chaga's disease.
+
+DOI: 10.1371/journal.pone.0007420
+PMCID: PMC2757908
+PMID: 19823676 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The author has declared 
+that no competing interests exist.
+
+
+5. Int J Food Sci Nutr. 1998 Sep;49(5):339-42. doi: 10.3109/09637489809089408.
+
+The effect of intermittent heating on some chemical parameters of refined oils 
+used in Egypt. A public health nutrition concern.
+
+Tewfik IH(1), Ismail HM, Sumar S.
+
+Author information:
+(1)Department of Nutrition, University of Alexandria, Egypt.
+
+As part of a public health campaign in Egypt, various chemical parameters of oil 
+which are considered good indices in assessing the degree of thermal abuse, 
+oxidation and overall quality (acid values, iodine values, peroxide values, 
+etc.) were studied with respect to different frying oils. Ingestion of 
+decomposition products formed as a results of thermal abuse and oxidation of 
+frying oils are known to lead to a variety of symptoms and diseases (allergies, 
+atherosclerosis, coronary heart disease). Results show that the oil most 
+commonly used by street vendors in Egypt (blend of cotton seed and sunflower 
+oil) is the least suitable for frying, while palm oil on the basis of the 
+various chemical parameters studied, is the ideal choice. However, from the 
+nutritional and public health stand point, the use of saturated oils is to be 
+discouraged. Corn oil is therefore the next best choice from both the chemical 
+and nutritional stand point, and is recommended for public use in a country in 
+which deep-fried vegetable patties ('fallafel') forms the staple food item in 
+the diet.
+
+DOI: 10.3109/09637489809089408
+PMID: 10367003 [Indexed for MEDLINE]
+
+
+6. Am Rev Respir Dis. 1992 Nov;146(5 Pt 1):1306-10. doi: 
+10.1164/ajrccm/146.5_Pt_1.1306.
+
+Bronchoconstriction and airway microvascular leakage in guinea pigs sensitized 
+with trimellitic anhydride.
+
+Hayes JP(1), Lotvall JO, Baraniuk J, Daniel R, Barnes PJ, Taylor AJ, Chung KF.
+
+Author information:
+(1)Department of Thoracic Medicine, National Heart and Lung Institute, London, 
+United Kingdom.
+
+We have developed a guinea pig model of immediate airway responses following 
+intradermal sensitization with free trimellitic anhydride (TMA). Guinea pigs 
+were given an intradermal injection with either 0.1 ml of 0.3% TMA in corn oil 
+(n = 8) or 0.1 ml of corn oil alone (n = 6). A guinea pig serum albumin 
+conjugate of trimellitic anhydride (TMA-GPSA) was prepared with a substitution 
+ratio of 21:1. All sensitized guinea pigs had raised specific serum IgG1 
+antibodies (ELISA), and IgE antibodies were detected in six of the eight 
+sensitized guinea pigs by passive cutaneous anaphylaxis. On Days 21 to 28, 
+guinea pigs were anesthetized, tracheostomized, and ventilated. Evans blue dye 
+(20 mg/ml), an albumin marker, was injected intravenously to quantify airway 
+microvascular leakage (MVL). TMA-GPSA (50 microliters; 1%) in saline was 
+instilled into the trachea. Lung resistance (RL) was measured for 6 min. The 
+guinea pigs were killed, and the lungs were removed. Peak RL (cm H2O/ml x s-1) 
+was significantly increased in sensitized guinea pigs from 0.26 +/- 0.01, mean 
++/- SEM to 21.3 +/- 6.9 (p < 0.05), compared with nonsensitized guinea pigs. 
+There was a significant increase in Evans blue at all levels of the 
+tracheobronchial tree in sensitized guinea pigs compared with the controls (p < 
+0.005). The site of MVL was localized to the postcapillary venules as assessed 
+by extravasation of intravascular Monastral blue dye. We conclude that 
+intradermal sensitization of guinea pigs to TMA induces a polyclonal immune 
+response, associated with bronchoconstriction and airway microvascular leakage, 
+when challenged specifically with TMA-GPSA.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1164/ajrccm/146.5_Pt_1.1306
+PMID: 1443888 [Indexed for MEDLINE]
+
+
+7. Br J Pharmacol. 1992 Aug;106(4):828-32. doi:
+10.1111/j.1476-5381.1992.tb14420.x.
+
+Involvement of inflammatory mediators in the airway responses to trimellitic 
+anhydride in sensitized guinea-pigs.
+
+Hayes JP(1), Lotvall JO, Barnes PJ, Newman Taylor AJ, Chung KF.
+
+Author information:
+(1)Department of Thoracic Medicine, National Heart and Lung Institute, Royal 
+Brompton National Heart & Lung Hospital, London.
+
+1. We examined the effect of various pharmacological agents on the acute 
+bronchoconstrictor response and airway microvascular leakage in a model of 
+guinea-pig sensitization to trimellitic anhydride (TMA) a cause of low molecular 
+weight occupational asthma in man. 2. Guinea-pigs were given intradermal 
+injections of 0.1 ml of 0.3% TMA in corn oil; 21-28 days later, anaesthetized 
+guinea-pigs were challenged with TMA conjugated to guinea-pig albumin by 
+tracheal instillation. Changes in lung resistance were measured and airway 
+microvascular leakage was quantified by measuring the extravasation of Evans 
+blue dye into the airway tissue. 3. Sensitized guinea-pig (n = 9 in each group) 
+were pretreated with chlorpheniramine (2.5 mg kg-1, i.v.), WEB 2086 (10 
+micrograms kg-1, i.v.), BW 4AC (50 mg kg-1, i.p.), nedocromil sodium (2% aerosol 
+for 60 s) or vehicle alone. 4. Pretreatment with chlorpheniramine inhibited both 
+the acute bronchoconstrictor response and the increase in airway microvascular 
+leakage. WEB 2086 and nedocromil sodium partially inhibited the 
+bronchoconstrictor response but had no significant effect on airway 
+microvascular leakage. BW 4AC caused a non-significant reduction of the 
+bronchoconstrictor response and airway microvascular leakage. 5. These results 
+indicate that both the bronchoconstrictor response and the airway microvascular 
+response in this model of sensitization is mediated to a large extent by 
+histamine. PAF but not 5-lipoxygenase products also partially mediates the 
+bronchoconstrictor response but not the airway microvascular leakage. Nedocromil 
+sodium partially inhibits the bronchoconstrictor response only.
+
+DOI: 10.1111/j.1476-5381.1992.tb14420.x
+PMCID: PMC1907679
+PMID: 1382788 [Indexed for MEDLINE]

@@ -1,0 +1,987 @@
+1. Pediatr Dermatol. 2025 Mar-Apr;42(2):259-266. doi: 10.1111/pde.15807. Epub
+2024  Nov 11.
+
+Food Allergy Test-Guided Dietary Advice for Children With Atopic Dermatitis: A 
+Consensus Study.
+
+Garside L(1), Boyle R(2), Meyer R(3)(4), Skypala I(5), Allen H(6), Beattie P(7), 
+Dempsey J(8), Doyle M(9), Evans-Howells H(10), Feeney M(1)(11), Ludman S(12), 
+Marrs T(5), Ravenscroft J(13), Stiefel G(14), Umasunthar T(15), Vyas D(16), 
+Yerlett N(17), Walsh J(18), Brown SJ(19), Ridd MJ(1).
+
+Author information:
+(1)Centre for Applied Excellence in Skin & Allergy Research, University of 
+Bristol, Bristol, UK.
+(2)National Heart and Lung Institute, Imperial College London, London, UK.
+(3)Winchester University, Winchester, UK.
+(4)KU Leuven, Leuven, Belgium.
+(5)Guy's and St Thomas' NHS Foundation Trust, London, UK.
+(6)Imperial College London, London, UK.
+(7)Royal Hospital for Children, Glasgow, UK.
+(8)Imperial College Healthcare NHS Trust, London, UK.
+(9)Jersey Allergy Clinic, St Lawrence, Jersey, UK.
+(10)Dr Helen Allergy, Bournemouth, UK.
+(11)King's College London, London, UK.
+(12)Royal Devon University Healthcare NHS Foundation Trust, Exeter, UK.
+(13)Nottingham University Hospitals NHS Trust, Nottingham, UK.
+(14)University Hospitals of Leicester NHS Trust, Leicester, UK.
+(15)Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+(16)West Hertfordshire Hospitals NHS Trust, Watford, UK.
+(17)Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK.
+(18)Castle Partnership, Norwich, UK.
+(19)University of Edinburgh, Edinburgh, UK.
+
+BACKGROUND: The use of blood specific IgE or skin prick tests (SPT) to guide 
+dietary exclusions for disease control in children with atopic dermatitis (AD) 
+is controversial. We undertook a consensus exercise on how to interpret SPT 
+results and dietary history for cow's milk, hen's egg, wheat, and soy in 
+children < 2 years old with AD.
+METHODS: Fourteen clinicians from general practice, pediatrics, pediatric 
+dermatology, pediatric allergy, and pediatric dietetics from UK and Ireland took 
+part in an online modified Delphi study. Over three rounds, participants gave 
+their anonymous opinions and received individualized and group feedback, based 
+on the premise that all children had SPTs. The findings were discussed in an 
+online workshop.
+RESULTS: Of 18 symptoms, 12 were identified as relevant to immediate and 7 to 
+delayed allergy. Regarding SPTs, there was consensus over which allergens to use 
+for wheat and soy but not cow's milk or hen's egg; for all study foods, wheal 
+size was determined as 0-1 mm negative, ≥ 5 mm sensitized, but between 2 and 
+4 mm, categorization varied by food. During the final workshop, consensus was 
+reached on dietary advice for nine combinations of SPT results and dietary 
+history.
+CONCLUSION: We attained consensus on how SPTs and dietary history for four 
+common food allergens should be interpreted in young children under 2 years of 
+age with AD. These pragmatic recommendations may support clinician education, 
+consistency of decision-making, and future research.
+
+© 2024 The Author(s). Pediatric Dermatology published by Wiley Periodicals LLC.
+
+DOI: 10.1111/pde.15807
+PMCID: PMC11950804
+PMID: 39528241 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.W. has sat on clinical advisory panels to 
+Allergy UK and Anaphylaxis UK. G.S. acts as Trustee to Allergy UK, contributed 
+to an educational video on atopic dermatitis with Sanofi and is Principal 
+Investigator for NARF study. R.M. is on the advisory panel of CoMISS supported 
+by Nestle Health Science, has provided consultancy to Else Nutrition, and 
+received honoraria for lectures from Nutricia/Danone, Abbott, and Reckitt 
+Benckiser. I.S. has received honoraria for lectures from ThermoFisher, Royal 
+College of GPs, TouchiME. M.J.R. is chief investigator on the TIGER (Trial of 
+IgE food allergy tests for Eczema Relief) study (NIHR133464). S.J.B. has 
+received research funding (but no personal financial benefits) from the Wellcome 
+Trust (220875/Z/20/Z), UKRI, Medical Research Council, Rosetrees Trust, 
+Stoneygates Trust, British Skin Foundation, Charles Wolfson Charitable Trust, 
+anonymous donations from people with eczema, Unilever, Pfizer, Abbvie, 
+Sosei‐Heptares, Janssen, European Lead Factory (multiple industry partners) and 
+the BIOMAP consortium (EC‐IMI project ref. No 821511).
+
+
+2. World Allergy Organ J. 2024 Sep 10;17(9):100947. doi: 
+10.1016/j.waojou.2024.100947. eCollection 2024 Sep.
+
+World Allergy Organization (WAO) Diagnosis and Rationale for Action against 
+Cow's Milk Allergy (DRACMA) guideline update - XI - Milk supplement/replacement 
+formulas for infants and toddlers with CMA - Systematic review.
+
+Bognanni A(1)(2)(3), Firmino RT(4), Arasi S(5), Chu DK(1)(3)(6), Chu AWL(3)(7), 
+Waffenschmidt S(8), Agarwal A(9), Dziechciarz P(10), Horvath A(10), Mihara 
+H(11), Roldan Y(12), Terracciano L(13)(14), Martelli A(15), Starok A(16), Said 
+M(17), Shamir R(18), Ansotegui IJ(19), Dahdah L(5), Ebisawa M(20), Galli E(21), 
+Kamenwa R(22), Lack G(23)(24), Li H(25), Pawankar R(26), Warner A(27), Wong 
+GWK(28), Bozzola M(29), Assa'Ad A(30), Dupont C(31), Bahna S(32), Spergel 
+J(33)(34), Venter C(35)(36), Szajewska H(37), Nowak-Wegrzyn AH(38)(39), 
+Vandenplas Y(40)(41), Papadopoulos NG(42)(43), Waserman S(6), Fiocchi A(5), 
+Schünemann HJ(2), Brożek JL(1)(6).
+
+Author information:
+(1)Department of Health Research Methods, Evidence & Impact, McMaster 
+University, Hamilton, Ontario, Canada.
+(2)Clinical Epidemiology and Research Center (CERC), Humanitas University & 
+Humanitas Research Hospital, Pieve Emanuele, Milano, Italy.
+(3)Department of Medicine, Evidence in Allergy Group, McMaster University, 
+Hamilton, Ontario, Canada.
+(4)Academic Unit of Biological Sciences, Federal University of Campina Grande, 
+Patos, Paraíba, Brazil.
+(5)Translational Research in Pediatric Specialties Area, Division of Allergy, 
+Bambino Gesù Children's Hospital, IRCCS, Rome, Italy.
+(6)Department of Medicine, Division of Clinical Immunology and Allergy, McMaster 
+University, Hamilton, Ontario, Canada.
+(7)Department of Medicine, McMaster University, Hamilton, Ontario, Canada.
+(8)Institute for Quality and Efficiency in Health Care, Cologne, Germany.
+(9)Department of Medicine, Division of Internal Medicine, McMaster University, 
+Hamilton, Ontario, Canada.
+(10)Medical University of Warsaw, Warsaw, Poland.
+(11)Clinical Development Infectious Disease, Moderna Japan Co., Ltd., Japan.
+(12)McMaster University, Hamilton, Ontario, Canada.
+(13)Pediatric Primary Care, National Pediatric Health Care System, Milan, Italy.
+(14)Italian Society of Preventive and Social Pediatrics (SIPPS), Italy.
+(15)Italian Society of Allergy and Pediatric Immunology (SIAIP), Italy.
+(16)Evidence Prime Inc., Krakow, Poland.
+(17)Allergy & Anaphylaxis Australia, Sydney, Australia.
+(18)Institute for Gastroenterology, Nutrition and Liver Diseases, Schneider 
+Children's Medical Center of Israel, Faculty of Medical and Health Sciences, Tel 
+Aviv University, Israel.
+(19)Department of Allergy & Immunology, Hospital Quironsalud Bizkaia, Erandio, 
+Bilbao, Spain.
+(20)Clinical Research Center for Allergy and Rheumatology, NHO Sagamihara 
+National Hospital, Kanagawa, Japan.
+(21)Pediatric Allergy Unit, Research Center, San Pietro Hospital - 
+Fatebenefratelli, Rome, Italy.
+(22)Department of Pediatrics and Child Health, Aga Khan University Hospital, 
+Nairobi, Kenya.
+(23)Department of Women and Children's Health/Peter Gorer Department of 
+Immunobiology, School of Life Course Sciences, Faculty of Life Sciences & 
+Medicine, King's College London, United Kingdom.
+(24)Evelina London Children's Hospital, Guy's and St Thomas' Hospital NHS 
+Foundation Trust, United Kingdom.
+(25)Department of Primary Child Care, Children's Hospital, Chongqing Medical 
+University, China.
+(26)Department of Pediatrics. Nippon Medical School, Tokyo, Japan.
+(27)Allergy UK, Crayford, Kingdom, United Kingdom.
+(28)Department of Paediatrics, Faculty of Medicine, The Chinese University of 
+Hong Kong, Hong Kong.
+(29)Pediatric Allergy and Immunology Section, Dept of Pediatrics, Hospital 
+Británico de Buenos Aires, Buenos Aires, Argentina.
+(30)Division of Allergy and Immunology, Cincinnati Children's Hospital Medical 
+Center, and the University of Cincinnati College of Medicine, Cincinnati, OH, 
+USA.
+(31)Clinique Marcel Sembat, Ramsay Group, Boulogne-Billancourt, France.
+(32)Louisiana State University Health Sciences Center - Shreveport, Shreveport, 
+LA, USA.
+(33)Division of Allergy and Immunology, Children's Hospital of Philadelphia, 
+USA.
+(34)Perelman School of Medicine at University of Pennsylvania, Philadelphia, PA, 
+USA.
+(35)Section of Allergy and Clinical Immunology, University of Colorado, USA.
+(36)Children's Hospital Colorado. Denver, Colorado, USA.
+(37)Department of Paediatrics, The Medical University of Warsaw, Warsaw, Poland.
+(38)Department of Pediatrics, Hassenfeld Children's Hospital, New York 
+University, Grossman School of Medicine, New York, NY, USA.
+(39)Department of Pediatrics, Gastroenterology and Nutrition, Collegium Medicum, 
+University of Warmia and Mazury, Olsztyn, Poland.
+(40)Vrije Universiteit Brussel (VUB), UZ Brussel, Belgium.
+(41)KidZ Health Castle, Brussels, Belgium.
+(42)Allergy Department, 2nd Pediatric Clinic, University of Athens, Athens, 
+Greece.
+(43)Lydia Becker Institute, University of Manchester, Manchester, United 
+Kingdom.
+
+BACKGROUND: Cow's milk allergy (CMA) is the most complex and common food allergy 
+in infants. Elimination of cow's milk from the diet and replacement with a 
+specialized formula for infants with cow's milk allergy who cannot be breastfed 
+is an established approach to minimize the risk of severe allergic reactions 
+while avoiding nutritional deficiencies. Given the availability of multiple 
+options, such as extensively hydrolyzed cow's milk-based formula (eHF-CM), 
+aminoacid formula (AAF), hydrolyzed rice formula (HRF), and soy formula (SF), 
+there is some uncertainty regarding which formula might represent the most 
+suitable choice with respect to health outcomes. The addition of probiotics to a 
+specialized formula has also been proposed as a potential approach to possibly 
+increase the benefit. We systematically reviewed specialized formulas for 
+infants with CMA to inform the updated World Allergy Organization (WAO) DRACMA 
+guidelines.
+OBJECTIVE: To systematically review and synthesize the available evidence about 
+the use of specialized formulas for the management of individuals with CMA.
+METHODS: We searched from inception PubMed, Medline, Embase, the Cochrane 
+Central Register of Controlled Trials (CENTRAL), and the websites of selected 
+allergy organizations, for randomized and non-randomized trials of any language 
+investigating specialized formulas with or without probiotics. We included all 
+studies irrespective of the language of the original publication. The last 
+search was conducted in January 2024. We synthesized the identified evidence 
+quantitatively or narratively as appropriate and summarized it in the evidence 
+profiles. We conducted this review following the PRISMA, Cochrane methods, and 
+the GRADE approach.
+RESULTS: We identified 3558 records including 14 randomized trials and 7 
+observational studies. Very low certainty evidence suggested that in infants 
+with IgE-mediated CMA, eHF-CM, compared with AAF, might have higher probability 
+of outgrowing CMA (risk ratio (RR) 2.32; risk difference (RD) 25 more per 100), 
+while showing potentially lower probability of severe vomiting (RR 0.12, 95% CI 
+0.02 to 0.88; RD 23 fewer per 100, 95% CI 3 to 26) and developing food 
+protein-induced enterocolitis syndrome (FPIES) (RR 0.15, 95% CI 0.03 to 0.82; RD 
+34 fewer per 100, 95% CI 7 to 39). We also found, however, that eHF-CM might be 
+inferior to AAF in supporting a physiological growth, with respect to both 
+weight (-5.5% from baseline, 95%CI -9.5% to -1.5%) and length (-0.7 z-score 
+change, 95%CI -1.15 to -0.25) (very low certainty). We found similar effects for 
+eHF-CM, compared with AAF, also in non-IgE CMA. When compared with SF, eHF-CM 
+might favor weight gain for IgE CMA infants (0.23 z-score change, 95%CI 0.01 to 
+0.45), and tolerance acquisition (RR 1.86, 95%CI 1.03 to 3.37; RD 27%, 95%CI 
+1%-74%) for non-IgE CMA (both at very low certainty of the evidence (CoE)). The 
+comparison of eHF-CM vs. HRF, and HRF vs. SF, showed no difference in effect 
+(very low certainty). For IgE CMA patients, low certainty evidence suggested 
+that adding probiotics (L. rhamnosus GG, L. casei CRL431 and B. lactis Bb-12) 
+might increase the probability of developing CMA tolerance (RR 2.47, 95%CI 1.03 
+to 5.93; RD 27%, 95%CI 1%-91%), and reduce the risk of severe wheezing (RR 0.12, 
+95%CI 0.02 to 0.95; RD -23%, 95%CI -8% to -0.4%). However, in non-IgE CMA 
+infants, the addition of probiotics (L. rhamnosus GG) showed no significant 
+effect, as supported by low to very low CoE.
+CONCLUSIONS: Currently available studies comparing eHF-CM, AAF, HRF, and SF 
+provide very low certainty evidence about their effects in infants with 
+IgE-mediated and non-IgE-mediated CMA. Our review revealed several limitations 
+in the current body of evidence, primarily arising from concerns related to the 
+quality of studies, the limited size of the participant populations and most 
+importantly the lack of diversity and standardization in the compared 
+interventions. It is therefore imperative for future studies to be 
+methodologically rigorous and investigate a broader spectrum of available 
+interventions. We encourage clinicians and researchers to review current World 
+Allergy Organization (WAO) Diagnosis and Rationale for Action against Cow's Milk 
+Allergy (DRACMA) Guidelines for suggestions on how to use milk replacement 
+formulas in clinical practice and what additional research would be the most 
+beneficial.
+
+© 2024 The Author(s).
+
+DOI: 10.1016/j.waojou.2024.100947
+PMCID: PMC11415968
+PMID: 39310372
+
+Conflict of interest statement: HJS and JLB, on behalf of McMaster University, 
+received a research grant from the World Allergy Organization to conduct this 
+review that was deposited into the university research account. RS participated 
+as a clinical investigator, and/or advisory board member, and/or consultant, 
+and/or speaker for Abbott, Else, and Nestlé. HS serves as a board member of the 
+International Scientific Association for Probiotics and Prebiotics (ISAPP), an 
+unpaid and voluntary role. They have participated as a clinical investigator, 
+advisory board member, consultant, and speaker for several companies, including 
+Arla, BioGaia, Biocodex, Danone, Dicofarm, Nestlé, NNI, Nutricia, Mead Johnson, 
+and Novalac. YV has participated as a clinical investigator, and/or advisory 
+board member, and/or consultant, and/or speaker for Abbott Nutrition, Alba 
+Health, Arla, Ausnutria, Biogaia, By Heart, CHR Hansen, Danone, ELSE Nutrition, 
+Friesland Campina, Nestle Health Science, Nestle Nutrition Institute, Nutricia, 
+Mead Johnson Nutrition, Pileje, Sanulac, United Pharmaceuticals (Novalac), 
+Yakult, Wyeth. SW is the president of the Canadian Allergy Asthma and Immunology 
+Foundation, and participated as a clinical investigator, and/or advisory board 
+member, and/or consultant, and/or speaker for Pfizer, Kaleo, Bausch Health, GSK, 
+AZ, Sanofi, CSL Behring, Leo, AbbVie, Takeda, Medexus Pharma, MiravoHealth, 
+BioCryst, ALK, Novartis. They also covered the positions of: BOD Asthma Canada, 
+CHAEN. MS works for Allergy & Anaphylaxis Australis, which receives unrestricted 
+educational grants from infant formula companies. AW works for Allergy UK works 
+with corporate partners including those providing foods for special medical 
+purposes, such as Nutricia/Danone, Abbott, Reckitt Benckiser/Mead Johnson. They 
+have been a speakers for 2 Nutricia symposia, with honoraria being paid to the 
+charity. All other authors declare that they have no relevant conflicts of 
+interest to disclose.
+
+
+3. World Allergy Organ J. 2024 Mar 26;17(4):100888. doi: 
+10.1016/j.waojou.2024.100888. eCollection 2024 Apr.
+
+World Allergy Organization (WAO) Diagnosis and Rationale for Action against 
+Cow's Milk Allergy (DRACMA) guideline update - XII - Recommendations on milk 
+formula supplements with and without probiotics for infants and toddlers with 
+CMA.
+
+Bognanni A(1)(2)(3), Fiocchi A(4), Arasi S(4), Chu DK(2)(5), Ansotegui I(6), 
+Assa'ad AH(7), Bahna SL(8), Berni Canani R(9), Bozzola M(5)(10), Dahdah L(4), 
+Dupont C(11)(12), Dziechciarz P(13), Ebisawa M(14), Firmino RT(15), Chu A(2)(5), 
+Galli E(16), Horvath A(13), Kamenwa R(17), Lack G(18), Li H(19), Martelli A(20), 
+Nowak-Węgrzyn A(21)(22), Papadopoulos NG(23)(24), Pawankar R(25), Roldan Y(1), 
+Said M(26), Sánchez-Borges M(27), Shamir R(28), Spergel JM(29), Szajewska H(13), 
+Terracciano L(30), Vandenplas Y(31), Venter C(32), Waffenschmidt S(1)(33), 
+Waserman S(5), Warner A(34), Wong GWK(35), Schünemann HJ(1)(3)(36), Brozek 
+JL(1)(5).
+
+Author information:
+(1)Department of Health Research Methods, Evidence & Impact, McMaster 
+University, Hamilton, Ontario, Canada.
+(2)Department of Medicine, Evidence in Allergy Group, McMaster University, 
+Hamilton, Ontario, Canada.
+(3)Department of Biomedical Sciences, Humanitas University, Milan, Italy.
+(4)Translational Research in Pediatric Specialties Area, Division of Allergy, 
+Bambino Gesù Children's Hospital, IRCCS, Piazza Sant'Onofrio, 4, Rome 00165, 
+Italy.
+(5)Department of Medicine, Division of Clinical Immunology and Allergy, McMaster 
+University, Hamilton, Ontario, Canada.
+(6)Hospital Quironsalud Bizkaia, Bilbao-Erandio, Spain.
+(7)Division of Allergy and Immunology, Cincinnati Children's Hospital Medical 
+Center, University of Cincinnati College of Medicine, Cincinnati, OH, USA.
+(8)Allergy and Immunology Section, Louisiana State University Health Sciences 
+Center, Shreveport, LA, USA.
+(9)Pediatric Allergy Program at the Department of Translational Medical Science, 
+and ImmunoNutritionLab at Ceinge Advanced Biotechnologies, University of Naples 
+Federico II, Naples, Italy.
+(10)Department of Pediatrics, British Hospital-Perdriel, Buenos Aires, 
+Argentina.
+(11)Paris Descartes University, Pediatric Gastroenterology, Necker Hospital, 
+Paris, France.
+(12)Clinique Marcel Sembat, Boulogne-Billancourt, France.
+(13)Department of Paediatrics, Medical University of Warsaw, Warsaw, Poland.
+(14)Clinical Research Center for Allergy and Rheumatology, National Hospital 
+Organization, Sagamihara National Hospital, Kanagawa, Japan.
+(15)Faculty of Medical Sciences of Campina Grande, UNIFACISA University Centre, 
+Campina Grande, Paraiba, Brazil.
+(16)Pediatric Allergy Unit, San Pietro Hospital - Fatebenefratelli, Rome, Italy.
+(17)Department of Paediatrics and Child Health, Aga Khan University Hospital, 
+Nairobi, Kenya.
+(18)King's College London, Asthma-UK Centre in Allergic Mechanisms of Asthma, 
+Department of Pediatric Allergy, St Thomas' Hospital, London, UK.
+(19)Department of Primary Child Care, Children's Hospital, Chongqing Medical 
+University, China.
+(20)Member of Italian Society of Allergy and Pediatric Immunology (SIAIP), 
+Italy.
+(21)Department of Pediatrics, NYU Grossman School of Medicine, Hassenfeld 
+Children's Hospital, New York, NY, USA.
+(22)Department of Pediatrics, Gastroenterology and Nutrition, Collegium Medicum, 
+University of Warmia and Mazury, Olsztyn, Poland.
+(23)Division of Infection, Immunity and Respiratory Medicine, School of 
+Biological Sciences, University of Manchester, Manchester, UK.
+(24)Allergy Department, 2nd Paediatric Clinic, National and Kapodistrian 
+University of Athens, Athens, Greece.
+(25)Division of Allergy, Department of Pediatrics, Nippon Medical School, Tokyo, 
+Japan.
+(26)Allergy & Anaphylaxis Australia, Castle Hill, New South Wales, Australia.
+(27)Allergy and Clinical Immunology Department, Centro Médico Docente La 
+Trinidad and Clínica El Avila, Caracas, Venezuela.
+(28)Institute for Gastroenterology, Nutrition and Liver Diseases, Schneider 
+Children's Medical Center of Israel, Faculty of Medicine, Tel Aviv University, 
+Tel Aviv, Israel.
+(29)Division of Allergy and Immunology, The Children's Hospital of Philadelphia, 
+University of Pennsylvania School of Medicine, Philadelphia, PA, USA.
+(30)Pediatric Primary Care, National Pediatric Health Care System, Milan, Italy.
+(31)Department of Pediatric Gastroenterology, Universitair Ziekenhuis Brussel, 
+Brussels, Belgium.
+(32)Section of Allergy and Immunology, Children's Hospital Colorado, University 
+of Colorado School of Medicine, Aurora, CO, USA.
+(33)Institute for Quality and Efficiency in Health Care, Cologne, Germany.
+(34)Allergy UK, London, England, UK.
+(35)Department of Paediatrics, Prince of Wales Hospital, Chinese University of 
+Hong Kong, Shatin, Hong Kong.
+(36)Department of Medicine, Division of Internal Medicine, McMaster University, 
+Hamilton, Ontario, Canada.
+
+BACKGROUND: Cow's milk allergy (CMA) is the most common food allergy in infants. 
+The replacement with specialized formulas is an established clinical approach to 
+ensure adequate growth and minimize the risk of severe allergic reactions when 
+breastfeeding is not possible. Still, given the availability of multiple 
+options, such as extensively hydrolyzed cow's milk protein formula (eHF-CM), 
+amino acid formula (AAF), hydrolyzed rice formula (HRF) and soy formulas (SF), 
+there is some uncertainty as to the most suitable choice with respect to health 
+outcomes. Furthermore, the addition of probiotics to a formula has been proposed 
+as a potential approach to maximize benefit.
+OBJECTIVE: These evidence-based guidelines from the World Allergy Organization 
+(WAO) intend to support patients, clinicians, and others in decisions about the 
+use of milk specialized formulas, with and without probiotics, for individuals 
+with CMA.
+METHODS: WAO formed a multidisciplinary guideline panel balanced to include the 
+views of all stakeholders and to minimize potential biases from competing 
+interests. The McMaster University GRADE Centre supported the 
+guideline-development process, including updating or performing systematic 
+evidence reviews. The panel prioritized clinical questions and outcomes 
+according to their importance for clinicians and patients. The Grading of 
+Recommendations Assessment, Development and Evaluation (GRADE) approach was 
+used, including GRADE Evidence-to-Decision frameworks, which were subject to 
+review by stakeholders.
+RESULTS: After reviewing the summarized evidence and thoroughly discussing the 
+different management options, the WAO guideline panel suggests: a) using an 
+extensively hydrolyzed (cow's milk) formula or a hydrolyzed rice formula as the 
+first option for managing infants with immunoglobulin E (IgE) and 
+non-IgE-mediated CMA who are not being breastfed. An amino-acid formula or a soy 
+formula could be regarded as second and third options respectively; b) using 
+either a formula without a probiotic or a casein-based extensively hydrolyzed 
+formula containing Lacticaseibacillus rhamnosus GG (LGG) for infants with either 
+IgE or non-IgE-mediated CMA.The issued recommendations are labeled as 
+"conditional" following the GRADE approach due to the very low certainty about 
+the health effects based on the available evidence.
+CONCLUSIONS: If breastfeeding is not available, clinicians, patients, and their 
+family members might want to discuss all the potential desirable and undesirable 
+consequences of each formula in infants with CMA, integrating them with the 
+patients' and caregivers' values and preferences, local availability, and cost, 
+before deciding on a treatment option. We also suggest what research is needed 
+to determine with greater certainty which formulas are likely to be the most 
+beneficial, cost-effective, and equitable.
+
+© 2024 The Author(s).
+
+DOI: 10.1016/j.waojou.2024.100888
+PMCID: PMC11068951
+PMID: 38706757
+
+Conflict of interest statement: The conduction of these guidelines was funded by 
+WAO and the McMaster University GRADE Centre. Direct funding by for-profit 
+companies was not accepted. The guideline panel members received travel 
+reimbursement for attendance at in-person meetings but received no other 
+payments. The funding was also used as salary support for the information 
+scientist running the original searches, and for research assistants and 
+students conducting the systematic reviews. Some members of the method team who 
+contributed to the systematic review conduction participated without 
+remuneration to fulfill requirements of an academic degree or program. COIs of 
+all participants were managed according to WAO policies based on guidance by the 
+National Academy of Medicine2 and GIN3. Before commencing the project, all the 
+participants were asked to disclose any financial and nonfinancial interests 
+relevant to the guidelines by completing the World Health Organization (WHO) 
+declaration of interest forms. An independent and anonymous WAO committee 
+revised the disclosed interests looking for COIs. The revision committee 
+reviewed the forms and deliberated on including panel members aiming to achieve 
+a diversity of expertise and perspectives, while minimizing the inclusion of 
+panel members with the same or similar conflicts. Specifically, the committee 
+placed a high value on addressing conflicts from direct financial interests from 
+for-profit companies related to the guidelines' field. Throughout the 
+guidelines’ development, the members of the panel and method team were asked to 
+update the interest disclosure forms, which were again revised by the WAO 
+committee. At the time of appointment, most of the guideline panel, including 
+one of the guideline panel co-chair (HJS), had no conflicts of interest. The 
+other co-chair (AF) was aware of economic support by for-profit entities 
+provided to WAO in the form of educational grants; therefore, he abstained from 
+voting on all recommendations in the DRACMA guidelines. The method team members 
+deemed to have a real, potential, or perceived conflict of interest related to 
+the topic of a systematic review were excluded from partaking in that review. 
+Likewise, guideline panel members with manageable real, potential, or perceived 
+conflict of interest abstained from voting on recommendations related to that 
+interest, while being still able to provide intellectual input and clinical 
+expertise. The Evidence-to-Decision (EtD) tables for each recommendation list 
+individuals who were excused from voting. One proposed panel member was found 
+with disqualifying competing interests and was excluded from the DRACMA project 
+entirely.S Arasi, S Bahna, A Bognanni, J Brozek, D Chu, L Dahdah, P Dziechciarz, 
+E Galli, R Kamenwa, H Li, A Martelli, R Pawankar, H Schunemann, R Targino, L 
+Terracciano, and A Warner have no conflicts to disclose. Relationships reported 
+related to the submitted work: IJ Anstotegui – Abbott, Amgen, Astra Zeneca, 
+Bayer, Bial, Faes Farma, Hikma, Menarini, Merck, Mundipharma, Roxall, Sanofi, 
+Stallergenes, UCB. A Assa'ad – Aimmune Therapeutics, DBV Technologies, Astella, 
+ABBVIE, Novartis, Sanofi, FARE, NIH and an intellectual property patent licensed 
+to Hoth. R Berni Canani – Ch.Hansen, Danone, DVB, Humana, iHealth, Kraft Heinz, 
+Mead Johnson, Nestlè, Novalac, Nutricia, Sanofi. M Bozzola – Danone. C Dupont – 
+Nestle Health Science, Nestle France, Nutricia, Novalac, Sodilac, Abbott, 
+Danone, and stock ownership at DBV Technologies. M Ebisawa – DBV Technologies, 
+Mylan, ARS Pharmaceuticals, Novartis. A Fiocchi – Abbott, Danone. G Lack – FARE, 
+National Peanut Board (NPB), The Davis Foundation, Action Medical Research, UK 
+Food Standards Agency, Medical Research Council, DBV Technologies, Mission 
+Mighty Me, Novartis, Sanofi-Genyzme, Regeneron, ALK-Abello, Lurie Children's 
+Hospital. A Nowak-Wegrzyn – Nestle, Nutricia, Novartis, Gerber, Aimmune. N 
+Papadopoulos – Novartis, Nutricia, HAL Allergy, Menarini/Faes Farma, Sanofi, 
+Mylan/Meda, Biomay, AstraZeneca, GSK, MSD, ASIT Biotech, Boehringer Ingelheim, 
+Gerolymatos International SA, Capricare. M Said – Nestle, Nutricia, Abbott, 
+Bayer for Anaphylaxis Australia. R Shamir - Abbott, Else, Nestle. J Spergel – 
+DBV Technologies, Regeneron, Sanofi, and Aimmune. H Szajewska – Ausnutria, 
+Cargill, Danone, Else Nutrition, Hipp, Nestle, and Nestle Nutrition Institute. Y 
+Vandenplas – Abbott Nutrition, Biogaia, Biocodex, By Heart, CHR Hansen, Danone, 
+ELSE Nutrition, Friesland Campina, Hero, Hypocrata, Nestle Health Science, 
+Nestle Nutrition Institute, Nutricia, Mead Johnson Nutrition, Orafti, Phacobel, 
+Phathom Pharmaceuticals, Sari Husada, United Pharmaceuticals (Novalac), Wyeth, 
+Yakult. C Venter – Reckitt Benckiser, Nestle Nutrition Institute, Danone, Abbott 
+Nutrition, Else Nutrition, and Before Brands, DBV Technologies. A Warner - 
+Nutricia/Danone, Abbott, Reckitt Benckiser/Mead Johnson, Nutricia/Danone for 
+Allergy UK. S Waserman – Novartis-basic science work on peanut allergy, 
+Aimmune-peanut OIT trial, Medical Advisor to Food Allergy Canada, and Pfizer, 
+Bausch, Kaleoconsultant for epinephrine autoinjectors. GWK Wong – Nestle, 
+Danone.
+
+
+4. World Allergy Organ J. 2023 Jul 24;16(7):100785. doi: 
+10.1016/j.waojou.2023.100785. eCollection 2023 Jul.
+
+World Allergy Organization (WAO) Diagnosis and Rationale for Action against 
+Cow's Milk Allergy (DRACMA) Guideline update - VII - Milk elimination and 
+reintroduction in the diagnostic process of cow's milk allergy.
+
+Meyer R(1), Venter C(2), Bognanni A(3)(4), Szajewska H(5), Shamir R(6), 
+Nowak-Wegrzyn A(7), Fiocchi A(8), Vandenplas Y(9); WAO DRACMA Guideline Group.
+
+Author information:
+(1)Faculty Medicine, Imperial College London, Department Nutrition and 
+Dietetics, Winchester University, UK and Faculty Medicine, KU Leuven, Belgium.
+(2)Children's Hospital Colorado, University of Colorado, Denver, CO, USA.
+(3)Department of Health Research Methods, Evidence & Impact, McMaster 
+University, Hamilton, Ontario, Canada.
+(4)Evidence in Allergy Group; Department of Medicine and Health Research 
+Methods, Evidence and Impact, McMaster University, Hamilton, Ontario, Canada.
+(5)Department of Paediatrics, The Medical University of Warsaw, Warsaw, Poland.
+(6)Institute of Gastroenterology, Nutrition and Liver Diseases, Schneider 
+Children's Medical Center of Israel, Sackler Faculty of Medicine, Tel Aviv 
+University, Israel.
+(7)Hassenfeld Children's Hospital, Department of Pediatrics, NYU Grossman School 
+of Medicine, New York, NY, USA.
+(8)Allergy Unit - Area of Translational Research in Pediatric Specialities, 
+Bambino Gesù Children's Hospital, Rome, Italy.
+(9)Vrije Universiteit Brussel, UZ Brussel, KidZ Health Castle, Brussels, 
+Belgium.
+
+The diagnosis of cow's milk allergy (CMA) in infants and young children remains 
+a challenge because many of the presenting symptoms are similar to those 
+experienced in other diagnoses. Both over- and under-diagnosis occur frequently. 
+Misdiagnosis carries allergic and nutritional risks, including acute reactions, 
+growth faltering, micronutrient deficiencies and a diminished quality of life 
+for infants and caregivers. An inappropriate diagnosis may also add a financial 
+burden on families and on the healthcare system. Elimination and reintroduction 
+of cow's milk (CM) and its derivatives is essential for diagnosing CMA as well 
+as inducing tolerance to CM. In non-IgE mediated CMA, the diagnostic elimination 
+diet typically requires 2-4 weeks before reintroduction, while for IgE mediated 
+allergy the time window may be shorter (1-2 weeks). An oral food challenge (OFC) 
+under medical supervision remains the most reliable diagnostic method for IgE 
+mediated and more severe types of non-IgE mediated CMA such as food protein 
+induced enterocolitis syndrome (FPIES). Conversely, for other forms of non-IgE 
+mediated CMA, reintroduction can be performed at home. The OFC cannot be 
+replaced by the milk ladder after a diagnostic elimination diet. The duration of 
+the therapeutic elimination diet, once a diagnosis was confirmed, can only be 
+established through testing changes in sensitization status, OFCs or home 
+reintroduction, which are directed by local protocols and services' 
+availability. Prior non-evidence-based recommendations suggest that the first 
+therapeutic elimination diet should last for at least 6 months or up to the age 
+of 9-12 months, whichever is reached first. After a therapeutic elimination 
+diet, a milk-ladder approach can be used for non-IgE mediated allergies to 
+determine tolerance. Whilst some centers use the milk ladder also for IgE 
+mediated allergies, there are concerns about the risk of having immediate-type 
+reactions at home. Milk ladders have been adapted to local dietary habits, and 
+typically start with small amounts of baked milk which then step up in the 
+ladder to less heated and fermented foods, increasing the allergenicity. This 
+publication aims to narratively review the risks associated with under- and 
+over-diagnosis of CMA, therefore stressing the necessity of an appropriate 
+diagnosis and management.
+
+© 2023 The Author(s).
+
+DOI: 10.1016/j.waojou.2023.100785
+PMCID: PMC10401347
+PMID: 37546235
+
+Conflict of interest statement: RM has participated as a clinical investigator, 
+and/or advisory board member, and/or consultant, and/or speaker for Abbott 
+Nutrition, ELSE, Nestlé Nutrition Institute, Nestle Health Science, 
+Nutricia/Danone and Mead Johnson. CV reports grants from Reckitt Benckiser, 
+grants from Food Allergy Research and Education, grants from National Peanut 
+Board, during the conduct of the study; and personal fees from Reckitt 
+Benckiser, Nestle Nutrition Institute, Danone, Abbott Nutrition, Else Nutrition, 
+and Before Brands, outside the submitted work. AB has no direct or indirect 
+conflict to disclose. HS academic-associated speaking engagements and/or 
+received research funding from companies manufacturing infant formulae such as 
+Arla, Danone, Hipp, Nestlé Health Science, Nestlé Nutrition Insitutie, Nutricia, 
+Mead Johnson. RS has participated as a clinical investigator, and/or advisory 
+board member, and/or consultant, and/or speaker for Abbott, ELSE, Nestlé 
+Nutrition Institute, Nestle Health Science, NGS, Nutricia, Soremartec and Ukko. 
+ANW receives research support from Alladapt Immunotherapeutics and Regeneron, 
+speaking fees from Nestle, Danone, and Thermofisher; royalties from UpToDate; 
+she serves as an Associate Editor for the Annals of Allergy, Asthma and 
+Immunology, chair of the ABAI Board of Directors, director of the AAAAI Board, 
+and the Chair of the Medical Advisory Board of the International FPIES 
+Association. AF has participated as a clinical investigator, and/or advisory 
+board member, and/or consultant, and/or speaker for Abbott Nutrition, Danone, 
+Soremartec, Novartis, Astrazeneca, Vertex, GSK, Sanofi, DVB, and Aimmune. YV has 
+participated as a clinical investigator, and/or advisory board member, and/or 
+consultant, and/or speaker for Abbott Nutrition, Ausnutria, Biogaia, By Heart, 
+CHR Hansen, Danone, ELSE Nutrition, Friesland Campina, Nestle Health Science, 
+Nestle Nutrition Institute, Nutricia, Mead Johnson Nutrition, Pileje, Sanulac, 
+United Pharmaceuticals (Novalac), Yakult, Wyeth.
+
+
+5. Allergy. 2022 Aug;77(8):2552-2555. doi: 10.1111/all.15320. Epub 2022 May 5.
+
+Selenomethionine attenuates allergic effector responses in human primary mast 
+cells.
+
+Zhao X(1)(2)(3)(4), Blokhuis BRJ(2), Redegeld FA(2), Chang I(5), Dunham D(5), 
+Chen H(1)(4), Nadeau K(5), Garssen J(2)(6), Knippels LMJ(2)(6), Hogenkamp A(2).
+
+Author information:
+(1)State Key Laboratory of Food Science and Technology, Nanchang University, 
+Jiangxi, China.
+(2)Division of Pharmacology, Utrecht Institute for Pharmaceutical Sciences 
+(UIPS), Utrecht University, Utrecht, The Netherlands.
+(3)School of Food Science Technology, Nanchang University, Nanchang, Jiangxi, 
+China.
+(4)Sino-German Joint Research Institute, Nanchang University, Nanchang, China.
+(5)Global Centre of Excellence Immunology, Danone/Nutricia Research, Utrecht, 
+The Netherlands.
+(6)Sean N. Parker Center for Allergy and Asthma Research, Division of Pulmonary, 
+Allergy, Critical Care Medicine, Stanford University, Stanford, California, USA.
+
+DOI: 10.1111/all.15320
+PMCID: PMC9710852
+PMID: 35451124 [Indexed for MEDLINE]
+
+Conflict of interest statement: Leon Knippels is current Danone Nutricia 
+employee, and Johan Garssen is a part time employee of Danone Nutricia Research 
+and Utrecht University. Dr. Nadeau reports grants from National Institute of 
+Allergy and Infectious Diseases (NIAID), National Heart, Lung, and Blood 
+Institute (NHLBI), National Institute of Environmental Health Sciences (NIEHS), 
+and Food Allergy Research & Education (FARE); stock options from IgGenix, Seed 
+Health, ClostraBio, and ImmuneID; is Director of the World Allergy Organization 
+Center of Excellence for Stanford, Advisor at Cour Pharma, Consultant for 
+Excellergy, Red tree ventures, Eli Lilly, and Phylaxis, Co‐founder of Before 
+Brands, Alladapt, Latitude, and IgGenix; and National Scientific Committee 
+member at Immune Tolerance Network (ITN), and National Institutes of Health 
+(NIH) clinical research centers, outside the submitted work; patents include, 
+“Mixed allergen composition and methods for using the same,” “Granulocyte‐based 
+methods for detecting and monitoring immune system disorders,” and “Methods and 
+Assays for Detecting and Quantifying Pure Subpopulations of White Blood Cells in 
+Immune System Disorders.” All remaining authors declare no conflict of interest.
+
+
+6. Allergy. 2022 Jun;77(6):1736-1750. doi: 10.1111/all.15167. Epub 2021 Nov 24.
+
+Proposal of 0.5 mg of protein/100 g of processed food as threshold for voluntary 
+declaration of food allergen traces in processed food-A first step in an 
+initiative to better inform patients and avoid fatal allergic reactions: A 
+GA²LEN position paper.
+
+Zuberbier T(1), Dörr T(1), Aberer W(2), Alvaro M(3), Angier E(4), Arasi S(5), 
+Arshad H(6)(7)(8), Ballmer-Weber B(9)(10), Bartra J(11)(12), Beck L(13), Bégin 
+P(14), Bindslev-Jensen C(15), Bislimovska J(16), Bousquet J(1)(17)(18), Brockow 
+K(19), Bush A(20), Cianferoni A(21), Cork MJ(22), Custovic A(23), Darsow U(19), 
+de Jong N(24), Deleanu D(25), Del Giacco S(26), Deschildre A(27)(28), Dunn 
+Galvin A(29)(30)(31), Ebisawa M(32), Fernández-Rivas M(33), Ferrer M(34), 
+Fiocchi A(5), Gerth van Wijk R(24), Gotua M(35), Grimshaw K(36), Grünhagen J(1), 
+Heffler E(37)(38), Hide M(39), Hoffmann-Sommergruber K(40), Incorvaia C(41), 
+Janson C(42), Malte John S(43)(44), Jones C(45), Jutel M(46)(47), Katoh N(48), 
+Kendziora B(49), Kinaciyan T(50), Knol E(51)(52), Kurbacheva O(53), Lau S(54), 
+Loh R(55), Lombardi C(56), Mäkelä M(57), Marchisotto MJ(58)(59), Makris M(60), 
+Maurer M(1), Meyer R(61), Mijakoski D(16), Minov J(16), Mullol J(62), Nilsson 
+C(63)(64), Nowak-Wegrzyn A(65), Nwaru BI(66), Odemyr M(67), Pajno GB(68), Paudel 
+S(69), Papadopoulos NG(70), Renz H(71)(72), Ricci G(73), Ring J(19)(74), Rogala 
+B(75), Sampson H(76)(77)(78), Senna G(79), Sitkauskiene B(80), Smith PK(81), 
+Stevanovic K(1), Stoleski S(16), Szajewska H(82), Tanaka A(83), Todo-Bom A(84), 
+Topal FA(1), Valovirta E(85), Van Ree R(86), Venter C(87), Wöhrl S(88), Wong 
+GWK(89), Zhao Z(90), Worm M(1).
+
+Author information:
+(1)Department of Dermatology and Allergy, Charité-Universitätsmedizin Berlin, 
+Humboldt-Uniersität zu Berlin and Berlin Institute of Health, Comprehensive 
+Allergy-Centre, Berlin, Germany.
+(2)Department of Dermatology, Medical University of Graz, Graz, Austria.
+(3)Servei Al-lergologia Immunologia Clinica, Hospital Sant Joan de Deu, 
+Barcelona, Spain.
+(4)Primary Care, Population Science and Medical Education, Faculty of Medicine, 
+University of Southampton, Southampton, UK.
+(5)Pediatric Allergology Unit, Bambino Gesù Hospital (IRCCS), Rome, Italy.
+(6)NIHR Southampton Biomedical Research Centre, University Hospital Southampton 
+NHS Foundation Trust, Southampton, UK.
+(7)Clinical and Experimental Sciences, Faculty of Medicine, University of 
+Southampton, Southampton, UK.
+(8)The David Hide Asthma and Allergy Research Centre, St Mary's Hospital, Isle 
+of Wight, UK.
+(9)Department of Dermatology, University Hospital Zürich, Zürich, Switzerland.
+(10)Clinic for Dermatology and Allergology, Kantonsspital St. Gallen, St. 
+Gallen, Switzerland.
+(11)Unitat d'Al.lergia, Servei de Neumologia i Al.lergia Respiratoria, Hospital 
+Clinic, Barcelona, Spain.
+(12)Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), 
+Barcelona, Spain.
+(13)Department of Dermatology, University of Rochester Medical Center, 
+Rochester, New York, USA.
+(14)CHU Sainte-Justine, Montréal, Canada.
+(15)Department of Dermatology and Allergy Center, Odense Research Centre for 
+Anaphylaxis (ORCA), Odense University Hospital Denmark, Odense, Denmark.
+(16)Faculty of Medicine, Ss. Cyril and Methodius, University in Skopje, 
+Institute of Occupational Health of RNM, WHO Collaborating Center, Skopje, 
+Macedonia.
+(17)University Hospital Montpellier, Montpellier, France.
+(18)MACVIA-France, Montpellier, France.
+(19)Department of Dermatology and Allergy Biederstein, School of Medicine, 
+Technical University of Munich, Munich, Germany.
+(20)Imperial College and Royal Brompton Hospital, London, UK.
+(21)Department of Pediatrics, University of Pennsylvania, The Children's 
+Hospital of Philadelphia, Philadelphia, Pennsylvania, USA.
+(22)University of Sheffield, Sheffield, UK.
+(23)National Heart and Lung Institute, Imperial College London, London, UK.
+(24)Section of Allergology and Clinical Immunology, Department of Internal 
+Medicine, Erasmus MC, Rotterdam, The Netherlands.
+(25)University Medicine and Pharmacy Iuliu Hatieganu, IRGH, Allergy, 
+Cluj-Napoca, Romania.
+(26)Department of Medical Sciences and Public Health, University of Cagliari, 
+Cagliari, Italy.
+(27)CHU Lille, Univ Lille, Lille, France.
+(28)Pediatric Pulmonology and Allergy Unit, Hôpital Jeanne de Flandre, Lille, 
+France.
+(29)University College Cork, Cork, Ireland.
+(30)Sechenov University Moscow, Moscow, Russia.
+(31)Anaphylaxis Ireland, Cork, Ireland.
+(32)Clinical Research Center for Allergy and Rheumatology, National Hospital 
+Organization Sagamihara National Hospital, Sagamihara, Japan.
+(33)Allergy Department, Facultad de Medicina, Hospital Clínico San Carlos, 
+Universidad Complutense (UCM), IdISSC, Madrid, Spain.
+(34)Department of Allergy, Clinica Universidad de Navarra, Pamplona, Spain.
+(35)Center of Allergy and Immunology, Tbilisi, Georgia.
+(36)Dietetic Department, Salford Care Organisation, Salford Royal Foundation 
+Trust, Salford, UK.
+(37)Personalized Medicine, Asthma and Allergy, IRCCS Humanitas Research 
+Hospital, Rozzano (MI), Italy.
+(38)Department of Biomedical Sciences, Humanitas University, Pieve Emanuele 
+(MI), Italy.
+(39)Department of Dermatology, Hiroshima Citizens Hospital, Hiroshima, Japan.
+(40)Department of Pathophysiology and Allergy Research, Medical University of 
+Vienna, Austria.
+(41)Cardiac/Pulmonary Rehabilitation, ASST Pini/CTO, Milan, Italy.
+(42)Department of Medical Sciences: Respiratory, Allergy and Sleep Research, 
+Uppsala University, Uppsala, Sweden.
+(43)Department of Dermatology, Environmental Medicine, Health Theory, University 
+of Osnabrueck, Osnabrueck, Germany.
+(44)Institute for Interdisciplinary Dermatological Prevention and Rehabilitation 
+(iDerm) at the University of Osnabrueck, Osnabrueck, Germany.
+(45)Allergy, Kent, UK.
+(46)Department of Clinical Immunology, Wrocław Medical University, Poland.
+(47)All-MED Medical Research Institute, Wrocław, Poland.
+(48)Department of Dermatology, Kyoto Prefectural University of Medicine, Kyoto, 
+Japan.
+(49)Department of Dermatology and Allergy, University Hospital, LMU Munich, 
+Munich, Germany.
+(50)Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+(51)Department of Dermatology and Allergology, University Medical Center 
+Utrecht, Utrecht, The Netherlands.
+(52)Laboratory of Translational Immunology, University Medical Center Utrecht, 
+Utrecht, The Netherlands.
+(53)NRC Institute of Immunology FMBA, Moscow, Russia.
+(54)Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, 
+Charité Universitätsmedizin Berlin, Berlin, Germany.
+(55)Department of Immunology, Perth Children's Hospital, University of Western 
+Australia, Perth, Western Australia, Australia.
+(56)Unità Dipartimentale di Allergologia-Immunologia Clinica & Malattie Apparato 
+Respiratorio, Ente Ospedaliero Fondazione Poliambulanza, Brescia, Italy.
+(57)Skin and Allergy Hospital, Helsinki University Hospital and University of 
+Helsinki, Helsinki, Finland.
+(58)MJM Advisory, New York, New York, USA.
+(59)Mary H. Weiser Food Allergy Center, University of Michigan Medicine, Ann 
+Arbor, Michigan, USA.
+(60)Allergy Unit, 2nd Dpt of Dermatology and Venereology, National and 
+Kapodistrian University of Athens, Attikon University Hospital, Athens, Greece.
+(61)Department of Paediatrics, Imperial College, London, UK.
+(62)Rhinology Unit & Smell Clinic, ENT Department, Hospital Clinic, IDIBAPS, 
+Universitat de Barcelona, CIBERES, Barcelona, Catalonia, Spain.
+(63)Sachs' Children and Youth Hospital, Södersjukhuset, Stockholm, Sweden.
+(64)Department of Clinical Science and Education Södersjukhuset, Karolinska 
+Institutet, Stockholm, Sweden.
+(65)Division of Allergy and Immunology, Department of Pediatrics, Jaffe Food 
+Allergy Institute, Icahn School of Medicine at Mount Sinai, Kravis Children's 
+Hospital, New York, New York, USA.
+(66)Krefting Research Centre, Institute of Medicine, University of Gothenburg, 
+Gothenburg, Sweden.
+(67)Asthma and Allergy Association, Stockholm, Sweden.
+(68)Pediatric unit, Policlinico Hospitsl, University of Messina, Messina, Italy.
+(69)Civil Service Hospital, Kathmandu, Nepal.
+(70)Allergy Dpt, 2nd Pediatric Clinic, University of Athens, Athens, Greece.
+(71)Institute of Laboratory Medicine and Pathobiochemistry, Molecular 
+Diagnostics, Philipps University Marburg University Hospital Giessen and 
+Marburg, Marburg, Germany.
+(72)Department of Clinical Immunology and Allergology, Laboratory of 
+Immunopathology, Sechenov University, Moscow, Russia.
+(73)Pediatric Unit, Department of Medical and Surgical Sciences, University of 
+Bologna, Bologna, Italy.
+(74)Christine Kühne Center for Allergy Research and Education (CK-Care), Davos, 
+Switzerland.
+(75)Department of Internal Diseases, Allergology & Clinical Immunology Medical, 
+University of Silesia, Katowice, Poland.
+(76)Elliot and Roslyn Jaffe Food Allergy Institute, New York, New York, USA.
+(77)Division of Allergy and Immunology, Kravis Children's Hospital, New York, 
+New York, USA.
+(78)Department of Pediatrics, Icahn School of Medicine at Mount Sinai, New York, 
+New York, USA.
+(79)Asthma Center and Allergy Unit, Verona University and General Hospital, 
+Verona, Italy.
+(80)Department of Immunology and Allergology, Lithuanian University of Health 
+Sciences, Kaunas, Lithuania.
+(81)Griffith University, Southport, Qld, Australia.
+(82)Department of Paediatrics, The Medical University of Warsaw, Warsaw, Poland.
+(83)Department of Dermatology, Graduate School of Biomedical and Health 
+Sciences, Hiroshima University, Hiroshima, Japan.
+(84)Allergy and Clinical Immunology Unit, Centro Hospitalar e Universitário de 
+Coimbra, Coimbra, Portugal.
+(85)Department of Lung Diseases and Clinical Allergology, University of Turku, 
+and Terveystalo Turku, Allergy Clinic, Turku, Finland.
+(86)Departments of Experimental Immunology and Otorhinolaryngology, Academic 
+Medical Center, University of Amsterdam, Amsterdam, The Netherlands.
+(87)University of Colorado Denver School of Medicine and Children's Hospital 
+Colorado, Aurora, Colorado, USA.
+(88)Floridsdorf Allergy Center (FAZ), Vienna, Austria.
+(89)Department of Paediatrics, The Chinese University of Hong Kong, Hong Kong, 
+Hong Kong.
+(90)Department of Dermatology, First Hospital, Peking University, Beijing, 
+China.
+
+BACKGROUND: Food anaphylaxis is commonly elicited by unintentional ingestion of 
+foods containing the allergen above the tolerance threshold level of the 
+individual. While labeling the 14 main allergens used as ingredients in food 
+products is mandatory in the EU, there is no legal definition of declaring 
+potential contaminants. Precautionary allergen labeling such as "may contain 
+traces of" is often used. However, this is unsatisfactory for consumers as they 
+get no information if the contamination is below their personal threshold. In 
+discussions with the food industry and technologists, it was suggested to use a 
+voluntary declaration indicating that all declared contaminants are below a 
+threshold of 0.5 mg protein per 100 g of food. This concentration is known to be 
+below the threshold of most patients, and it can be technically guaranteed in 
+most food production. However, it was also important to assess that in case of 
+accidental ingestion of contaminants below this threshold by highly allergic 
+patients, no fatal anaphylactic reaction could occur. Therefore, we performed a 
+systematic review to assess whether a fatal reaction to 5mg of protein or less 
+has been reported, assuming that a maximum portion size of 1kg of a processed 
+food exceeds any meal and thus gives a sufficient safety margin.
+METHODS: MEDLINE and EMBASE were searched until 24 January 2021 for provocation 
+studies and case reports in which one of the 14 major food allergens was 
+reported to elicit fatal or life-threatening anaphylactic reactions and assessed 
+if these occurred below the ingestion of 5mg of protein. A Delphi process was 
+performed to obtain an expert consensus on the results.
+RESULTS: In the 210 studies included, in our search, no reports of fatal 
+anaphylactic reactions reported below 5 mg protein ingested were identified. 
+However, in provocation studies and case reports, severe reactions below 5 mg 
+were reported for the following allergens: eggs, fish, lupin, milk, nuts, 
+peanuts, soy, and sesame seeds.
+CONCLUSION: Based on the literature studied for this review, it can be stated 
+that cross-contamination of the 14 major food allergens below 0.5 mg/100 g is 
+likely not to endanger most food allergic patients when a standard portion of 
+food is consumed. We propose to use the statement "this product contains the 
+named allergens in the list of ingredients, it may contain traces of other 
+contaminations (to be named, e.g. nut) at concentrations less than 0.5 mg per 
+100 g of this product" for a voluntary declaration on processed food packages. 
+This level of avoidance of cross-contaminations can be achieved technically for 
+most processed foods, and the statement would be a clear and helpful message to 
+the consumers. However, it is clearly acknowledged that a voluntary declaration 
+is only a first step to a legally binding solution. For this, further research 
+on threshold levels is encouraged.
+
+© 2021 The Authors. Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.15167
+PMID: 34741557 [Indexed for MEDLINE]
+
+
+7. Allergy. 2015 Jun;70(6):616-24. doi: 10.1111/all.12582. Epub 2015 Mar 26.
+
+Predictors of health-related quality of life of European food-allergic patients.
+
+Saleh-Langenberg J(1)(2), Goossens NJ(1)(2), Flokstra-de Blok BM(2)(3), Kollen 
+BJ(2), van der Meulen GN(1)(4), Le TM(5), Knulst AC(5), Jedrzejczak-Czechowicz 
+M(6), Kowalski ML(6), Rokicka E(7), Starosta P(7), de la Hoz Caballer B(8), 
+Vazquez-Cortés S(9), Cerecedo I(8), Barreales L(10), Asero R(11), Clausen M(12), 
+DunnGalvin A(13), Hourihane JO(13), Purohit A(14), Papadopoulos NG(15)(16), 
+Fernandéz-Rivas M(9), Frewer L(17)(18), Burney P(19), Duiverman EJ(1)(2), Dubois 
+AE(1)(2).
+
+Author information:
+(1)Department of Pediatric Pulmonology and Pediatric Allergy, University of 
+Groningen, University Medical Centre Groningen, Groningen, the Netherlands.
+(2)University of Groningen, University Medical Centre Groningen, GRIAC Research 
+Institute, Groningen, the Netherlands.
+(3)Department of General Practice, University of Groningen, University Medical 
+Centre Groningen, Groningen, the Netherlands.
+(4)Department of Paediatric Allergy, Martini Hospital, Utrecht, the Netherlands.
+(5)Department of Dermatology/Allergology, University Medical Center Utrecht, 
+Utrecht, the Netherlands.
+(6)Department of Immunology, Rheumatology and Allergy, Medical University of 
+Lodz, Lodz, Poland.
+(7)Faculty of Economics and Sociology, Lodz University, Lodz, Poland.
+(8)Department of Allergy, University Hospital Ramón y Cajal, IRICYS, Madrid, 
+Spain.
+(9)Department of Allergy, Hospital Clinico San Carlos, IdISSC, Madrid, Spain.
+(10)Department of Preventive Medicine, Research Unit, Hospital Clínico San 
+Carlos, IdISSC, Madrid, Spain.
+(11)Ambulatorio di Allergologia, Clinica San Carlo, Paderno Dugnano, Italy.
+(12)Department of Allergy, Landspitali, University Hospital, Reykjavík, Iceland.
+(13)Department of Paediatrics and Child Health, Clinical Investigation Unit, 
+Cork University Hospital, University College, Cork, Ireland.
+(14)Division of Allergy, Department of Chest Diseases, University Hospitals, 
+University of Strasbourg, Strasbourg, France.
+(15)Allergy Department, 2nd Pediatric Clinic, University of Athens, Athens, 
+Greece.
+(16)Center for Pediatrics and Child Health, Institute of Human Development, 
+University of Manchester, Manchester, UK.
+(17)Food Safety and Consumer Behaviour, Marketing and Consumer Behaviour Group, 
+Wageningen, the Netherlands.
+(18)Food and Society Group, School of Agriculture, Food and Rural Development, 
+Newcastle University, Newcastle, UK.
+(19)Department of Respiratory Epidemiology and Public Health, National Heart and 
+Lung Institute, Imperial College London, London, UK.
+
+BACKGROUND: Although food allergy has universally been found to impair HRQL, 
+studies have found significant differences in HRQL between countries, even when 
+corrected for differences in perceived disease severity. However, little is 
+known about factors other than disease severity which may contribute to HRQL in 
+food-allergic patients. Therefore, the aim of this study was to identify factors 
+which may predict HRQL of food-allergic patients and also to investigate the 
+specific impact of having experienced anaphylaxis and being prescribed an EAI on 
+HRQL.
+METHODS: A total of 648 European food-allergic patients (404 adults, 244 
+children) completed an age-specific questionnaire package including descriptive 
+questions. Multivariable regression analyses were performed to develop models 
+for predicting HRQL of these patients.
+RESULTS: For adults, the prediction model accounted for 62% of the variance in 
+HRQL and included perceived disease severity, type of symptoms, having a fish or 
+milk allergy, and gender. For children, the prediction model accounted for 28% 
+of the variance in HRQL and included perceived disease severity, having a peanut 
+or soy allergy, and country of origin. For both adults and children, neither 
+experiencing anaphylaxis nor being prescribed an epinephrine auto-injector (EAI) 
+contributed to impairment of HRQL.
+CONCLUSIONS: In this study, food allergy-related HRQL may be predicted to a 
+greater extent in adults than in children. Allergy to certain foods may cause 
+greater HRQL impairment than others. Country of origin may affect HRQL, at least 
+in children. Experiencing anaphylaxis or being prescribed an EAI has no impact 
+on HRQL in either adults or children.
+
+© 2015 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.12582
+PMID: 25627424 [Indexed for MEDLINE]
+
+
+8. Climacteric. 2006 Aug;9(4):245-63. doi: 10.1080/13697130600736934.
+
+Soy and red clover for mid-life and aging.
+
+Geller SE(1), Studee L.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, College of Medicine, University of 
+Illinois, Chicago 60612, USA.
+
+INTRODUCTION: Menopause is associated with mid-life, a time when many women 
+begin to experience the signs and symptoms of aging, such as increases in blood 
+pressure, changes in lipid profiles, loss of bone mass density, and diminished 
+memory and cognition. Given the result of the Women's Health Initiative, many 
+women no longer consider hormone therapy the first option for promoting healthy 
+aging. Instead, they are turning to botanical and dietary supplement (BDS) 
+products in place of hormone therapy. This paper reviews the evidence available 
+for use of isoflavones from soy and red clover for the treatment or prevention 
+of these health issues.
+METHODS: The MEDLINE and EMBASE databases were searched for articles relating to 
+soy or red clover supplement use for prevention and/or treatment of heart 
+disease, hyperlipidemia, osteoporosis, mood disorders and cognitive abilities. 
+Studies were included if they were randomized, controlled trials and included 
+peri- or postmenopausal women.
+RESULTS: Isoflavone products appear to be the most useful for improving lipid 
+profiles; however, the evidence suggests that isoflavone extracts from soy are 
+less effective than products containing soy protein or red clover isoflavones. 
+Soy protein appears to reduce levels of total cholesterol and low density 
+lipoprotein cholesterol, while red clover reduces levels of triglycerides and 
+increases high density lipoprotein cholesterol. The data were somewhat less 
+convincing, although promising, for increasing bone mass density and improving 
+cognitive abilities.
+CONCLUSIONS: Research suggests that isoflavones found in soy foods and red 
+clover appear to have a small but positive health effect on plasma lipid 
+concentrations, bone mass density, and cognitive abilities. Given the lack of 
+serious safety concerns in the short term, it would appear that including soy 
+and red clover in the diet of postmenopausal women, not withstanding a soy 
+allergy, might be beneficial.
+
+DOI: 10.1080/13697130600736934
+PMCID: PMC1780039
+PMID: 16857655 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Statement: The authors have 
+no conflicts of interest to report.
+
+
+9. J Dairy Sci. 1990 May;73(5):1312-7. doi: 10.3168/jds.S0022-0302(90)78797-8.
+
+Causes of adverse responses to soybean milk replacers in young calves.
+
+Gardner RW(1), Shupe MG, Brimhall W, Weber DJ.
+
+Author information:
+(1)Department of Animal Science, Brigham Young University, Provo, UT 84602.
+
+Sixty Holstein bull calves were randomly assigned to one of three treatment 
+groups following an initial 3-d colostrum feeding period. They were fed either 
+whole cows' milk or ethanol-extracted or hexane-extracted soy flour in milk 
+replacers to 6 wk of age. These products were used to identify possible 
+causative factors associated with adverse responses to soybean in milk 
+replacers. Average weight gains to 6 wk of age were 13.8, 7.3, and 2.8 kg and 
+mortality was 0/20, 4/20, and 9/20 for calves fed milk, ethanol-extracted soy, 
+and hexane-extracted soy, respectively. Heart rates (beats/min) were increased 
+by the soy flours: 99.1 (ethanol extracted) and 116.3 (hexane extracted) versus 
+87.6 (milk). There was also an increased respiratory rate (breaths/min) with 
+67.6 and 61.1 versus 41.6 for the same treatment groups. Intradermal wheal 
+growths verified an allergic sensitivity to the soybean products. Serum 
+prostaglandin F2 alpha was 22% higher in the serum of calves fed the 
+hexane-extracted soy milk replacer than in the serum of calves fed milk. 
+Phenolic compounds in the soybean flour were implicated as possible causative 
+factors in the adverse responses to the soybean milk replacers. Ethanol 
+extraction of the soy flour was more effective than hexane extraction in 
+removing phenolic compounds (2.19 vs. 1.00% phenolics).
+
+DOI: 10.3168/jds.S0022-0302(90)78797-8
+PMID: 2365888 [Indexed for MEDLINE]

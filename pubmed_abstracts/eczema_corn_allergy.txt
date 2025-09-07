@@ -1,0 +1,532 @@
+1. Environ Res. 2025 Apr 10;277:121583. doi: 10.1016/j.envres.2025.121583. Online
+ ahead of print.
+
+Associations between agricultural use of pyrethroid insecticides and asthma: 
+AGRICAN cohort results.
+
+Baldi I(1), de Graaf L(2), Bureau M(2), Tual S(3), Douwes J(4), Lebailly P(5).
+
+Author information:
+(1)Univ. Bordeaux, Inserm, Bordeaux Population Health Research Centre, EPICENE 
+Team, UMR 1219, F-33000, Bordeaux, France; Service Santé Travail Environnement, 
+Pôle de Santé Publique, CHU de Bordeaux, 33000, Bordeaux, France. Electronic 
+address: Isabelle.Baldi@u-bordeaux.fr.
+(2)Univ. Bordeaux, Inserm, Bordeaux Population Health Research Centre, EPICENE 
+Team, UMR 1219, F-33000, Bordeaux, France.
+(3)INSERM, UMR1086 ANTICIPE, Cancers et Préventions, Centre François Baclesse, 
+Caen, France.
+(4)Research Centre for Hauora and Health, Massey University, Wellington, New 
+Zealand.
+(5)INSERM, UMR1086 ANTICIPE, Cancers et Préventions, Centre François Baclesse, 
+Caen, France; Université Caen Normandie, Caen, France.
+
+RATIONALE: Following the withdrawal of organochlorines and organophosphates, 
+pyrethroids have become the most used insecticides in both agricultural and 
+domestic settings.
+OBJECTIVES: We analyzed data from the French AGRICAN agricultural cohort to 
+assess associations of occupational pyrethroid exposures and 
+allergic/non-allergic asthma.
+METHODS: At enrollment, asthma diagnosed by a doctor was reported by 11 815 
+participants (7028 classified as non-allergic and 4458 as allergic based on the 
+presence of eczema and/or hay fever). Individual exposures to 17 pyrethroids 
+were defined in 124 992 participants, based on a combination of the history of 
+pesticide treatment of 11 crops (grassland, vineyard, wheat/barley, corn, field 
+peas, potatoes, tobacco, beets, sunflower, rape, fruits) and a crop-exposure 
+matrix.
+MEASUREMENTS AND MAIN RESULTS: In men, no association was observed for any of 
+the pyrethroids regardless of asthma phenotype. In contrast, in ever-exposed 
+women, asthma risk was increased with use of any pyrethroid, both for allergic 
+(+80 %) and non-allergic asthma (+40 %). Highest increases were observed for 
+allergic asthma with fenpropathrin (OR = 2.00; 95 %CI:1.38-2.90), tralomethrin 
+(OR = 1.81; 95 %CI:1.28-2.56), fenvalerate (OR = 1.81; 95 %CI:1.38-2.38), 
+permethrin (OR = 1.78; 95 %CI:1.26-2.50) and deltamethrin (OR = 1.76; 
+95 %CI:1.35-2.29). Stratified analyses on women who reported living on a farm in 
+early life showed stronger associations for non-allergic asthma. For women who 
+reported early life living on vineyards associations with pyrethroids were 
+stronger for both allergic and non-allergic asthma. Associations for women who 
+lived on cattle farms were reduced for some pyrethroids.
+CONCLUSION: Occupational pyrethroid exposure was positively associated with both 
+allergic and non-allergic asthma in women but not in men.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2025.121583
+PMID: 40220893
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Clin Nutr ESPEN. 2020 Dec;40:237-241. doi: 10.1016/j.clnesp.2020.09.013. Epub 
+2020 Sep 23.
+
+Feeding-based treatment of allergic proctocolitis and associated clinical 
+outcomes.
+
+Ahmadipour S(1), Najafi M(2), Motamed F(2), Rahmani P(3).
+
+Author information:
+(1)Department of Pediatrics, Faculty of Medicine, Lorestan University of Medical 
+Sciences, Khorramabad, Iran; Hepatitis Research Center, Lorestan University of 
+Medical Sciences, Khorramabad, Iran; Fellowship of Pediatrics Gastroenterology, 
+Pediatric Gastroenterology and Hepatology Research Center, Tehran University of 
+Medical Sciences, Tehran, Iran.
+(2)Pediatric Gastroenterology and Hepatology Research Center, Tehran University 
+of Medical Sciences, Tehran, Iran.
+(3)Pediatric Gastroenterology and Hepatology Research Center, Tehran University 
+of Medical Sciences, Tehran, Iran. Electronic address: md.p.rahmani@gmail.com.
+
+BACKGROUND: Allergic colitis (AC) is one of the most common etiologies of rectal 
+bleeding in infants aged one to six months.
+AIM: The aim of this study is to apply step-by-step dietary restrictions in the 
+mother's diet or change of infant formula fed thereby, to evaluate the 
+subsequent clinical response.
+METHODS: Sixty healthy infants whose clinical and evaluation results indicated 
+proctocolitis in our outpatient gastroenterology clinic were included in this. 
+They were divided into three groups according to the type of feeding; group 1 
+were exclusively breast fed, group 2 were exclusively formula fed and group 3 
+were fed with combination of both. In breast feeding women, discontinuation was 
+allergenic food was studied in four stages; cow-related dairy products, soy, 
+sesame and fast food (stage A), egg (stage B), corn, nuts and fish (stage C) and 
+wheat (stage D).
+RESULTS: Sixty newborns with age at symptom onset 3 days-20 days participated in 
+the study. Up to the time of our initial evaluation, the mean age and weight of 
+infants was 73.34 ± 1.00 day and 3292.71 ± 367.93 g, respectively. There was no 
+significant difference in sex and the type of labor between the groups. 
+Thirty-three infants had a history of eczema and the parents of 47 infants had a 
+history of allergy, with the greatest prevalence in group one. Rectal bleeding 
+in 50% of infants was halted after the elimination of allergenic feed in mother 
+(15 in stage A, 8 in stage B and 7 in stage C). Ten infants needed extensive 
+hydrolyzed formula and 20 needed amino acid-based formulas.
+CONCLUSIONS: There is no need for immediate use of amino acid or extensive 
+hydrolyzed formulas in the first stage of blood in stool, perhaps discontinuing 
+allergenic food in mothers could be the primary measure.
+
+Copyright © 2020 European Society for Clinical Nutrition and Metabolism. 
+Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.clnesp.2020.09.013
+PMID: 33183543 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The other 
+authors have no conflicts of interest to disclose.
+
+
+3. Ann Work Expo Health. 2018 Nov 12;62(9):1077-1086. doi: 10.1093/annweh/wxy068.
+
+Respiratory Health Outcomes, Rhinitis, and Eczema in Workers from Grain Storage 
+Facilities in Costa Rica.
+
+Rodríguez-Zamora MG(1), Zock JP(2)(3)(4), van Wendel de Joode B(5), Mora 
+AM(5)(6).
+
+Author information:
+(1)Escuela de Ingeniería en Seguridad Laboral e Higiene Ambiental (EISLHA), 
+Instituto Tecnológico de Costa Rica, Cartago, Costa Rica.
+(2)ISGlobal, Centre for Research in Environmental Epidemiology (CREAL), 
+Barcelona, Spain.
+(3)University Pompeu Fabra (UPF), Barcelona, Spain.
+(4)Biomedical Research Center Network for Epidemiology and Public Health 
+(CIBERESP), Instituto de Salud Carlos III, Madrid, Spain.
+(5)Central American Institute for Studies on Toxic Substances (IRET), Omar Dengo 
+Campus, Universidad Nacional, Heredia, Costa Rica.
+(6)Center for Environmental Research and Children's Health (CERCH), School of 
+Public Health, University of California, Berkeley, Berkeley, CA, USA.
+
+OBJECTIVES: To examine the associations of inhalable grain dust exposure with 
+respiratory health outcomes, rhinitis, and eczema reported by workers from rice, 
+wheat, and maize storage facilities.
+METHODS: A cross-sectional study of 136 workers (73 operators and 63 
+administrative staff and other workers) from eight Costa Rican grain storage 
+facilities was conducted in 2014-2015. Full-shift personal inhalable dust 
+samples from all workers were collected. Study participants were administered a 
+short version of the European Community Respiratory Health Survey questionnaire 
+to identify symptoms of asthma, chronic bronchitis, rhinitis, and eczema. 
+Associations between grain dust exposure and health outcomes were assessed using 
+multivariable logistic and negative binomial regression models adjusted for age, 
+smoking history, grain type, and presence of pets or farm animals in the home.
+RESULTS: The median inhalable grain dust concentration was 2.0 (25th to 75th 
+percentile: 0.3-7.0) mg m-3. Higher concentrations of inhalable dust were 
+associated with increased odds of (i) asthma symptoms or medication use 
+[adjusted Odds ratio (ORa) per 10-fold increase in dust concentration 2.7; 95% 
+confidence interval (CI): 1.3-6.7]; (ii) a score of at least two out of five 
+symptoms suggestive of asthma (ORa 1.2; 95% CI: 1.0-1.3); and (iii) eczema (ORa 
+3.6; 95% CI: 1.7-9.6). No associations of inhalable grain dust exposure with 
+chronic bronchitis and rhinitis were observed.
+CONCLUSIONS: High exposure to inhalable dust in Costa Rican grain storage 
+facilities was associated to asthma symptoms and eczema in workers.
+
+DOI: 10.1093/annweh/wxy068
+PMID: 30016387 [Indexed for MEDLINE]
+
+
+4. J Allergy Clin Immunol Pract. 2017 Mar-Apr;5(2):352-357.e1. doi: 
+10.1016/j.jaip.2016.10.006. Epub 2016 Nov 23.
+
+Racial Differences in Food Allergy Phenotype and Health Care Utilization among 
+US Children.
+
+Mahdavinia M(1), Fox SR(2), Smith BM(3), James C(4), Palmisano EL(2), Mohammed 
+A(2), Zahid Z(2), Assa'ad AH(4), Tobin MC(2), Gupta RS(5).
+
+Author information:
+(1)Allergy/Immunology Section, Department of Immunology and Microbiology, Rush 
+University Medical Center, Chicago, Ill. Electronic address: 
+Mahboobeh_mahdavinia@rush.edu.
+(2)Allergy/Immunology Section, Department of Immunology and Microbiology, Rush 
+University Medical Center, Chicago, Ill.
+(3)Institute for Public Health and Medicine, Northwestern Feinberg School of 
+Medicine, Northwestern University, Chicago, Ill; Center of Innovation for 
+Complex Chronic Healthcare, Edward Hines Jr. VA Hospital, Hines, Ill; Department 
+of Pediatrics, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, 
+Ill.
+(4)Division of Allergy and Immunology, Cincinnati Children's Hospital Medical 
+Center, Cincinnati, Ohio.
+(5)Institute for Public Health and Medicine, Northwestern Feinberg School of 
+Medicine, Northwestern University, Chicago, Ill; Department of Pediatrics, Ann & 
+Robert H. Lurie Children's Hospital of Chicago, Chicago, Ill.
+
+BACKGROUND: Food allergy (FA) is a prevalent condition in the United States, but 
+little is known about its phenotypes in racial minority groups.
+OBJECTIVE: The objective of this study was to characterize disease phenotypes 
+and disparities in health care utilization among African American (AA), 
+Hispanic, and white children with FA.
+METHODS: We conducted a large, 2-center, retrospective cohort study of children 
+aged 0-17 years with FA seen in allergy/immunology clinics at 2 urban tertiary 
+care centers in the United States. We used multiple logistic regression analyses 
+adjusted for age, gender, and insurance.
+RESULTS: The cohort of 817 children was composed of 35% AA, 12% Hispanic, and 
+53% non-Hispanic white. Compared with non-Hispanic white children, AA children 
+had significantly higher odds of having asthma and eczema (P < .01), and 
+significantly higher odds of allergy to wheat, soy, corn, fish, and shellfish (P 
+< .01). Compared with non-Hispanic white children, Hispanic children had 
+significantly higher odds of allergy to corn, fish, and shellfish (P < .01), and 
+higher odds of eczema (P < .01), but a similar rate of asthma (P = .44). In this 
+cohort, 55%, 18%, and 11% of AA, Hispanic, and white children were covered by 
+Medicaid, respectively (P < .00001). Compared with whites, AA and Hispanic 
+children had a shorter duration of follow-up for FA with an allergy specialist 
+and higher rates of FA-related anaphylaxis and emergency department visits (P < 
+.01).
+CONCLUSIONS: FA phenotypes and health care utilization differ among children of 
+different racial and/or ethnic backgrounds in the United States that put AA and 
+Hispanic children at higher risks of adverse outcome than white children. These 
+differences include coexistent atopic conditions, less well recognized food 
+allergens, and higher rates of anaphylaxis.
+
+Copyright © 2016 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2016.10.006
+PMCID: PMC8215518
+PMID: 27888035 [Indexed for MEDLINE]
+
+
+5. Allergol Immunopathol (Madr). 2015 Mar-Apr;43(2):157-61. doi: 
+10.1016/j.aller.2013.11.009. Epub 2014 Aug 2.
+
+Prevalence of allergic diseases and/or allergic sensitisation in children and 
+adolescents with type 1 diabetes mellitus.
+
+Villa-Nova H(1), Spinola-Castro AM(2), Garcia FE(2), Solé D(3).
+
+Author information:
+(1)Division of Allergy, Clinical Immunology and Rheumatology, Department of 
+Pediatrics, Federal University of São Paulo-Escola Paulista de Medicina 
+(UNIFESP-EPM), São Paulo, SP, Brazil.
+(2)Division of Endocrinology, Department of Pediatrics, Federal University of 
+São Paulo-Escola Paulista de Medicina (UNIFESP-EPM), São Paulo, SP, Brazil.
+(3)Division of Allergy, Clinical Immunology and Rheumatology, Department of 
+Pediatrics, Federal University of São Paulo-Escola Paulista de Medicina 
+(UNIFESP-EPM), São Paulo, SP, Brazil. Electronic address: 
+dirceu.sole@unifesp.br.
+
+BACKGROUND: The prevalence of atopic diseases in children with type 1 diabetes 
+mellitus (DM1) has been reported as lower. The aim of this study was to evaluate 
+the prevalence of allergic diseases and allergic sensitisation in Brazilian 
+children and adolescents with DM1.
+PATIENTS AND METHODS: 96 patients with DM1 (aged 4-18 years, 45 boys) followed 
+for at least one year were evaluated for allergic disease through a detailed 
+allergological anamnesis and skin prick tests (SPT) to inhalant allergens 
+(Dermatophagoides pteronyssinus, D. farinae, Blomia tropicalis, Blattella 
+germanica, Periplaneta americana, dog epithelium, cat epithelium, mix fungi), 
+foods (cow's milk, egg-white, yolk, soy, wheat, corn), and positive (histamine 1 
+mg/ml) and negative (saline) controls. Wheals with a mean diameter of induration 
+equal to or greater than 3mm identified a positive SPT.
+RESULTS: The prevalence values of rhinitis, asthma and atopic eczema (isolated 
+or associated) were 68.0%, 59.1% and 44.4%, respectively. 20.6% of the patients 
+had no allergic disease. 46.8% of the patients had been diagnosed with DM1 for 
+at least four years and there was no relationship between the period of DM1 and 
+the presence of allergic disease, nor of the gender. 48.0% patients were 
+sensitised with predominance of D. pteronyssinus, B. topicalis and D. farinae. 
+The frequency of positive SPT was significantly higher among patients with 
+history of allergic disease (OR=6.98, 95%CI: 2.60-18.74, p<0.001).
+CONCLUSION: The prevalence of allergic diseases and sensitisation in patients 
+with DM1 was higher than usually expected and deserves further investigation to 
+identify possible causes for these findings and to evaluate their importance and 
+influence on the metabolic control.
+
+Copyright © 2013 SEICAP. Published by Elsevier Espana. All rights reserved.
+
+DOI: 10.1016/j.aller.2013.11.009
+PMID: 25092354 [Indexed for MEDLINE]
+
+
+6. Cochrane Database Syst Rev. 2012 Feb 15;2012(2):CD005205. doi: 
+10.1002/14651858.CD005205.pub3.
+
+Dietary supplements for established atopic eczema.
+
+Bath-Hextall FJ(1), Jenkinson C, Humphreys R, Williams HC.
+
+Author information:
+(1)School of Nursing, Faculty of Medicine and Health Science, The University of 
+Nottingham, Nottingham, UK.fiona.bath-hextall@nottingham.ac.uk.
+
+Update of
+    doi: 10.1002/14651858.CD005205.pub2.
+
+BACKGROUND: Many people with atopic eczema are reluctant to use the most 
+commonly recommended treatments because they fear the long-term health effects. 
+As a result, many turn to dietary supplements as a possible treatment approach, 
+often with the belief that some essential ingredient is 'missing' in their diet. 
+Various supplements have been proposed, but it is unclear whether any of these 
+interventions are effective.
+OBJECTIVES: To evaluate dietary supplements for treating established atopic 
+eczema/dermatitis.Evening primrose oil, borage oil, and probiotics are covered 
+in other Cochrane reviews.
+SEARCH METHODS: We searched the following databases up to July 2010: the 
+Cochrane Skin Group Specialised Register, the Cochrane Central Register of 
+Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE (from 2005), EMBASE 
+(from 2007), PsycINFO (from 1806), AMED (from 1985), LILACS (from 1982), ISI Web 
+of Science, GREAT (Global Resource of EczemA Trials) database, and reference 
+lists of articles. We searched ongoing trials registers up to April 2011.
+SELECTION CRITERIA: Randomised controlled trials (RCTs) of dietary supplements 
+for the treatment of those with established atopic eczema/dermatitis.
+DATA COLLECTION AND ANALYSIS: Two authors independently screened the titles and 
+abstracts, read the full text of the publications, extracted data, and assessed 
+the risk of bias.
+MAIN RESULTS: We included 11 studies with a total of 596 participants. Two 
+studies assessed fish oil versus olive oil or corn oil placebo. The following 
+were all looked at in single studies: oral zinc sulphate compared to placebo, 
+selenium versus selenium plus vitamin E versus placebo, vitamin D versus 
+placebo, vitamin D versus vitamin E versus vitamins D plus vitamin E together 
+versus placebo, pyridoxine versus placebo, sea buckthorn seed oil versus sea 
+buckthorn pulp oil versus placebo, hempseed oil versus placebo, sunflower oil 
+(linoleic acid) versus fish oil versus placebo, and DHA versus control 
+(saturated fatty acids of the same energy value). Two small studies on fish oil 
+suggest a possible modest benefit, but many outcomes were explored. A 
+convincingly positive result from a much larger study with a publicly-registered 
+protocol is needed before clinical practice can be influenced.
+AUTHORS' CONCLUSIONS: There is no convincing evidence of the benefit of dietary 
+supplements in eczema, and they cannot be recommended for the public or for 
+clinical practice at present. Whilst some may argue that at least supplements do 
+not do any harm, high doses of vitamin D may give rise to serious medical 
+problems, and the cost of long-term supplements may also mount up.
+
+DOI: 10.1002/14651858.CD005205.pub3
+PMCID: PMC10657459
+PMID: 22336810 [Indexed for MEDLINE]
+
+Conflict of interest statement: None known.
+
+
+7. Int J Dermatol. 2007 Jan;46(1):77-9. doi: 10.1111/j.1365-4632.2006.02948.x.
+
+Multiple keratoacanthomas in a young woman: report of a case emphasizing medical 
+management and a review of the spectrum of multiple keratoacanthomas.
+
+Feldman RJ(1), Maize JC.
+
+Author information:
+(1)Department of Dermatology, Medical University of South Carolina, Charleston, 
+South Carolina, USA.
+
+Comment in
+    Int J Dermatol. 2007 Oct;46(10):1105. doi: 10.1111/j.1365-4632.2007.03328.x.
+
+A 27-year-old white woman was referred for consultation with regard to the 
+presence of extensive multiple keratotic lesions. She began to develop these 
+lesions at the age of 9 years, with healing of the lesions resulting in scar 
+formation. A biopsy was performed at the age of 16 years, but the patient was 
+unsure of the results. Since then, she had not had any treatment or biopsies, 
+and stated that she had not suffered from any health problems during the 
+intervening period. She was most concerned about the tumors on her heels and 
+soles, which caused difficulty with ambulation. The family history was negative 
+for skin diseases, including melanoma, nonmelanoma skin cancer, psoriasis, and 
+eczema, and positive for Type II diabetes mellitus. A relative reported that the 
+patient's grandfather had similar lesions, but the patient's parents and 
+siblings were healthy. She was married and had one child, a 9-year-old daughter. 
+Her child had no skin lesions. The patient's only medication was 
+Ortho-Tricyclene birth control pills. She had no known drug allergies. Physical 
+examination revealed the presence of multiple lesions on her body (Fig. 1). Her 
+left superior helix contained a well-demarcated, dome-shaped nodule with a 
+rolled, mildly erythematous border with a central hyperkeratotic plug. A similar 
+lesion was present in the scaphoid fossa of the left ear and smaller lesions 
+were scattered on her face. Numerous lesions were present on the arms and legs 
+bilaterally, with the majority of lesions being located on the anterior lower 
+legs. There were also lesions present on the palms and soles. The lesions ranged 
+in size from 5 mm to 3 cm, the largest being a verrucous exophytic nodule on the 
+anterior aspect of her left leg. Overall, there appeared to be two distinct 
+types of lesion. One type appeared round, oval, and symmetric with a central 
+keratotic plug, similar to that on the ear. The other type was larger, more 
+exophytic, and verrucous, including the lesions on the volar surfaces. Also 
+present were numerous, irregularly shaped atrophic scars where previous lesions 
+had healed spontaneously. There were no oral lesions or lesions on her 
+fingernails or toenails, and her teeth and hair were normal. A biopsy was 
+obtained from an early lesion on the right dorsal forearm. Histology revealed an 
+exo-/endophytic growth having a central crater containing keratinous material 
+(Fig. 2). The crater was surrounded by markedly hyperplastic squamous epithelium 
+with large squamous epithelial cells having abundant glassy cytoplasm. Some 
+cells were dyskeratotic. Within the dermis was a dense, chiefly mononuclear 
+inflammatory infiltrate. A buttress of epidermis surrounded the crater. The 
+clinical and pathologic data were consistent with keratoacanthomas. Initial 
+laboratory screenings revealed elevated triglycerides and total cholesterol, 537 
+mg/dL (normal, < 150 mg/dL) and 225 mg/dL (normal, < 200 mg/dL), respectively, 
+with all other laboratory results within normal limits. In anticipation of 
+starting oral retinoid therapy for her multiple keratoacanthomas, she was 
+referred to her primary care physician for control of hyperlipidemia. After her 
+lipids had been controlled, she was placed on isotretinoin (Accutane) 40 mg/day. 
+There was some interval improvement with regression of some lesions leaving 
+atrophic scars. She was also started on topical application of tazarotene 
+(Tazorac) for all nonresolving lesions. Possible side-effects from the 
+isotretinoin occurred, including dry mouth and eyes. After 8 months of 
+isotretinoin, the patient was switched to acitretin (Soriatane) 25 mg to 
+determine whether it might have a more beneficial effect on the resistant 
+lesions. Many of the larger lesions regressed leaving atrophic scars. The dose 
+of acitretin was subsequently increased to 35 mg because the lesions on her heel 
+and the ball of her foot persisted. Almost all of the lesions resolved, except 
+those on her feet, which are slowly regressing. Currently, the patient is on a 
+regimen of acitretin 25 mg once a day with tazarotene 0.1% gel applied directly 
+to the few residual keratoacanthomas on her feet, which are slowly improving.
+
+DOI: 10.1111/j.1365-4632.2006.02948.x
+PMID: 17214727 [Indexed for MEDLINE]
+
+
+8. Biosci Biotechnol Biochem. 2006 Sep;70(9):2121-30. doi: 10.1271/bbb.60057.
+Epub  2006 Sep 7.
+
+Distribution and metabolism of dihomo-gamma-linolenic acid (DGLA, 20:3n-6) by 
+oral supplementation in rats.
+
+Umeda-Sawada R(1), Fujiwara Y, Ushiyama I, Sagawa S, Morimitsu Y, Kawashima H, 
+Ono Y, Kiso Y, Matsumoto A, Seyama Y.
+
+Author information:
+(1)Department of Nutrition and Food Science, Ochanomizu University, Tokyo, 
+Japan.
+
+Erratum in
+    Biosci Biotechnol Biochem. 2006 Oct;70(10):2 p following 2587.
+
+We compared the dietary effects of dihomo-gamma-linolenic acid (DGLA) contained 
+in the DGLA oil produced by a fungus with gamma-linolenic acid (GLA) on the 
+fatty acid composition. Wistar rats were fed with three kinds of oil for two 
+weeks as follows: (i) control group: corn oil; (ii) GLA group: borage oil; (iii) 
+DGLA group: DGLA oil/safflower oil = 55:45. The DGLA concentrations in the 
+liver, serum, and brain of the DGLA group were higher than those of the GLA oil 
+group. We also examined the dose effect of DGLA. The DGLA levels in the liver, 
+serum, and brain significantly increased with increasing dosage of DGLA in the 
+diet. DGLA administration significantly increased the ratio of PGE1/PGE2 in the 
+rat plasma. The mechanism for GLA administration to improve atopic eczema is 
+thought to involve an increase in the concentration of DGLA metabolized from 
+GLA, so these results suggest that the dietary effect of DGLA would be more 
+dominant than GLA.
+
+DOI: 10.1271/bbb.60057
+PMID: 16960355 [Indexed for MEDLINE]
+
+
+9. Rev Prat. 2006 Feb 15;56(3):289-95.
+
+[Latex allergy].
+
+[Article in French]
+
+Bayrou O(1).
+
+Author information:
+(1)Centre d'allergie, service de dermatologie, hôpital Tenon, 75970 Paris Cedex 
+20 olivier.bayrou@tnn.aphp.fr
+
+Immediate hypersensitivity to natural rubber latex has increased since the early 
+1980s. High prevalence of latex sensitization and allergy are observed among 
+healthcare workers, atopic individuals and children who had undergone multiple 
+surgical operations (spina bifida, congenital anomalies). Presenting symptoms 
+are polymorphous: contact urticaria, rhinitis, conjunctivitis, asthma, and 
+anaphylaxis. Corn-starch-latex particles released in the air after powdered 
+gloves manipulation may be inhaled and lead to occupational asthma. The 
+diagnosis may be made by a focused clinical history, prick-test, detection of 
+specific IgE antibody and challenge test. Almost half of patients allergic to 
+natural rubber latex show an associated fruit allergy: avocado, banana, kiwi, 
+chestnut. Most of cutaneous delayed reactions (eczema) to rubber are caused by 
+rubber additives (accelerators of vulcanization, anti-oxidants).
+
+PMID: 16583955 [Indexed for MEDLINE]
+
+
+10. Rocz Akad Med Bialymst. 2005;50:261-7.
+
+Atopy patch test in the diagnosis of food allergy in children with atopic eczema 
+dermatitis syndrome.
+
+Cudowska B(1), Kaczmarski M.
+
+Author information:
+(1)III Department of Paediatrics, Medical University of Białystok, Poland. 
+becud@wp.pl
+
+PURPOSE: Food allergy has been demonstrated to play an important role in the 
+pathogenesis of atopic eczema dermatitis syndrome (AEDS), affecting often atopic 
+infants and young children. The most commonly offending foods are cow's milk, 
+hen's egg, wheat and soy; implicating immediate (IgE-mediated) and late-phase 
+(T-cells) immunological reactions in the pathogenesis of skin lesions. The 
+diagnostic work-up of suspected immediate food reactions includes skin prick 
+tests (SPT) and the measurement of food-specific antibodies (sIgE). The 
+methodology of atopy patch test (APT) has been reported as a diagnostic tool 
+with high predictive capacity for late-phase clinical reactions in children with 
+atopic dermatitis. Although APT has been introduced into the diagnostic 
+procedure for food allergy, its diagnostic accuracy remains still controversial; 
+especially in older children. The aim of study was to evaluate the diagnostic 
+accuracy of the atopy patch test in the detection of food allergy in correlation 
+with SPT, sIgE and positive oral food challenge to milk, in children suffering 
+from AEDS and to assess the sensitivity and specificity of this method in 
+dependence on the age of investigated children.
+MATERIAL AND METHODS: 34 children (25 boys, 9 girls) aged 5 months-16 years with 
+suspicion of milk-related AEDS were investigated. These patients were subdivided 
+into 2 age groups: group A--20 children (<3 years), group B--14 children (>3 
+years). The diagnostic procedures as skin-prick tests and atopy patch test were 
+performed. The specific IgE to cow's milk allergens were also measured. The open 
+and blind diagnostic oral food challenge were performed to verify the results of 
+tests. Sensitivity, specificity, positive (PPV) and negative (NPV) predictive 
+value of APT were calculated in both age groups.
+RESULTS: A positive challenge response to milk was found in 65.0% of 
+investigated children in group A and in 35.7% in group B. No statistical 
+differences in the prevalence of immediate (p<0.1905) and delayed-type (p<0.409) 
+reactions has been found between age groups. Positive APT to milk were noticed 
+in 55.0% of patients in group A and in 35.7% of children from group B, that has 
+been in correlation with positive delayed-type reactions in oral food challenge 
+in 72.7% and 80.0% in corresponding age groups. Polysensitization to other food 
+allergens confirmed by SPT and/or sIgE was detected in 35.0% of patients younger 
+than 3 years of age and in 50.0% of older children. The prevalence of positive 
+APT to other foods (soy, rice, maize, cereals) was significantly higher 
+(p<0.0073) in the polysensitized children from group A. Sensitivity of SPT/sIgE 
+in children with immediate-type reactions to milk was 100%, specificity 94%. 
+Sensitivity of APT to cow's milk in children with late-phase reactions was 80% 
+in both age groups; specificity 70%/89% with comparable PPV in both groups 
+(73%/80%). Parallel skin testing with combined patch test and evaluation of sIgE 
+enhanced the value of sensitivity to 92% in the group A and specificity to 89% 
+in the group B. For PPV corresponding figures were 85%/80%.
+CONCLUSIONS: APT was found to be more sensitive and specific method than 
+SPT/sIgE in diagnosing delayed food allergy in children with AEDS. No age 
+correlation between positive results of APT and oral food challenge and higher 
+specificity of APT in older children confirm its accuracy in diagnosing delayed 
+cow's milk allergy in all age groups of children. Combined skin prick and patch 
+testing significantly enhances identification of food allergy in children with 
+AEDS. The outcome of the APT with food does not seem to be influenced by age of 
+children, but because of its variability of sensitivity and specificity, a 
+diagnosis of food allergy should be confirmed by oral food challenge.
+
+PMID: 16358980 [Indexed for MEDLINE]

@@ -1,0 +1,514 @@
+1. Food Res Int. 2025 Jun;211:116470. doi: 10.1016/j.foodres.2025.116470. Epub
+2025  Apr 19.
+
+Milk peptides alleviate irritable bowel syndrome by suppressing colonic mast 
+cell activation and prostaglandin E2 production in mice.
+
+Zhang Y(1), Lin Z(1), Yao Q(1), He J(2), Feng H(2), Zhang W(2), Liu Z(1), Yuan 
+T(3), Liu X(4), Ding L(5).
+
+Author information:
+(1)College of Food Science and Engineering, Northwest A&F University, Xianyang, 
+Shaanxi Province 712100, PR China.
+(2)National Center of Technology Innovation for Dairy, Hohhot, Inner Mongolia 
+010110, PR China.
+(3)Shaanxi Key Laboratory of Natural Products & Chemical Biology, Xianyang, 
+Shaanxi Province 712100, PR China; College of Chemistry & Pharmacy, Northwest 
+A&F University, Xianyang, Shaanxi Province 712100, PR China. Electronic address: 
+tianyuan@nwafu.edu.cn.
+(4)College of Food Science and Engineering, Northwest A&F University, Xianyang, 
+Shaanxi Province 712100, PR China. Electronic address: xueboliu@nwsuaf.edu.cn.
+(5)College of Food Science and Engineering, Northwest A&F University, Xianyang, 
+Shaanxi Province 712100, PR China. Electronic address: longding@nwafu.edu.cn.
+
+This study aimed to investigate the effect of milk peptides on irritable bowel 
+syndrome (IBS). The mice were intragastrally administered with casein or whey 
+protein hydrolysates at a dose of 1 g/kg body weight/day for 24 days and were 
+subjected to Citrobacter rodentium infection and water avoidance stress from day 
+7 to 24. Results indicated that casein and whey protein hydrolysates effectively 
+reduced diarrhea, anxiety, and visceral hypersensitivity in IBS mice. Casein and 
+whey protein hydrolysates regulated gut microbiota composition and increased the 
+abundance of short-chain fatty acid-producing bacteria, such as Alloprevotella 
+and Alistipes. Whey protein hydrolysate significantly increased the mRNA levels 
+of zonula occludens-1 (ZO-1) and claudin-1 in the colon, while casein 
+hydrolysate significantly improved the mRNA levels of occludin. Casein and whey 
+protein hydrolysates both decreased the levels of pro-inflammatory cytokines 
+including interleukin-6 (IL-6), interleukin-1β (IL-1β), and tumor necrosis 
+factor-α (TNF-α), while increased the level of anti-inflammatory cytokine 
+interleukin-10 (IL-10). Importantly, casein and whey protein hydrolysates 
+significantly reduced colonic mast cell activation and decreased prostaglandin 
+E2 (PGE2) production. Moreover, three novel casein-derived cyclooxygenase-2 
+(COX2)-inhibitory peptides RGPF, FPK, and NPW were identified with IC50 values 
+of 0.36 ± 0.03, 0.64 ± 0.01, and 1.10 ± 0.09 mM, respectively and predicted to 
+form hydrogen bonds and hydrophobic interactions with the residues of the active 
+site of COX2. This study highlighted the potential of milk peptides as bioactive 
+ingredients in functional foods for managing IBS.
+
+Copyright © 2025 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodres.2025.116470
+PMID: 40356133 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. BMJ Open. 2023 Apr 13;13(4):e070533. doi: 10.1136/bmjopen-2022-070533.
+
+Effects of infant feeding with goat milk formula or cow milk formula on atopic 
+dermatitis: protocol of the randomised controlled Goat Infant Formula Feeding 
+and Eczema (GIraFFE) trial.
+
+Ferry JM(1), Galera-Martínez R(2), Campoy C(3)(4), Sáenz de Pipaón M(5), 
+Jarocka-Cyrta E(6), Walkowiak J(7), Romańczuk B(8), Escribano J(9)(10), Gispert 
+M(9), Grattarola P(11), Gruszfeld D(12), Iglesia I(13)(14), Grote V(1), 
+Demmelmair H(1), Handel U(1), Gallier S(15), Koletzko B(16).
+
+Author information:
+(1)Division of Metabolic and Nutritional Medicine, Department of Paediatrics, Dr 
+von Hauner Children's Hospital, University Hospital, Ludwig Maximilian 
+University Munich, Munich, Germany.
+(2)Unit of Pediatric Gastroenterology and Nutrition, Torrecárdenas University 
+Hospital, Almería, Spain.
+(3)Department of Paediatrics, EURISTIKOS Excellence Centre for Paediatric 
+Research, School of Medicine, University of Granada, Granada, Spain.
+(4)Instituto Biosanitario de Granada (Ibs-Granada), Fundación Parque Tecnológico 
+de Ciencias de la Salud de Granada, Granada, Spain.
+(5)Department of Neonatology, Hospital Universitario La Paz, Madrid, Spain.
+(6)Department of Pediatrics, Gastroenterology, and Nutrition, Regional 
+Specialized Children's Hospital in Olsztyn, Medical Faculty Collegium Medicum 
+University of Warmia and Mazury, Olsztyn, Poland.
+(7)Department of Pediatric Gastroenterology and Metabolic Diseases, Poznan 
+University of Medical Sciences, Poznan, Poland.
+(8)Department of Pediatrics, Medical College, University of Rzeszów, Rzeszów, 
+Poland.
+(9)IISPV, Pediatric Nutrition and Human Development Research Unit, Universitat 
+Rovira i Virgili, Tarragona, Spain.
+(10)Department of Paediatric, Hospital Universitari Sant Joan de Reus, Reus, 
+Spain.
+(11)INCLIVA Biomedical Research Institute, Valencia, Spain.
+(12)Department of Paediatric, Children's Memorial Health Institute in Warsaw, 
+Warsaw, Poland.
+(13)Agrifood Institute of Aragon (IA2), Growth, Exercise, Nutrition and 
+Development (GENUD) Research Group, University of Zaragoza, Zaragoza, Spain.
+(14)Instituto de Investigación Sanitaria Aragón (IIS-Aragón), Zaragoza, Spain.
+(15)Dairy Goat Co-operative (NZ), Hamilton, New Zealand.
+(16)Division of Metabolic and Nutritional Medicine, Department of Paediatrics, 
+Dr von Hauner Children's Hospital, University Hospital, Ludwig Maximilian 
+University Munich, Munich, Germany office.koletzko@med.uni-muenchen.de.
+
+INTRODUCTION: Atopic dermatitis (AD) is a chronic, inflammatory skin condition 
+significantly affecting quality of life. A small randomised trial showed an 
+approximately one-third lower incidence of AD in goat milk formula-fed compared 
+with cow milk formula-fed infants. However, due to limited statistical power, AD 
+incidence difference was not found to be significant. This study aims to explore 
+a potential risk reduction of AD by feeding a formula based on whole goat milk 
+(as a source of protein and fat) compared with a formula based on cow milk 
+proteins and vegetable oils.
+METHODS AND ANALYSIS: This two-arm (1:1 allocation), parallel, randomised, 
+double-blind, controlled nutritional trial shall enrol up to 2296 healthy 
+term-born infants until 3 months of age, if parents choose to start formula 
+feeding. Ten study centres in Spain and Poland are participating. Randomised 
+infants receive investigational infant and follow-on formulas either based on 
+whole goat milk or on cow milk until the age of 12 months. The goat milk formula 
+has a whey:casein ratio of 20:80 and about 50% of the lipids are milk fat from 
+whole goat milk, whereas the cow milk formula, used as control, has a 
+whey:casein ratio of 60:40 and 100% of the lipids are from vegetable oils. The 
+energy and nutrient levels in both goat and cow milk formulas are the same. The 
+primary endpoint is the cumulative incidence of AD until the age of 12 months 
+diagnosed by study personnel based on the UK Working Party Diagnostic Criteria. 
+The secondary endpoints include reported AD diagnosis, measures of AD, blood and 
+stool markers, child growth, sleep, nutrition and quality of life. Participating 
+children are followed until the age of 5 years.
+ETHICS AND DISSEMINATION: Ethical approval was obtained from the ethical 
+committees of all participating institutions.
+TRIAL REGISTRATION NUMBER: NCT04599946.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2022-070533
+PMCID: PMC10106058
+PMID: 37055203 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: SG is an employee of DGC 
+(Dairy Goat Co-operative (NZ), Hamilton, New Zealand).
+
+
+3. Clin J Gastroenterol. 2019 Dec;12(6):530-533. doi: 10.1007/s12328-019-00988-6.
+ Epub 2019 May 10.
+
+Eosinophilic esophagitis, gastroenteritis, and colitis in a patient with prior 
+parasite exposure.
+
+Wilechansky RM(1), Spring M(2), Huang Q(3), Zullow S(4).
+
+Author information:
+(1)Department of Internal Medicine, Boston Medical Center, Boston, MA, USA. 
+rmwilechansky@gmail.com.
+(2)Department of Internal Medicine, Boston Medical Center, Boston, MA, USA.
+(3)Department of Pathology, VA Boston Healthcare System, West Roxbury Division, 
+West Roxbury, MA, USA.
+(4)Division of Gastroenterology and Hepatology, Department of Medicine, New York 
+University Langone Medical Center, New York University School of Medicine, New 
+York, NY, USA.
+
+Eosinophilic gastrointestinal disorders (EGID) comprise a spectrum of 
+inflammatory diseases that can affect any segment of the gastrointestinal tract. 
+The pathogenesis of these conditions is complex; differentiating between primary 
+and secondary forms of these disorders can be clinically challenging. We report 
+a case of primary EGID in a patient with remote parasite exposure, whose 
+symptoms were initially attributed to irritable bowel syndrome. Endoscopy 
+revealed the rare finding of EGID involving the entire gastrointestinal tract; 
+symptoms improved with an elimination diet. This case raises the possibility of 
+a link between prior parasite exposure and development of EGID, and underscores 
+the necessity of exploring alternative diagnoses in patients with presumed IBS 
+who present with severe symptoms.
+
+DOI: 10.1007/s12328-019-00988-6
+PMID: 31077082 [Indexed for MEDLINE]
+
+
+4. Gastroenterol Clin North Am. 2018 Mar;47(1):107-137. doi: 
+10.1016/j.gtc.2017.10.003.
+
+The Role of Diet in the Treatment of Irritable Bowel Syndrome: A Systematic 
+Review.
+
+Singh R(1), Salem A(2), Nanavati J(3), Mullin GE(4).
+
+Author information:
+(1)Department of Internal Medicine, Sinai Hospital of Baltimore, 2421 Cylburn 
+Avenue, Baltimore, MD 21215, USA.
+(2)Gastroenterology Department, University of Rochester Medical Center, 101 
+Portsmouth Terrace, Rochester, NY 14642, USA.
+(3)The Johns Hopkins University School of Medicine, Welch Medical Library, 2024 
+East Monument Street, Baltimore, MD 21287, USA.
+(4)Division of Gastroenterology and Hepatology, Johns Hopkins University School 
+of Medicine, 600 North Wolfe Street CARN 464B, Baltimore, MD 21287, USA. 
+Electronic address: gmullin1@jhmi.edu.
+
+Irritable bowel syndrome (IBS) is a multifaceted illness involving maladaptive 
+shifts in the gut microbiota that affect the enteric nervous and immune systems, 
+mucosal barrier function, the balance of neurotransmitters and hormones, and 
+emotional well-being. There is abundant evidence indicating that certain foods 
+elicit symptoms in IBS. Numerous elimination-type diets have been shown to 
+alleviate symptoms. However, among these, the most controversial is a group of 
+foods called fructo, oligo-, di-, and monosaccharides and polyols (FODMAPs). 
+This paper reviews the role of diet and systematically analyze the literature 
+for the role of FODMAPs in IBS.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.gtc.2017.10.003
+PMID: 29413008 [Indexed for MEDLINE]
+
+
+5. J Hum Nutr Diet. 2016 Oct;29(5):549-75. doi: 10.1111/jhn.12385. Epub 2016 Jun
+8.
+
+British Dietetic Association systematic review and evidence-based practice 
+guidelines for the dietary management of irritable bowel syndrome in adults 
+(2016 update).
+
+McKenzie YA(1), Bowyer RK(2), Leach H(3), Gulia P(4), Horobin J(5), O'Sullivan 
+NA(6), Pettitt C(7), Reeves LB(8), Seamark L(9), Williams M(9), Thompson J(10), 
+Lomer MC(6)(11); (IBS Dietetic Guideline Review Group on behalf of 
+Gastroenterology Specialist Group of the British Dietetic Association).
+
+Author information:
+(1)Nuffield Health The Manor Hospital, Oxford, UK. 
+yvonne@digestiblenutrition.co.uk.
+(2)Department of Nutrition and Dietetics, Great Western Hospitals NHS Foundation 
+Trust, Swindon, UK.
+(3)Department of Nutrition and Dietetics, Southampton NHS Foundation Trust, 
+Southampton, UK.
+(4)Dr Ashok Ayurveda Clinic, Birmingham, UK.
+(5)Department of Nutrition and Dietetics, North Middlesex University Hospital 
+NHS Trust, London, UK.
+(6)Faculty of Life Sciences and Medicine, Diabetes and Nutritional Sciences 
+Division, King's College London, London, UK.
+(7)Faculty of Medicine, Imperial College London, London, UK.
+(8)Allergy Services, Oxford University Hospitals NHS Foundation Trust, Oxford, 
+UK.
+(9)Specialist Gastroenterology Community Dietetic Service, Somerset Partnership 
+NHS Foundation Trust, Bridgwater, UK.
+(10)Calm Gut Clinic, Todmorden, UK.
+(11)Department of Nutrition and Dietetics, St Thomas' Hospital, Guy's and St 
+Thomas' NHS Foundation Trust, London, UK.
+
+BACKGROUND: The first British Dietetic Association (BDA) guidelines for the 
+dietary management of irritable bowel syndrome (IBS) in adults were published in 
+2012. Subsequently, there has been a wealth of new research. The aim of this 
+work was to systematically review the evidence for the role of diet in the 
+management of IBS and to update the guidelines.
+METHODS: Twelve questions relating to diet and IBS were defined based on review 
+of the previous guideline questions, current evidence and clinical practice. 
+Chosen topics were on healthy eating and lifestyle (alcohol, caffeine, spicy 
+food, elimination diets, fat and fluid intakes and dietary habits), milk and 
+dairy, dietary fibre, fermentable carbohydrates, gluten, probiotics and 
+elimination diets/food hypersensitivity. Data sources were CINAHL, Cochrane 
+Register of Controlled Trials, Embase, Medline, Scopus and Web of Science up to 
+October 2015. Studies were assessed independently in duplicate using risk of 
+bias tools specific to each included study based on inclusion and exclusion 
+criteria for each question. National Health and Medical Research Council grading 
+evidence levels were used to develop evidence statements and recommendations, in 
+accordance with Practice-based Evidence in Nutrition Global protocol used by the 
+BDA.
+RESULTS: Eighty-six studies were critically appraised to generate 46 evidence 
+statements, 15 clinical recommendations and four research recommendations. The 
+IBS dietary algorithm was simplified to first-line (healthy eating, provided by 
+any healthcare professional) and second-line [low FODMAP (fermentable 
+oligosaccharides, disaccharides, monosaccharides and polyols) to be provided by 
+dietitian] dietary advice.
+CONCLUSIONS: These guidelines provide updated comprehensive evidence-based 
+details to achieve the successful dietary management of IBS in adults.
+
+© 2016 The British Dietetic Association Ltd.
+
+DOI: 10.1111/jhn.12385
+PMID: 27272325 [Indexed for MEDLINE]
+
+
+6. BMC Gastroenterol. 2015 Nov 19;15:164. doi: 10.1186/s12876-015-0393-0.
+
+Perceived food intolerance and irritable bowel syndrome in a population 3 years 
+after a giardiasis-outbreak: a historical cohort study.
+
+Litleskare S(1), Wensaas KA(2), Eide GE(3)(4), Hanevik K(5)(6), Kahrs GE(7), 
+Langeland N(8), Rortveit G(9)(10).
+
+Author information:
+(1)Research Unit for General Practice, Uni Research Health, Kalfarveien 31, 
+N-5018, Bergen, Norway. sverre.litleskare@uni.no.
+(2)Research Unit for General Practice, Uni Research Health, Kalfarveien 31, 
+N-5018, Bergen, Norway. knut-arne.wensaas@uni.no.
+(3)Centre for Clinical Research, Haukeland University Hospital, Bergen, Norway. 
+geir.egil.eide@helse-bergen.no.
+(4)Department of Global Public Health and Primary Care, University of Bergen, 
+Bergen, Norway. geir.egil.eide@helse-bergen.no.
+(5)National Centre for Tropical Infectious Diseases, Haukeland University 
+Hospital, Bergen, Norway. kurt.hanevik@uib.no.
+(6)Department of Clinical Science, University of Bergen, Bergen, Norway. 
+kurt.hanevik@uib.no.
+(7)Department of Clinical Nutrition, Haukeland University Hospital, Bergen, 
+Norway. gudrun.elise.kahrs@helse-bergen.no.
+(8)Department of Clinical Science, University of Bergen, Bergen, Norway. 
+nina.langeland@uib.no.
+(9)Research Unit for General Practice, Uni Research Health, Kalfarveien 31, 
+N-5018, Bergen, Norway. guri.rortveit@uib.no.
+(10)Department of Global Public Health and Primary Care, University of Bergen, 
+Bergen, Norway. guri.rortveit@uib.no.
+
+BACKGROUND: Studies have shown an increased prevalence of irritable bowel 
+syndrome (IBS) after acute gastroenteritis. Food as a precipitating and 
+perpetuating factor in IBS has gained recent interest, but food intolerance 
+following gastroenteritis is less investigated. The aims of this study were 
+firstly, to compare perceived food intolerance in a group previously exposed to 
+Giardia lamblia with a control group; secondly, to explore the relation with IBS 
+status; and thirdly, to investigate associations with content of fermentable 
+oligosaccharides, disaccharides, monosaccharides and polyols (FODMAP) in foods 
+reported.
+METHODS: This is a historical cohort study with mailed questionnaire to 1252 
+Giardia exposed and a control cohort matched by gender and age. Differences 
+between groups were investigated using bivariate and multivariate analyses.
+RESULTS: The questionnaire response rate in the exposed group was 65.3 % 
+(817/1252) and in the control group 31.4 % (1128/3598). The adjusted odds ratio 
+(OR) for perceived food intolerance for the exposed group was 2.00 with 95 % 
+confidence interval (CI): 1.65 to 2.42, as compared with the control group. 
+Perceived intolerance for dairy products was the most frequently reported 
+intolerance, with an adjusted OR for the exposed of 1.95 (95 % CI: 1.51 to 
+2.51). Perceived intolerance for fatty foods, vegetables, fruit, cereals and 
+alcohol was also significantly higher in the exposed group. The groups did not 
+differ in perceived intolerance to spicy foods, coffee or soda. The association 
+between exposure to Giardia infection and perceived food intolerance differed 
+between the IBS group and the no-IBS group, but IBS was not a significant effect 
+modifier for the association. Perceived intolerance for high FODMAP foods 
+(adjusted OR 1.91) and low FODMAP foods (adjusted OR 1.55) was significantly 
+associated with exposure status.
+CONCLUSION: Exposure to Giardia infection was associated with perceived food 
+intolerance 3 years after giardiasis. IBS status did not alter the association 
+between exposure status and perceived food intolerance. Perceived intolerance to 
+high FODMAP foods and low FODMAP foods were both statistically significantly 
+associated with exposure to Giardia infection.
+
+DOI: 10.1186/s12876-015-0393-0
+PMCID: PMC4653841
+PMID: 26585714 [Indexed for MEDLINE]
+
+
+7. Nutr Rev. 2015 Aug;73 Suppl 1:32-40. doi: 10.1093/nutrit/nuv039.
+
+Potential role of the intestinal microbiota in programming health and disease.
+
+Goulet O(1).
+
+Author information:
+(1)O. Goulet is with the Department of Pediatric 
+Gastroenterology-Hepatology-Nutrition, National Reference Center for Rare 
+Digestive Disease, Hôpital Necker-EnfantsMalades, University of Paris Descartes, 
+Paris, France. olivier.goulet@nck.aphp.fr.
+
+The composition of the microbiota varies according to prenatal events, delivery 
+methods, infant feeding, infant care environment, and antibiotic use. Postnatal 
+gut function and immune development are largely influenced by the intestinal 
+microbiota. Emerging evidence has shown that early microbiota colonization may 
+influence the occurrence of later diseases (microbial programming). The vast 
+majority of microbial species (commensals) give rise to symbiotic host-bacterial 
+interactions that are fundamental for human health. However, changes in the 
+composition of the gut microbiota (dysbiosis) may be associated with several 
+clinical conditions, including obesity and metabolic diseases, autoimmune 
+diseases and allergy, acute and chronic intestinal inflammation, irritable bowel 
+syndrome (IBS), allergic gastroenteritis (e.g., eosinophilic gastroenteritis and 
+allergic IBS), and necrotizing enterocolitis. Based on recent advances, 
+modulation of gut microbiota with probiotics, prebiotics, or fermented dairy 
+products has been suggested as a treatment of, or prevention for, different 
+disorders such as IBS, infectious diarrhea, allergic disease, and necrotizing 
+enterocolitis.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of the 
+International Life Sciences Institute. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/nutrit/nuv039
+PMID: 26175488 [Indexed for MEDLINE]
+
+
+8. Gastroenterol Hepatol. 2014 May;37(5):302-10. doi: 
+10.1016/j.gastrohep.2013.12.010. Epub 2014 Feb 28.
+
+[Importance of diet in irritable bowel syndrome].
+
+[Article in Spanish]
+
+Mearin F(1), Peña E(2), Balboa A(3).
+
+Author information:
+(1)Servicio de Aparato Digestivo, Instituto de Trastornos Funcionales y Motores 
+Digestivos, Centro Médico Teknon, Barcelona, España. Electronic address: 
+mearin@dr.teknon.es.
+(2)Servicio de Aparato Digestivo, Instituto de Trastornos Funcionales y Motores 
+Digestivos, Centro Médico Teknon, Barcelona, España.
+(3)CSI Almazora, Castellón, España.
+
+About two-thirds of irritable bowel syndrome (IBS) patients associate their 
+symptoms with certain foods. We reviewed food-related factors putatively 
+associated with manifestations of IBS. Soluble fiber may improve constipation 
+but frequently increases bloating and abdominal pain. Carbohydrate malabsorption 
+seems to be more frequent in IBS. A low FODMAP (fermentable oligosaccharides, 
+disaccharides, monosaccharides and polyols) diet significantly reduces IBS 
+symptoms and has been suggested as a therapeutic option. Serological screening 
+for celiac disease should be done in patients without constipation. Moreover, 
+non-celiac disease gluten sensitivity, defined as gluten intolerance once celiac 
+disease and wheat allergy have been ruled out, should be considered in these 
+patients. There is no specific diet for IBS patients but small and frequent 
+meals, avoiding greasy foods, dairy products, many carbohydrates, caffeine and 
+alcohol, is recommended.
+
+Copyright © 2013 Elsevier España, S.L. and AEEH y AEG. All rights reserved.
+
+DOI: 10.1016/j.gastrohep.2013.12.010
+PMID: 24582764 [Indexed for MEDLINE]
+
+
+9. Am J Gastroenterol. 2013 May;108(5):634-41. doi: 10.1038/ajg.2013.105.
+
+Self-reported food-related gastrointestinal symptoms in IBS are common and 
+associated with more severe symptoms and reduced quality of life.
+
+Böhn L(1), Störsrud S, Törnblom H, Bengtsson U, Simrén M.
+
+Author information:
+(1)Department of Internal Medicine, Institute of Medicine, Sahlgrenska Academy, 
+University of Gothenburg, Gothenburg, Sweden. lena.bohn@gu.se
+
+OBJECTIVES: Despite the fact that food and diet are central issues, that concern 
+patients with irritable bowel syndrome (IBS), the current understanding about 
+the association between the intake of certain foods/food groups and the 
+gastrointestinal (GI) symptom pattern, psychological symptoms, and quality of 
+life is poor. The aim of this study was to determine which food groups and 
+specific food items IBS patients report causing GI symptoms, and to investigate 
+the association with GI and psychological symptoms and quality of life.
+METHODS: We included 197 IBS patients (mean age 35 (18-72) years; 142 female 
+subjects) who completed a food questionnaire in which they specified symptoms 
+from 56 different food items or food groups relevant to food 
+intolerance/allergy. The patients also completed questionnaires to assess 
+depression and general anxiety (Hospital Anxiety and Depression), GI-specific 
+anxiety (Visceral Sensitivity Index), IBS symptoms (IBS-Severity Scoring 
+System), somatic symptoms (Patient Health Questionnaire-15), and quality of life 
+(Irritable Bowel Syndrome Quality of Life Questionnaire).
+RESULTS: In all, 84% of the studied population reported symptoms related to at 
+least one of the food items surveyed. Symptoms related to intake of food items 
+with incompletely absorbed carbohydrates were noted in 138 (70%) patients; the 
+most common were dairy products (49%), beans/lentils (36%), apple (28%), flour 
+(24%), and plum (23%). Of these, 58% experienced GI symptoms from foods rich in 
+biogenic amines, such as wine/beer (31%), salami (22%), and cheese (20%). 
+Histamine-releasing foods, such as milk (43%), wine/beer (31%), and pork (21%), 
+were also considered causes of symptoms in IBS patients. GI symptoms were also 
+frequently reported after intake of fried and fatty foods (52%). With increasing 
+IBS symptom severity, patients reported more food items responsible for their GI 
+symptoms (P=0.004), and this was also found in patients with more severe somatic 
+symptoms (P<0.0001). Women tended to report more food items causing symptoms 
+than men (P=0.06). A high number of food items causing GI symptoms was also 
+associated with reduced quality of life and this was significant for the 
+following domains: sleep (r=-0.25; P=0.001), energy (r=-0.21; P=0.005), food 
+(r=-0.29; P<0.001), social functioning (r=-0.23; P=0.001), and physical status 
+(r=-0.16; P<0.05). However, the number of food items reported to provoke GI 
+symptoms was unrelated to body mass index, age, IBS subtype, anxiety, 
+depression, or GI-specific anxiety.
+CONCLUSIONS: The majority of IBS patients believe that certain food items are 
+important triggers of their GI symptoms. This is especially true for foods 
+containing carbohydrates and fat, and also may be relevant for 
+histamine-releasing food items and foods rich in biogenic amines. Self-reported 
+food intolerance is associated with high symptom burden and reduced quality of 
+life.
+
+DOI: 10.1038/ajg.2013.105
+PMID: 23644955 [Indexed for MEDLINE]
+
+
+10. Neurogastroenterol Motil. 2012 Apr;24(4):376-e172. doi: 
+10.1111/j.1365-2982.2011.01865.x. Epub 2012 Jan 25.
+
+A marketed fermented dairy product containing Bifidobacterium lactis CNCM I-2494 
+suppresses gut hypersensitivity and colonic barrier disruption induced by acute 
+stress in rats.
+
+Agostini S(1), Goubern M, Tondereau V, Salvador-Cartier C, Bezirard V, Lévèque 
+M, Keränen H, Theodorou V, Bourdu-Naturel S, Goupil-Feuillerat N, 
+Legrain-Raspaud S, Eutamene H.
+
+Author information:
+(1)Neuro-Gastroenterology & Nutrition Unit, Toxalim, UMR 1331, Toulouse, France.
+
+BACKGROUND:   Fermented milk (FM) containing Bifidobacterium lactis CNCM I-2494 
+and yogurt strains improves irritable bowel syndrome (IBS) symptoms in 
+constipated IBS patients. In rats, stressful events exacerbate IBS symptoms and 
+result in the alteration of gut sensitivity and permeability via epithelial cell 
+cytoskeleton contraction. In a stress model, we aimed at evaluating the effect 
+of B. lactis CNCM I-2494 as a pure strain or contained in an FM product on 
+visceral sensitivity and the impact of this FM on intestinal barrier integrity.
+METHODS:   Visceral sensitivity was analyzed in rats subjected to partial 
+restraint stress (PRS). Rats received during 15 days the B. lactis as a pure 
+strain (10(6) to 10(10) CFU mL(-1)), B. lactis in an FM product (10(8) CFU 
+g(-1), diluted or not), or a control product. Gut paracellular permeability, 
+colonic occluding and Jam-A proteins, and blood endotoxin levels were determined 
+in rats receiving B. lactis in an FM product submitted or not to a PRS.
+KEY RESULTS:   The FM product showed a dose-dependent inhibitory effect on 
+stress-induced visceral hypersensitivity. A similar antihyperalgesic effect was 
+observed at 10(10) CFU mL(-1) of pure B. lactis administration. The FM product 
+prevented the increase in intestinal permeability induced by PRS and restored 
+occludin and JAM-A expressions to control levels. The FM product abolished the 
+increase concentration of blood endotoxin induced by PRS.
+CONCLUSIONS & INFERENCES:   This study illustrates that a probiotic food 
+containing B. lactis CNCM I-2494 strain reduces visceral hypersensitivity 
+associated with acute stress by normalizing intestinal epithelial barrier via a 
+synergistic interplay with the different probiotic strains and/or metabolites 
+contained in this product.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/j.1365-2982.2011.01865.x
+PMID: 22272920 [Indexed for MEDLINE]

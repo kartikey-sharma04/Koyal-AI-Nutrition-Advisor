@@ -1,0 +1,472 @@
+1. Food Sci Nutr. 2024 Oct 9;12(11):9391-9402. doi: 10.1002/fsn3.4494.
+eCollection  2024 Nov.
+
+Influence of Brown Rice, Pea, and Soy Proteins on the Physicochemical Properties 
+and Sensory Acceptance of Dairy-Free Frozen Dessert.
+
+Hasan T(1)(2), Thoo YY(1), Siow LF(1).
+
+Author information:
+(1)School of Science Monash University Malaysia Bandar Sunway Selangor Malaysia.
+(2)Department of Food Technology and Nutrition Science Noakhali Science and 
+Technology University Noakhali Bangladesh.
+
+Fat and protein derived from milk are prime ingredients in a frozen dessert such 
+as ice cream conferring multiple desirable functionalities. However, this frozen 
+dairy dessert is not suitable for individuals having lactose intolerance, cow 
+milk allergy, or vegans. Hence, the study aimed to formulate dairy-free frozen 
+desserts using plant oils and plant proteins and compare their physicochemical 
+characteristics and sensory acceptance against an ice cream containing milk fat 
+and milk protein. Results indicated that the types of protein significantly 
+influenced the physicochemical properties and sensory acceptance of the frozen 
+dessert samples. Frozen desserts containing brown rice, pea, and soy protein 
+showed greater resistance to melting (0.29, 0.12, and 0.19%/min vs. 1.95%/min), 
+but they scored lower in sensory quality than ice cream made with milk protein; 
+although they remained at an acceptable level. When compared among the plant 
+proteins, the physicochemical characteristics of frozen desserts containing 
+brown rice, pea, and soy protein varied because of the differences in the 
+respective protein composition. Frozen dessert with brown rice protein showed 
+higher overrun (47.50% vs. 40.78% and 37.8%), lower hardness (20.02 N vs. 22.24 
+and 26.37 N), and higher melting rate (0.29%/min vs. 0.19 and 0.12%/min) than 
+frozen desserts containing soy and pea protein. Additionally, the brown rice 
+protein frozen dessert received lower sensory acceptance than soy and pea 
+protein frozen desserts. In summary, brown rice, pea, and soy proteins showed 
+potential to be used as viable alternatives to milk protein for dairy-free 
+frozen dessert applications.
+
+© 2024 The Author(s). Food Science & Nutrition published by Wiley Periodicals 
+LLC.
+
+DOI: 10.1002/fsn3.4494
+PMCID: PMC11606870
+PMID: 39620032
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Nutrients. 2024 Oct 29;16(21):3673. doi: 10.3390/nu16213673.
+
+Probiotic Milk and Oat Beverages with Increased Protein Content: Survival of 
+Probiotic Bacteria Under Simulated In Vitro Digestion Conditions.
+
+Pawlos M(1), Szajnar K(1), Znamirowska-Piotrowska A(1).
+
+Author information:
+(1)Department of Dairy Technology, Institute of Food Technology and Nutrition, 
+College of Natural Sciences, University of Rzeszow, Cwiklinskiej 2D, 35-601 
+Rzeszow, Poland.
+
+BACKGROUND: The increasing prevalence of plant-based dietary preferences, driven 
+by lactose intolerance, allergies, and adherence to vegan diets, has 
+necessitated the exploration of alternative food matrices for probiotic 
+delivery.
+OBJECTIVES: This study aimed to evaluate the effects of whey protein isolate, 
+pea protein isolate, and soy protein isolate on the viability of L. casei and L. 
+johnsonii during simulated in vitro gastrointestinal digestion. Furthermore, the 
+study investigated the impact of two distinct matrices-cow's milk and an 
+oat-based beverage-on the survival of these probiotic strains. Fermented 
+products were prepared using cow's milk and an oat-based beverage as matrices, 
+with simulated digestion performed following a seven-day storage period at 5 °C. 
+The in vitro digestion model encompassed oral, gastric, and small intestinal 
+phases, with probiotic viability assessed using the plate-deep method at each 
+stage.
+METHODS: Before digestion, L. casei exhibited higher populations than L. 
+johnsonii in both matrices. Including 3% soy and pea protein, isolates promoted 
+the growth of L. casei in both fermented milk and oat beverages. However, a 
+marked reduction in probiotic viability was observed during the gastric phase, 
+with L. casei counts decreasing by 6.4-7.8 log cfu g-1 in fermented milk and 
+3.1-4 log cfu g-1 in oat beverages, while L. johnsonii demonstrated similar 
+reductions.
+CONCLUSION: These findings underscore the protective role of dairy components on 
+probiotic viability, while the oat-based matrix exhibited a reduced capacity for 
+sustaining probiotic populations throughout digestion. Future research should 
+focus on optimizing plant-based matrices to enhance probiotic stability during 
+gastrointestinal transit.
+
+DOI: 10.3390/nu16213673
+PMCID: PMC11547824
+PMID: 39519506 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. Foods. 2024 Jun 30;13(13):2075. doi: 10.3390/foods13132075.
+
+Fortification of Pea and Potato Protein Isolates in Oat-Based Milk Alternatives; 
+Effects on the Sensory and Volatile Profile.
+
+McCarron R(1), Methven L(1), Grahl S(2), Elliott R(3), Lignou S(1).
+
+Author information:
+(1)Department of Food and Nutritional Sciences, University of Reading, Harry 
+Nursten Building, Whiteknights, Reading RG6 6DZ, UK.
+(2)Arla Innovation Centre, Agro Food Park 19, 8200 Aarhus N, Denmark.
+(3)Department of Nutrition, Food and Exercise Sciences, Faculty of Health and 
+Medical Sciences, University of Surrey Guildford, Surrey GU2 7YH, UK.
+
+Oat-based milk alternatives (OMAs) are an important alternative to bovine milk, 
+with prevalence of lactose intolerance, as well as soy and nut allergies 
+limiting consumers options. However, OMAs are typically lower in protein content 
+than both bovine milk and soy-based alternatives, with protein quality limited 
+by low lysine levels, which can reduce protein digestibility. Addition of 
+alternative plant proteins may increase the quantity of protein, as well as 
+balancing the amino acid profile. However, plant-based proteins have additional 
+sensory qualities and off-flavours, which may lead to undesirable 
+characteristics when introduced to OMAs. This study aimed to assess the effect 
+of pea and potato protein addition on the sensory profile, volatile profile, 
+colour, and particle size in an OMA control product. Results demonstrated that 
+pea protein contributed to a bitter and metallic taste, astringent aftertaste, 
+and a significantly increased overall aroma correlated with higher levels of key 
+volatiles. Whilst potato protein resulted in less flavour changes, it did lead 
+to increased powdery mouthfeel and mouthcoating supported by a substantially 
+increased particle size. Both protein fortifications led to detectable colour 
+changes and a staler flavour. Fortification of OMA product with the pea protein 
+led to significant sensory, volatile and physical changes, whilst the potato 
+protein led to predominantly physical changes. Further investigation into 
+alternative plant-based proteins is necessary to optimise sensory qualities 
+whilst increasing protein content and the amino acid profile.
+
+DOI: 10.3390/foods13132075
+PMCID: PMC11241158
+PMID: 38998581
+
+Conflict of interest statement: Stephanie Grahl was employed by the company Arla 
+Foods amba. She participated in the conceptualisation, supervision of this study 
+and writing—reviewing and editing. The remaining authors declare that the 
+research was conducted in the absence of any commercial or financial 
+relationships that could be construed as a potential conflict of interest.
+
+
+4. Cureus. 2024 May 9;16(5):e59972. doi: 10.7759/cureus.59972. eCollection 2024 
+May.
+
+Acute Effects of Dairy or Soy Milk on Sex Hormones Following Resistance Exercise 
+in Males: A Randomized, Crossover Pilot Trial.
+
+Craddock JC(1), Wakefield A(1), Peoples GE(1), Goldman DM(2)(3), Larkin TA(4).
+
+Author information:
+(1)School of Medical, Indigenous and Health Sciences, Faculty of Science, 
+Medicine and Health, University of Wollongong, Wollongong, AUS.
+(2)Department of Public Health, Faculty of Medicine, University of Helsinki, 
+Helsinki, FIN.
+(3)Research and Development, Metabite, Inc., New York, USA.
+(4)Graduate School of Medicine, Faculty of Science, Medicine and Health, 
+University of Wollongong, Wollongong, AUS.
+
+INTRODUCTION: Resistance exercise training (RET) can increase muscle mass and 
+strength, and this adaptation is optimized when dietary protein is consumed to 
+enhance muscle protein synthesis. Dairy milk has been endorsed for this purpose; 
+however, allergy and lactose intolerance affect two-thirds of the global 
+population making dairy milk unsuitable for many. Plant-based alternatives such 
+as soy milk have gained popularity and exhibit comparable protein content. 
+However, concerns regarding soy phytoestrogens potentially influencing 
+circulating sex hormones and diminishing the anabolic response to RET have been 
+raised. This study therefore aimed to assess the acute effects of dairy and soy 
+milk consumption on circulating sex hormones (total, free testosterone, free 
+testosterone percentage, total estrogen, progesterone, and sex hormone binding 
+globulin) after RET.
+MATERIALS AND METHODS: Six male participants were recruited for a 
+double-blinded, randomized crossover study with either dairy or soy milk 
+provided post RET. Venous samples were collected before and after milk 
+consumption across seven timepoints (0-120 minutes) where circulating sex 
+hormones were analyzed. Two-way ANOVA analyses were applied for repeated 
+measures for each hormone. The area under the curve (AUC) was also calculated 
+between dairy and soy milk. Significance was set at p<0.05.
+RESULTS: No significant differences were observed in acute circulating serum for 
+free (p=0.95), % free (p=0.56), and total testosterone (p=0.88), progesterone 
+(p=0.67), or estrogen (p=0.21) between milk conditions. Likewise, no significant 
+differences in AUC were observed between any hormones.
+CONCLUSION: These findings suggest that consumption of dairy milk and soy milk 
+have comparable acute effects on circulating sex hormones following RET. Further 
+investigations with expanded sample sizes are needed to strengthen and broaden 
+these initial findings.
+
+Copyright © 2024, Craddock et al.
+
+DOI: 10.7759/cureus.59972
+PMCID: PMC11162160
+PMID: 38854281
+
+Conflict of interest statement: The authors have declared financial 
+relationships, which are detailed in the next section.
+
+
+5. Front Microbiol. 2023 Sep 25;14:1265188. doi: 10.3389/fmicb.2023.1265188. 
+eCollection 2023.
+
+Assessing the probiotic potential, antioxidant, and antibacterial activities of 
+oat and soy milk fermented with Lactiplantibacillus plantarum strains isolated 
+from Tibetan Kefir.
+
+Aziz T(1), Xingyu H(1), Sarwar A(1), Naveed M(2), Shabbir MA(2), Khan AA(3), 
+Ulhaq T(3), Shahzad M(4), Zhennai Y(1), Shami A(5), Sameeh MY(6), Alshareef 
+SA(7), Tashkandi MA(8), Jalal RS(8)(9).
+
+Author information:
+(1)Key Laboratory of Geriatric Nutrition and Health of Ministry of Education, 
+Beijing Advanced Innovation Center for Food Nutrition and Human Health, Beijing 
+Engineering and Technology Research Center of Food Additives, Beijing Technology 
+and Business University, Beijing, China.
+(2)Department of Biotechnology, Faculty of Science and Technology, University of 
+Central Punjab, Lahore, Pakistan.
+(3)Department of Biotechnology, University of Malakand, Chakdara, Pakistan.
+(4)Institute of Basic Medical Sciences, Khyber Medical University, Peshawar, 
+Pakistan.
+(5)Department of Biology, College of Science, Princess Nourah bint Abdulrahman 
+University, Riyadh, Saudi Arabia.
+(6)Chemistry Department, Faculty of Applied Sciences, Al-Leith University 
+College, Umm Al-Qura University, Makkah, Saudi Arabia.
+(7)Department of Biology, College of Science and Arts at Khulis, University of 
+Jeddah, Jeddah, Saudi Arabia.
+(8)Department of Biochemistry, College of Science, University of Jeddah, Jeddah, 
+Saudi Arabia.
+(9)Department of Biology, College of Science, University of Jeddah, Jeddah, 
+Saudi Arabia.
+
+Sufficient intake of probiotics has been shown to help in the digestion, protect 
+the body against pathogenic microorganisms and boost the immune system. 
+Recently, due to high prevalence of milk allergies and lactose intolerance in 
+population, the non-dairy based probiotic alternative are becoming increasing 
+popular. In this context, the oat milk and soya milk-based fermented products 
+can be an ideal alternative for the development of Lactic acid bacteria bacteria 
+based probiotics. These bacteria can not only improve the product's flavor and 
+bioavailability but also increases its antibacterial and antioxidant 
+capabilities due to fermentation process. The purpose of the resent work was to 
+assess the antioxidant and probiotic properties of oat and soy milk that had 
+been fermented with three different strains of Lactiplantibacillus plantarum (L. 
+plantarum) including L. plantarum 12-3, L. plantarum K25, and L. plantarum YW11 
+isolated from Tibetan Kefir. Different validated assays were used to evaluate 
+the probiotic properties, adhesion and survival in the digestive system 
+(stomach, acid and bile salts resistance), antioxidant and antimicrobial 
+activities and safety (ABTS and DPPH scavenging assays) of these strains. 
+Results of the study showed that soya milk and oat milk fermented with L. 
+plantarum strains possess promising probiotic, antibacterial and antioxidant 
+properties. These results can be helpful to produce dairy-free probiotic 
+replacements, which are beneficial for those who are unable to consume dairy 
+products due to dietary or allergic restrictions.
+
+Copyright © 2023 Aziz, Xingyu, Sarwar, Naveed, Shabbir, Khan, Ulhaq, Shahzad, 
+Zhennai, Shami, Sameeh, Alshareef, Tashkandi and Jalal.
+
+DOI: 10.3389/fmicb.2023.1265188
+PMCID: PMC10560984
+PMID: 37817753
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+6. Foods. 2023 Jul 11;12(14):2665. doi: 10.3390/foods12142665.
+
+An Updated Review of Soy-Derived Beverages: Nutrition, Processing, and 
+Bioactivity.
+
+Olías R(1), Delgado-Andrade C(1), Padial M(1), Marín-Manzano MC(1), Clemente 
+A(1).
+
+Author information:
+(1)Department of Nutrition and Sustainable Animal Production, Estación 
+Experimental del Zaidín, Consejo Superior de Investigaciones Científicas, San 
+Miguel 101, Armilla, E-18100 Granada, Spain.
+
+The global market for plant-based drinks is experiencing rapid growth driven by 
+consumer demand for more sustainable diets, including vegetarian and vegan 
+options. Soy beverages in particular are gaining popularity among individuals 
+with lactose intolerance and milk protein allergies. They are considered an 
+excellent source of high-quality protein, vitamin B, unsaturated fatty acids, 
+and beneficial phytochemicals such as phytosterols, soy lecithins, and 
+isoflavones. This review presents a comprehensive market survey of fifty-two soy 
+beverages available in Spain and other European countries. The predominant 
+category among those evaluated was calcium and vitamin-fortified drinks, 
+accounting for 60% of the market. This reflects the need to address the 
+nutritional gap compared to cow's milk and meet essential dietary requirements. 
+The review covers the technological aspects of industrial soy milk production, 
+including both traditional methods and innovative processing techniques. 
+Additionally, it analyzes multiple studies and meta-analyses, presenting 
+compelling evidence for the positive effects of soy beverages on various aspects 
+of health. The review specifically examines the contributions of different 
+components found in soy beverages, such as isoflavones, proteins, fiber, and 
+oligosaccharides. Moreover, it explores controversial aspects of soy 
+consumption, including its potential implications for growth, puberty, 
+fertility, feminization, and the thyroid gland.
+
+DOI: 10.3390/foods12142665
+PMCID: PMC10379384
+PMID: 37509757
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this review.
+
+
+7. Nutrients. 2023 May 10;15(10):2258. doi: 10.3390/nu15102258.
+
+Soy, Rice and Oat Drinks: Investigating Chemical and Biological Safety in 
+Plant-Based Milk Alternatives.
+
+Giugliano R(1), Musolino N(2), Ciccotelli V(1), Ferraris C(2), Savio V(1), 
+Vivaldi B(1), Ercolini C(1), Bianchi DM(2), Decastelli L(2).
+
+Author information:
+(1)National Reference Laboratory of Pesticides in Cereals and Feed (NRL), 
+Istituto Zooprofilattico Sperimentale del Piemonte, Liguria E Valle D'Aosta, 
+Piazza Borgo Pila 39/24, 16129 Genoa, Italy.
+(2)National Reference Centre for the Detection of Substances and Products 
+Causing Allergies or Intolerances in Food (CReNaRiA), Istituto Zooprofilattico 
+Sperimentale del Piemonte, Liguria e Valle D'Aosta, Via Bologna 148, 10154 
+Turin, Italy.
+
+During the last decades, plant-based milk has become very appreciated by 
+consumers, becoming a staple ingredient, especially for alternative breakfasts. 
+Milk contains lactose, which is a sugar hydrolysed by the lactase enzyme. 
+Lactose intolerance and lactose malabsorption are very common food intolerances 
+among individuals. However, a lot of consumers consider themselves as lactose 
+intolerant on the basis of self-reported intolerance and start to avoid dairy 
+products, ignoring that plant-based milk alternatives are not nutritionally 
+comparable to animal milk, especially in terms of protein intake. The aim of 
+this study is to grow folder knowledge of the security of plant-based drinks, 
+helping competent authorities to issue a risk assessment and to apply national 
+plans about consumer safety. Results show that proper sanitary practices, such 
+as pasteurization, are necessary in plant-based milk alternatives as well as in 
+dairy milk. Chemical analysis has highlighted that there are no pesticide risks 
+for consumers.
+
+DOI: 10.3390/nu15102258
+PMCID: PMC10221834
+PMID: 37242141 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+8. Nutrients. 2021 Jul 30;13(8):2650. doi: 10.3390/nu13082650.
+
+An Overview on Nutritional Aspects of Plant-Based Beverages Used as Substitutes 
+for Cow's Milk.
+
+Fructuoso I(1), Romão B(1), Han H(2), Raposo A(3), Ariza-Montes A(4), 
+Araya-Castillo L(5), Zandonadi RP(1).
+
+Author information:
+(1)Department of Nutrition, University of Brasília, Brasília 70910-900, Brazil.
+(2)College of Hospitality and Tourism Management, Sejong University, 98 
+Gunja-dong, Gwanjin-gu, Seoul 143-747, Korea.
+(3)CBIOS (Research Center for Biosciences and Health Technologies), Universidade 
+Lusófona de Humanidades e Tecnologias, Campo Grande 376, 1749-024 Lisboa, 
+Portugal.
+(4)Social Matters Research Group, Universidad Loyola Andalucía, C/Escritor 
+Castilla Aguayo, 4 14004 Córdoba, Spain.
+(5)Facultad de Economía y Negocios, Universidad Andrés Bello, Santiago de Chile 
+7591538, Chile.
+
+The presence of milk in meals and products consumed daily is common and at the 
+same time the adoption of a milk-free diet increases due to milk allergy, 
+lactose intolerance, vegan diets, and others. Therefore, there is an increasing 
+demand for plant-based beverages, which present variable and, sometimes, unknown 
+nutritional characteristics. This study sought to compare the nutritional 
+aspects of plant-based beverages used as substitutes for cow's milk described in 
+scientific studies. Therefore, we used a review of the scientific literature on 
+PubMed, Google Scholar, Scopus, Web of Science, Google Patents, Embase, and 
+ScienceDirect databases. The inclusion criteria were scientific studies 
+referring to plant-based beverage used as an alternative to cow's milk; 
+published in the English language; present data on the serving size, 
+ingredients, and nutritional composition, containing at least data on energy and 
+macronutrients of plant-based beverages. Ingredients and data on energy, 
+macronutrients, and, if available, dietary fiber and some micronutrients of 
+plant-based beverages were collected. Data were obtained from 122 beverages of 
+22 different matrices, with soy being the most used (27.87%, n = 34). The 
+variation in the amount of nutrients found was 6-183 Kcal/100 mL for energy 
+value; 0.00-22.29 g/100 mL for carbohydrate; 0.06-12.43 g/100 mL for protein; 
+0.00-19.00 g/100 mL for lipid; 0.00-4.40 g/100 mL for dietary fiber; 
+0.00-1252.94 mg/100 mL for calcium; 0.04-1.40 mg/100 mL for iron; 0.84-10,178.60 
+mg/100 mL for magnesium; 0.00-343.43 mg/100 mL for sodium. Salt was the most 
+commonly found added ingredient in plant-based beverages. Some beverages have 
+reached certain amounts of cow's milk nutrients. However, studies have pointed 
+out differences in their qualities/types. Thus, attention is needed when 
+replacing milk with these alternatives.
+
+DOI: 10.3390/nu13082650
+PMCID: PMC8399839
+PMID: 34444815 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+9. Curr Res Food Sci. 2021 Apr 24;4:295-300. doi: 10.1016/j.crfs.2021.04.001. 
+eCollection 2021.
+
+Typical gut indigenous bacteria in ICR mice fed a soy protein-based normal or 
+low-protein diet.
+
+Nakamura S(1), Kuda T(1), Midorikawa Y(1), Takahashi H(1), Kimura B(1).
+
+Author information:
+(1)Department of Food Science and Technology, Tokyo University of Marine Science 
+and Technology, 4-5-7 Among Konan, Minato-ku, Tokyo, 108-8477, Japan.
+
+For patients with inflammatory bowel disease, cow's milk allergy, and lactose 
+intolerance, soymilk is a potential alternative to cow's milk. In this study, we 
+aimed to identify the effects of a soy protein-based low-protein diet on the 
+body and organ weights and the gut microbiome of six-week-old mice fed a diet 
+containing 20% (SP) or 5% (LP) soy protein for 14 days via 16S rRNA (V4) 
+amplicon sequencing. Body weight gain (growth) and liver, spleen, and fat tissue 
+weight were significantly suppressed by the LP diet. Operational taxonomic unit 
+numbers and α-diversity were lower in the LP group than in the SP group. A 
+principal coordinate analysis revealed differences in the gut microbiome 
+compositions of SP and LP mice. The abundances of caecal Roseburia sp., 
+Alistipes sp., and bacteria from the family Muribaculaceae were lower in the LP 
+group than in the SP group. In contrast, the abundance of Desulfovibrionaceae, 
+which is positively correlated with inflammation, was higher in the LP group 
+than in the SP group. These results differed from the effects of a milk 
+casein-based low-protein diet (reported previously). Based on these findings, we 
+conclude that the undesirable effects of a low-protein diet and/or protein 
+deficiency are related to changes in the gut microbiome composition and may 
+differ depending on the kind of proteins used.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.crfs.2021.04.001
+PMCID: PMC8102713
+PMID: 33997796
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+10. J Am Nutr Assoc. 2022 May-Jun;41(4):424-434. doi:
+10.1080/07315724.2021.1891587.  Epub 2021 Apr 8.
+
+Lactose Intolerance and Its Dietary Management: An Update.
+
+Katoch GK(1), Nain N(1), Kaur S(1), Rasane P(1).
+
+Author information:
+(1)Department of Food Technology and Nutrition, Lovely Professional University, 
+Phagwara, India.
+
+Milk is the most common food consumed worldwide and is also a major ingredient 
+in the preparation of various dairy products. However, despite the high 
+production and consumption of milk and milk-based products, there is a large 
+percent of the world's population that suffer from allergies to milk solids and 
+lactose intolerance. Lactose intolerance specifically means the inability of the 
+body to breakdown the sugar to its simplest form for assimilation and it is due 
+to the inefficiency or lack of the enzyme in the human body. The most convenient 
+prevention method for the affected population is to avoid milk and milk-based 
+products but this may be a cause of development of other health related issues 
+that result from inadequate nutrient consumption. To help find an alternative to 
+this problem, this study aims at first studying the underlying information on 
+lactose intolerance and then studying plant-based beverages as a possible 
+alternative to milk and milk-based products.Key teaching pointsLactose 
+intolerance specifically means the inability of the body to breakdown the sugar 
+to its simplest form for assimilation and it is due to the inefficiency or lack 
+of the enzyme in the human body.Consumption of probiotics may help relieve the 
+symptoms of lactose intolerance.Soy beverage can be an economical alternative 
+for lactose intolerant populations and has calcium content comparable to bovine 
+milk.Calcium absorption in fortified plant based beverages depends upon type of 
+calcium salt used.
+
+DOI: 10.1080/07315724.2021.1891587
+PMID: 33831336 [Indexed for MEDLINE]

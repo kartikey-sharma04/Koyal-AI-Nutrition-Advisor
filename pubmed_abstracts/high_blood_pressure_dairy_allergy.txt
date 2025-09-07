@@ -1,0 +1,563 @@
+1. J Dairy Sci. 2023 Jul;106(7):4516-4523. doi: 10.3168/jds.2022-22392. Epub 2023
+ May 22.
+
+Types of milk consumed and risk of essential hypertension: A 2-sample Mendelian 
+randomization analysis.
+
+Shi Z(1), Zhao Z(1), Zhu P(1), An C(2), Zhang K(3).
+
+Author information:
+(1)Institute of Population and Health, College of Life Sciences, Northwest 
+University, Xi'an, 710069, P. R. China.
+(2)Foundational and Translational Medical Research Center, Department of Allergy 
+and General Surgery, Hohhot First Hospital, Hohhot 010030, P. R. China. 
+Electronic address: acy_1999@163.com.
+(3)Institute of Population and Health, College of Life Sciences, Northwest 
+University, Xi'an, 710069, P. R. China; Key Laboratory of Resource Biology and 
+Biotechnology in Western China, Ministry of Education, School of Medicine, 
+Northwest University, Xi'an 710069, P. R. China. Electronic address: 
+zhangkj@nwu.edu.cn.
+
+Observational associations between milk consumption and essential hypertension 
+have been reported. However, their causal inferences have not been proven, and 
+the effects of different types of milk consumption on hypertension risk remain 
+poorly characterized. The Mendelian randomization (MR) analysis was performed 
+using public summary-level statistics from genome-wide association studies to 
+determine whether the different types of milk consumption affect essential 
+hypertension differently. Six different milk consumption types were defined as 
+exposure conditions, whereas essential hypertension identified by the ninth and 
+tenth revisions of the International Classification of Diseases was considered 
+the outcome of interest. Genetic variants, which were genome-wide associated 
+with the types of milk consumed, were used as an instrumental variable for MR 
+analysis. In primary MR analysis, the inverse-variance weighted method was 
+adopted followed by several sensitivity analyses. Our findings suggested that of 
+the 6 common types of milk consumed, semi-skimmed and soya milk products were 
+protective against essential hypertension, whereas skim milk had the opposite 
+effect. Consistent results were also observed in sensitivity analyses that 
+followed. The present study provided genetic evidence that a causal link between 
+milk consumption and the risk of essential hypertension and a new reference for 
+the diet antihypertensive treatment plan for patients with hypertension.
+
+The Authors. Published by Elsevier Inc. and Fass Inc. on behalf of the American 
+Dairy Science Association®. This is an open access article under the CC BY 
+license (http://creativecommons.org/licenses/by/4.0/).
+
+DOI: 10.3168/jds.2022-22392
+PMID: 37225577 [Indexed for MEDLINE]
+
+
+2. J Prev Med Hyg. 2021 Sep 15;62(3):E681-E688. doi: 
+10.15167/2421-4248/jpmh2021.62.3.2077. eCollection 2021 Sep.
+
+Association between dairy product intake and high blood pressure in Chilean 
+adults.
+
+Morejón-Terán Y(1)(2), Pizarro R(3), Mauritz L(4), Díaz D(4), Durán Agüero S(4).
+
+Author information:
+(1)Programa de Pesquisa Social Change, Asthma and Allergy in Latin America - 
+SCAALA, Universidade Federal de Bahia, Salvador, Brazil.
+(2)Grupo de Prevención de la violencia de género (E-previo), Facultad de 
+Enfermería. Pontificia Universidad Católica del Ecuador, Quito, Pichincha, 
+Ecuador.
+(3)Facultad de Ciencias de la Salud, Universidad San Sebastián. Providencia, 
+Chile.
+(4)Facultad de Ciencias para el Cuidado de la Salud, Universidad San Sebastián, 
+Providencia, Chile.
+
+BACKGROUND: Hypertension is a major risk for cardiovascular disease. Several 
+studies have connected dairy consumption with lower blood pressure (BP). 
+However, these have not considered the Latin American population. The aim of 
+this study was to examine the relationship between consumption of full-fat or 
+low fat/fat free dairy products and high blood pressure in Chilean adults.
+METHODS: Cross-sectional study containing data from 3,807 adults between 20 and 
+98 years old from the National Health Survey (NHS) of Chile 2016-2017. 
+Information on lifestyle, food frequency, and socio-demographics was collected 
+using standardized questionnaires. Trained fieldworkers took anthropometric and 
+blood pressure measurements. The frequency of consumption data included seven 
+ad-hoc questions on habitual eating and frequency options, based on the 
+Mediterranean diet (fish products, fruit and vegetable, and dairy products) and 
+its protective effect on cardiovascular diseases. The selection of foods was 
+supported by expert opinion.
+RESULTS: Of the 3,807 adults, 37% were male and 63% were female. Sex, education 
+level, frequency of dairy products and fish, smoking, and sport or physical 
+activity had a direct relationship with consumption of dairy products (P < 
+0.05). Consumption of low fat/fat free dairy products was protectively 
+associated with high blood pressure in the unadjusted model (OR: 0.76, CI 95% 
+0.64-0.91). However, after adjustment for confounding variables (education level 
+modifies the effect 10.2%), this association was attenuated (OR: 0.88; CI 95% 
+0.71-1.08).
+CONCLUSION: We found limited evidence that the type of dairy products consumed 
+is associated with high blood pressure in the Chilean population.
+
+©2021 Pacini Editore SRL, Pisa, Italy.
+
+DOI: 10.15167/2421-4248/jpmh2021.62.3.2077
+PMCID: PMC8639129
+PMID: 34909496 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare no 
+conflicts of interest
+
+
+3. Ter Arkh. 2020 Sep 3;92(8):79-85. doi: 10.26442/00403660.2020.08.000771.
+
+[Association of nutritional patterns and arterial hypertension in Russia: does 
+it exist?].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Lantseva MA(1), Sasunova AN(1), Vlasova AV(1), Kropochev VS(1), Pilipenko VI(1), 
+Morozov SV(1), Isakov VA(1).
+
+Author information:
+(1)Federal Research Centre of Nutrition, Biotechnology and Food Safety.
+
+AIM: To evaluate nutritional patterns in patient with arterial hypertension (AH) 
+compared to the control group without elevated blood pressure.
+MATERIALS AND METHODS: Retrospective search for unique records of the patients 
+aged 1875 y.o. with complete data on usual nutrition with food frequency methods 
+who had no mentions of diabetes mellitus, food intolerance or allergies, and 
+history of major abdominal surgery, as well as signs of secondary reasons of AH. 
+Nutritional patterns were assessed with the use of healthy eating pyramid 
+principles. Ststistical analysis was performed with the use of SPSS 13.0 for 
+Windows software (SPSS Inc., USA).
+RESULTS: The data of 711 patients were available for the final analysis (595 of 
+them in AH group). Both groups consumed lower compared to the recommended 
+amounts of fruits, dairy and higher amounts of meat. Those with AH consumed 
+larger amounts of vegetables (1.130.74 compared to the values of healthy eating 
+pyramid vs 0.940.63 in the control group; p=0.004), fruits (0.800.66 vs 
+0.520.57; p=0.001), meat (1.851.05 vs 1.620.91; p=0.002) and fats (0.770.60 vs 
+0.490.55; p=0.001). On the other hand, there were lower rates of consumption of 
+sugars, and confectionaries in the structure of nutritional patterns in patients 
+with AH compared to the control group: (0.350.44 of the healthy eating pyramid 
+in AH vs 1.930.98, in the control group; p=0.0001).
+CONCLUSION: Nutritional patterns of patients with arterial hypertension 
+significantly differ compared to the control group. The obtained data may be 
+used for diet modification in patients with arterial hypertension.
+
+Publisher: Цель. Изучить структуру (паттерн) питания больных артериальной 
+гипертензией (АГ) в сравнении с контрольной группой без повышения артериального 
+давления (контрольная группа). Материалы и методы. Проведен ретроспективный 
+анализ базы данных системы ПО Нутрилоджик (ООО Нутрилоджик, Россия), в ходе 
+которого идентифицированы данные пациентов в возрасте от 18 до 75 лет с 
+полностью заполненными и адекватными данными анализа фактического питания 
+методом частотного анализа, без признаков вторичной АГ и сопутствующих 
+заболеваний, которые могли бы привести к искажению пищевых привычек вследствие 
+необходимости специальных ограничений в питании (сахарный диабет, пищевая 
+непереносимость, операции на желудочно-кишечном тракте). Оценка структуры 
+питания проводилась по частоте и количеству потребления основных групп продуктов 
+в сравнении с принципом пирамиды здорового питания. Дополнительный анализ 
+проведен в отношении состава подгрупп продуктов. Для математической обработки 
+результатов использовался непараметрический модуль ПО SPSS 13.0 for Windows 
+(SPSS Inc., USA). Результаты. Конечному анализу доступны данные 711 обследуемых 
+(595 в группе АГ). Как для группы АГ, так и контрольной, характерны 
+недостаточное потребление фруктов и молочных продуктов, а также избыточное 
+потребление мяса. При сравнении групп между собой выявлено, что больные АГ 
+потребляли больше овощей (1,130,74 относительно величины пирамиды здорового 
+питания против 0,940,63 в группе контроля соответственно; р=0,004), фруктов 
+(0,800,66 против 0,520,57; р=0,001), мяса (1,851,05 против 1,620,91; р=0,002) и 
+жиров (0,770,60 против 0,490,55; р=0,001). В то же время структура рациона 
+больных АГ характеризовалась меньшим относительным количеством сахара и 
+кондитерских изделий, чем в группе контроля (0,350,44 относительно показателей 
+пирамиды здорового питания в группе АГ против 1,930,98 в группе контроля; 
+р=0,0001). Заключение. Структура рациона больных АГ существенно отличается от 
+таковой без признаков заболевания. Полученные данные могут быть использованы для 
+научно обоснованной модификации рационов у больных АГ.
+
+DOI: 10.26442/00403660.2020.08.000771
+PMID: 33346466 [Indexed for MEDLINE]
+
+
+4. J Am Coll Nutr. 2019 Mar-Apr;38(3):197-208. doi:
+10.1080/07315724.2018.1491016.  Epub 2018 Sep 24.
+
+Cow's Milk Consumption and Health: A Health Professional's Guide.
+
+Marangoni F(1), Pellegrino L(2), Verduci E(3), Ghiselli A(4), Bernabei R(5), 
+Calvani R(5), Cetin I(6), Giampietro M(7), Perticone F(8), Piretta L(9), Giacco 
+R(10), La Vecchia C(11), Brandi ML(12), Ballardini D(13), Banderali G(14), 
+Bellentani S(15), Canzone G(16), Cricelli C(17), Faggiano P(18), Ferrara N(19), 
+Flachi E(20), Gonnelli S(21), Macca C(22), Magni P(23), Marelli G(24), Marrocco 
+W(25), Miniello VL(26), Origo C(27), Pietrantonio F(28), Silvestri P(29), Stella 
+R(30), Strazzullo P(31), Troiano E(32), Poli A(1).
+
+Author information:
+(1)a NFI-Nutrition Foundation of Italy , Milano , Italy.
+(2)b Department of Food, Environmental and Nutritional Sciences , Università 
+degli Studi di Milano , Milano , Italy.
+(3)c Department of Health Sciences, San Paolo Hospital , ASST Santi Paolo e 
+Carlo, Università degli Studi di Milano and SIP-Italian Society of Pediatrics , 
+Milano , Italy.
+(4)d CREA-Alimenti e Nutrizione, Consiglio per la ricerca in agricoltura e 
+l'analisi dell'economia agraria, Roma and SISA-Italian Society of Nutritional 
+Science , Roma , Italy.
+(5)e Institute of Internal Medicine and Geriatrics- Catholic University of the 
+Sacred Heart , Roma , Italy.
+(6)f Department of Biomedical and Clinical Sciences , Unit of Obstetrics and 
+Gynecology, Hospital Vittore Buzzi , Milano , Italy.
+(7)g School of Sports , CONI-Italian National Olympic Committee , Roma , Italy.
+(8)h Unit of Obstetrics and Gynecology, Hospital Vittore Buzzi , Università 
+degli Studi "Magna Graecia", Catanzaro and SIMI-Italian Society of Internal 
+Medicine , Catanzaro , Italy.
+(9)i Alimentary Science and Human Nutrition, Università Campus Biomedico , Roma 
+, Italy.
+(10)j Institute of Food Science, National Research Council, Avellino and SID - 
+Italian Diabetes Society , Avellino , Italy.
+(11)k Department of Clinical Sciences and Community Health , Università degli 
+Studi di Milano , Milano , Italy.
+(12)l Fondazione F.I.R.M.O , Firenze , Italy.
+(13)m ANSISA-Italian Association of Food Science Specialists , Milano , Italy.
+(14)n Department of Health Sciences, San Paolo Hospital , ASST Santi Paolo e 
+Carlo, Università degli Studi di Milano and SINUPE-Italian Society of Pediatric 
+Nutrition , Milano , Italy.
+(15)o SIGE-Italian Society of Gastroenterology and Digestive Endoscopy , Modena 
+, Italy.
+(16)p Obstetrics and Gynecology Unit , San Cimino Hospital, Termini Imerese and 
+SIGO-Italian Society of Gynecology and Obstetrics , Termini Imerese , Italy.
+(17)q SIMG-Italian Society of General Medicine , Firenze , Italy.
+(18)r Cardiology Division , Spedali Civili and University of Brescia and 
+GICR-Italian Association for Cardiovascular Prevention and Rehabilitation , 
+Brescia , Italy.
+(19)s Department of Translational Medical Sciences , University of Naples 
+'Federico II' and SIGG-Italian Society of Gerontology and Geriatrics , Naples , 
+Italy.
+(20)t SIPREC-Italian Society for Cardiovascular Prevention , Milan , Italy.
+(21)u Department of Medicine, Surgery and Neuroscience , University of Siena and 
+SIOMMS-Italian Society for Osteoporosis, Mineral Metabolism and Bone Diseases , 
+Siena , Italy.
+(22)v Dietetics and Clinical Nutrition Unit , Spedali Civili Brescia and ADI - 
+Italian Association of Dietetics , Brescia , Italy.
+(23)w Department of Pharmacological and Biomolecular Sciences , Università degli 
+Studi di Milano and SISA-Italian Society for the Study of Atherosclerosis , 
+Milano , Italy.
+(24)x Department of Diabetology Endocrinology and Clinical Nutrition , ASST di 
+Vimercate and AMD - Italian Association of Diabetologists , Vimercate , Italy.
+(25)y FIMMG-Italian Federation of General Medicine Doctors and SIMPeSV-Italian 
+Society of Preventive and Lifestyle Medicine , Rome , Italy.
+(26)z Department of Paediatrics , University of Bari and SIPPS-Italian Society 
+of Preventive and Social Pediatrics , Bari , Italy.
+(27)aa Department of Pediatric Orthoaedics , A.O. SS Antonio e Biagio e Cesare 
+Arrigo, Alessandria and SITOP-Italian Society of Orthopaedics and Traumatology , 
+Alessandria , Italy.
+(28)ab Internal Medicine Unit , - H2-Albano Hospital Center, ASL Roma 6, Roma 
+and FADOI-Federation of the Associations of Internist Hospital Managers , 
+Manerbio , Italy.
+(29)ac Interventional Cardiology-CCU Department , G. Rummo Hospital, Benevento 
+and ANMCO-Italian National Association of Hospital Cardiologists , Benevento , 
+Italy.
+(30)ad SNaMID-National Interdisciplinary Medical Society Primary Care , Milan , 
+Italy.
+(31)ae Department of Clinical Medicine and Surgery , ESH Excellence Center of 
+Hypertension, "Federico II" University of Naples and SINU-Italian Society of 
+Human Nutrition , Napoli , Italy.
+(32)af ANDID-Italian Association of Dietitians , Rome , Italy.
+
+The most recent scientific evidence supports the consumption of cow's milk and 
+dairy products as part of a balanced diet. However, these days, the public and 
+practicing physicans are exposed to a stream of inconsistent (and often 
+misleading) information regarding the relationship between cow's milk intake and 
+health in the lay press and in the media. The purpose of this article, in this 
+context, is to facilitate doctor-patient communication on this topic, providing 
+physicians with a series of structured answers to frequently asked patient 
+questions. The answers range from milk and milk-derived products' nutritional 
+function across the life span, to their relationship with diseases such as 
+osteoporosis and cancer, to lactose intolerance and milk allergy, and have been 
+prepared by a panel of experts from the Italian medical and nutritional 
+scientific community. When consumed according to appropriate national 
+guidelines, milk and its derivatives contribute essential micro- and 
+macronutrients to the diet, especially in infancy and childhood where bone mass 
+growth is in a critical phase. Furthermore, preliminary evidence suggests 
+potentially protective effects of milk against overweight, obesity, diabetes, 
+and cardiovascular disease, while no clear data suggest a significant 
+association between milk intake and cancer. Overall, current scientific 
+literature suggests that an appropriate consumption of milk and its derivatives, 
+according to available nutritional guidelines, may be beneficial across all age 
+groups, with the exception of specific medical conditions such as lactose 
+intolerance or milk protein allergy. Key teaching points: Milk and its 
+derivatives contribute essential micro and macronutrients to the diet, when 
+consumed according to appropriate national guidelines, especially in infancy and 
+childhood where bone mass growth is in a critical phase. Preliminary evidence 
+suggests potentially protective effects of milk against overweight, obesity, 
+diabetes and cardiovascular disease No clear data are available about the 
+association between milk intake and cancer. Current scientific literature 
+suggests that an appropriate consumption of milk and its derivatives may be 
+beneficial at all ages, with the exception of specific medical conditions such 
+as lactose intolerance or milk protein allergy.
+
+DOI: 10.1080/07315724.2018.1491016
+PMID: 30247998 [Indexed for MEDLINE]
+
+
+5. J Nutr. 2018 Feb 1;148(2):245-253. doi: 10.1093/jn/nxx045.
+
+Higher Mediterranean Diet Quality Scores and Lower Body Mass Index Are 
+Associated with a Less-Oxidized Plasma Glutathione and Cysteine Redox Status in 
+Adults.
+
+Bettermann EL(1), Hartman TJ(1), Easley KA(2), Ferranti EP(3), Jones DP(4)(5), 
+Quyyumi AA(6), Vaccarino V(1), Ziegler TR(5)(7)(8), Alvarez JA(5)(7).
+
+Author information:
+(1)Departments of Epidemiology and Biostatistics and Bioinformatics, Rollins 
+School of Public Health, Emory University, Atlanta, GA.
+(2)Departments of Biostatistics and Bioinformatics, Rollins School of Public 
+Health, Emory University, Atlanta, GA.
+(3)Nell Hodgson Woodruff School of Nursing, Emory University, Atlanta, GA.
+(4)Division of Pulmonary, Allergy, Critical Care and Sleep Medicine.
+(5)Center for Clinical and Molecular Nutrition and Divisions of Cardiology and 
+Endocrinology, Metabolism & Lipids, Department of Medicine, Emory University 
+School of Medicine, Atlanta, GA.
+(6)Divisions of Cardiology and Endocrinology, Metabolism & Lipids, Department of 
+Medicine, Emory University School of Medicine, Atlanta, GA.
+(7)Center for Clinical and Molecular Nutrition and Divisions of Endocrinology, 
+Metabolism & Lipids, Department of Medicine, Emory University School of 
+Medicine, Atlanta, GA.
+(8)Section of Endocrinology, Atlanta Veterans Affairs Medical Center, Atlanta, 
+GA.
+
+BACKGROUND: Both systemic redox status and diet quality are associated with risk 
+outcomes in chronic disease. It is not known, however, the extent to which diet 
+quality influences plasma thiol/disulfide redox status.
+OBJECTIVE: The purpose of this study was to investigate the influence of diet, 
+as measured by diet quality scores and other dietary factors, on systemic 
+thiol/disulfide redox status.
+METHODS: We performed a cross-sectional study of 685 working men and women 
+(ages ≥18 y) in Atlanta, GA. Diet was assessed by 3 diet quality scores: the 
+Alternative Healthy Eating Index (AHEI), Dietary Approaches to Stop Hypertension 
+(DASH), and the Mediterranean Diet Score (MDS). We measured concentrations of 
+plasma glutathione (GSH), cysteine, their associated oxidized forms [glutathione 
+disulfide (GSSG) and cystine (CySS), respectively], and their redox potentials 
+(EhGSSG and EhCySS) to determine thiol/disulfide redox status. Linear regression 
+modeling was performed to assess relations between diet and plasma redox after 
+adjustment for age, body mass index (BMI), sex, race, and history of chronic 
+disease.
+RESULTS: MDS was positively associated with plasma GSH (β = 0.02; 95% CI: 0.003, 
+0.03) and total GSH (GSH + GSSG) (β = 0.02; 95% CI: 0.003, 0.03), and inversely 
+associated with the CySS:GSH ratio (β = -0.02; 95% CI: -0.04, -0.004). There 
+were significant independent associations between individual MDS components 
+(dairy, vegetables, fish, and monounsaturated fat intake) and varying plasma 
+redox indexes (P < 0.05). AHEI and DASH diet quality indexes and other diet 
+factors of interest were not significantly correlated with plasma thiol and 
+disulfide redox measures.
+CONCLUSION: Adherence to the Mediterranean diet was significantly associated 
+with a favorable plasma thiol/disulfide redox profile, independent of BMI, in a 
+generally healthy working adult population. Although longitudinal studies are 
+warranted, these findings contribute to the feasibility of targeting a 
+Mediterranean diet to improve plasma redox status.
+
+DOI: 10.1093/jn/nxx045
+PMCID: PMC6251672
+PMID: 29490099 [Indexed for MEDLINE]
+
+
+6. BMJ. 2017 May 9;357:j1794. doi: 10.1136/bmj.j1794.
+
+The Dietary Approaches to Stop Hypertension (DASH) diet, Western diet, and risk 
+of gout in men: prospective cohort study.
+
+Rai SK(1)(2)(3), Fung TT(4)(5), Lu N(1)(2), Keller SF(1), Curhan GC(2)(6), Choi 
+HK(7)(2)(3).
+
+Author information:
+(1)Division of Rheumatology, Allergy and Immunology, Massachusetts General 
+Hospital, Harvard Medical School, Boston, MA, 02114, USA.
+(2)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA.
+(3)Arthritis Research Canada, Richmond, BC, Canada.
+(4)Department of Nutrition, Simmons College, Boston, MA, USA.
+(5)Department of Nutrition, Harvard TH Chan School of Public Health, Boston, MA, 
+USA.
+(6)Division of Renal (Kidney) Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA.
+(7)Division of Rheumatology, Allergy and Immunology, Massachusetts General 
+Hospital, Harvard Medical School, Boston, MA, 02114, USA hchoi@partners.org.
+
+Objective To prospectively examine the relation between the Dietary Approaches 
+to Stop Hypertension (DASH) and Western diets and risk of gout (ie, the clinical 
+endpoint of hyperuricemia) in men.Design Prospective cohort study.Setting The 
+Health Professionals Follow-up Study.Participants 44 444 men with no history of 
+gout at baseline. Using validated food frequency questionnaires, each 
+participant was assigned a DASH dietary pattern score (based on high intake of 
+fruits, vegetables, nuts and legumes, low fat dairy products, and whole grains, 
+and low intake of sodium, sweetened beverages, and red and processed meats) and 
+a Western dietary pattern score (based on high intake of red and processed 
+meats, French fries, refined grains, sweets, and desserts).Main outcome 
+measure Risk of incident gout meeting the preliminary American College of 
+Rheumatology survey criteria for gout, adjusting for potential confounders, 
+including age, body mass index, hypertension, diuretic use, and alcohol 
+intake.Results During 26 years of follow-up, 1731 confirmed cases of incident 
+gout were documented. A higher DASH dietary pattern score was associated with a 
+lower risk for gout (adjusted relative risk for extreme fifths 0.68, 95% 
+confidence interval 0.57 to 0.80, P value for trend <0.001). In contrast, a 
+higher Western dietary pattern score was associated with an increased risk for 
+gout (1.42, 1.16 to 1.74, P=0.005).Conclusion The DASH diet is associated with a 
+lower risk of gout, suggesting that its effect of lowering uric acid levels in 
+individuals with hyperuricemia translates to a lower risk of gout. Conversely, 
+the Western diet is associated with a higher risk of gout. The DASH diet may 
+provide an attractive preventive dietary approach for men at risk of gout.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.j1794
+PMCID: PMC5423545
+PMID: 28487277 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and 
+declare: no support from any organization for the submitted work other than that 
+described above; no financial relationships with any organizations that might 
+have an interest in the submitted work in the previous three years. HKC reports 
+grants from AstraZeneca, consulting fees from Takeda, and consulting fees from 
+Selecta outside the submitted work.
+
+
+7. Food Chem Toxicol. 2015 Feb;76:86-93. doi: 10.1016/j.fct.2014.12.002. Epub
+2014  Dec 18.
+
+Allergenic response to squid (Todarodes pacificus) tropomyosin Tod p1 structure 
+modifications induced by high hydrostatic pressure.
+
+Jin Y(1), Deng Y(2), Qian B(1), Zhang Y(1), Liu Z(3), Zhao Y(4).
+
+Author information:
+(1)Bor S. Luh Food Safety Center, Department of Food Science and Technology, 
+Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, China.
+(2)Bor S. Luh Food Safety Center, Department of Food Science and Technology, 
+Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, China. 
+Electronic address: y_deng@sjtu.edu.cn.
+(3)State Key Laboratory of Dairy Biotechnology, Dairy Research Institute, Bright 
+Dairy & Food Co., Ltd, Shanghai 200436, China.
+(4)Bor S. Luh Food Safety Center, Department of Food Science and Technology, 
+Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, China; 
+Department of Food Science and Technology, Oregon State University, 100 Wiegand 
+Hall, Corvallis, OR, USA.
+
+The structural and allergenic modifications of tropomyosin Tod p1 (TMTp1) in 
+fresh squids induced by high hydrostatic pressure (HHP) were investigated. The 
+α-helix in TMTp1 decreased along with increasing pressure from 200 to 600 MPa, 
+where almost 53% α-helix was converted into β-sheet and random coils at 600 MPa. 
+The free sulfhydryl group dropped significantly as pressure went up, but the 
+surface hydrophobicity increased at 200 and 400 MPa, while it slightly decreased 
+at 600 MPa. Based on in vitro gastrointestinal digestion test, digestibility of 
+TMTp1 was promoted by HHP treatment, in which 400 and 600 MPa were more 
+effective in reducing the allergenicity than 200 MPa based on indirect ELISA. 
+This study suggested that HHP can decrease allergenicity of TMTp1 by protein 
+unfolding and secondary structure modification, thus providing potential for 
+alleviating allergenicity of squid.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fct.2014.12.002
+PMID: 25530105 [Indexed for MEDLINE]
+
+
+8. World Rev Nutr Diet. 2013;108:56-62. doi: 10.1159/000351485. Epub 2013 Sep 6.
+
+Cow's milk and goat's milk.
+
+Turck D(1).
+
+Author information:
+(1)Division of Gastroenterology, Hepatology and Nutrition, Department of 
+Pediatrics, Jeanne de Flandre Children's Hospital, Lille University Faculty of 
+Medicine, INSERM U995, Lille, France.
+
+Cow's milk is increasingly suggested to play a role in the development of 
+chronic degenerative, non-communicable disorders whereas goat's milk is 
+advocated as having several health benefits. Cow's milk is a rich and cheap 
+source of protein and calcium, and a valuable food for bone health. Despite 
+their high content in saturated fats, consumption of full-fat dairy products 
+does not seem to cause significant changes in cardiovascular disease risk 
+variables. Early introduction of cow's milk is a strong negative determinant of 
+iron status. Unmodified cow's milk does not meet nutritional requirements of 
+infants although it is acceptable to add small volumes of cow's milk to 
+complementary foods. Cow's milk protein allergy has a prevalence ranging from 2 
+to 7%, and the age of recovery is usually around 2-3 years. The evidence linking 
+cow's milk intake to a later risk of type 1 diabetes or chronic degenerative, 
+non-communicable disorders (obesity, metabolic syndrome, type 2 diabetes, 
+hypertension) is not convincing. Milk probably protects against colorectal 
+cancer, diets high in calcium are a probable cause of prostate cancer, and there 
+is limited evidence suggesting that high consumption of milk and dairy products 
+increases the risk for prostate cancer. There is no evidence to support the use 
+of a cow's milk-free diet as a primary treatment for individuals with autistic 
+spectrum disorders. Unmodified goat's milk is not suitable for infants because 
+of the high protein and minerals content and of a low folate content. Goat's 
+milk has no clear nutritional advantage over cow's milk and is not less 
+allergenic. The European Food Safety Authority recently stated that proteins 
+from goat's milk can be suitable as a protein source for infant and follow-on 
+formula, provided the final product complies with the compositional criteria 
+laid down in Directive 2006/141/EC.
+
+Copyright © 2013 S. Karger AG, Basel.
+
+DOI: 10.1159/000351485
+PMID: 24029787 [Indexed for MEDLINE]
+
+
+9. Eur J Clin Nutr. 2012 Jun;66(6):652-7. doi: 10.1038/ejcn.2011.218. Epub 2012
+Jan  11.
+
+The effect of dairy consumption on blood pressure in mid-childhood: CAPS cohort 
+study.
+
+Rangan AM(1), Flood VL, Denyer G, Ayer JG, Webb KL, Marks GB, Celermajer DS, 
+Gill TP.
+
+Author information:
+(1)School of Molecular Bioscience, The University of Sydney, NSW, Australia.
+
+BACKGROUND/OBJECTIVES: It has been postulated that a higher dairy consumption 
+may affect blood pressure regulation. The aim of this study was to examine the 
+association between dairy consumption and blood pressure in mid-childhood.
+SUBJECTS/METHODS: Subjects (n = 335) were participants of a birth cohort at high 
+risk of asthma with information on diet at 18 months and blood pressure at 8 
+years. Multivariate analyses were used to assess the association of dairy 
+consumption (serves) and micronutrient intakes (mg). In a subgroup of children 
+(n = 201), dietary intake was also measured at approximately 9 years.
+RESULTS: Children in the highest quintile of dairy consumption at 18 months had 
+lower systolic blood pressure (SBP) and diastolic blood pressure (DBP) at 8 
+years (2.5 mm Hg, P=0.046 and 1.9 mm Hg, P = 0.047, respectively) than those in 
+the lowest quintiles. SBP was lowest among children in the highest quintiles of 
+calcium, magnesium and potassium intakes. Significant negative linear trends 
+were observed between SBP and intakes of dairy serves, calcium, magnesium and 
+potassium. Furthermore, SBP and DBP were lowest in the group of children that 
+consumed at least two dairy serves at both 18 months and the follow-up dietary 
+data collection at 9 years, compared with all other children (SBP 98.7 vs 101.0 
+mm Hg, P = 0.07; and DBP 56.5 vs 59.3 mm Hg, P = 0.006, respectively).
+CONCLUSION: These results are consistent with a protective effect of dairy 
+consumption in childhood on blood pressure at age 8 years.
+
+DOI: 10.1038/ejcn.2011.218
+PMID: 22234043 [Indexed for MEDLINE]
+
+
+10. Bull Acad Natl Med. 2008 Apr;192(4):749-58.
+
+[Milk and dairy products in the prevention and therapy of obesity, type 2 
+diabetes and metabolic syndrome].
+
+[Article in French]
+
+Jaffiol C(1).
+
+Author information:
+(1)Académie nationale de médecine.
+
+Prospective trials have shown an independent negative correlation between dairy 
+food consumption and overweight, type 2 diabetes, metabolic syndrome and 
+ischaemic cardiovascular diseases. Large amounts of calcium can reduce 
+intestinal fat absorption. They can also reduce lipogenesis, through an 
+inhibitory effect on calcium calcitriol-mediated intracellular fluxes. Some 
+soluble aminoacids appear to reduce appetite and may also improve tissular 
+insulin sensitivity, insulin secretion, arterial pressure and cardiovascular 
+morbidity. Milk and dairy foods are recommended for patients with obesity, 
+diabetes, hypertension and metabolic syndrome, and also for patients at risk. 
+The high quality and low price of dairy proteins must be underlined. Controversy 
+surrounding the possible atherogenic effect of dairy fatty acids means that 
+fat-free milk and other dairy foods without added sugar should be preferred. 
+Contraindications include lactose maltolerance and milk protein allergy.
+
+PMID: 19024947 [Indexed for MEDLINE]

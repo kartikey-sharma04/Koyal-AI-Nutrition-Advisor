@@ -1,0 +1,732 @@
+1. Clin Exp Allergy. 2025 Apr;55(4):307-318. doi: 10.1111/cea.70022. Epub 2025
+Mar  6.
+
+Diagnosis and Management of Lipid Transfer Protein Allergy-A BSACI Clinical 
+Practice Statement.
+
+Marinho S(1)(2), Frleta-Gilchrist M(3), Hunter H(4)(5), Murgasova D(6), Patel 
+N(7), Till S(4)(5), Skypala IJ(8)(9).
+
+Author information:
+(1)Allergy Centre, Wythenshawe Hospital, Manchester University NHS Foundation 
+Trust, Manchester, UK.
+(2)The University of Manchester, Manchester, UK.
+(3)Department of Immunology, Queen Elizabeth University Hospital, Glasgow, UK.
+(4)Department of Allergy, Guys and St Thomas NHS Foundation Trust, London, UK.
+(5)Kings College, London, UK.
+(6)Department of Paediatric Allergy, St George's University Hospital NHS 
+Foundation Trust, London, UK.
+(7)National Heart and Lung Institute, Imperial College London, London, UK.
+(8)Department of Allergy and Clinical Immunology, Royal Brompton and Harefield 
+Hospitals, Part of Guys and St Thomas NHS Foundation Trust, London, UK.
+(9)Department of Inflammation and Repair, National Heart and Lung Institute, 
+Imperial College, London, UK.
+
+Although the most prevalent plant food allergy in the United Kingdom (UK) is 
+pollen food syndrome (PFS), there is increasing evidence that reactions to plant 
+foods could also be due to sensitisation to Lipid Transfer Proteins (LTP). These 
+proteins, highly resistant to heat and processing, are present in raw, cooked 
+and processed plant foods and often provoke moderate to severe symptoms. LTP 
+allergy is common in Mediterranean countries, but there is a lack of 
+epidemiological data from Northern Europe, although small case series have been 
+published characterising LTP allergy in both England and Scotland. To gather 
+further information and aid the development of a clinical practice statement on 
+LTP allergy, a survey was conducted by the British Society of Allergy and 
+Clinical Immunology (BSACI). The results confirmed that LTP allergy is being 
+diagnosed in both children and adults in all areas of the UK. The survey 
+results, along with published UK data, confirm that tree nuts, peanuts, apples, 
+stone fruits, tomatoes and processed foods, such as pizza or curry, are common 
+food triggers. Anaphylactic reactions are not uncommon and are often facilitated 
+by the presence of co-factors such as exercise or alcohol. Unlike LTP allergy in 
+Spain and Italy, UK individuals are also more likely to be sensitised to birch 
+and grass pollen, but this does not appear to reduce the severity of the 
+condition. Diagnosis can be complex; a positive test to individual LTP allergens 
+can only be confirmatory of a diagnosis of LTP allergy when accompanied by a 
+typical clinical history. Management can be difficult, and individualised advice 
+is vital to avoid the exclusion of multiple foods and minimise the likelihood of 
+co-factors. Given the diverse range of foods, co-factor involvement and highly 
+idiosyncratic nature of LTP allergy, the need for adrenaline autoinjectors 
+should always be considered.
+
+© 2025 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cea.70022
+PMID: 40051200 [Indexed for MEDLINE]
+
+
+2. Adv Nutr. 2022 Dec 22;13(6):2136-2148. doi: 10.1093/advances/nmac077.
+
+Consumption of Nuts and Seeds and Health Outcomes Including Cardiovascular 
+Disease, Diabetes and Metabolic Disease, Cancer, and Mortality: An Umbrella 
+Review.
+
+Balakrishna R(1), Bjørnerud T(1), Bemanian M(1)(2), Aune D(3)(4)(5)(6), Fadnes 
+LT(1)(2).
+
+Author information:
+(1)Department of Global Public Health and Primary Care, University of Bergen, 
+Bergen, Norway.
+(2)Department of Addiction Medicine, Haukeland University Hospital, Bergen, 
+Norway.
+(3)Department of Epidemiology and Biostatistics, School of Public Health, 
+Imperial College London, London, United Kingdom.
+(4)Department of Nutrition, Oslo New University College, Oslo, Norway.
+(5)Department of Endocrinology, Morbid Obesity and Preventive Medicine, Oslo 
+University Hospital, Oslo, Norway.
+(6)Unit of Cardiovascular and Nutritional Epidemiology, Institute of 
+Environmental Medicine, Karolinska Institute, Stockholm, Sweden.
+
+Consumption of nuts and seeds is associated with a range of health outcomes. 
+Summarizing the best evidence on essential health outcomes from the consumption 
+of nuts is essential to provide optimal recommendations. Our objective is to 
+comprehensively assess health outcome associations related to the consumption of 
+nuts and seeds, using a culinary definition including tree nuts and peanuts 
+(registered in PROSPERO: CRD42021258300). Health outcomes of interest include 
+cardiovascular disease, cancer, diabetes, obesity, respiratory disease, 
+mortality, and their disease biomarkers. We present associations for high 
+compared with low consumption, per serving, and dose-response relations. 
+MEDLINE, Embase, Cochrane, and Epistemonikos were searched and screened for 
+systematic reviews and meta-analyses. Evidence was extracted from 89 articles on 
+the consumption of nuts and relevant health outcomes, including 23 articles with 
+meta-analysis on disease and mortality, 66 articles on biomarkers for disease, 
+and 9 articles on allergy/adverse outcomes. Intake of nuts was associated with 
+reduced risk of cardiovascular diseases and related risk factors, with moderate 
+quality of evidence. An intake of 28 g/d nuts compared with not eating nuts was 
+associated with a 21% RR reduction of cardiovascular disease (including coronary 
+heart disease incidence and mortality, atrial fibrillation, and stroke 
+mortality), an 11% risk reduction of cancer deaths, and 22% reduction in 
+all-cause mortality. Nut consumption was also inversely associated with 
+mortality from respiratory diseases, infectious diseases, and diabetes; however, 
+associations between nut consumption and diabetes incidence were mixed. 
+Meta-analyses of trials on biomarkers for disease generally mirrored 
+meta-analyses from observational studies on cardiovascular disease, cancers, and 
+diabetes. Allergy and related adverse reactions to nuts were observed in 1-2% of 
+adult populations, with substantial heterogeneity between studies. Overall, the 
+current evidence supports dietary recommendations to consume a handful of nuts 
+and seeds per day for people without allergies to these foods.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+American Society for Nutrition.
+
+DOI: 10.1093/advances/nmac077
+PMCID: PMC9776667
+PMID: 36041171 [Indexed for MEDLINE]
+
+
+3. Allergy. 2022 Jun;77(6):1736-1750. doi: 10.1111/all.15167. Epub 2021 Nov 24.
+
+Proposal of 0.5 mg of protein/100 g of processed food as threshold for voluntary 
+declaration of food allergen traces in processed food-A first step in an 
+initiative to better inform patients and avoid fatal allergic reactions: A 
+GA²LEN position paper.
+
+Zuberbier T(1), Dörr T(1), Aberer W(2), Alvaro M(3), Angier E(4), Arasi S(5), 
+Arshad H(6)(7)(8), Ballmer-Weber B(9)(10), Bartra J(11)(12), Beck L(13), Bégin 
+P(14), Bindslev-Jensen C(15), Bislimovska J(16), Bousquet J(1)(17)(18), Brockow 
+K(19), Bush A(20), Cianferoni A(21), Cork MJ(22), Custovic A(23), Darsow U(19), 
+de Jong N(24), Deleanu D(25), Del Giacco S(26), Deschildre A(27)(28), Dunn 
+Galvin A(29)(30)(31), Ebisawa M(32), Fernández-Rivas M(33), Ferrer M(34), 
+Fiocchi A(5), Gerth van Wijk R(24), Gotua M(35), Grimshaw K(36), Grünhagen J(1), 
+Heffler E(37)(38), Hide M(39), Hoffmann-Sommergruber K(40), Incorvaia C(41), 
+Janson C(42), Malte John S(43)(44), Jones C(45), Jutel M(46)(47), Katoh N(48), 
+Kendziora B(49), Kinaciyan T(50), Knol E(51)(52), Kurbacheva O(53), Lau S(54), 
+Loh R(55), Lombardi C(56), Mäkelä M(57), Marchisotto MJ(58)(59), Makris M(60), 
+Maurer M(1), Meyer R(61), Mijakoski D(16), Minov J(16), Mullol J(62), Nilsson 
+C(63)(64), Nowak-Wegrzyn A(65), Nwaru BI(66), Odemyr M(67), Pajno GB(68), Paudel 
+S(69), Papadopoulos NG(70), Renz H(71)(72), Ricci G(73), Ring J(19)(74), Rogala 
+B(75), Sampson H(76)(77)(78), Senna G(79), Sitkauskiene B(80), Smith PK(81), 
+Stevanovic K(1), Stoleski S(16), Szajewska H(82), Tanaka A(83), Todo-Bom A(84), 
+Topal FA(1), Valovirta E(85), Van Ree R(86), Venter C(87), Wöhrl S(88), Wong 
+GWK(89), Zhao Z(90), Worm M(1).
+
+Author information:
+(1)Department of Dermatology and Allergy, Charité-Universitätsmedizin Berlin, 
+Humboldt-Uniersität zu Berlin and Berlin Institute of Health, Comprehensive 
+Allergy-Centre, Berlin, Germany.
+(2)Department of Dermatology, Medical University of Graz, Graz, Austria.
+(3)Servei Al-lergologia Immunologia Clinica, Hospital Sant Joan de Deu, 
+Barcelona, Spain.
+(4)Primary Care, Population Science and Medical Education, Faculty of Medicine, 
+University of Southampton, Southampton, UK.
+(5)Pediatric Allergology Unit, Bambino Gesù Hospital (IRCCS), Rome, Italy.
+(6)NIHR Southampton Biomedical Research Centre, University Hospital Southampton 
+NHS Foundation Trust, Southampton, UK.
+(7)Clinical and Experimental Sciences, Faculty of Medicine, University of 
+Southampton, Southampton, UK.
+(8)The David Hide Asthma and Allergy Research Centre, St Mary's Hospital, Isle 
+of Wight, UK.
+(9)Department of Dermatology, University Hospital Zürich, Zürich, Switzerland.
+(10)Clinic for Dermatology and Allergology, Kantonsspital St. Gallen, St. 
+Gallen, Switzerland.
+(11)Unitat d'Al.lergia, Servei de Neumologia i Al.lergia Respiratoria, Hospital 
+Clinic, Barcelona, Spain.
+(12)Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), 
+Barcelona, Spain.
+(13)Department of Dermatology, University of Rochester Medical Center, 
+Rochester, New York, USA.
+(14)CHU Sainte-Justine, Montréal, Canada.
+(15)Department of Dermatology and Allergy Center, Odense Research Centre for 
+Anaphylaxis (ORCA), Odense University Hospital Denmark, Odense, Denmark.
+(16)Faculty of Medicine, Ss. Cyril and Methodius, University in Skopje, 
+Institute of Occupational Health of RNM, WHO Collaborating Center, Skopje, 
+Macedonia.
+(17)University Hospital Montpellier, Montpellier, France.
+(18)MACVIA-France, Montpellier, France.
+(19)Department of Dermatology and Allergy Biederstein, School of Medicine, 
+Technical University of Munich, Munich, Germany.
+(20)Imperial College and Royal Brompton Hospital, London, UK.
+(21)Department of Pediatrics, University of Pennsylvania, The Children's 
+Hospital of Philadelphia, Philadelphia, Pennsylvania, USA.
+(22)University of Sheffield, Sheffield, UK.
+(23)National Heart and Lung Institute, Imperial College London, London, UK.
+(24)Section of Allergology and Clinical Immunology, Department of Internal 
+Medicine, Erasmus MC, Rotterdam, The Netherlands.
+(25)University Medicine and Pharmacy Iuliu Hatieganu, IRGH, Allergy, 
+Cluj-Napoca, Romania.
+(26)Department of Medical Sciences and Public Health, University of Cagliari, 
+Cagliari, Italy.
+(27)CHU Lille, Univ Lille, Lille, France.
+(28)Pediatric Pulmonology and Allergy Unit, Hôpital Jeanne de Flandre, Lille, 
+France.
+(29)University College Cork, Cork, Ireland.
+(30)Sechenov University Moscow, Moscow, Russia.
+(31)Anaphylaxis Ireland, Cork, Ireland.
+(32)Clinical Research Center for Allergy and Rheumatology, National Hospital 
+Organization Sagamihara National Hospital, Sagamihara, Japan.
+(33)Allergy Department, Facultad de Medicina, Hospital Clínico San Carlos, 
+Universidad Complutense (UCM), IdISSC, Madrid, Spain.
+(34)Department of Allergy, Clinica Universidad de Navarra, Pamplona, Spain.
+(35)Center of Allergy and Immunology, Tbilisi, Georgia.
+(36)Dietetic Department, Salford Care Organisation, Salford Royal Foundation 
+Trust, Salford, UK.
+(37)Personalized Medicine, Asthma and Allergy, IRCCS Humanitas Research 
+Hospital, Rozzano (MI), Italy.
+(38)Department of Biomedical Sciences, Humanitas University, Pieve Emanuele 
+(MI), Italy.
+(39)Department of Dermatology, Hiroshima Citizens Hospital, Hiroshima, Japan.
+(40)Department of Pathophysiology and Allergy Research, Medical University of 
+Vienna, Austria.
+(41)Cardiac/Pulmonary Rehabilitation, ASST Pini/CTO, Milan, Italy.
+(42)Department of Medical Sciences: Respiratory, Allergy and Sleep Research, 
+Uppsala University, Uppsala, Sweden.
+(43)Department of Dermatology, Environmental Medicine, Health Theory, University 
+of Osnabrueck, Osnabrueck, Germany.
+(44)Institute for Interdisciplinary Dermatological Prevention and Rehabilitation 
+(iDerm) at the University of Osnabrueck, Osnabrueck, Germany.
+(45)Allergy, Kent, UK.
+(46)Department of Clinical Immunology, Wrocław Medical University, Poland.
+(47)All-MED Medical Research Institute, Wrocław, Poland.
+(48)Department of Dermatology, Kyoto Prefectural University of Medicine, Kyoto, 
+Japan.
+(49)Department of Dermatology and Allergy, University Hospital, LMU Munich, 
+Munich, Germany.
+(50)Department of Dermatology, Medical University of Vienna, Vienna, Austria.
+(51)Department of Dermatology and Allergology, University Medical Center 
+Utrecht, Utrecht, The Netherlands.
+(52)Laboratory of Translational Immunology, University Medical Center Utrecht, 
+Utrecht, The Netherlands.
+(53)NRC Institute of Immunology FMBA, Moscow, Russia.
+(54)Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, 
+Charité Universitätsmedizin Berlin, Berlin, Germany.
+(55)Department of Immunology, Perth Children's Hospital, University of Western 
+Australia, Perth, Western Australia, Australia.
+(56)Unità Dipartimentale di Allergologia-Immunologia Clinica & Malattie Apparato 
+Respiratorio, Ente Ospedaliero Fondazione Poliambulanza, Brescia, Italy.
+(57)Skin and Allergy Hospital, Helsinki University Hospital and University of 
+Helsinki, Helsinki, Finland.
+(58)MJM Advisory, New York, New York, USA.
+(59)Mary H. Weiser Food Allergy Center, University of Michigan Medicine, Ann 
+Arbor, Michigan, USA.
+(60)Allergy Unit, 2nd Dpt of Dermatology and Venereology, National and 
+Kapodistrian University of Athens, Attikon University Hospital, Athens, Greece.
+(61)Department of Paediatrics, Imperial College, London, UK.
+(62)Rhinology Unit & Smell Clinic, ENT Department, Hospital Clinic, IDIBAPS, 
+Universitat de Barcelona, CIBERES, Barcelona, Catalonia, Spain.
+(63)Sachs' Children and Youth Hospital, Södersjukhuset, Stockholm, Sweden.
+(64)Department of Clinical Science and Education Södersjukhuset, Karolinska 
+Institutet, Stockholm, Sweden.
+(65)Division of Allergy and Immunology, Department of Pediatrics, Jaffe Food 
+Allergy Institute, Icahn School of Medicine at Mount Sinai, Kravis Children's 
+Hospital, New York, New York, USA.
+(66)Krefting Research Centre, Institute of Medicine, University of Gothenburg, 
+Gothenburg, Sweden.
+(67)Asthma and Allergy Association, Stockholm, Sweden.
+(68)Pediatric unit, Policlinico Hospitsl, University of Messina, Messina, Italy.
+(69)Civil Service Hospital, Kathmandu, Nepal.
+(70)Allergy Dpt, 2nd Pediatric Clinic, University of Athens, Athens, Greece.
+(71)Institute of Laboratory Medicine and Pathobiochemistry, Molecular 
+Diagnostics, Philipps University Marburg University Hospital Giessen and 
+Marburg, Marburg, Germany.
+(72)Department of Clinical Immunology and Allergology, Laboratory of 
+Immunopathology, Sechenov University, Moscow, Russia.
+(73)Pediatric Unit, Department of Medical and Surgical Sciences, University of 
+Bologna, Bologna, Italy.
+(74)Christine Kühne Center for Allergy Research and Education (CK-Care), Davos, 
+Switzerland.
+(75)Department of Internal Diseases, Allergology & Clinical Immunology Medical, 
+University of Silesia, Katowice, Poland.
+(76)Elliot and Roslyn Jaffe Food Allergy Institute, New York, New York, USA.
+(77)Division of Allergy and Immunology, Kravis Children's Hospital, New York, 
+New York, USA.
+(78)Department of Pediatrics, Icahn School of Medicine at Mount Sinai, New York, 
+New York, USA.
+(79)Asthma Center and Allergy Unit, Verona University and General Hospital, 
+Verona, Italy.
+(80)Department of Immunology and Allergology, Lithuanian University of Health 
+Sciences, Kaunas, Lithuania.
+(81)Griffith University, Southport, Qld, Australia.
+(82)Department of Paediatrics, The Medical University of Warsaw, Warsaw, Poland.
+(83)Department of Dermatology, Graduate School of Biomedical and Health 
+Sciences, Hiroshima University, Hiroshima, Japan.
+(84)Allergy and Clinical Immunology Unit, Centro Hospitalar e Universitário de 
+Coimbra, Coimbra, Portugal.
+(85)Department of Lung Diseases and Clinical Allergology, University of Turku, 
+and Terveystalo Turku, Allergy Clinic, Turku, Finland.
+(86)Departments of Experimental Immunology and Otorhinolaryngology, Academic 
+Medical Center, University of Amsterdam, Amsterdam, The Netherlands.
+(87)University of Colorado Denver School of Medicine and Children's Hospital 
+Colorado, Aurora, Colorado, USA.
+(88)Floridsdorf Allergy Center (FAZ), Vienna, Austria.
+(89)Department of Paediatrics, The Chinese University of Hong Kong, Hong Kong, 
+Hong Kong.
+(90)Department of Dermatology, First Hospital, Peking University, Beijing, 
+China.
+
+BACKGROUND: Food anaphylaxis is commonly elicited by unintentional ingestion of 
+foods containing the allergen above the tolerance threshold level of the 
+individual. While labeling the 14 main allergens used as ingredients in food 
+products is mandatory in the EU, there is no legal definition of declaring 
+potential contaminants. Precautionary allergen labeling such as "may contain 
+traces of" is often used. However, this is unsatisfactory for consumers as they 
+get no information if the contamination is below their personal threshold. In 
+discussions with the food industry and technologists, it was suggested to use a 
+voluntary declaration indicating that all declared contaminants are below a 
+threshold of 0.5 mg protein per 100 g of food. This concentration is known to be 
+below the threshold of most patients, and it can be technically guaranteed in 
+most food production. However, it was also important to assess that in case of 
+accidental ingestion of contaminants below this threshold by highly allergic 
+patients, no fatal anaphylactic reaction could occur. Therefore, we performed a 
+systematic review to assess whether a fatal reaction to 5mg of protein or less 
+has been reported, assuming that a maximum portion size of 1kg of a processed 
+food exceeds any meal and thus gives a sufficient safety margin.
+METHODS: MEDLINE and EMBASE were searched until 24 January 2021 for provocation 
+studies and case reports in which one of the 14 major food allergens was 
+reported to elicit fatal or life-threatening anaphylactic reactions and assessed 
+if these occurred below the ingestion of 5mg of protein. A Delphi process was 
+performed to obtain an expert consensus on the results.
+RESULTS: In the 210 studies included, in our search, no reports of fatal 
+anaphylactic reactions reported below 5 mg protein ingested were identified. 
+However, in provocation studies and case reports, severe reactions below 5 mg 
+were reported for the following allergens: eggs, fish, lupin, milk, nuts, 
+peanuts, soy, and sesame seeds.
+CONCLUSION: Based on the literature studied for this review, it can be stated 
+that cross-contamination of the 14 major food allergens below 0.5 mg/100 g is 
+likely not to endanger most food allergic patients when a standard portion of 
+food is consumed. We propose to use the statement "this product contains the 
+named allergens in the list of ingredients, it may contain traces of other 
+contaminations (to be named, e.g. nut) at concentrations less than 0.5 mg per 
+100 g of this product" for a voluntary declaration on processed food packages. 
+This level of avoidance of cross-contaminations can be achieved technically for 
+most processed foods, and the statement would be a clear and helpful message to 
+the consumers. However, it is clearly acknowledged that a voluntary declaration 
+is only a first step to a legally binding solution. For this, further research 
+on threshold levels is encouraged.
+
+© 2021 The Authors. Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.15167
+PMID: 34741557 [Indexed for MEDLINE]
+
+
+4. Front Immunol. 2021 Sep 28;12:636612. doi: 10.3389/fimmu.2021.636612. 
+eCollection 2021.
+
+Oral Immunotherapy for Food-Allergic Children: A Pro-Con Debate.
+
+Mori F(1), Giovannini M(1), Barni S(1), Jiménez-Saiz R(2)(3)(4)(5), Munblit 
+D(6)(7)(8), Biagioni B(9), Liccioli G(1), Sarti L(1), Liotti L(10), Ricci S(11), 
+Novembre E(1), Sahiner U(12), Baldo E(13), Caimmi D(14)(15).
+
+Author information:
+(1)Allergy Unit, Department of Pediatrics, Meyer Children's University Hospital, 
+Florence, Italy.
+(2)Department of Immunology, Instituto de Investigación Sanitaria Hospital 
+Universitario de La Princesa (IIS-IP), Madrid, Spain.
+(3)Department of Immunology & Oncology, Centro Nacional de Biotecnología 
+(CNB)-CSIC, Madrid, Spain.
+(4)Faculty of Experimental Sciences, Universidad Francisco de Vitoria (UFV), 
+Madrid, Spain.
+(5)Department of Medicine, McMaster University, Hamilton, ON, Canada.
+(6)Department of Paediatrics and Paediatric Infectious Diseases, Institute of 
+Child's Health, Sechenov First Moscow State Medical University (Sechenov 
+University), Moscow, Russia.
+(7)Inflammation, Repair and Development Section, National Heart and Lung 
+Institute, Faculty of Medicine, Imperial College London, London, United Kingdom.
+(8)Research and Clinical Center for Neuropsychiatry, Moscow, Russia.
+(9)Allergy Outpatient Clinic, Division of Internal Medicine, IRCCS Azienda 
+Ospedaliera Universitaria, Bologna, Italy.
+(10)Department of Pediatrics, Salesi Children's Hospital, Azienda Ospedaliera 
+Universitaria (AOU) Ospedali Riuniti Ancona, Ancona, Italy.
+(11)Division of Immunology, Section of Pediatrics, Department of Health 
+Sciences, University of Florence and Meyer Children's Hospital, Florence, Italy.
+(12)Department of Pediatric Allergy, Hacettepe University, Ankara, Turkey.
+(13)"Giovan Battista Mattei" Research Institute, Stenico, Italy.
+(14)Allergy Unit, CHU de Montpellier, Univ Montpellier, Montpellier, France.
+(15)IDESP, UA11, INSERM-Univ Montpellier, Montpellier, France.
+
+The prevalence of food allergy has increased in recent years, especially in 
+children. Allergen avoidance, and drugs in case of an allergic reaction, remains 
+the standard of care in food allergy. Nevertheless, increasing attention has 
+been given to the possibility to treat food allergy, through immunotherapy, 
+particularly oral immunotherapy (OIT). Several OIT protocols and clinical trials 
+have been published. Most of them focus on children allergic to milk, egg, or 
+peanut, although recent studies developed protocols for other foods, such as 
+wheat and different nuts. OIT efficacy in randomized controlled trials is 
+usually evaluated as the possibility for patients to achieve desensitization 
+through the consumption of an increasing amount of a food allergen, while the 
+issue of a possible long-term sustained unresponsiveness has not been completely 
+addressed. Here, we evaluated current pediatric OIT knowledge, focusing on the 
+results of clinical trials and current guidelines. Specifically, we wanted to 
+highlight what is known in terms of OIT efficacy and effectiveness, safety, and 
+impact on quality of life. For each aspect, we reported the pros and the cons, 
+inferable from published literature. In conclusion, even though many protocols, 
+reviews and meta-analysis have been published on this topic, pediatric OIT 
+remains a controversial therapy and no definitive generalized conclusion may be 
+drawn so far. It should be an option provided by specialized teams, when both 
+patients and their families are prone to adhere to the proposed protocol. 
+Efficacy, long-term effectiveness, possible role of adjuvant therapies, risk of 
+severe reactions including anaphylaxis or eosinophilic esophagitis, and impact 
+on the quality of life of both children and caregivers are all aspects that 
+should be discussed before starting OIT. Future studies are needed to provide 
+firm clinical and scientific evidence, which should also consider patient 
+reported outcomes.
+
+Copyright © 2021 Mori, Giovannini, Barni, Jiménez-Saiz, Munblit, Biagioni, 
+Liccioli, Sarti, Liotti, Ricci, Novembre, Sahiner, Baldo and Caimmi.
+
+DOI: 10.3389/fimmu.2021.636612
+PMCID: PMC8507468
+PMID: 34650547 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+5. Allergy. 2021 May;76(5):1463-1472. doi: 10.1111/all.14613. Epub 2020 Oct 21.
+
+Identification of Pru du 6 as a potential marker allergen for almond allergy.
+
+Kabasser S(1), Hafner C(2)(3), Chinthrajah S(4), Sindher SB(4), Kumar D(4), Kost 
+LE(4), Long AJ(4), Nadeau KC(4)(5)(6), Breiteneder H(1), Bublin M(1).
+
+Author information:
+(1)Center of Pathophysiology, Infectiology and Immunology, Institute of 
+Pathophysiology and Allergy Research, Medical University of Vienna, Vienna, 
+Austria.
+(2)Department of Dermatology, University Hospital St. Poelten, Karl Landsteiner 
+University of Health Sciences, St. Poelten, Austria.
+(3)Karl Landsteiner Institute for Dermatological Research, St. Poelten, Austria.
+(4)Sean N. Parker Center for Allergy and Asthma Research, Stanford University, 
+Stanford, CA, USA.
+(5)Department of Pediatrics, Stanford University, Stanford, CA, USA.
+(6)Department of Medicine, Stanford University, Stanford, CA, USA.
+
+BACKGROUND: Oral food challenges have demonstrated that diagnosis of almond 
+allergy based on extract-sIgE tests displays low specificity. Molecular allergy 
+diagnosis is expected to improve accuracy, but its value in diagnosing almond 
+allergy remains unknown. The aim of this study was to identify relevant almond 
+allergens and examine their ability to improve almond allergy diagnosis.
+METHODS: IgE-reactive proteins were purified from almond kernels. IgE binding to 
+almond extract and the allergens was analyzed by quantitative ELISA using sera 
+from 18 subjects with a proven almond allergy. The control group consisted of 
+sera from 18 subjects allergic to peanut and/or tree nuts but tolerant to 
+almond.
+RESULTS: Three IgE-binding proteins were identified: legumin (Pru du 6), 
+alpha-hairpinin (Pru du 8), and mandelonitrile lyase (Pru du 10). Positive IgE 
+(≥0.35 kU/L) to almond extract showed 94% sensitivity but only 33% specificity. 
+IgE to Pru du 6 maintained high sensitivity (83%) and provided superior 
+specificity (78%). Sera from almond-allergic subjects had significantly higher 
+IgE levels to almond extract (P < .0001) and Pru du 6 (P < .0001) than sera from 
+tolerant donors. Sensitization to Pru du 6 was highly specific for almond 
+allergy, while frequencies of sensitization to legumins from peanut, walnut, 
+hazelnut, and cashew were similar in both groups. IgE to Pru du 8 and Pru du 10 
+was less sensitive (41% and 67%), but showed specificities of 100% and 61%.
+CONCLUSION: The use of almond allergens markedly increases the diagnostic 
+specificity compared to the extract. Pru du 6 is a potential new molecular 
+marker for almond allergy.
+
+© 2020 The Authors. Allergy published by European Academy of Allergy and 
+Clinical Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.14613
+PMCID: PMC8247360
+PMID: 33020913 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Chinthrajah reports grants from NIAID, 
+CoFAR, Aimmune, DBV Technologies, Astellas, Regeneron, an Advisory member for 
+Alladapt, Genentech, Novartis, and receives personal fees from Before Brands 
+outside the submitted work. Dr. Nadeau reports grants from National Institute of 
+Allergy and Infectious Diseases (NIAID), grants from National Heart, Lung, and 
+Blood Institute (NHLBI), grants from National Institute of Environmental Health 
+Sciences (NIEHS), grants from Food Allergy Research & Education (FARE), other 
+from World Allergy Organization (WAO), other from Cour Pharma, other from Before 
+Brands, other from Alladapt, other from Latitude, other from IgGenix, other from 
+Immune Tolerance Network (ITN), other from National Institutes of Health (NIH) 
+clinical research centers, outside the submitted work; In addition, Dr. Nadeau 
+has a patent Inhibition of Allergic Reaction to Peanut Allergen using an IL‐33 
+Inhibitor pending, a patent Special Oral Formula for Decreasing Food Allergy 
+Risk and Treatment for Food Allergy pending, a patent Basophil Activation Based 
+Diagnostic Allergy Test pending, a patent Granulocyte‐based methods for 
+detecting and monitoring immune system disorders pending, a patent Methods and 
+Assays for Detecting and Quantifying Pure Subpopulations of White Blood Cells in 
+Immune System Disorders pending, a patent Mixed Allergen Compositions and 
+Methods for Using the Same pending, and a patent Microfluidic Device and 
+Diagnostic Methods for Allergy Testing Based on Detection of Basophil Activation 
+pending. The rest of the authors declare that they have no relevant conflict of 
+interest related to this study.
+
+
+6. Nutrients. 2019 Dec 3;11(12):2941. doi: 10.3390/nu11122941.
+
+The Secrets of the Mediterranean Diet. Does [Only] Olive Oil Matter?
+
+Mazzocchi A(1)(2), Leone L(1)(2), Agostoni C(1)(2)(3), Pali-Schöll I(4)(5).
+
+Author information:
+(1)Department of Clinical Sciences and Community Health, University of Milan, 
+20126 Milan, Italy.
+(2)SIGENP (Italian Society of Pediatric Gastroenterology, Hepatology, and 
+Nutrition), via Libero Temolo 4 (Torre U8), 20126 Milan, Italy.
+(3)Pediatric Intermediate Care Unit, Fondazione IRCCS Ca' Granda Ospedale 
+Maggiore Policlinico, 20126 Milan, Italy.
+(4)Center for Pathophysiology, Infectiology and Immunology, Institute of 
+Pathophysiology and Allergy Research, Medical University of Vienna, 1090 Vienna, 
+Austria.
+(5)Comparative Medicine, The interuniversity Messerli Research Institute, 
+University of Veterinary Medicine, Medical University and University Vienna, 
+1090 Vienna, Austria.
+
+Diet plays a key role in the maintenance and optimal functioning of immune 
+cells. The Mediterranean dietary pattern is an example of a prudent choice of 
+lifestyle and scientifically accepted to help preserve human health by 
+protecting against major chronic and inflammatory diseases. Mediterranean diets 
+(MedDiets) are characteristically high in the consumption of fruits, vegetables 
+and salad, bread and whole grain cereals, potatoes, legumes/beans, nuts, and 
+seeds. Their common central feature is the usage of olive oil as the main source 
+of fat. The health benefits attributed to olive oil are specifically related to 
+extra virgin olive oil (EVOO) intake with its high nutritional quality and 
+multiple positive effects on health. Overall, MedDiets have direct 
+(mono-unsaturated fatty acids (MUFAs), tocopherols, polyphenols) and indirect 
+(low saturated fats, well-balanced linoleic/alpha linolenic acid) effects on the 
+immune system and inflammatory responses. In the present paper, we summarize the 
+current knowledge on the effect of olive oil per se and MedDiets generally on 
+immune-mediated and inflammatory diseases, such as coronary heart disease 
+(CHD)/cardiovascular diseases (CVD), obesity, type-2 diabetes, cancer, asthma, 
+and allergies.
+
+DOI: 10.3390/nu11122941
+PMCID: PMC6949890
+PMID: 31817038 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+7. J Korean Med Sci. 2019 Apr 8;34(13):e106. doi: 10.3346/jkms.2019.34.e106.
+
+Infantile Anaphylaxis in Korea: a Multicenter Retrospective Case Study.
+
+Jeon YH(1), Lee S(2), Ahn K(3), Lee SY(4), Kim KW(5), Kim HH(6), Kim JH(7), Yum 
+HY(8), Kim WK(9), Park YM(10), Song TW(9), Kim J(3), Lee YJ(1), Jang GC(11), 
+Jeong K(12), Kim YH(5), Min TK(13), Pyun BY(14); Food Allergy and Atopic 
+Dermatitis (FAAD) Study Group in the Korean Academy of Pediatric Allergy and 
+Respiratory Disease.
+
+Author information:
+(1)Department of Pediatrics, Hallym University Dongtan Sacred Heart Hospital, 
+Hallym University College of Medicine, Hwaseong, Korea.
+(2)Department of Pediatrics, Ajou University Hospital, Ajou University School of 
+Medicine, Suwon, Korea. jsjs87@ajou.ac.kr.
+(3)Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University 
+School of Medicine, Seoul, Korea.
+(4)Department of Pediatrics, Childhood Asthma Atopy Center, Environmental Health 
+Center, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+Korea.
+(5)Department of Pediatrics, Severance Hospital, Yonsei University College of 
+Medicine, Seoul, Korea.
+(6)Department of Pediatrics, Uijeongbu St. Mary's Hospital, College of Medicine, 
+The Catholic University of Korea, Seoul, Korea.
+(7)Department of Pediatrics, Inha University Hospital, Inha University College 
+of Medicine, Incheon, Korea.
+(8)Department of Pediatrics, Seoul Medical Center, Seoul, Korea.
+(9)Department of Pediatrics, Inje University Ilsan Paik Hospital, Inje 
+University College of Medicine, Seoul, Korea.
+(10)Department of Pediatrics, Konkuk University Medical Center, Konkuk 
+University School of Medicine, Seoul, Korea.
+(11)Department of Pediatrics, National Health Insurance Corporation Ilsan 
+Hospital, Seoul, Korea.
+(12)Department of Pediatrics, Ajou University Hospital, Ajou University School 
+of Medicine, Suwon, Korea.
+(13)Department of Pediatrics, Soonchunhyang University Seoul Hospital, Seoul, 
+Korea.
+(14)Department of Pediatrics, Soonchunhyang University Seoul Hospital, Seoul, 
+Korea. bypyun@schmc.ac.kr.
+
+Comment in
+    J Korean Med Sci. 2019 Apr 08;34(13):e109. doi: 10.3346/jkms.2019.34.e109.
+
+BACKGROUND: Anaphylaxis is increasing in young children. The aim of the present 
+study was to analyze the clinical characteristics of anaphylaxis in Korean 
+infants, with a focus on food triggers.
+METHODS: The study analyzed the medical records of infants aged 0 to 2 years old 
+who had been diagnosed with anaphylaxis in 23 secondary or tertiary hospitals in 
+Korea.
+RESULTS: We identified 363 cases of infantile anaphylaxis (66.9% male). 
+Cutaneous symptoms were most prevalent (98.6%), followed by respiratory (83.2%), 
+gastrointestinal (29.8%), and neurologic (11.6%) symptoms. Cardiovascular 
+symptoms were noted in 7.7% of the cases. Most of the cases of anaphylaxis (338; 
+93.1%) were induced by foods. The most common trigger food was cow's milk and 
+cow's milk products (43.8%), followed by hen's eggs (21.9%), walnuts (8.3%), 
+wheat (7.7%), peanuts (4.8%), other nuts (3.0%), and fish (2.1%). In cow's 
+milk-induced anaphylaxis cases, more than half the cases had cow's milk specific 
+immunoglobulin E (sIgE) levels that were lower than the diagnostic decision 
+points (DDPs), which is 5 kUA/L for those under the age of 1 and 15 kUA/L for 
+those over the age of 1. In anaphylaxis induced by hen's egg, most of the cases 
+(91.8%) had hen's egg sIgE levels that were higher than the DDP, which is 2 
+kUA/L for those under the age of 2 and 7 kUA/L for those over the age of 2. Of 
+the infantile anaphylaxis cases, 46.8% had been treated with epinephrine, and 
+25.1% had been prescribed an epinephrine auto-injector.
+CONCLUSION: Cow's milk is the most frequent trigger food of anaphylaxis in 
+Korean infants. However, we found no significant correlation between the sIgE 
+level and clinical severity. Education is required regarding the importance of 
+epinephrine as the first line therapy for anaphylaxis and on properly 
+prescribing epinephrine for infants with a history of anaphylaxis.
+
+© 2019 The Korean Academy of Medical Sciences.
+
+DOI: 10.3346/jkms.2019.34.e106
+PMCID: PMC6449600
+PMID: 30950251 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no potential conflicts of 
+interest to disclose.
+
+
+8. Wiad Lek. 2019;72(1):137-141.
+
+[Kounis syndrome - allergic myocardial infarction. a case report].
+
+[Article in Polish]
+
+Wajtryt O(1), Zielonka TM(2), Kaszyńska A(1), Falkowski A(2), Życińska K(2).
+
+Author information:
+(1)Klinika Chorób Wewnętrznych i Metabolicznych, Szpital Czerniakowski w 
+Warszawie, Warszawa, Polska.
+(2)Klinika Chorób Wewnętrznych i Metabolicznych, Szpital Czerniakowski w 
+Warszawie, Warszawa, Polska, Katedra i Zakład Medycyny Rodzinnej, Warszawski 
+Uniwersytet Medyczny, Warszawa, Polska.
+
+Kounis syndrome or allergic myocardial infarction is an acute coronary syndrome 
+in the course of an allergic reaction. In allergic patients in response to a 
+specific condition - nourishment, inhalation, environmental substances, drug or 
+insect bite there is an allergic reaction involving many different cells and 
+mediators that can cause coronary artery spasm or initiate the process of 
+rupture and activation of atherosclerotic plaque resulting in acute coronary 
+syndrome. The paper describes a case of a young man with allergy to pollen and 
+confirmed sensitization to nuts, who developed a full-blown anaphylactic shock 
+after eating the nut mix and experienced a rapidly passing acute coronary 
+syndrome with troponin up to 4.7 μg/L. An increased concentration of tryptase 
+(15 μg/L), total IgE (> 3,000 IU/mL) and specific anti-nut IgE (55.1 kUA/L) were 
+found. Based on the course of the disease and the results of allergic and 
+cardiac tests, allergic type 1 myocardial infarction, i.e. caused by coronary 
+artery spasm, was diagnosed. During the hospitalization, the patient's condition 
+improved quickly and after a few days he left the hospital without the signs of 
+permanent damage to the heart muscle.
+
+PMID: 30796879 [Indexed for MEDLINE]
+
+
+9. Int J Vitam Nutr Res. 2020 Oct;90(5-6):564-574. doi:
+10.1024/0300-9831/a000529.  Epub 2019 Feb 12.
+
+Physicochemical properties and health benefits of pistachio nuts.
+
+Esmaeili Nadimi A(1)(2), Ahmadi Z(3), Falahati-Pour SK(4), Mohamadi M(4), Nazari 
+A(1)(5), Hassanshahi G(6)(7), Ekramzadeh M(8).
+
+Author information:
+(1)Non-Communicable Diseases Research Center, Rafsanjan University of Medical 
+Sciences, Rafsanjan, Iran.
+(2)Dep. of Cardiology, Medical School, Rafsanjan University of Medical Sciences, 
+Rafsanjan, Iran.
+(3)Occupational Environment Research Center, Rafsanjan University of Medical 
+Sciences, Rafsanjan, Iran.
+(4)Pistachio Safety Research Center, Rafsanjan University of Medical Sciences, 
+Rafsanjan, Iran.
+(5)Dept. of Surgery, School of Medicine, Rafsanjan University of Medical 
+Science, Rafsanjan, Iran.
+(6)Molecular Medicine Research Center, Research Institute of Basic Medical 
+Sciences, Rafsanjan University of Medical Sciences, Rafsanjan, Iran.
+(7)Dept. of Immunology, Medical School, Rafsanjan University of Medical 
+Sciences, Rafsanjan, Iran.
+(8)Nutrition Research Center, Department of Clinical Nutrition, School of 
+Nutritoin and Food Sciences, Shiraz University of Medical Sciences, Shiraz, 
+Iran.
+
+The genus of Pistacia plant systematically fits into the family of 
+Anacardiaceae. Pistachios contain protein, carbohydrate, dietary fibers, fat, 
+folic acid, vitamin K, magnesium and potassium, gama-tocopherols, 
+phytochemicals, and polyphenols. Collectively, these constituents have been 
+shown to possess antioxidant and anti-inflammatory functions to improve overall 
+health when consumed as a healthy diet. We searched the following keywords 
+within the literature databases: pistachio, heart disorders, lipids, weight, 
+antioxidants, and allergy. Further searching theses keywords, we have found 50 
+articles in PubMed, 40 articles in ISI web of knowledge and 30 articles in 
+Google Scholar. We have selected 100 articles, among them 80 articles were used 
+as the references of this review. In the current article, we have discussed the 
+most recent data published regarding the regulatory effects of pistachios on 
+several clinical states such as heart related disorders, hyperlipidemia, 
+hypertension, vascular stiffness and endothelial and gut functions, weight 
+management, glucose metabolism, kidney function and finally allergies.
+
+DOI: 10.1024/0300-9831/a000529
+PMID: 30747609 [Indexed for MEDLINE]
+
+
+10. Nutrients. 2010 Jul;2(7):652-682. doi: 10.3390/nu2070652. Epub 2010 Jun 24.
+
+Health benefits of nut consumption.
+
+Ros E(1).
+
+Author information:
+(1)Lipid Clinic, Endocrinology and Nutrition Service, Institutd'Investigacions 
+Biomèdiques August Pii Sunyer, Hospital Clínic, Barcelona and Ciber 
+Fisiopatología de la Obesidady Nutrición (CIBERobn), Instituto de Salud Carlos 
+III (ISCIII), Spain.
+
+Nuts (tree nuts and peanuts) are nutrient dense foods with complex matrices rich 
+in unsaturated fatty and other bioactive compounds: high-quality vegetable 
+protein, fiber, minerals, tocopherols, phytosterols, and phenolic compounds. By 
+virtue of their unique composition, nuts are likely to beneficially impact 
+health outcomes. Epidemiologic studies have associated nut consumption with a 
+reduced incidence of coronary heart disease and gallstones in both genders and 
+diabetes in women. Limited evidence also suggests beneficial effects on 
+hypertension, cancer, and inflammation. Interventional studies consistently show 
+that nut intake has a cholesterol-lowering effect, even in the context of 
+healthy diets, and there is emerging evidence of beneficial effects on oxidative 
+stress, inflammation, and vascular reactivity. Blood pressure, visceral 
+adiposity and the metabolic syndrome also appear to be positively influenced by 
+nut consumption. Thus it is clear that nuts have a beneficial impact on many 
+cardiovascular risk factors. Contrary to expectations, epidemiologic studies and 
+clinical trials suggest that regular nut consumption is unlikely to contribute 
+to obesity and may even help in weight loss. Safety concerns are limited to the 
+infrequent occurrence of nut allergy in children. In conclusion, nuts are 
+nutrient rich foods with wide-ranging cardiovascular and metabolic benefits, 
+which can be readily incorporated into healthy diets.
+
+DOI: 10.3390/nu2070652
+PMCID: PMC3257681
+PMID: 22254047 [Indexed for MEDLINE]

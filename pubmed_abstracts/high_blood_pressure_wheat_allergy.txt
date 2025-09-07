@@ -1,0 +1,397 @@
+1. Nutrients. 2024 Jul 31;16(15):2485. doi: 10.3390/nu16152485.
+
+Evaluation of Sourdough Bread and Its Potential Use in Support of the Treatment 
+of Chronic Non-Communicable Diseases.
+
+Bartos A(1), Malik A(2), Diowksz A(3), Podolska G(4), Leszczyńska J(2).
+
+Author information:
+(1)Department of Bioinorganic Chemistry, Faculty of Pharmacy, Medical University 
+of Lodz, Jana Muszyńskiego 1, 90-151 Łódź, Poland.
+(2)Institute of Natural Products and Cosmetics, Faculty of Biotechnology and 
+Food Sciences, Łódź University of Technology, Stefanowskiego 2/22, 90-537 Łódź, 
+Poland.
+(3)Institute of Fermentation Technology and Microbiology, Faculty of 
+Biotechnology and Food Sciences, Łódź University of Technology, Wólczańska 
+171/173, 90-530 Łódź, Poland.
+(4)Institute of Soil Science and Plant Cultivation, Czartoryskich 8, 24-100 
+Puławy, Poland.
+
+Gastrointestinal disorders dysregulate the biochemical environment of the 
+gastrointestinal tract by altering pH conditions during the gastric phase of 
+digestion or by reducing the secretion of pancreatin during the intestinal part 
+of the process. Ingested functional food could therefore lose some of its 
+health-promoting potential apart from its nutritional value. In this work, we 
+aimed to manufacture bread marked by decreased gluten content, using a 
+commercial or laboratory sourdough, that could be appropriate for patients 
+afflicted with wheat allergy, hypertension and pancreatic malfunctions. A 
+reference sample (no sourdough) was prepared alongside wheat and wheat-rye bread 
+samples-produced with either commercial or laboratory sourdough (L. plantarum 
+BS, L. brevis 1269, L. sanfranciscensis 20663). We measured the QQQPP allergen 
+content (ELISA) in bread extracts digested in vitro and determined how these 
+extracted components affect the level of active angiotensin and alpha amylase 
+(spectrophotometry). We then elucidated how these properties changed when 
+physiological digestion conditions (pH and pancreatin activity) were disturbed 
+to mimic gastric hyperacidity, hypochlorhydria or exocrine pancreatic 
+insufficiency. The key finding was that every tested type of bread produced with 
+laboratory sourdough exhibited pronounced angiotensin-converting enzyme 
+inhibition. The effect was preserved even in dysregulated digestive conditions. 
+The use of laboratory sourdough prevented an increase in allergenicity when 
+pancreatin was restricted as opposed to the commercial sourdough, which 
+surpassed the reference sample reading at 50% pancreatin. No statistically 
+consistent link was reported when the inhibition of alpha amylase was assayed. 
+In conclusion, functional bread manufactured with sourdough composed of L. 
+plantarum BS, L. brevis 1269, and L. sanfranciscensis 20663 was shown to be 
+potentially capable of contributing to the treatment against hypertension as 
+evidenced by in vitro research. It was also moderately safer with regard to its 
+allergenicity.
+
+DOI: 10.3390/nu16152485
+PMCID: PMC11314531
+PMID: 39125365 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Rev Alerg Mex. 2024 Feb 1;71(1):63. doi: 10.29262/ram.v71i1.1358.
+
+[Anaphylaxis due to legumes: case report].
+
+[Article in Spanish; Abstract available in Spanish from the publisher]
+
+Alzate-Pérez LJ(1), Aguirre-Morales N(2), Diez-Zuluaga LS(3).
+
+Author information:
+(1)Residente en Alergología Clínica, Universidad de Antioquia. Grupo de 
+Alergología Clínica y Experimental (GACE), Universidad de Antioquia, Medellín, 
+Colombia. leidyj.alzate@udea.edu.co.
+(2)Médica, especialista en Alergología Clínica, Universidad de Antioquia. Grupo 
+de Alergología Clínica y Experimental (GACE), Universidad de Antioquia, 
+Medellín, Colombia. Alergo SAS Y IPS CIGE.
+(3)Médica, especialista en Alergología Clínica, Universidad de Antioquia. Grupo 
+de Alergología Clínica y Experimental (GACE), docente de la Universidad de 
+Antioquia, Medellín, Colombia. Hospital Alma Mater.
+
+BACKGROUND: Legumes belonging to the family Fabaceae of the order Fabales are a 
+widely consumed source of protein. IgE-mediated hypersensitivity reactions to 
+legumes have been described, the most studied allergens being peanuts and 
+soybeans. In the Mediterranean region and India, lentils, chickpeas and peas 
+have been considered important allergens and legumes have been reported to 
+represent the fifth most common cause of food allergy in children under 5 years 
+of age in Spain. In Latin America, there are few reports of allergy to legumes 
+other than peanuts, and these are especially in the paediatric population.
+OBJECTIVE: To describe a case of IgE-mediated legume allergy in an adult female 
+patient.
+CASE REPORT: We describe the case of a 65-year-old female patient who reports a 
+20-year history of generalized urticaria, accompanied by angioedema and dyspnea 
+occurring immediately after consumption of lentils, beans, chickpeas, soya beans 
+and cold meats, requiring admission to the emergency department for this cause. 
+Tolerates peanuts. She does not report anaphylaxis in any context other than 
+those described. He has presented generalized pruritus with exposure to fumes 
+from cooking beans. Pathological history: Hypertension, type II diabetes 
+mellitus, hypothyroidism. Allergic: Anaphylaxis due to penicillin at the age of 
+30. Other history: extensive local reaction to hymenoptera sting. Prick test 
+trophoallergens: soya 3 mm. Prick to prick protein based on commercial soybean 
+7mm, chickpea 5mm, lentil 6mm and bean 7mm. He was negative for wheat and peanut 
+(Image 1) (Attached in separate file). It has a normal tryptase report. 
+Indication was given for adequate adrenaline and strict avoidance of legumes, 
+except peanuts.
+CONCLUSIONS: Legume allergy is little known in our environment and mainly 
+affects children. Clinical manifestations include mild reactions and 
+anaphylaxis. A high degree of cross-reactivity among legumes has been reported. 
+Lentils have cross-reactivity with chickpeas and beans. Peanut allergy may also 
+be associated with allergy to lentils, chickpeas, and peas, but is less 
+frequently reported.
+
+Publisher: ANTECEDENTES: Las leguminosas pertenecientes a la familia Fabaceae 
+del orden Fabales, son una fuente de proteína de amplio consumo. Se han descrito 
+reacciones de hipersensibilidad mediadas por IgE a las leguminosas, siendo los 
+alérgenos más estudiados el maní y la soya. En la región mediterránea y en 
+India, las lentejas, garbanzos y arvejas se han considerado alérgenos 
+importantes, y se ha informado que las leguminosas representan la quinta causa 
+más común de alergia alimentaria en niños menores de cinco años en España. En 
+América Latina, hay pocos reportes de alergia a las leguminosas diferentes al 
+maní, y éstos son, especialmente, en población pediátrica.
+OBJETIVO: Describir el caso de alergia mediada por IgE a leguminosas, en una 
+paciente adulta.
+REPORTE DE CASO: Se describe el caso de una paciente de 65 años, quien reporta 
+un cuadro de 20 años con evolución consistente de urticaria generalizada, 
+acompañada de angioedema y disnea, que ocurre, en forma inmediata, tras el 
+consumo lentejas, fríjoles, garbanzos, soya y carnes frías; y requiere de 
+ingresos al servicio de urgencias por esta causa. Tolera maní. No se reporta 
+anafilaxia en otro contexto diferente a los descritos. Ha presentado prurito 
+generalizado con la exposición a vapores de la cocción de fríjoles. Antecedentes 
+patológicos: hipertensión arterial, diabetes mellitus tipo II, hipotiroidismo. 
+Alérgicos: Anafilaxia por Penicilina a los 30 años. Otros antecedentes: Reacción 
+local extensa con picadura de himenópteros. Prick test trofoalérgenos: soya 3 
+mm. Prick to prick proteína a base de soya comercial 7mm, garbanzo 5mm, lenteja 
+6mm y fríjol 7mm. Fue negativa para trigo y maní (Imagen 1). (Adjunta en archivo 
+separado). Tiene reporte de triptasa normal. Se dio indicación de porte adecuado 
+de adrenalina y evitación estricta de leguminosas, excepto maní.
+CONCLUSIONES: La alergia a las leguminosas es poco conocida en nuestro medio, y 
+afecta principalmente a los niños. Sus manifestaciones clínicas incluyen 
+reacciones leves y anafilaxia. Se ha informado, un alto grado de reactividad 
+cruzada entre las leguminosas. Las lentejas tienen reactividad cruzada con 
+garbanzos y fríjoles. La alergia al maní también puede estar asociada con la 
+alergia a lentejas, garbanzos y guisantes, pero se informa con menos frecuencia.
+
+DOI: 10.29262/ram.v71i1.1358
+PMID: 38683081 [Indexed for MEDLINE]
+
+
+3. Eur Respir J. 2023 Oct 19;62(4):2301547. doi: 10.1183/13993003.01547-2023.
+Print  2023 Oct.
+
+Sorting the wheat from the chaff: the innovative case of precision 
+transpulmonary metabolomics.
+
+Andruska AM(1)(2), Zamanian RT(3)(2).
+
+Author information:
+(1)Pulmonary, Allergy, and Critical Care, Department of Medicine, Stanford 
+University, Stanford, CA, USA.
+(2)Vera Moulton Wall Center for Pulmonary Vascular Disease, Stanford University, 
+Stanford, CA, USA.
+(3)Pulmonary, Allergy, and Critical Care, Department of Medicine, Stanford 
+University, Stanford, CA, USA zamanian@stanford.edu.
+
+Comment on
+    Eur Respir J. 2023 Oct 19;62(4):2300561. doi: 10.1183/13993003.00561-2023.
+
+DOI: 10.1183/13993003.01547-2023
+PMID: 37857433 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: A.M. Andruska has no 
+potential conflicts of interest to disclose. R.T. Zamanian reports research 
+funds (paid to institution) from Janssen, United Therapeutics and Merck, is 
+consultant to Morphogen-IX, GossamerBio, Aerovate, Vivus and Janssen, and has 
+stock options with Vivus, Reviva and Genentech.
+
+
+4. Molecules. 2022 Feb 11;27(4):1212. doi: 10.3390/molecules27041212.
+
+Glucose/Ribitol Dehydrogenase and 16.9 kDa Class I Heat Shock Protein 1 as Novel 
+Wheat Allergens in Baker's Respiratory Allergy.
+
+Olivieri M(1), Spiteri G(1), Brandi J(2), Cecconi D(2), Fusi M(2), Zanoni G(3), 
+Rizzi C(2).
+
+Author information:
+(1)Unit of Occupational Medicine, Department of Diagnostic and Public Health, 
+University of Verona, 37134 Verona, Italy.
+(2)Department of Biotechnology, University of Verona, 37134 Verona, Italy.
+(3)Immunology Unit, University Hospital of Verona, 37135 Verona, Italy.
+
+Wheat allergens are responsible for symptoms in 60-70% of bakers with 
+work-related allergy, and knowledge, at the molecular level, of this disorder is 
+progressively accumulating. The aim of the present study is to investigate the 
+panel of wheat IgE positivity in allergic Italian bakers, evaluating a possible 
+contribution of novel wheat allergens included in the water/salt soluble 
+fraction. The water/salt-soluble wheat flour proteins from the Italian wheat 
+cultivar Bolero were separated by using 1-DE and 2-DE gel electrophoresis. 
+IgE-binding proteins were detected using the pooled sera of 26 wheat allergic 
+bakers by immunoblotting and directly recognized in Coomassie stained gel. After 
+a preparative electrophoretic step, two enriched fractions were furtherly 
+separated in 2-DE allowing for detection, by Coomassie, of three different 
+proteins in the range of 21-27 kDa that were recognized by the pooled baker's 
+IgE. Recovered spots were analyzed by nanoHPLC Chip tandem mass spectrometry 
+(MS/MS). The immunodetected spots in 2D were subjected to mass spectrometry (MS) 
+analysis identifying two new allergenic proteins: a glucose/ribitol 
+dehydrogenase and a 16.9 kDa class I heat shock protein 1. Mass spectrometer 
+testing of flour proteins of the wheat cultivars utilized by allergic bakers 
+improves the identification of until now unknown occupational wheat allergens.
+
+DOI: 10.3390/molecules27041212
+PMCID: PMC8875590
+PMID: 35209002 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+5. Curr Opin Allergy Clin Immunol. 2016 Aug;16(4):404-11. doi: 
+10.1097/ACI.0000000000000291.
+
+Doctor, when should I feed solid foods to my infant?
+
+Fiocchi A(1), Dahdah L, Bahna SL, Mazzina O, Assa'ad A.
+
+Author information:
+(1)aDivision of Allergy, University Department of Pediatrics, Pediatric Hospital 
+Bambino Gesù, Rome, Vatican City, Italy bAllergy and Immunology Section, 
+Louisiana State University Health Sciences Center, Shreveport, Louisiana 
+cDivision of Allergy and Immunology, Cincinnati Children's Medical Center, 
+Cincinnati, Ohio, USA.
+
+PURPOSE OF REVIEW: Modalities and timing of the introduction of solid foods to 
+infants may influence growth, obesity, atherosclerosis, hyperlipidemia, 
+hypertension, diabetes, and metabolic disease. The most debated effects of solid 
+foods introduction are those on the development of food allergy.
+RECENT FINDINGS: For the first time, in recent years prospective studies have 
+been published about the effects of early vs. delayed introduction of allergenic 
+foods into the infants' diet on food allergy. According to these studies, the 
+early introduction of peanut may be a powerful protecting factor against peanut 
+allergy in some risk categories. This seems not be true for wheat, cow's milk, 
+sesame, and whitefish. The effect of early introduction of egg on egg allergy 
+are controversial.
+SUMMARY: The recent studies have changed the practice recommendations given by 
+healthcare providers to families. We review the modifications of the 
+recommendations of international societies on the introduction of solid foods, 
+both to the general population and to infants at risk for allergy.
+
+DOI: 10.1097/ACI.0000000000000291
+PMID: 27327121 [Indexed for MEDLINE]
+
+
+6. Dig Dis Sci. 2014 Jun;59(6):1255-61. doi: 10.1007/s10620-013-2981-6. Epub 2013
+ Dec 28.
+
+Characteristics of patients who avoid wheat and/or gluten in the absence of 
+Celiac disease.
+
+Tavakkoli A(1), Lewis SK, Tennyson CA, Lebwohl B, Green PH.
+
+Author information:
+(1)Department of Medicine, Celiac Disease Center, Columbia University, 180 Fort 
+Washington Avenue, Suite 936, New York, NY, 10032, USA.
+
+Comment in
+    Dig Dis Sci. 2014 Jun;59(6):1080-2. doi: 10.1007/s10620-014-3083-9.
+
+BACKGROUND: Gastrointestinal symptoms that respond to the removal of wheat 
+and/or gluten are becoming more common. Patients who avoid wheat and/or gluten 
+(PWAWG) are a heterogeneous group and predominantly self-diagnosed prior to 
+presenting for clinical evaluation.
+SPECIFIC AIM: We characterized PWAWGs seen at a tertiary care referral center 
+and compared them to patients with celiac disease (CD) and subjects in the 
+National Health and Nutrition examination survey (NHANES).
+METHODS: This was a cross-sectional study evaluating patients seen by four 
+gastroenterologists at a CD referral center. Baseline characteristics, 
+laboratory values, and medical comorbidities were compared to CD patients who 
+presented at the same center and subjects enrolled in NHANES.
+RESULTS: Eighty-four PWAWGs were identified and compared to 585 CD patients and 
+2,686 NHANES patients. Thirty-two alternative diagnoses were made in 25 (30%) 
+PWAWGs, including small intestinal bacterial overgrowth and fructose/lactose 
+intolerance. When compared to patients with CD, PWAWGs had similar body mass 
+index (BMI, 23.1 vs. 23.5, p = 0.54) and mean hemoglobin value (13.4 vs. 13.3, p 
+= 0.6). When compared to male and female patients in NHANES, BMI, folate, and 
+mean hemoglobin values were lower in PWAWGs. Both male and female PWAWGs had a 
+lower prevalence of hypertension.
+CONCLUSION: While there are similarities between CD and PWAWGs that could 
+possibly be due to shared HLA haplotypes or an effect of the gluten-free diet, 
+alternative diagnoses are common in these patients. PWAWGs have a similar 
+cardiovascular profile as CD patients in terms of lower BMI and lower prevalence 
+of hypertension.
+
+DOI: 10.1007/s10620-013-2981-6
+PMID: 24374645 [Indexed for MEDLINE]
+
+
+7. Clin Exp Allergy. 2011 Jul;41(7):1031-43. doi:
+10.1111/j.1365-2222.2011.03766.x.  Epub 2011 May 31.
+
+A new approach to the isolation and characterization of wheat flour allergens.
+
+Sotkovský P(1), Sklenář J, Halada P, Cinová J, Setinová I, Kainarová A, Goliáš 
+J, Pavlásková K, Honzová S, Tučková L.
+
+Author information:
+(1)Institute of Microbiology, Academy of Sciences of Czech Republic, Prague, 
+Czech Republic. psotkovsky@gmail.com
+
+BACKGROUND: The incidence of food allergy to wheat is increasing. Its diagnosis 
+depends on the purity of major allergens and their inclusion in tests. Isolation 
+and characterization of wheat allergens are therefore of utmost importance.
+OBJECTIVE: To purify and identify wheat flour allergens most frequently 
+recognized by patients' IgE antibodies and to study their allergenicity.
+METHODS: Water/salt-soluble extracts from wheat flour were prepared and 
+separated using a combination of ultrafiltration, isoelectric focusing and 
+liquid chromatography. Purified proteins were analysed by immunoblotting using 
+pooled sera from patients with atopic dermatitis who possessed IgE specific to 
+wheat. Wheat proteins found to bind IgE were subsequently identified by 
+matrix-assisted laser desorption/ionisation-time of flight mass spectrometry. 
+The frequency and intensity of IgE binding of isolated proteins were tested 
+using individual sera from patients and controls.
+RESULTS: We developed a procedure that allows isolation of wheat allergens from 
+natural sources. Twenty-seven potential wheat allergens have been successfully 
+identified; of these, the following seven are newly reported in food allergy: 
+endogenous α-amylase/subtilisin inhibitor, trypsin/α-amylase inhibitor (AAI) 
+CMX1/CMX3, thaumatin-like protein (TLP), xylanase inhibitor protein-1, 
+β-glucosidase, class II chitinase and 26 kDa endochitinase. TLP and wheatwin 
+were shown to activate patients' basophils to a similar extent as two well-known 
+allergens, lipid transfer protein (Tri a 14) and AAI 0.19 (Tri a 28.0101).
+CONCLUSION AND CLINICAL RELEVANCE: Our new approach enables the isolation of 
+water/salt-soluble wheat allergens in their native form in amounts sufficient 
+both for biological testing (in vivo and in vitro) and for physicochemical 
+characterization. Such studies will lead to a more detailed knowledge of 
+allergenicity of wheat proteins and to improved accuracy of diagnostic tests.
+
+© 2011 Blackwell Publishing Ltd.
+
+DOI: 10.1111/j.1365-2222.2011.03766.x
+PMID: 21623965 [Indexed for MEDLINE]
+
+
+8. J Dermatol. 2007 Feb;34(2):110-3. doi: 10.1111/j.1346-8138.2006.00227.x.
+
+Food-dependent exercise-induced anaphylaxis with a high level of plasma 
+noradrenaline.
+
+Kato Y(1), Nagai A, Saito M, Ito T, Koga M, Tsuboi R.
+
+Author information:
+(1)Department of Dermatology, Tokyo Medical University, Tokyo, Japan. 
+y-kato@tokyo-med.ac.jp
+
+Ingesting certain foods sometimes triggers anaphylaxis when followed by exercise 
+(food-dependent exercise-induced anaphylaxis, FDEIA). Specific food-induced 
+mucocutaneous urticaria may also progress to anaphylaxis (oral allergy syndrome, 
+OAS). A positive skin test and/or radioallergosorbent test (RAST) to the foods 
+suggest involvement of immunoglobulin (Ig)E-anaphylaxis in both disorders. The 
+triggering foods and initial target organs are usually different in each case. 
+In the present study, a 32-year-old male reported dyspnea accompanied by wheals, 
+and symptoms of low blood pressure while walking after eating Chinese noodles 
+and donuts. He also reported uncomfortable sensations in his mouth and throat 
+after ingesting melon. Exercise challenge tests were administered. Serum 
+histamine, plasma adrenaline, noradrenaline and dopamine were measured pre- and 
+post-test. No symptoms were induced by exercise or by the ingestion of any 
+single food item before exercise. However, numerous wheals appeared when 
+exercise followed the combined ingestion of foods. Likewise, the sequence of 
+eating pancakes and then exercising resulted in numerous wheals and anaphylaxis. 
+Olopatadine hydrochloride and ketotifen fumarate completely inhibited this 
+anaphylaxis. The skin prick tests resulted in fruit-induced erythema and wheals. 
+The results of these tests with wheat, butter and sugar were negative, and no 
+symptoms were induced by the exercise test after ingestion of watermelon, melon 
+or apple. The anaphylactoid symptoms were accompanied by a significant increase 
+of plasma noradrenaline. In this case, not only wheat, but sugar and butter may 
+induce the onset of FDEIA. There was no significant correlation between the 
+intensity of the symptoms and the serum histamine levels in the present case. 
+Noradrenaline may be involved in the onset of FDEIA, since noradrenaline may 
+selectively inhibit T-helper (Th)1 functions while favoring Th2 responses. The 
+tests showed no cross-reactivity between the causative foods of OAS and FDEIA, 
+indicating that the mechanisms of onset are different between them.
+
+DOI: 10.1111/j.1346-8138.2006.00227.x
+PMID: 17239147 [Indexed for MEDLINE]
+
+
+9. Lancet. 1979 May 5;1(8123):966-9. doi: 10.1016/s0140-6736(79)91735-5.
+
+Food allergies and migraine.
+
+Grant EC.
+
+60 migraine patients completed elimination diets after a 5-day period of 
+withdrawal from their normal diet. 52 (87%) of these patients had been using 
+oral contraceptive steroids, tobacco, and/or ergotamine for an average of 3 
+years, 22 years, and 7.4 years respectively. The commonest foods causing 
+reactions were wheat (78%), orange (65%), eggs (45%), tea and coffee (40% each), 
+chocolate and milk (37%) each), beef (35%), and corn, cane sugar, and yeast (33% 
+each). When an average of ten common foods were avoided there was a dramatic 
+fall in the number of headaches per month, 85% of patients becoming 
+headache-free. The 25% of patients with hypertension became normotensive. 
+Chemicals in the home environment can make this testing difficult for 
+outpatients. Both immunological and non-immunological mechanisms may play a part 
+in the pathogenesis of migraine caused by food intolerance.
+
+DOI: 10.1016/s0140-6736(79)91735-5
+PMID: 87628 [Indexed for MEDLINE]

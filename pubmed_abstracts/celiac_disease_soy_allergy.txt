@@ -1,0 +1,599 @@
+1. Clin Nutr. 2025 May;48:134-143. doi: 10.1016/j.clnu.2025.03.026. Epub 2025 Apr
+ 5.
+
+Long term impact of formula choice in children with cow milk protein allergy: 
+6-year follow-up of the Atopic March Cohort Study.
+
+Nocerino R(1), Bedogni G(2), Carucci L(3), Aquilone G(4), Oglio F(3), Coppola 
+S(3), Masino A(3), Berni Canani R(5).
+
+Author information:
+(1)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy; ImmunoNutritionLab at CEINGE Advanced Biotechnologies, 
+University of Naples "Federico II", Naples, Italy; Department of Biomedicine and 
+Prevention, University of Rome "Tor Vergata", Rome, Italy. Electronic address: 
+rita.nocerino@unina.it.
+(2)Department of Medical and Surgical Sciences, Alma Mater Studiorum-University 
+of Bologna, Bologna, Italy; Department of Primary Health Care, Internal Medicine 
+Unit addressed to Frailty and Aging, "S. Maria delle Croci" Hospital, AUSL 
+Romagna, Ravenna, Italy.
+(3)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy; ImmunoNutritionLab at CEINGE Advanced Biotechnologies, 
+University of Naples "Federico II", Naples, Italy.
+(4)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy.
+(5)Department of Translational Medical Science, University of Naples "Federico 
+II", Naples, Italy; ImmunoNutritionLab at CEINGE Advanced Biotechnologies, 
+University of Naples "Federico II", Naples, Italy; European Laboratory for the 
+Investigation of Food-Induced Diseases, University of Naples "Federico II", 
+Naples, Italy; Task Force for Microbiome Studies, University of Naples "Federico 
+II", Naples, Italy.
+
+BACKGROUND AND AIMS: Cow's milk protein allergy (CMPA) is a significant health 
+issue in the pediatric age, carrying lifelong health implications. To compare 
+the impact of different formulas on the occurrence of other atopic 
+manifestations (AMs), autoimmune disorders (ADs) and the time of immune 
+tolerance acquisition in a population of children with immunoglobulin E 
+(IgE)-mediated cow CMPA.
+METHODS: In a 72-month prospective cohort study the occurrence of other AMs 
+(i.e., eczema, urticaria, asthma, and rhinoconjunctivitis), ADs (i.e., celiac 
+disease, thyroiditis, type 1 diabetes, inflammatory bowel diseases, idiopathic 
+juvenile arthritis) and the time of immune tolerance acquisition were 
+comparatively evaluated in IgE-mediated CMPA children treated with different 
+formulas: extensively hydrolyzed casein formula containing the probiotic 
+L. rhamnosus G (EHCF + LGG), rice hydrolyzed formula (RHF), soy formula (SF), 
+extensively hydrolyzed whey formula (EHWF), or amino-acid based formula (AAF).
+RESULTS: 313 subjects were evaluated: EHCF + LGG (n = 64), RHF(n = 62), 
+SF(n = 63), EHWF(n = 60) and AAF (n = 64). The incidence of AMs was: 
+0.30(Bonferroni-corrected 95%CI 0.15 to 0.44) for EHCF + LGG cohort, 0.68 
+(0.52-0.83) for RHF cohort, 0.73 (0.59-0.87) for SF cohort, 0.70 (0.55-0.85) for 
+EHWF cohort and 0.83 (0.71-0.95) for AAF cohort. The corresponding risk ratios 
+are 2.28 (1.51-3.45) for RHF vs. EHCF + LGG (p < 0.001), 2.46 (1.64-3.69) for SF 
+vs. EHCF + LGG (p < 0.001), 2.36 (1.56-3.56) for EHWF vs. EHCF + LGG 
+(p < 0.001), and 2.79 (1.88-4.13) for AAF vs. EHCF + LGG (p < 0.001). The 
+72-month immune tolerance acquisition rate was higher in the EHCF + LGG cohort. 
+The incidence of celiac disease was 2/313 (0.006, binomial exact 95%CI 0.0007 to 
+0.023). No cases of other ADs were reported.
+CONCLUSION: The dietary treatment with EHCF + LGG is associated with lower 
+incidence of AMs and higher rate of immune tolerance acquisition in children 
+with CMPA.
+
+Copyright © 2025 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.clnu.2025.03.026
+PMID: 40209535 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest Roberto Berni Canani have 
+had the following relevant financial relationships with the following 
+manufacturers: Biostime (research grant), Ch. Hansen (research grant, speaker), 
+DBV (research grant), Dr. Schar (research grant), Humana (research grant), 
+iHealth (research grant), Kraft-Heinz (research grant, speaker), Mead Johnson 
+Nutrition (research grant, speaker), Nestlè (research grant, speaker), Novalac 
+(research grant, speaker), Nutricia (research grant, speaker), Sanofi (research 
+grant, speaker) as part of publicly funded research projects with the support of 
+the Italian Ministry of Health, the Italian Ministry of the University and 
+Research, and the EU. The other authors declared that they have no conflicts of 
+interest.
+
+
+2. Sci Rep. 2025 Mar 31;15(1):10976. doi: 10.1038/s41598-025-95525-6.
+
+Presence of gluten and soy derived excipients in medicinal products and their 
+implications on allergen safety and labeling.
+
+Figueiredo A(1), Auxtero MD(2), Brás A(3), Casimiro A(3), Costa IM(2).
+
+Author information:
+(1)Egas Moniz Center for Interdisciplinary Research (CiiEM), Egas Moniz School 
+of Health & Science, Caparica, 2829-511, Almada, Portugal. 
+afigueiredo@egasmoniz.edu.pt.
+(2)Egas Moniz Center for Interdisciplinary Research (CiiEM), Egas Moniz School 
+of Health & Science, Caparica, 2829-511, Almada, Portugal.
+(3)Egas Moniz School of Health & Science, Caparica, 2829-511, Almada, Portugal.
+
+Gluten and soy allergies are significant health concerns, particularly in 
+individuals with celiac disease or soy sensitivity. While dietary sources of 
+these allergens are well-studied, their presence in medicinal products remains 
+under-explored. This study assessed the prevalence of gluten and soy-derived 
+excipients in 308 medicinal products authorized for marketing in Portugal. A 
+systematic search of the Summary of Product Characteristics (SmPC) database was 
+conducted for 108 analgesics and antipyretics containing paracetamol, 85 NSAIDs 
+containing ibuprofen, and 115 antiasthmatic and bronchodilator medicinal 
+products. The study found significant associations between pharmacotherapeutic 
+groups and the presence of these allergens (p < 0.001). Gluten was more 
+prevalent in the group of analgesics and antipyretics (44.4%) than in NSAIDs 
+(8.2%), whereas soy-derived excipients were more frequent in NSAIDs (14%) than 
+in analgesics and antipyretics (6.5%). No excipients containing gluten or soy 
+were identified in antiasthmatic and bronchodilator medicinal products. In 
+analgesics and antipyretics, 51.2% of solid oral dosage forms and 40% of liquid 
+oral formulations contained gluten. Within the NSAIDs group, gluten was mainly 
+present in liquid oral dosage forms (26.7%). Soy-derived excipients were found 
+in 30% of liquid oral formulations and in 33.3% of rectal dosage forms of 
+analgesics and antipyretics. In the NSAIDs group, soy was more prevalent in 
+liquid oral formulations (26.7%). These findings highlight the need for clearer 
+labeling of allergens in medicinal products and underscore the importance of 
+vigilance for patients with gluten or soy allergies. Further research is 
+required to address gaps in allergen disclosure by pharmaceutical manufacturers 
+and to promote safer medicinal product use for sensitive populations. Enhanced 
+awareness among healthcare providers and patients is essential to mitigate the 
+risk of allergic reactions associated with hidden excipients in medicinal 
+products.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-95525-6
+PMCID: PMC11958770
+PMID: 40164820 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+
+3. Front Allergy. 2024 Jun 13;5:1348769. doi: 10.3389/falgy.2024.1348769. 
+eCollection 2024.
+
+Symptoms and management of cow's milk allergy: perception and evidence.
+
+Robert E(1), Al-Hashmi HA(2), Al-Mehaidib A(3), Alsarraf K(4)(5), Al-Turaiki 
+M(6), Aldekhail W(7), Al-Herz W(8), Alkhabaz A(9), Bawakid KO(10), Elghoudi 
+A(11)(12), El Hodhod M(13), Hussain AA(14), Kamal NM(15), Goronfolah LT(16), 
+Nasrallah B(17), Sengupta K(18), Broekaert I(19), Domellöf M(20), Indrio F(21), 
+Lapillonne A(22)(23), Pienar C(24), Ribes-Koninckx C(25), Shamir R(26), 
+Szajewska H(27), Thapar N(28)(29)(30)(31), Thomassen RA(32), Verduci E(33), West 
+CE(20), Vandenplas Y(1).
+
+Author information:
+(1)UZ Brussel, KidZ Health Castle, Vrije Universiteit Brussel (VUB), Brussels, 
+Belgium.
+(2)Pediatric Department, King Abdulaziz Hospital, Jeddah, Saudi Arabia.
+(3)Department of Pediatrics, King Faisal Specialist Hospital & Research Center, 
+Riyadh, Saudi Arabia.
+(4)Department of Pediatric Gastroenterology and Hepatology, Al Amiri Hospital 
+(MOH), Kuwait City, Kuwait.
+(5)Department of Pediatric Gastroenterology and Hepatology, Dar Al Shefaa 
+Hospital (PVT), Hawally, Kuwait.
+(6)Department of Pediatrics, King Salman Hospital, Riyadh, Saudi Arabia.
+(7)Section of Gastroenterology and Hepatology, Department of Pediatrics, King 
+Faisal Specialist Hospital and 12 Research Centre, Riyadh, Saudi Arabia.
+(8)Department of Pediatrics, College of Medicine, Kuwait University, Kuwait 
+City, Kuwait.
+(9)Department of Pediatrics, Allergist & Clinical Immunology, Mubarak AlKabeer 
+Hospital, Jabriya, Kuwait.
+(10)Department of Pediatrics, MCH Hospital Jeddah, Jeddah, Saudi Arabia.
+(11)Sheikh Khalifa Medical City, Abu Dhabi, United Arab Emirates.
+(12)CMHS, UAE University, Abu Dhabi, United Arab Emirates.
+(13)Faculty of Medicine, Ain Shams University, Cairo, Egypt.
+(14)Department of Pediatrics, Al Adan and Al Salam International Hospitals, 
+Kuwait City, Kuwait.
+(15)Department of Pediatrics & Pediatric Hepatology, Kasr Alainy Faculty of 
+Medicine, Cairo University, Cairo, Egypt.
+(16)College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, 
+Jeddah, Saudi Arabia.
+(17)Department of Pediatrics, American Hospital Dubai, Dubai, United Arab 
+Emirates.
+(18)Department of Pediatrics, NMC Specialty Hospital, Dubai, United Arab 
+Emirates.
+(19)Department of Pediatrics, Faculty of Medicine and University Hospital 
+Cologne, University of Cologne, Cologne, Germany.
+(20)Department of Clinical Sciences, Pediatrics, Umeå University, Umeå, Sweden.
+(21)Department of Pediatric University of Salento, Lecce, Italy.
+(22)Neonatal Intensive Care Unit, Necker-EnfantsMalades Hospital, Paris 
+University, Paris, France.
+(23)CNRC, Department of Pediatrics, Baylor College of Medicine, Houston, TX, 
+United States.
+(24)Department of Pediatrics, "Victor Babes" University of Medicine and 
+Pharmacy, Timisoara, Romania.
+(25)Coeliac Disease and Gastrointestinal Immunopathology Research Unit, Hospital 
+La Fe Research Institute Valencia, Valencia, Spain.
+(26)Institute of Gastroenterology, Nutrition and Liver Diseases, Schneider 
+Children's Medical Center, Faculty of Medicine, Tel-Aviv University, Tel Aviv, 
+Israel.
+(27)Department of Pediatrics, The Medical University of Warsaw, Warsaw, Poland.
+(28)Department of Gastroenterology, Hepatology and Liver Transplant, Queensland 
+Children's Hospital, Brisbane, QLD, Australia.
+(29)School of Medicine, University of Queensland, Brisbane, QLD, Australia.
+(30)Woolworths Centre for Child Nutrition Research, Queensland University of 
+Technology, Brisbane, QLD, Australia.
+(31)Department of Pediatrics, UCL Great Ormond Street Institute of Child Health, 
+London, United Kingdom.
+(32)Division of Pediatric and Adolescent Medicine, Department of Pediatric 
+Medicine, Oslo University Hospital, Oslo, Norway.
+(33)Department of Pediatrics, Vittore Buzzi Children's Hospital University of 
+Milan, Milan, Italy.
+
+INTRODUCTION: The diagnosis and management of cow's milk allergy (CMA) is a 
+topic of debate and controversy. Our aim was to compare the opinions of expert 
+groups from the Middle East (n = 14) and the European Society of Paediatric 
+Gastroenterology, Hepatology and Nutrition (ESPGHAN) (n = 13).
+METHODS: These Expert groups voted on statements that were developed by the 
+ESPGHAN group and published in a recent position paper. The voting outcome was 
+compared.
+RESULTS: Overall, there was consensus amongst both groups of experts. Experts 
+agreed that symptoms of crying, irritability and colic, as single manifestation, 
+are not suggestive of CMA. They agreed that amino-acid based formula (AAF) 
+should be reserved for severe cases (e.g., malnutrition and anaphylaxis) and 
+that there is insufficient evidence to recommend a step-down approach. There was 
+no unanimous consensus on the statement that a cow's milk based extensively 
+hydrolysed formula (eHF) should be the first choice as a diagnostic elimination 
+diet in mild/moderate cases. Although the statements regarding the role for 
+hydrolysed rice formula as a diagnostic and therapeutic elimination diet were 
+accepted, 3/27 disagreed. The votes regarding soy formula highlight the 
+differences in opinion in the role of soy protein in CMA dietary treatment. 
+Generally, soy-based formula is seldom available in the Middle-East region. All 
+ESPGHAN experts agreed that there is insufficient evidence that the addition of 
+probiotics, prebiotics and synbiotics increase the efficacy of elimination diets 
+regarding CMA symptoms (despite other benefits such as decrease of infections 
+and antibiotic intake), whereas 3/14 of the Middle East group thought there was 
+sufficient evidence.
+DISCUSSION: Differences in voting are related to geographical, cultural and 
+other conditions, such as cost and availability. This emphasizes the need to 
+develop region-specific guidelines considering social and cultural conditions, 
+and to perform further research in this area.
+
+© 2024 Robert, Al-Hashmi, Al-Mehaidib, Al-Turaiki, Aldekhail, Al-Herz, Alkhabaz, 
+Bawakid, Elghoudi, El Hodhod, Hussain, Kamal, Goronfolah, Nasrallah, Sengupta, 
+Broekaert, Domellöf, Indrio, Lapillonne, Pienar, Ribes-Koninckx, Shamir, 
+Szajewska, Thapar, Thomassen, Verduci, West and Vandenplas.
+
+DOI: 10.3389/falgy.2024.1348769
+PMCID: PMC11216524
+PMID: 38952569
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The author(s) declared that 
+they were an editorial board member of Frontiers, at the time of submission. 
+This had no impact on the peer review process and the final decision.
+
+
+4. Gluten-Associated Medical Problems.
+
+Akhondi H(1), Ross AB(2).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 
+Jan–.
+2022 Oct 31.
+
+Author information:
+(1)University of Nevada
+(2)Michigan State University
+
+Gluten has been a topic of significant interest and research recently. It has 
+become a media darling over the past few years for a variety of medical and 
+non-medical reasons, and interest has led to a vast body of literature and 
+information that is occasionally confusing and misleading. This review 
+categorizes the diseases associated with gluten based on confirmed medical 
+facts. Gluten (from Latin gluten, meaning glue) is a composite of storage 
+proteins termed prolamins and glutelins that are stored together with starch in 
+various cereal (grass) grains. It is found in wheat, barley, rye, oat, related 
+species, hybrids (such as spelled Khorasan and emmer, among others), and their 
+products, such as malt. Gluten gives elasticity to dough, allowing for the puffy 
+and chewy texture. About 80% of the protein in bread wheat is gluten. Pasta has 
+a lesser degree of gluten. Imitation meats, beer, soy sauce, and occasionally, 
+ice cream and ketchup have gluten from the included stabilizing agents. 
+Contamination of other food products with gluten is also a common problem. Hair 
+products and cosmetics sometimes contain gluten, as well. Gluten is significant 
+for physicians since it has a spectrum of illnesses associated with it, for 
+example, gluten-sensitive enteropathy or celiac disease (CD), non-celiac gluten 
+sensitivity (NCGS), wheat or grain allergy, gluten ataxia, and dermatitis 
+herpetiformis (DH). History Aretaeus Cappadocia described a non-specific entity 
+termed koiliakos in 250 AD. Koelia is Greek for the abdomen. Francis Adams 
+translated this to English in 1856, using the term Coeliacs or celiacs. Samuel 
+Gee famously said in 1888 that "to regulate the food is the main part of the 
+treatment"  and that "if the patient can be cured at all, it must be by means of 
+diet." Carnegie Brown published a book in 1908 that described peripheral 
+neuritis in patients with CD. The book also discussed "sprue" and ataxia, but 
+this was hard to prove since the actual diagnosis could not be confirmed with 
+certainty. Second World War II led to devastation and famine across the world. 
+Most people suffered from malnutrition and illnesses, but the subgroup with 
+celiac improved and felt better. Dutch Pediatrician Willem-Karel Dicke noted 
+that mortality from the disease decreased from 30% pre-war to a lesser figure, 
+which was reversed after the war. His papers were some of the first that 
+mentioned the effect of a wheat-free diet on children. Eventually, small bowel 
+biopsy methods were developed in the 1950s and 1960s, and diagnosis could be 
+confirmed. In 1961, Taylor published an immunological study and linked the 
+disease to circulating antibodies. Although it was initially thought to be a 
+food allergy, the autoimmune theory was accepted, and HLA-DQ2 was linked to it. 
+In 1966, enteropathy was noted in 9 of 12 patients with dermatitis 
+herpetiformis. In the same year, it was noted that CD was associated with many 
+neurological disorders. In the 1980s, the journal Gastroenterology coined 
+“non-celiac gluten sensitivity.” This disease was very prevalent in Europe but 
+not so much in the United States. Alessio Fasano, who treated celiac patients in 
+Europe, moved to Boston to work at Massachusetts General Hospital and found that 
+it was a prevalent disease in the United States as well. His 2003 article in 
+the Journal of American Medical Association started a process of recognizing the 
+disease and paved the way for many more studies on the subject. Studies in the 
+2000s and 2010s linked the disease to almost everything. Gluten was quickly 
+vilified. The Food and Drug Administration (FDA) started requiring the labeling 
+of gluten-free products in 2013. Gluten-free mania ballooned the related global 
+industry to a $3.5 billion per year figure with a forecast of $4.7 billion in 
+2020. Gluten-free pizza, cookbooks, apps, and restaurants have mushroomed 
+rapidly since.
+
+Copyright © 2025, StatPearls Publishing LLC.
+
+PMID: 30860740
+
+Conflict of interest statement: Disclosure: Hossein Akhondi declares no relevant 
+financial relationships with ineligible companies. Disclosure: Albert Ross 
+declares no relevant financial relationships with ineligible companies.
+
+
+5. J Clin Med. 2022 Jul 13;11(14):4047. doi: 10.3390/jcm11144047.
+
+Down Syndrome in FPIES: An Overwhelming and Unexpected Prevalence.
+
+Pecora V(1), Mennini M(1), Valluzzi R(1), Fierro V(1), Villani A(2), Valentini 
+D(2), Fiocchi A(1).
+
+Author information:
+(1)Translational Research in Pediatric Specialities Area, Division of Allergy, 
+Bambino Gesù Children's Hospital, Istituto di Ricovero e Cura a Carattere 
+Scientifico, Piazza Sant'Onofrio, 4, 00165 Rome, Italy.
+(2)Pediatric Unit, Pediatric Emergency Department (DEA), Bambino Gesù Children's 
+Hospital, Istituto di Ricovero e Cura a Carattere Scientifico, Piazza 
+Sant'Onofrio, 4, 00165 Rome, Italy.
+
+Down syndrome (DS) is one of the most common chromosomal anomalies. 
+Gastrointestinal disorders in DS are predominantly related to anatomical 
+anomalies and celiac disease. In 2015, the first two cases of non-IgE-mediated 
+food allergy in patients with DS were described. However, gastrointestinal 
+symptoms experienced by subjects with DS have never been related to a possible 
+non-IgE-mediated food allergy and a Food Protein-induced Enterocolitis syndrome 
+(FPIES). A retrospective descriptive single-center study was conducted. Subjects 
+included were children with acute FPIES who entered our institutional follow-up 
+protocol between January 2013 and January 2020. Among the 85 patients 
+(forty-nine boys-57.6%), ten (11.76%) were children with DS. In our population, 
+the FPIES triggers included different foods (such as milk, egg, fruit, fish, 
+wheat, soy, beef, etc.). Nine patients with DS showed FPIES reactions after 
+ingesting cow's milk (one even with beef and three with soy), while the last one 
+was affected by FPIES to fish. Considering the subgroup of patients affected by 
+cow's milk FPIES (40 subjects overall), 22.5% had a diagnosis of DS. Patients 
+with DS experienced acute FPIES reactions with a severity degree slightly higher 
+than that reported in other patients, ranging from mild-moderate to severe or 
+very severe. During the acute reactions, the patients with DS showed increased 
+white blood cell production, absolute neutrophil count and C-reactive protein 
+levels. This series provides a starting point for novel hypothesis-testing 
+clinical research and possible specific immunological alterations in FPIES 
+children with or without DS.
+
+DOI: 10.3390/jcm11144047
+PMCID: PMC9319921
+PMID: 35887811
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+6. J Food Biochem. 2022 Sep;46(9):e14185. doi: 10.1111/jfbc.14185. Epub 2022 Apr 
+19.
+
+New alternatives from sustainable sources to wheat in bakery foods: Science, 
+technology, and challenges.
+
+Siddiqui SA(1)(2), Mahmud MMC(3), Abdi G(4), Wanich U(5), Farooqi MQU(6), 
+Settapramote N(7), Khan S(8), Wani SA(9).
+
+Author information:
+(1)Technical University of Munich Campus Straubing for Biotechnology and 
+Sustainability, Straubing, Germany.
+(2)German Institute of Food Technologies (DIL e.V.), Quakenbrück, Germany.
+(3)CASS Food Research Centre, School of Exercise and Nutrition Sciences, Deakin 
+University, Geelong, Victoria, Australia.
+(4)Department of Biotechnology, Persian Gulf Research Institute, Persian Gulf 
+University, Bushehr, Iran.
+(5)Department of Home Economics, Rambhaibarni Rahjabhat University, Chanthaburi, 
+Thailand.
+(6)School of Agriculture and Environment, The University of Western Australia, 
+Perth, Western Australia, Australia.
+(7)Department Of Agro-Industry, RaJamangala University of Technology Isan Surin 
+Campus, Nogmuang, Surin, Thailand.
+(8)Institute of Agricultural Engineering, Tropics and Subtropics Group, 
+University of Hohenheim, Stuttgart, Germany.
+(9)Department of Food Technology, Islamic University of Science and Technology, 
+Awantipora, India.
+
+Ongoing research in the food industry is striving to replace wheat flour with 
+new alternatives from sustainable sources to overcome the disease burden in the 
+existing population. Celiac disease, wheat allergy, gluten sensitivity, or 
+non-celiac gluten sensitivity are some common disorders associated with gluten 
+present in wheat. These scientific findings are crucial to finding appropriate 
+alternatives in introducing new ingredients supporting the consumer's 
+requirements. Among the alternatives, amaranth, barley, coconut, chestnut, 
+maize, millet, teff, oat, rye, sorghum, soy, rice flour, and legumes could be 
+considered appropriate due to their chemical composition, bioactive profile, and 
+alternatives utilization in the baking industry. Furthermore, the enrichment of 
+these alternatives with proper ingredients is considered effective. Literature 
+demonstrated that the flours from these alternative sources significantly 
+enhanced the physicochemical, pasting, and rheological properties of the doughs. 
+These flours boost a significant reduction in gluten proteins associated with 
+food intolerance, in comparison with wheat highlighting a visible market 
+opportunity with nutritional and organoleptic benefits for food producers. 
+PRACTICAL APPLICATIONS: New alternatives from sustainable sources to wheat in 
+bakery foods as an approach that affects human health. Alternatives from 
+sustainable sources are important source of nutrients and bioactive compounds. 
+Alternatives from sustainable sources are rising due to nutritional and consumer 
+demand in bakery industry. New alternatives from sustainable sources improve 
+physicochemical, pasting, and rheological properties of dough. Non-wheat-based 
+foods from non-traditional grains have a potential to increase consumer market 
+acceptance.
+
+© 2022 Wiley Periodicals LLC.
+
+DOI: 10.1111/jfbc.14185
+PMID: 35441405 [Indexed for MEDLINE]
+
+
+7. Heliyon. 2021 Jan 28;7(1):e06052. doi: 10.1016/j.heliyon.2021.e06052. 
+eCollection 2021 Jan.
+
+Gluten free rice-soy pasta: proximate composition, textural properties and 
+sensory attributes.
+
+Bolarinwa IF(1), Oyesiji OO(1).
+
+Author information:
+(1)Department of Food Science, Faculty of Food and Consumer Sciences, Ladoke 
+Akintola University of Technology (LAUTECH), P.M.B. 4000, Ogbomoso, Nigeria.
+
+Recent increase in gluten allergy has led to high demand for gluten free 
+products such as rice pasta. Although rice grains are rich in bioactive 
+compounds and B vitamins, they are generally low in protein compared to wheat 
+grains. The aim of this study was to determine the quality attributes of soy 
+enriched rice pasta. Five Rice-soy pastas were produced from different blends 
+(10-30%) of soybean flour and rice flour. The proximate composition, cooking 
+quality, colour, texture profile, and sensory attributes of the pastas were 
+determined. Results showed increased in protein (6.7-12.1%), crude fibre 
+(0.8-1.3%), ash (0.6-2.2%) and energy values (379-389 kcal/100g). Fortification 
+improved the colour, reduce cooking time (15.59-15.11 min) but increased cooking 
+loss (7.30-7.49%). The hardness (506-314 g), springiness (1.25-0.71 mm) and 
+chewiness (417-334 g x mm) values decreased while gumminess (417-334 g) 
+increased. Rice pasta enriched with 15% soybean flour was highly ranked for 
+sensory attributes. In conclusion, this study demonstrated that Rice-soy pasta 
+can serve as nutritious alternative to conventional rice pasta, and also add 
+variety to food groups for people suffering from celiac disease.
+
+© 2021 Published by Elsevier Ltd.
+
+DOI: 10.1016/j.heliyon.2021.e06052
+PMCID: PMC7848634
+PMID: 33553740
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+8. J Pediatr Gastroenterol Nutr. 2019 Aug;69(2):e43-e48. doi: 
+10.1097/MPG.0000000000002343.
+
+Pediatric Celiac Disease and Eosinophilic Esophagitis: Outcome of Dietary 
+Therapy.
+
+Patton T(1), Chugh A(2), Padhye L(3), DeGeeter C(4), Guandalini S(1).
+
+Author information:
+(1)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Comer 
+Children's Hospital, University of Chicago Medical Center, Chicago, IL.
+(2)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Medical 
+College of Wisconsin, Milwaukee, WI.
+(3)Division of Allergy and Immunology, Rush University Medical Center, Chicago, 
+IL.
+(4)Section of Pediatric Gastroenterology, Hepatology, and Nutrition, Stead 
+Family Children's Hospital, University of Iowa, Iowa City, IA.
+
+OBJECTIVE: The coexistence of celiac disease (CeD) and eosinophilic esophagitis 
+(EoE) in pediatric patients has been increasingly recognized. In the current 
+study, we have aimed to assess the outcomes of therapeutic dietary interventions 
+in a cohort of pediatric patients with CeD and EoE.
+METHODS: Pediatric patient records obtained from the University of Chicago 
+Celiac Center Database from August 2008 to July 2013 were reviewed. Information 
+was collected on patients with concomitant CeD and EoE regarding age, sex, dates 
+of diagnoses, presenting symptoms, length of symptoms before diagnosis, familial 
+and personal atopic history, dietary therapy, and esophageal histologic response 
+to dietary therapy.
+RESULTS: A total of 350 records of patients with CeD were reviewed. Twenty-two 
+(6.3%) had a confirmed diagnosis of CeD and EoE, 17 had repeat biopsies. Four of 
+17 (23.5%) had resolution of esophageal eosinophilia on an exclusive gluten-free 
+diet, 10 of 17 (59%) required additional eliminations to show histologic 
+resolution, 1 of 17 (6%) had not reached histological remission, and 2 of 17 
+(12%) were lost to follow-up. Success rates of single food reintroductions were: 
+soy 5 of 5 (100%), eggs 3 of 5 (60%), dairy 3 of 7 (43%), nuts 2 of 4 (50%), and 
+fish 2 of 4 (50%).
+CONCLUSIONS: To our knowledge, this is the largest pediatric study to assess the 
+histologic outcome of EoE-associated esophageal eosinophilia in response to 
+dietary management of pediatric patients with concomitant CeD and EoE. We 
+demonstrate that soy is well tolerated in this cohort, and suggest that 
+reintroducing this food first, or trialing a soy-inclusive elimination diet is a 
+viable strategy.
+
+DOI: 10.1097/MPG.0000000000002343
+PMID: 30921260 [Indexed for MEDLINE]
+
+
+9. Allergy Asthma Clin Immunol. 2018 Sep 12;14(Suppl 2):56. doi: 
+10.1186/s13223-018-0285-2. eCollection 2018.
+
+Non-IgE-mediated food hypersensitivity.
+
+Connors L(1), O'Keefe A(2), Rosenfield L(3)(4), Kim H(5)(4).
+
+Author information:
+(1)1Dalhousie University, Halifax, NS Canada.
+(2)2Memorial University, St. John's, NL Canada.
+(3)3University of Manitoba, Winnipeg, MB Canada.
+(4)5McMaster University, Hamilton, ON Canada.
+(5)4Western University, London, ON Canada.
+
+Non-immunoglobulin E (IgE)-mediated food hypersensitivity includes a spectrum of 
+disorders that predominantly affect the gastrointestinal tract. This review will 
+focus on the following more common non-IgE-mediated food hypersensitivity 
+syndromes: food protein-induced enterocolitis syndrome (FPIES), allergic 
+proctocolitis (AP), food protein-induced enteropathy (FPE) and celiac disease. 
+FPIES, AP and FPE typically present in infancy and are most commonly triggered 
+by cow's milk protein or soy. The usual presenting features are profuse emesis 
+and dehydration in FPIES; blood-streaked and mucousy stools in AP; and 
+protracted diarrhea with malabsorption in FPE. Since there are no confirmatory 
+noninvasive diagnostic tests for most of these disorders, the diagnosis is based 
+on a convincing history and resolution of symptoms with food avoidance. The 
+mainstay of management for FPIES, AP and FPE is avoidance of the suspected 
+inciting food, with periodic oral food challenges to assess for resolution, 
+which generally occurs in the first few years of life. Celiac disease is an 
+immune-mediated injury caused by the ingestion of gluten that leads to villous 
+atrophy in the small intestine in genetically susceptible individuals. Serologic 
+tests and small intestinal biopsy are required to confirm the diagnosis of 
+celiac disease, and management requires life-long adherence to a strict 
+gluten-free diet.
+
+DOI: 10.1186/s13223-018-0285-2
+PMCID: PMC6157279
+PMID: 30275846
+
+
+10. J Dev Behav Pediatr. 2017 Jan;38(1):79-80. doi: 10.1097/DBP.0000000000000362.
+
+Autism Spectrum Disorder and Avoidant/Restrictive Food Intake Disorder.
+
+Lucarelli J(1), Pappas D, Welchons L, Augustyn M.
+
+Author information:
+(1)*Developmental Medicine Center, Boston Children's Hospital, Harvard Medical 
+School, Boston, MA; †The Kelberman Center, Utica, NY; ‡Division of Developmental 
+and Behavioral Pediatrics, Boston Medical, Boston University School of Medicine, 
+Boston, MA.
+
+Kendra is a 4-year-old girl with autism spectrum disorder (ASD) who presents for 
+follow-up of feeding problems to her pediatric clinician. She is an only child 
+in a family where both parents are scientists. Feeding concerns date to infancy, 
+when she was diagnosed with Gastroesophageal Reflux Disease (GERD) associated 
+with persistent bottle refusal and the acceptance of few pureed foods. At 13 
+months, milk and peanut allergies were diagnosed. Following a feeding clinic 
+evaluation at 24 months, she was prescribed a soy milk supplement and an H2 
+blocker. There was no concern for oral-motor dysfunction. She was also referred 
+to early intervention for feeding therapy. However, her parents terminated 
+participation after 6 months because she became anxious and had tantrum prior to 
+treatment groups.She was seen in another feeding program at 3 years; zinc, 
+folate, thyroid, and a celiac panel were normal, and an endoscopy was negative 
+for eosinophilic esophagitis. She began individual feeding therapy, where 
+concerns for rigidity, difficulty transitioning, and limited peer interactions 
+led to a neuropsychological evaluation. Kendra was diagnosed with an ASD and 
+avoidant/restrictive food intake disorder (ARFID). Her cognitive skills were 
+average, and expressive and receptive language skills were low average.Her diet 
+consisted of French fries, Ritz crackers, pretzels, and 32 ounces of soy formula 
+daily. She had stopped accepting Cheerios and saltines 2 months prior. She 
+controlled other aspects of feeding, insisting on a specific parking spot at a 
+fast food restaurant and drinking from a particular sippy cup. Her parents 
+accepted these demands with concern about her caloric intake, which they tracked 
+daily.Following diagnosis with ARFID, she resumed feeding therapy using a 
+systematic desensitization approach with rewards. At the first session, she 
+kissed and licked 2 new foods without gagging. Her mother appeared receptive to 
+recommendations that included continuing the "food game" at home, replacing 1 
+ounce of soy formula by offering water each day, limiting between-meal grazing, 
+and refusing specific feeding demands.Currently, her parents plan to discontinue 
+feeding therapy with concerns that the treatment was "too harsh." Her father 
+produces logs of her caloric and micronutrient intake as evidence that she did 
+not replace missed formula with other foods and reports that she subsequently 
+became more difficult to manage behaviorally. Her father now demands to see 
+randomized controlled trials of feeding therapy approaches. Her weight is 
+stable, but she has now limited her pretzel intake to a specific brand. How 
+would you approach her continued care?
+
+DOI: 10.1097/DBP.0000000000000362
+PMID: 27824638 [Indexed for MEDLINE]
